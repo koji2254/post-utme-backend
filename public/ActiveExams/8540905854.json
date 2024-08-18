@@ -1,0 +1,1619 @@
+{
+    "exam_id": 8540905854,
+    "questions": [
+        {
+            "subject": "ENGLISH LANGUAGE",
+            "questions": [
+                {
+                    "question_id": 394849344,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "Who invented the telegraph?",
+                    "options": [
+                        "Alexander Graham Bell",
+                        "Samuel Morse",
+                        "Thomas Edison",
+                        "Nikola Tesla"
+                    ],
+                    "answer_value": "Samuel Morse"
+                },
+                {
+                    "question_id": 48899389,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "What did the invention of the telegraph pave the way for?",
+                    "options": [
+                        "The internet",
+                        "The radio",
+                        "The telephone",
+                        "The television"
+                    ],
+                    "answer_value": "The telephone"
+                },
+                {
+                    "question_id": 590909090,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "Which 20th-century developments brought news and entertainment into homes worldwide?",
+                    "options": [
+                        "The telegraph and the internet",
+                        "The radio and the telephone",
+                        "The television and the telegraph",
+                        "The radio and the television"
+                    ],
+                    "answer_value": "The radio and the television"
+                },
+                {
+                    "question_id": 678799049,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "What is the most significant advancement in communication technology mentioned in the passage?",
+                    "options": [
+                        "The telegraph",
+                        "The telephone",
+                        "The internet",
+                        "The television"
+                    ],
+                    "answer_value": "The internet"
+                },
+                {
+                    "question_id": 798393834,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "What emerging technologies are enhancing our ability to process and analyze data?",
+                    "options": [
+                        "The telegraph and the telephone",
+                        "Radio and television",
+                        "Artificial intelligence and machine learning",
+                        "The internet and the telephone"
+                    ],
+                    "answer_value": "Artificial intelligence and machine learning"
+                },
+                {
+                    "question_id": 494849344,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "What is coral bleaching and how does it affect marine ecosystems?",
+                    "options": [
+                        "It is a process where corals change color naturally, enhancing biodiversity.",
+                        "It is the expulsion of symbiotic algae from corals, leading to the death of the coral and affecting marine life dependent on reefs.",
+                        "It is the process where corals gain more algae, increasing their growth and the surrounding marine life.",
+                        "It is the phenomenon where corals harden due to increased calcium carbonate, strengthening the reefs."
+                    ],
+                    "answer_value": "It is the expulsion of symbiotic algae from corals, leading to the death of the coral and affecting marine life dependent on reefs."
+                },
+                {
+                    "question_id": 58899389,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "How does ocean acidification impact marine organisms?",
+                    "options": [
+                        "It increases the availability of carbonate ions, enhancing the growth of calcium carbonate structures.",
+                        "It reduces the availability of carbonate ions, impairing the growth and survival of organisms that rely on calcium carbonate structures.",
+                        "It has no significant impact on marine organisms as they adapt quickly.",
+                        "It reduces the oxygen levels in the water, causing marine organisms to suffocate."
+                    ],
+                    "answer_value": "It reduces the availability of carbonate ions, impairing the growth and survival of organisms that rely on calcium carbonate structures."
+                },
+                {
+                    "question_id": 690909090,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "What is one of the effects of the melting polar ice caps and glaciers?",
+                    "options": [
+                        "Decreased erosion of coastal habitats",
+                        "Increased availability of marine biodiversity",
+                        "Rising sea levels threatening coastal habitats and human settlements",
+                        "Stabilization of ocean currents and temperatures"
+                    ],
+                    "answer_value": "Rising sea levels threatening coastal habitats and human settlements"
+                },
+                {
+                    "question_id": 778799049,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "How can changes in ocean currents and temperatures affect marine species?",
+                    "options": [
+                        "By ensuring stable habitats and improving biodiversity",
+                        "By altering their distribution and behavior, leading to shifts in marine biodiversity and potential fisheries collapse",
+                        "By reducing the overall biodiversity of terrestrial ecosystems",
+                        "By decreasing the levels of atmospheric carbon dioxide"
+                    ],
+                    "answer_value": "By altering their distribution and behavior, leading to shifts in marine biodiversity and potential fisheries collapse"
+                },
+                {
+                    "question_id": 898393834,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "What are some efforts mentioned in the passage to mitigate the impact of climate change on marine ecosystems?",
+                    "options": [
+                        "Increasing greenhouse gas emissions and constructing more coastal settlements",
+                        "Reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices",
+                        "Enhancing ocean acidification and encouraging overfishing",
+                        "Melting polar ice caps and altering ocean currents"
+                    ],
+                    "answer_value": "Reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices"
+                },
+                {
+                    "question_id": 294849344,
+                    "comprehension_title": "The Legacy of Ancient Civilizations",
+                    "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today\u2019s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+                    "question_value": "What is one architectural achievement of the Egyptians mentioned in the passage?",
+                    "options": [
+                        "The Colosseum",
+                        "The Great Wall",
+                        "The Pyramids",
+                        "The Parthenon"
+                    ],
+                    "answer_value": "The Pyramids"
+                },
+                {
+                    "question_id": 38899389,
+                    "comprehension_title": "The Legacy of Ancient Civilizations",
+                    "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today\u2019s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+                    "question_value": "Which Greek philosopher is NOT mentioned in the passage?",
+                    "options": [
+                        "Socrates",
+                        "Plato",
+                        "Aristotle",
+                        "Pythagoras"
+                    ],
+                    "answer_value": "Pythagoras"
+                },
+                {
+                    "question_id": 490909090,
+                    "comprehension_title": "The Legacy of Ancient Civilizations",
+                    "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today\u2019s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+                    "question_value": "How did ancient astronomers contribute to modern society?",
+                    "options": [
+                        "By inventing the telescope",
+                        "By charting the stars and developing calendars",
+                        "By establishing astrology as a science",
+                        "By discovering new planets"
+                    ],
+                    "answer_value": "By charting the stars and developing calendars"
+                },
+                {
+                    "question_id": 578799049,
+                    "comprehension_title": "The Legacy of Ancient Civilizations",
+                    "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today\u2019s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+                    "question_value": "Which field of study did the Greeks significantly advance, as mentioned in the passage?",
+                    "options": [
+                        "Chemistry",
+                        "Biology",
+                        "Geometry",
+                        "Psychology"
+                    ],
+                    "answer_value": "Geometry"
+                },
+                {
+                    "question_id": 698393834,
+                    "comprehension_title": "The Legacy of Ancient Civilizations",
+                    "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today\u2019s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+                    "question_value": "What aspect of Roman civilization has had a lasting impact on global legal systems?",
+                    "options": [
+                        "Their military tactics",
+                        "Their agricultural practices",
+                        "Their codification of laws",
+                        "Their religious rituals"
+                    ],
+                    "answer_value": "Their codification of laws"
+                },
+                {
+                    "question_id": 8237465538214,
+                    "question_value": "She was known for her _____ ability to solve complex mathematical problems.",
+                    "options": [
+                        "innate",
+                        "mediocre",
+                        "rudimentary",
+                        "acquired"
+                    ],
+                    "answer_value": "innate"
+                },
+                {
+                    "question_id": 8237483433243,
+                    "question_value": "Identify the figure of speech: 'She sells seashells by the seashore.'",
+                    "options": [
+                        "Alliteration",
+                        "Simile",
+                        "Metaphor",
+                        "Hyperbole"
+                    ],
+                    "answer_value": "Alliteration"
+                },
+                {
+                    "question_id": 82374843192,
+                    "question_value": "Which word is a synonym for 'loquacious'?",
+                    "options": [
+                        "Taciturn",
+                        "Garrulous",
+                        "Reticent",
+                        "Pithy"
+                    ],
+                    "answer_value": "Garrulous"
+                },
+                {
+                    "question_id": 125543789,
+                    "question_value": "Which word means 'a synonym for quick'?",
+                    "options": [
+                        "Slow",
+                        "Fast",
+                        "Run",
+                        "Quickly"
+                    ],
+                    "answer_value": "Fast"
+                },
+                {
+                    "question_id": 982247231,
+                    "question_value": "Which sentence is in the future tense?",
+                    "options": [
+                        "She is going to school.",
+                        "She went to school.",
+                        "She will go to school.",
+                        "She goes to school."
+                    ],
+                    "answer_value": "She will go to school."
+                },
+                {
+                    "question_id": 823748567215,
+                    "question_value": "The committee's decision was _____ by the recent changes in the law.",
+                    "options": [
+                        "complicated",
+                        "facilitated",
+                        "obstructed",
+                        "inspired"
+                    ],
+                    "answer_value": "facilitated"
+                },
+                {
+                    "question_id": 9876543210,
+                    "question_value": "In the phrase 'break the ice,' what does 'break the ice' metaphorically mean?",
+                    "options": [
+                        "To start a conversation",
+                        "To overcome shyness",
+                        "To build a friendship",
+                        "To resolve a conflict"
+                    ],
+                    "answer_value": "To overcome shyness"
+                },
+                {
+                    "question_id": 833323748219,
+                    "question_value": "Despite their _____ efforts, the team was unable to secure the championship.",
+                    "options": [
+                        "superficial",
+                        "arduous",
+                        "half-hearted",
+                        "apathetic"
+                    ],
+                    "answer_value": "arduous"
+                },
+                {
+                    "question_id": 82374824350,
+                    "question_value": "Identify the figure of speech: 'It was so cold, even the polar bears were wearing jackets.'",
+                    "options": [
+                        "Hyperbole",
+                        "Simile",
+                        "Metaphor",
+                        "Personification"
+                    ],
+                    "answer_value": "Hyperbole"
+                },
+                {
+                    "question_id": 823748545196,
+                    "question_value": "Identify the word that does not belong in the group: 'omniscient, omnipotent, omnipresent, omnivorous'.",
+                    "options": [
+                        "Omniscient",
+                        "Omnipotent",
+                        "Omnipresent",
+                        "Omnivorous"
+                    ],
+                    "answer_value": "Omnivorous"
+                },
+                {
+                    "question_id": 823746678230,
+                    "question_value": "His speech was full of _____ intended to _____ the audience.",
+                    "options": [
+                        "clarity, enlighten",
+                        "equivocations, mislead",
+                        "honesty, convince",
+                        "transparency, assure"
+                    ],
+                    "answer_value": "equivocations, mislead"
+                },
+                {
+                    "question_id": 32324525,
+                    "question_value": "Which word is an adjective?",
+                    "options": [
+                        "Run",
+                        "Blue",
+                        "Quickly",
+                        "She"
+                    ],
+                    "answer_value": "Blue"
+                },
+                {
+                    "question_id": 23223457849,
+                    "question_value": "Which sentence is in the past tense?",
+                    "options": [
+                        "She is eating.",
+                        "She eats.",
+                        "She will eat.",
+                        "She ate."
+                    ],
+                    "answer_value": "She ate."
+                },
+                {
+                    "question_id": 8237486453231,
+                    "question_value": "The politician's _____ promises did little to gain the _____ of the voters.",
+                    "options": [
+                        "vague, trust",
+                        "concrete, support",
+                        "explicit, doubt",
+                        "detailed, loyalty"
+                    ],
+                    "answer_value": "vague, trust"
+                },
+                {
+                    "question_id": 823748256734,
+                    "question_value": "The _____ behavior of the new recruit _____ the senior staff members.",
+                    "options": [
+                        "recalcitrant, angered",
+                        "submissive, impressed",
+                        "insubordinate, annoyed",
+                        "erratic, baffled"
+                    ],
+                    "answer_value": "submissive, impressed"
+                },
+                {
+                    "question_id": 823748876218,
+                    "question_value": "The _____ of the project was evident in the meticulous planning and execution.",
+                    "options": [
+                        "haphazardness",
+                        "complexity",
+                        "simplicity",
+                        "chaos"
+                    ],
+                    "answer_value": "complexity"
+                },
+                {
+                    "question_id": 1835242749,
+                    "question_value": "What is the correct plural of 'child'?",
+                    "options": [
+                        "Childs",
+                        "Children",
+                        "Childes",
+                        "Childrens"
+                    ],
+                    "answer_value": "Children"
+                },
+                {
+                    "question_id": 4356219801,
+                    "question_value": "What is the central idea of a text?",
+                    "options": [
+                        "The main topic or message of the text",
+                        "The setting of the story",
+                        "The characters involved in the story",
+                        "The plot of the story"
+                    ],
+                    "answer_value": "The main topic or message of the text"
+                },
+                {
+                    "question_id": 8237482566412,
+                    "question_value": "The author's use of _____ language added depth to the narrative.",
+                    "options": [
+                        "colloquial",
+                        "pedestrian",
+                        "laconic",
+                        "ornate"
+                    ],
+                    "answer_value": "ornate"
+                },
+                {
+                    "question_id": 9842335123,
+                    "question_value": "Which word is a verb?",
+                    "options": [
+                        "Quickly",
+                        "Run",
+                        "Blue",
+                        "House"
+                    ],
+                    "answer_value": "Run"
+                },
+                {
+                    "question_id": 342781,
+                    "question_value": "Which word is a homophone for 'to'?",
+                    "options": [
+                        "Too",
+                        "Two",
+                        "Toe",
+                        "Both A and B"
+                    ],
+                    "answer_value": "Both A and B"
+                },
+                {
+                    "question_id": 5545632421,
+                    "question_value": "Which word is a synonym of 'happy'?",
+                    "options": [
+                        "Sad",
+                        "Joyful",
+                        "Angry",
+                        "Bored"
+                    ],
+                    "answer_value": "Joyful"
+                },
+                {
+                    "question_id": 34128654478,
+                    "question_value": "Which word is a noun?",
+                    "options": [
+                        "Run",
+                        "Happy",
+                        "House",
+                        "Quickly"
+                    ],
+                    "answer_value": "House"
+                },
+                {
+                    "question_id": 654434321,
+                    "question_value": "What is the subject in the sentence: 'The cat sat on the mat.'?",
+                    "options": [
+                        "The",
+                        "Cat",
+                        "Sat",
+                        "Mat"
+                    ],
+                    "answer_value": "Cat"
+                },
+                {
+                    "question_id": 823778748240,
+                    "question_value": "Identify the figure of speech: 'He is as cunning as a fox.'",
+                    "options": [
+                        "Simile",
+                        "Hyperbole",
+                        "Metaphor",
+                        "Personification"
+                    ],
+                    "answer_value": "Simile"
+                },
+                {
+                    "question_id": 8237482324502,
+                    "question_value": "Identify the word that does not belong in the group: 'ephemeral, transient, perennial, fleeting'.",
+                    "options": [
+                        "Ephemeral",
+                        "Transient",
+                        "Perennial",
+                        "Fleeting"
+                    ],
+                    "answer_value": "Perennial"
+                },
+                {
+                    "question_id": 9867657654,
+                    "question_value": "Which sentence is an example of a simile?",
+                    "options": [
+                        "She is as fast as a cheetah.",
+                        "She is a fast cheetah.",
+                        "She runs faster than a cheetah.",
+                        "She runs fast."
+                    ],
+                    "answer_value": "She is as fast as a cheetah."
+                },
+                {
+                    "question_id": 8237486455229,
+                    "question_value": "The committee's decision was _____ by the recent changes in the _____.",
+                    "options": [
+                        "complicated, economy",
+                        "facilitated, law",
+                        "obstructed, weather",
+                        "inspired, culture"
+                    ],
+                    "answer_value": "facilitated, law"
+                },
+                {
+                    "question_id": 823748887245,
+                    "question_value": "Identify the figure of speech: 'The classroom was a zoo.'",
+                    "options": [
+                        "Simile",
+                        "Hyperbole",
+                        "Metaphor",
+                        "Personification"
+                    ],
+                    "answer_value": "Metaphor"
+                },
+                {
+                    "question_id": 654123,
+                    "question_value": "Which word is a conjunction?",
+                    "options": [
+                        "Because",
+                        "Run",
+                        "Quickly",
+                        "Blue"
+                    ],
+                    "answer_value": "Because"
+                },
+                {
+                    "question_id": 823753548238,
+                    "question_value": "Identify the figure of speech: 'She was as brave as a lion.'",
+                    "options": [
+                        "Metaphor",
+                        "Simile",
+                        "Personification",
+                        "Oxymoron"
+                    ],
+                    "answer_value": "Simile"
+                },
+                {
+                    "question_id": 823747568213,
+                    "question_value": "The _____ effects of climate change are already being felt in many parts of the world.",
+                    "options": [
+                        "negligible",
+                        "pervasive",
+                        "ephemeral",
+                        "transient"
+                    ],
+                    "answer_value": "pervasive"
+                },
+                {
+                    "question_id": 8237482324624,
+                    "question_value": "Her _____ nature made it _____ for her to stay focused on one task for long.",
+                    "options": [
+                        "diligent, easy",
+                        "mercurial, difficult",
+                        "industrious, effortless",
+                        "unwavering, hard"
+                    ],
+                    "answer_value": "mercurial, difficult"
+                },
+                {
+                    "question_id": 8237482345222,
+                    "question_value": "The scientist's theory was considered _____ until it was _____ with empirical evidence.",
+                    "options": [
+                        "innovative, discarded",
+                        "heretical, denounced",
+                        "ambiguous, clarified",
+                        "untenable, proven"
+                    ],
+                    "answer_value": "untenable, proven"
+                },
+                {
+                    "question_id": 82374826445336,
+                    "question_value": "The company's _____ policy led to a _____ in employee morale.",
+                    "options": [
+                        "generous, boost",
+                        "draconian, decline",
+                        "lenient, drop",
+                        "transparent, increase"
+                    ],
+                    "answer_value": "draconian, decline"
+                },
+                {
+                    "question_id": 823787748216,
+                    "question_value": "His speech was full of _____ intended to mislead the audience.",
+                    "options": [
+                        "clarity",
+                        "equivocations",
+                        "honesty",
+                        "transparency"
+                    ],
+                    "answer_value": "equivocations"
+                },
+                {
+                    "question_id": 9139750240,
+                    "question_value": "What is the difference between a metaphor and a simile?",
+                    "options": [
+                        "Metaphors directly state a comparison, while similes use 'like' or 'as'.",
+                        "Metaphors are hidden comparisons, while similes are explicit.",
+                        "Metaphors are used in poetry, while similes are used in prose.",
+                        "There is no difference."
+                    ],
+                    "answer_value": "Metaphors directly state a comparison, while similes use 'like' or 'as'."
+                },
+                {
+                    "question_id": 31243789,
+                    "question_value": "What is the superlative form of 'good'?",
+                    "options": [
+                        "Gooder",
+                        "Better",
+                        "Best",
+                        "Most good"
+                    ],
+                    "answer_value": "Best"
+                },
+                {
+                    "question_id": 8237482755423,
+                    "question_value": "Despite his _____ remarks, the company's employees remained _____ about their jobs.",
+                    "options": [
+                        "reassuring, anxious",
+                        "condescending, confident",
+                        "ambiguous, relaxed",
+                        "derogatory, secure"
+                    ],
+                    "answer_value": "reassuring, anxious"
+                },
+                {
+                    "question_id": 8237482634509,
+                    "question_value": "Despite the CEO's _____ remarks, the company's employees were still anxious about their jobs.",
+                    "options": [
+                        "reassuring",
+                        "condescending",
+                        "ambiguous",
+                        "derogatory"
+                    ],
+                    "answer_value": "reassuring"
+                },
+                {
+                    "question_id": 8237482645411,
+                    "question_value": "The treaty was intended to _____ hostilities between the two warring nations.",
+                    "options": [
+                        "escalate",
+                        "prolong",
+                        "mitigate",
+                        "instigate"
+                    ],
+                    "answer_value": "mitigate"
+                },
+                {
+                    "question_id": 823748774237,
+                    "question_value": "Identify the figure of speech: 'The leaves danced in the wind.'",
+                    "options": [
+                        "Metaphor",
+                        "Simile",
+                        "Personification",
+                        "Hyperbole"
+                    ],
+                    "answer_value": "Personification"
+                },
+                {
+                    "question_id": 182423734,
+                    "question_value": "Which sentence uses the correct form of 'their\/there\/they're'?",
+                    "options": [
+                        "Their going to the park.",
+                        "There going to the park.",
+                        "They're going to the park.",
+                        "Theyre going to the park."
+                    ],
+                    "answer_value": "They're going to the park."
+                },
+                {
+                    "question_id": 823746358208,
+                    "question_value": "The artist's work was acclaimed for its _____ blend of colors and textures.",
+                    "options": [
+                        "harmonious",
+                        "discordant",
+                        "simplistic",
+                        "conventional"
+                    ],
+                    "answer_value": "harmonious"
+                },
+                {
+                    "question_id": 82374857367,
+                    "question_value": "Identify the figure of speech: 'Her smile was as bright as the sun.'",
+                    "options": [
+                        "Simile",
+                        "Hyperbole",
+                        "Metaphor",
+                        "Personification"
+                    ],
+                    "answer_value": "Simile"
+                }
+            ]
+        },
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 234293293939344,
+                    "question_value": "A concave lens with a focal length of -10 cm forms an image 20 cm from the lens. Is the image real, virtual, convex or fixed?",
+                    "options": [
+                        "Real",
+                        "fixed",
+                        "convex",
+                        "Virtual"
+                    ],
+                    "answer_value": "Virtual",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932032348,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 3 meters. Calculate the speed of the wave.",
+                    "options": [
+                        "100 m\/s",
+                        "150 m\/s",
+                        "200 m\/s",
+                        "250 m\/s"
+                    ],
+                    "answer_value": "150 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 20939393030393,
+                    "question_value": "Which of the following is not a consequence of hydrogen bubbles covering the copper plate of a primary cell?",
+                    "options": [
+                        "formation of hydrogen bubbles on the electrode",
+                        "local action",
+                        "polarization",
+                        "increase in the resistance of the cell"
+                    ],
+                    "answer_value": "local action",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 239202932030327,
+                    "question_value": "A string fixed at both ends vibrates at its fundamental frequency of 50 Hz. If the length of the string is 1.5 m and the speed of the wave on the string is 300 m\/s, calculate the wavelength of the wave.",
+                    "options": [
+                        "1 m",
+                        "2 m",
+                        "3 m",
+                        "4 m"
+                    ],
+                    "answer_value": "3 m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320304232,
+                    "question_value": "A long straight wire carries a current of 5 A. Calculate the magnetic field at a distance of 2 cm from the wire. (Use \u03bc\u2080 = 4\u03c0 x 10^-7 T\u00b7m\/A)",
+                    "options": [
+                        "5 x 10^-5 T",
+                        "1 x 10^-4 T",
+                        "5 x 10^-4 T",
+                        "1 x 10^-3 T"
+                    ],
+                    "answer_value": "5 x 10^-5 T",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320309994,
+                    "question_value": "A 3 kg object is moving at a velocity of 4 m\/s. Calculate its momentum.",
+                    "options": [
+                        "8 kg m\/s",
+                        "10 kg m\/s",
+                        "12 kg m\/s",
+                        "15 kg m\/s"
+                    ],
+                    "answer_value": "12 kg m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2889932849542,
+                    "question_value": "A semiconductor is formed by?",
+                    "options": [
+                        "covalent bonds",
+                        "a substance free of bonds",
+                        "electrovalent bonds",
+                        "co-ordinate bonds"
+                    ],
+                    "answer_value": "covalent bonds",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293933030331,
+                    "question_value": "Calculate the heat required to raise the temperature of 200 g of water from 20\u00b0C to 50\u00b0C. (Specific heat capacity of water = 4.18 J\/g\u00b0C)",
+                    "options": [
+                        "250 J",
+                        "836 J",
+                        "1672 J",
+                        "4180 J"
+                    ],
+                    "answer_value": "4180 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320303982,
+                    "question_value": "An object is placed 15 cm in front of a convex lens with a focal length of 10 cm. Calculate the position of the image formed.",
+                    "options": [
+                        "30 cm behind the lens",
+                        "20 cm behind the lens",
+                        "15 cm behind the lens",
+                        "10 cm behind the lens"
+                    ],
+                    "answer_value": "30 cm behind the lens",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293098767832,
+                    "question_value": "A mass of 0.2 kg attached to a spring oscillates with a frequency of 5 Hz. Calculate the spring constant of the spring. (Assume no damping)",
+                    "options": [
+                        "4 N\/m",
+                        "16 N\/m",
+                        "20 N\/m",
+                        "25 N\/m"
+                    ],
+                    "answer_value": "16 N\/m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 3412829,
+                    "question_value": "What is the SI unit of frequency?",
+                    "options": [
+                        "Hertz",
+                        "Newton",
+                        "Watt",
+                        "Volt"
+                    ],
+                    "answer_value": "Hertz"
+                },
+                {
+                    "question_id": 2342932030322,
+                    "question_value": "A cell whose internal resistance is 0.55 \u03a9 delivers a current of 4 A to an external resistor. What is the lost voltage of the cell?",
+                    "options": [
+                        "1.8 V",
+                        "2.0 V",
+                        "2.2 V",
+                        "2.4 V"
+                    ],
+                    "answer_value": "2.2 V",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 5435443876,
+                    "question_value": "What is the unit of measurement for frequency?",
+                    "options": [
+                        "Hertz",
+                        "Watt",
+                        "Joule",
+                        "Ampere"
+                    ],
+                    "answer_value": "Hertz"
+                },
+                {
+                    "question_id": 234293203330332,
+                    "question_value": "A wheel with a radius of 0.5 m rotates at 60 RPM. Calculate the linear velocity of a point on the rim of the wheel.",
+                    "options": [
+                        "1.5 m\/s",
+                        "3 m\/s",
+                        "5 m\/s",
+                        "6 m\/s"
+                    ],
+                    "answer_value": "3 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320324232,
+                    "question_value": "A 10 \u03bcF capacitor is charged to a potential difference of 200 V. Calculate the energy stored in the capacitor.",
+                    "options": [
+                        "0.1 J",
+                        "0.2 J",
+                        "0.5 J",
+                        "1.0 J"
+                    ],
+                    "answer_value": "0.2 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 987453456,
+                    "question_value": "What is the formula for calculating electric power?",
+                    "options": [
+                        "P = IV",
+                        "P = V\/I",
+                        "P = IR",
+                        "P = V\/R"
+                    ],
+                    "answer_value": "P = IV"
+                },
+                {
+                    "question_id": 2342932030234,
+                    "question_value": "A convex lens has a focal length of 10 cm. An object is placed 15 cm from the lens. Calculate the position of the image formed.",
+                    "options": [
+                        "30 cm on the same side as the object",
+                        "30 cm on the opposite side of the object",
+                        "6 cm on the same side as the object",
+                        "6 cm on the opposite side of the object"
+                    ],
+                    "answer_value": "30 cm on the opposite side of the object",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932033928,
+                    "question_value": "Calculate the pressure exerted by a force of 200 N on an area of 0.5 m\u00b2.",
+                    "options": [
+                        "100 Pa",
+                        "200 Pa",
+                        "400 Pa",
+                        "800 Pa"
+                    ],
+                    "answer_value": "400 Pa",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320303993,
+                    "question_value": "A coil with 500 turns and a cross-sectional area of 0.1 m\u00b2 is placed in a uniform magnetic field of 0.02 T. If the angle between the magnetic field and the normal to the coil is 30\u00b0, calculate the magnetic flux through the coil.",
+                    "options": [
+                        "0.25 Wb",
+                        "0.43 Wb",
+                        "0.87 Wb",
+                        "1.00 Wb"
+                    ],
+                    "answer_value": "0.87 Wb",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320309383,
+                    "question_value": "A current of 3 A flows for 2 seconds. Calculate the charge transferred.",
+                    "options": [
+                        "3 C",
+                        "4 C",
+                        "5 C",
+                        "6 C"
+                    ],
+                    "answer_value": "6 C",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 288994043939842,
+                    "question_value": "The main factor which affects the speed of sound wave is the?",
+                    "options": [
+                        "properties of the medium",
+                        "amplitude of the sound wave",
+                        "intensity of the sound wave",
+                        "loudness of the sound wave"
+                    ],
+                    "answer_value": "properties of the medium",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 215344365,
+                    "question_value": "What is the formula for Newton's second law of motion?",
+                    "options": [
+                        "F = ma",
+                        "F = m\/v",
+                        "F = a\/t",
+                        "F = p\/t"
+                    ],
+                    "answer_value": "F = ma"
+                },
+                {
+                    "question_id": 6789553412,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Kelvin",
+                        "Celsius",
+                        "Fahrenheit",
+                        "Joule"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 2342932030330,
+                    "question_value": "What is the quantity of heat required to convert 20 g of ice at 0\u00b0C to water at the same temperature? (Specific latent heat of ice = 336 J\/g)",
+                    "options": [
+                        "5280 J",
+                        "6400 J",
+                        "6720 J",
+                        "7200 J"
+                    ],
+                    "answer_value": "6720 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 32184290,
+                    "question_value": "What is the formula for kinetic energy?",
+                    "options": [
+                        "KE = 1\/2 mv^2",
+                        "KE = mgh",
+                        "KE = Fd",
+                        "KE = p\/t"
+                    ],
+                    "answer_value": "KE = 1\/2 mv^2"
+                },
+                {
+                    "question_id": 8899333223239542,
+                    "question_value": "Which of the following is a scalar quantity?",
+                    "options": [
+                        "weight",
+                        "displacement",
+                        "potential energy",
+                        "momentum"
+                    ],
+                    "answer_value": "potential energy",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932099932,
+                    "question_value": "A sound wave travels at a speed of 340 m\/s and has a frequency of 170 Hz. Calculate its wavelength.",
+                    "options": [
+                        "1 m",
+                        "2 m",
+                        "3 m",
+                        "4 m"
+                    ],
+                    "answer_value": "2 m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932034432,
+                    "question_value": "A force of 50 N is applied to a 5 kg mass. Calculate the acceleration produced.",
+                    "options": [
+                        "5 m\/s\u00b2",
+                        "7 m\/s\u00b2",
+                        "8 m\/s\u00b2",
+                        "10 m\/s\u00b2"
+                    ],
+                    "answer_value": "10 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 654327431,
+                    "question_value": "What is the formula for calculating density?",
+                    "options": [
+                        "D = m\/a",
+                        "D = mv",
+                        "D = m\/v",
+                        "D = v\/m"
+                    ],
+                    "answer_value": "D = m\/v"
+                },
+                {
+                    "question_id": 340093939302,
+                    "question_value": "Which of the following is a derived unit?",
+                    "options": [
+                        "Kilogram",
+                        "Metre",
+                        "Newton",
+                        "Second"
+                    ],
+                    "answer_value": "Newton",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 983838484334,
+                    "question_value": "A light ray passes from air into water. If the angle of incidence is 45\u00b0, calculate the angle of refraction (Refractive index of water = 1.33).",
+                    "options": [
+                        "19.5\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "30\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932099037,
+                    "question_value": "A force of 50 N moves an object through a distance of 10 m in the direction of the force. Calculate the work done.",
+                    "options": [
+                        "100 J",
+                        "250 J",
+                        "500 J",
+                        "1000 J"
+                    ],
+                    "answer_value": "500 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030345,
+                    "question_value": "If an object just begins to slide on a surface inclined at 30\u00ba to the horizontal, what is the coefficient of friction?",
+                    "options": [
+                        "\\( \\frac{1}{\\sqrt{3}} \\)",
+                        "\\( \\frac{\\sqrt{3}}{3} \\)",
+                        "\\( \\frac{\\sqrt{3}}{2} \\)",
+                        "\\( \\sqrt{3} \\)"
+                    ],
+                    "answer_value": "\\( \\frac{1}{\\sqrt{3}} \\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2343998399341,
+                    "question_value": "Two point charges of +2 \u00b5C and -3 \u00b5C are separated by a distance of 10 cm. Calculate the electrostatic force between them. (Electrostatic constant = \\( 9 \\times 10^9 \\) Nm\u00b2\/C\u00b2)",
+                    "options": [
+                        "3.6 N",
+                        "7.2 N",
+                        "9.0 N",
+                        "18.0 N"
+                    ],
+                    "answer_value": "7.2 N",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 6785342912,
+                    "question_value": "What is the formula for calculating power?",
+                    "options": [
+                        "P = W\/t",
+                        "P = Fd",
+                        "P = mv^2",
+                        "P = IR"
+                    ],
+                    "answer_value": "P = W\/t"
+                },
+                {
+                    "question_id": 23429334230311,
+                    "question_value": "A car accelerates from 10 m\/s to 30 m\/s in 5 seconds. Calculate the acceleration of the car.",
+                    "options": [
+                        "2 m\/s\u00b2",
+                        "4 m\/s\u00b2",
+                        "5 m\/s\u00b2",
+                        "6 m\/s\u00b2"
+                    ],
+                    "answer_value": "4 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320305318,
+                    "question_value": "A wave has a wavelength of 2 meters and a speed of 10 m\/s. Calculate its frequency.",
+                    "options": [
+                        "4 Hz",
+                        "5 Hz",
+                        "6 Hz",
+                        "8 Hz"
+                    ],
+                    "answer_value": "5 Hz",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 987364521,
+                    "question_value": "What is the SI unit of electric charge?",
+                    "options": [
+                        "Coulomb",
+                        "Volt",
+                        "Ampere",
+                        "Ohm"
+                    ],
+                    "answer_value": "Coulomb"
+                },
+                {
+                    "question_id": 1234545646,
+                    "question_value": "What is the formula for Ohm's Law?",
+                    "options": [
+                        "V = IR",
+                        "I = VR",
+                        "R = VI",
+                        "V = RI"
+                    ],
+                    "answer_value": "V = IR"
+                },
+                {
+                    "question_id": 32132098,
+                    "question_value": "What is the formula for calculating work done?",
+                    "options": [
+                        "W = Fd",
+                        "W = F\/a",
+                        "W = mv^2",
+                        "W = pt"
+                    ],
+                    "answer_value": "W = Fd"
+                }
+            ]
+        },
+        {
+            "subject": "CHEMISTRY",
+            "questions": [
+                {
+                    "question_id": 201456790,
+                    "question_value": "What is the mass of 0.25 moles of sulfuric acid (H\u2082SO\u2084)? (Molar mass of H\u2082SO\u2084 = 98 g\/mol)",
+                    "options": [
+                        "24.5 g",
+                        "49 g",
+                        "19.6 g",
+                        "9.8 g"
+                    ],
+                    "answer_value": "24.5 g"
+                },
+                {
+                    "question_id": 324924203,
+                    "question_value": "What is the process of solid changing directly into vapor called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Sublimation"
+                },
+                {
+                    "question_id": 201456801,
+                    "question_value": "How many moles of barium sulfate (BaSO\u2084) are formed when 1 mole of barium chloride (BaCl\u2082) reacts with 1 mole of sulfuric acid (H\u2082SO\u2084)?",
+                    "options": [
+                        "0.5 moles",
+                        "1 mole",
+                        "1.5 moles",
+                        "2 moles"
+                    ],
+                    "answer_value": "1 mole"
+                },
+                {
+                    "question_id": 301456793,
+                    "question_value": "During electrolysis of aqueous sodium chloride (NaCl), what products are formed at the anode and cathode, respectively?",
+                    "options": [
+                        "Hydrogen gas at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, hydrogen gas at the cathode",
+                        "Sodium metal at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, oxygen gas at the cathode"
+                    ],
+                    "answer_value": "Chlorine gas at the anode, hydrogen gas at the cathode"
+                },
+                {
+                    "question_id": 78909831012,
+                    "question_value": "What is the process of solid changing into liquid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Melting",
+                        "Sublimation"
+                    ],
+                    "answer_value": "Melting"
+                },
+                {
+                    "question_id": 2345637111,
+                    "question_value": "What is the formula for sulfuric acid?",
+                    "options": [
+                        "H2O",
+                        "H2SO4",
+                        "HCl",
+                        "NaOH"
+                    ],
+                    "answer_value": "H2SO4"
+                },
+                {
+                    "question_id": 201456789,
+                    "question_value": "How many moles of oxygen gas (O\u2082) are required to completely react with 3 moles of hydrogen gas (H\u2082) in the formation of water (H\u2082O)?",
+                    "options": [
+                        "1.5 moles",
+                        "3 moles",
+                        "6 moles",
+                        "9 moles"
+                    ],
+                    "answer_value": "1.5 moles"
+                },
+                {
+                    "question_id": 201456797,
+                    "question_value": "For the reaction: N\u2082 + 3 H\u2082 \u2192 2 NH\u2083, how many liters of hydrogen gas (H\u2082) at STP are required to produce 22.4 liters of ammonia (NH\u2083)?",
+                    "options": [
+                        "22.4 L",
+                        "33.6 L",
+                        "67.2 L",
+                        "11.2 L"
+                    ],
+                    "answer_value": "33.6 L"
+                },
+                {
+                    "question_id": 201456803,
+                    "question_value": "What is the limiting reactant when 10 grams of methane (CH\u2084) reacts with 10 grams of oxygen (O\u2082) in the combustion reaction: CH\u2084 + 2 O\u2082 \u2192 CO\u2082 + 2 H\u2082O?",
+                    "options": [
+                        "Methane",
+                        "Oxygen",
+                        "Carbon dioxide",
+                        "Water"
+                    ],
+                    "answer_value": "Oxygen"
+                },
+                {
+                    "question_id": 301456794,
+                    "question_value": "Calculate the standard enthalpy change (\u0394H\u00b0) for the reaction: N\u2082(g) + 3 H\u2082(g) \u2192 2 NH\u2083(g), given the bond energies: N\u2261N = 945 kJ\/mol, H-H = 436 kJ\/mol, N-H = 391 kJ\/mol.",
+                    "options": [
+                        "-92 kJ",
+                        "-46 kJ",
+                        "-368 kJ",
+                        "-184 kJ"
+                    ],
+                    "answer_value": "-92 kJ"
+                },
+                {
+                    "question_id": 301456798,
+                    "question_value": "For the reaction: 2 H\u2082O\u2082 \u2192 2 H\u2082O + O\u2082, what is the change in entropy (\u0394S) given that the standard entropy (S\u00b0) values are H\u2082O\u2082 = 109 J\/mol\u00b7K, H\u2082O = 70 J\/mol\u00b7K, and O\u2082 = 205 J\/mol\u00b7K?",
+                    "options": [
+                        "198 J\/mol\u00b7K",
+                        "126 J\/mol\u00b7K",
+                        "84 J\/mol\u00b7K",
+                        "35 J\/mol\u00b7K"
+                    ],
+                    "answer_value": "126 J\/mol\u00b7K"
+                },
+                {
+                    "question_id": 301456795,
+                    "question_value": "Which of the following reactions is thermodynamically favorable at 25\u00b0C? (R = 8.314 J\/mol\u00b7K)",
+                    "options": [
+                        "\u0394H = -100 kJ, \u0394S = -200 J\/K",
+                        "\u0394H = -50 kJ, \u0394S = 100 J\/K",
+                        "\u0394H = 100 kJ, \u0394S = -300 J\/K",
+                        "\u0394H = 200 kJ, \u0394S = 500 J\/K"
+                    ],
+                    "answer_value": "\u0394H = -50 kJ, \u0394S = 100 J\/K"
+                },
+                {
+                    "question_id": 11234023456,
+                    "question_value": "What is the chemical formula for table salt?",
+                    "options": [
+                        "NaCl",
+                        "HCl",
+                        "KCl",
+                        "CaCl2"
+                    ],
+                    "answer_value": "NaCl"
+                },
+                {
+                    "question_id": 201456796,
+                    "question_value": "What volume of 0.5 M hydrochloric acid (HCl) solution is required to completely neutralize 25 mL of 1 M sodium hydroxide (NaOH) solution?",
+                    "options": [
+                        "50 mL",
+                        "25 mL",
+                        "12.5 mL",
+                        "75 mL"
+                    ],
+                    "answer_value": "50 mL"
+                },
+                {
+                    "question_id": 90039283,
+                    "question_value": "What is the chemical symbol for potassium?",
+                    "options": [
+                        "Pt",
+                        "Po",
+                        "Pb",
+                        "K"
+                    ],
+                    "answer_value": "K"
+                },
+                {
+                    "question_id": 901032234,
+                    "question_value": "Which of the following is an alkali metal?",
+                    "options": [
+                        "Lithium",
+                        "Calcium",
+                        "Sulfur",
+                        "Nitrogen"
+                    ],
+                    "answer_value": "Lithium"
+                },
+                {
+                    "question_id": 89012233,
+                    "question_value": "What is the formula for methane?",
+                    "options": [
+                        "CH4",
+                        "CO2",
+                        "NH3",
+                        "H2O"
+                    ],
+                    "answer_value": "CH4"
+                },
+                {
+                    "question_id": 301456792,
+                    "question_value": "Balance the following redox reaction in acidic solution: MnO\u2084\u207b + Fe\u00b2\u207a \u2192 Mn\u00b2\u207a + Fe\u00b3\u207a",
+                    "options": [
+                        "MnO\u2084\u207b + 5 Fe\u00b2\u207a + 8 H\u207a \u2192 Mn\u00b2\u207a + 5 Fe\u00b3\u207a + 4 H\u2082O",
+                        "MnO\u2084\u207b + Fe\u00b2\u207a + H\u207a \u2192 Mn\u00b2\u207a + Fe\u00b3\u207a + H\u2082O",
+                        "2 MnO\u2084\u207b + 10 Fe\u00b2\u207a + 16 H\u207a \u2192 2 Mn\u00b2\u207a + 10 Fe\u00b3\u207a + 8 H\u2082O",
+                        "2 MnO\u2084\u207b + 5 Fe\u00b2\u207a + 8 H\u207a \u2192 2 Mn\u00b2\u207a + 5 Fe\u00b3\u207a + 4 H\u2082O"
+                    ],
+                    "answer_value": "MnO\u2084\u207b + 5 Fe\u00b2\u207a + 8 H\u207a \u2192 Mn\u00b2\u207a + 5 Fe\u00b3\u207a + 4 H\u2082O"
+                },
+                {
+                    "question_id": 12901234,
+                    "question_value": "Which of the following is a noble gas?",
+                    "options": [
+                        "Oxygen",
+                        "Neon",
+                        "Fluorine",
+                        "Chlorine"
+                    ],
+                    "answer_value": "Neon"
+                },
+                {
+                    "question_id": 67832901,
+                    "question_value": "What is the chemical symbol for sodium?",
+                    "options": [
+                        "So",
+                        "Na",
+                        "Sn",
+                        "Si"
+                    ],
+                    "answer_value": "Na"
+                },
+                {
+                    "question_id": 3456004278,
+                    "question_value": "What is the formula for water?",
+                    "options": [
+                        "H2O2",
+                        "CO2",
+                        "H2O",
+                        "CH4"
+                    ],
+                    "answer_value": "H2O"
+                },
+                {
+                    "question_id": 301456790,
+                    "question_value": "For a reaction to be spontaneous at all temperatures, what must be true about the signs of \u0394H (enthalpy change) and \u0394S (entropy change)?",
+                    "options": [
+                        "\u0394H < 0 and \u0394S < 0",
+                        "\u0394H > 0 and \u0394S > 0",
+                        "\u0394H < 0 and \u0394S > 0",
+                        "\u0394H > 0 and \u0394S < 0"
+                    ],
+                    "answer_value": "\u0394H < 0 and \u0394S > 0"
+                },
+                {
+                    "question_id": 201456802,
+                    "question_value": "Determine the molar mass of an unknown gas if 4 grams of the gas occupy 2.24 liters at STP.",
+                    "options": [
+                        "22.4 g\/mol",
+                        "44.8 g\/mol",
+                        "28 g\/mol",
+                        "56 g\/mol"
+                    ],
+                    "answer_value": "44.8 g\/mol"
+                },
+                {
+                    "question_id": 34544232,
+                    "question_value": "What is the chemical symbol for gold?",
+                    "options": [
+                        "Au",
+                        "Ag",
+                        "Fe",
+                        "Cu"
+                    ],
+                    "answer_value": "Au"
+                },
+                {
+                    "question_id": 11223456,
+                    "question_value": "What is the SI unit of pressure?",
+                    "options": [
+                        "Newton",
+                        "Pascal",
+                        "Joule",
+                        "Watt"
+                    ],
+                    "answer_value": "Pascal"
+                },
+                {
+                    "question_id": 301456796,
+                    "question_value": "Identify the oxidation and reduction half-reactions for the balanced redox equation: 2 I\u207b + Cl\u2082 \u2192 I\u2082 + 2 Cl\u207b",
+                    "options": [
+                        "Oxidation: I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 2 Cl\u207b",
+                        "Oxidation: 2 I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 2 Cl\u207b",
+                        "Oxidation: 2 I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 Cl\u207b",
+                        "Oxidation: I\u207b \u2192 I\u2082 + e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 Cl\u207b"
+                    ],
+                    "answer_value": "Oxidation: 2 I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 2 Cl\u207b"
+                },
+                {
+                    "question_id": 201456795,
+                    "question_value": "How many grams of potassium permanganate (KMnO\u2084) are needed to prepare 250 mL of a 0.1 M solution? (Molar mass of KMnO\u2084 = 158 g\/mol)",
+                    "options": [
+                        "3.95 g",
+                        "1.58 g",
+                        "15.8 g",
+                        "0.395 g"
+                    ],
+                    "answer_value": "3.95 g"
+                },
+                {
+                    "question_id": 201456794,
+                    "question_value": "What is the empirical formula of a compound that contains 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass?",
+                    "options": [
+                        "CH\u2082O",
+                        "C\u2082H\u2084O\u2082",
+                        "C\u2083H\u2086O\u2083",
+                        "CH\u2083O"
+                    ],
+                    "answer_value": "CH\u2082O"
+                },
+                {
+                    "question_id": 201456799,
+                    "question_value": "What is the percent composition of oxygen in sulfuric acid (H\u2082SO\u2084)? (Molar mass of H\u2082SO\u2084 = 98 g\/mol)",
+                    "options": [
+                        "32.7%",
+                        "65.3%",
+                        "45.9%",
+                        "50%"
+                    ],
+                    "answer_value": "65.3%"
+                },
+                {
+                    "question_id": 201456800,
+                    "question_value": "In the reaction: 4 Fe + 3 O\u2082 \u2192 2 Fe\u2082O\u2083, how many grams of iron(III) oxide (Fe\u2082O\u2083) are produced from 112 grams of iron (Fe)? (Molar mass of Fe = 56 g\/mol, Fe\u2082O\u2083 = 160 g\/mol)",
+                    "options": [
+                        "160 g",
+                        "320 g",
+                        "80 g",
+                        "240 g"
+                    ],
+                    "answer_value": "160 g"
+                },
+                {
+                    "question_id": 4905567890,
+                    "question_value": "What is the lightest element?",
+                    "options": [
+                        "Oxygen",
+                        "Hydrogen",
+                        "Helium",
+                        "Carbon"
+                    ],
+                    "answer_value": "Hydrogen"
+                },
+                {
+                    "question_id": 301456799,
+                    "question_value": "In the electrolysis of molten sodium chloride (NaCl), what products are formed at the anode and cathode, respectively?",
+                    "options": [
+                        "Sodium metal at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, sodium metal at the cathode",
+                        "Hydrogen gas at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, hydrogen gas at the cathode"
+                    ],
+                    "answer_value": "Chlorine gas at the anode, sodium metal at the cathode"
+                },
+                {
+                    "question_id": 301456791,
+                    "question_value": "Calculate the Gibbs free energy change (\u0394G) at 298 K for a reaction with \u0394H = -100 kJ and \u0394S = -200 J\/K.",
+                    "options": [
+                        "-40 kJ",
+                        "-140 kJ",
+                        "40 kJ",
+                        "140 kJ"
+                    ],
+                    "answer_value": "40 kJ"
+                },
+                {
+                    "question_id": 890123,
+                    "question_value": "What is the chemical symbol for silver?",
+                    "options": [
+                        "Si",
+                        "Ag",
+                        "Au",
+                        "Al"
+                    ],
+                    "answer_value": "Ag"
+                },
+                {
+                    "question_id": 456123,
+                    "question_value": "What is the atomic number of carbon?",
+                    "options": [
+                        "5",
+                        "10",
+                        "15",
+                        "6"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 301456802,
+                    "question_value": "For the reaction: 2 CO(g) + O\u2082(g) \u2192 2 CO\u2082(g), what is the enthalpy change (\u0394H) if the bond enthalpies are C\u2261O = 1076 kJ\/mol and O=O = 498 kJ\/mol, and C=O in CO\u2082 = 803 kJ\/mol?",
+                    "options": [
+                        "-566 kJ",
+                        "-394 kJ",
+                        "-168 kJ",
+                        "-226 kJ"
+                    ],
+                    "answer_value": "-566 kJ"
+                },
+                {
+                    "question_id": 5901234,
+                    "question_value": "Which of the following is a halogen?",
+                    "options": [
+                        "Sodium",
+                        "Chlorine",
+                        "Calcium",
+                        "Magnesium"
+                    ],
+                    "answer_value": "Chlorine"
+                },
+                {
+                    "question_id": 2340909567,
+                    "question_value": "What is the chemical symbol for iron?",
+                    "options": [
+                        "Ir",
+                        "Fe",
+                        "Fr",
+                        "In"
+                    ],
+                    "answer_value": "Fe"
+                },
+                {
+                    "question_id": 301456797,
+                    "question_value": "What is the equilibrium constant (K) at 298 K for a reaction with \u0394G\u00b0 = -40 kJ\/mol? (R = 8.314 J\/mol\u00b7K)",
+                    "options": [
+                        "1.29 \u00d7 10\u2076",
+                        "2.18 \u00d7 10\u2077",
+                        "3.14 \u00d7 10\u2078",
+                        "5.26 \u00d7 10\u2079"
+                    ],
+                    "answer_value": "1.29 \u00d7 10\u2076"
+                },
+                {
+                    "question_id": 201456792,
+                    "question_value": "Given the reaction: 2 Al + 3 Cl\u2082 \u2192 2 AlCl\u2083, how many grams of aluminum chloride (AlCl\u2083) can be produced from 54 grams of aluminum (Al)? (Molar mass of Al = 27 g\/mol, AlCl\u2083 = 133.5 g\/mol)",
+                    "options": [
+                        "267 g",
+                        "133.5 g",
+                        "178 g",
+                        "54 g"
+                    ],
+                    "answer_value": "267 g"
+                }
+            ]
+        }
+    ]
+}

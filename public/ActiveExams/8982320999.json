@@ -1,0 +1,1383 @@
+{
+    "exam_id": 8982320999,
+    "questions": [
+        {
+            "subject": "ENGLISH LANGUAGE",
+            "questions": [
+                {
+                    "question_id": 34128654478,
+                    "question_value": "Which word is a noun?",
+                    "options": [
+                        "Run",
+                        "Happy",
+                        "House",
+                        "Quickly"
+                    ],
+                    "answer_value": "House"
+                },
+                {
+                    "question_id": 1928234537,
+                    "question_value": "Which word is a conjunction?",
+                    "options": [
+                        "And",
+                        "Very",
+                        "Quick",
+                        "Run"
+                    ],
+                    "answer_value": "And"
+                },
+                {
+                    "question_id": 1835242749,
+                    "question_value": "What is the correct plural of 'child'?",
+                    "options": [
+                        "Childs",
+                        "Children",
+                        "Childes",
+                        "Childrens"
+                    ],
+                    "answer_value": "Children"
+                },
+                {
+                    "question_id": 194352374,
+                    "question_value": "Which word is a preposition?",
+                    "options": [
+                        "Under",
+                        "Quick",
+                        "Cat",
+                        "Very"
+                    ],
+                    "answer_value": "Under"
+                },
+                {
+                    "question_id": 31243789,
+                    "question_value": "What is the superlative form of 'good'?",
+                    "options": [
+                        "Gooder",
+                        "Better",
+                        "Best",
+                        "Most good"
+                    ],
+                    "answer_value": "Best"
+                },
+                {
+                    "question_id": 342781,
+                    "question_value": "Which word is a homophone for 'to'?",
+                    "options": [
+                        "Too",
+                        "Two",
+                        "Toe",
+                        "Both A and B"
+                    ],
+                    "answer_value": "Both A and B"
+                },
+                {
+                    "question_id": 986457654,
+                    "question_value": "Which word is a pronoun?",
+                    "options": [
+                        "Quickly",
+                        "She",
+                        "Happy",
+                        "Dog"
+                    ],
+                    "answer_value": "She"
+                },
+                {
+                    "question_id": 455456123,
+                    "question_value": "What is the correct form of 'to be' in the sentence: 'They ___ happy.'?",
+                    "options": [
+                        "Am",
+                        "Is",
+                        "Are",
+                        "Be"
+                    ],
+                    "answer_value": "Are"
+                },
+                {
+                    "question_id": 782344231,
+                    "question_value": "Which sentence is grammatically correct?",
+                    "options": [
+                        "She go to school.",
+                        "She going to school.",
+                        "She goes to school.",
+                        "She gone to school."
+                    ],
+                    "answer_value": "She goes to school."
+                },
+                {
+                    "question_id": 32324525,
+                    "question_value": "Which word is an adjective?",
+                    "options": [
+                        "Run",
+                        "Blue",
+                        "Quickly",
+                        "She"
+                    ],
+                    "answer_value": "Blue"
+                },
+                {
+                    "question_id": 23223457849,
+                    "question_value": "Which sentence is in the past tense?",
+                    "options": [
+                        "She is eating.",
+                        "She eats.",
+                        "She will eat.",
+                        "She ate."
+                    ],
+                    "answer_value": "She ate."
+                },
+                {
+                    "question_id": 4682134493,
+                    "question_value": "Which sentence is punctuated correctly?",
+                    "options": [
+                        "Lets go to the park.",
+                        "Let's go to the park.",
+                        "Lets go, to the park.",
+                        "Let's, go to the park."
+                    ],
+                    "answer_value": "Let's go to the park."
+                },
+                {
+                    "question_id": 182423734,
+                    "question_value": "Which sentence uses the correct form of 'their\/there\/they're'?",
+                    "options": [
+                        "Their going to the park.",
+                        "There going to the park.",
+                        "They're going to the park.",
+                        "Theyre going to the park."
+                    ],
+                    "answer_value": "They're going to the park."
+                },
+                {
+                    "question_id": 456785349,
+                    "question_value": "What is the past tense of 'go'?",
+                    "options": [
+                        "Goed",
+                        "Goes",
+                        "Going",
+                        "Went"
+                    ],
+                    "answer_value": "Went"
+                },
+                {
+                    "question_id": 239874346,
+                    "question_value": "What is the plural form of 'mouse'?",
+                    "options": [
+                        "Mouses",
+                        "Mices",
+                        "Mouse",
+                        "Mice"
+                    ],
+                    "answer_value": "Mice"
+                },
+                {
+                    "question_id": 654434321,
+                    "question_value": "What is the subject in the sentence: 'The cat sat on the mat.'?",
+                    "options": [
+                        "The",
+                        "Cat",
+                        "Sat",
+                        "Mat"
+                    ],
+                    "answer_value": "Cat"
+                },
+                {
+                    "question_id": 3283355947,
+                    "question_value": "What is the comparative form of 'tall'?",
+                    "options": [
+                        "Taller",
+                        "Tallest",
+                        "More tall",
+                        "Most tall"
+                    ],
+                    "answer_value": "Taller"
+                },
+                {
+                    "question_id": 123978,
+                    "question_value": "Which sentence is grammatically correct?",
+                    "options": [
+                        "She don't like apples.",
+                        "She doesn't like apples.",
+                        "She do not like apples.",
+                        "She does not likes apples."
+                    ],
+                    "answer_value": "She doesn't like apples."
+                },
+                {
+                    "question_id": 1223458374,
+                    "question_value": "Which word is spelled correctly?",
+                    "options": [
+                        "Receeve",
+                        "Receive",
+                        "Recieve",
+                        "Receve"
+                    ],
+                    "answer_value": "Receive"
+                },
+                {
+                    "question_id": 123249837,
+                    "question_value": "What is the antonym of 'cold'?",
+                    "options": [
+                        "Cool",
+                        "Chilly",
+                        "Hot",
+                        "Freezing"
+                    ],
+                    "answer_value": "Hot"
+                },
+                {
+                    "question_id": 5545632421,
+                    "question_value": "Which word is a synonym of 'happy'?",
+                    "options": [
+                        "Sad",
+                        "Joyful",
+                        "Angry",
+                        "Bored"
+                    ],
+                    "answer_value": "Joyful"
+                },
+                {
+                    "question_id": 9867657654,
+                    "question_value": "Which sentence is an example of a simile?",
+                    "options": [
+                        "She is as fast as a cheetah.",
+                        "She is a fast cheetah.",
+                        "She runs faster than a cheetah.",
+                        "She runs fast."
+                    ],
+                    "answer_value": "She is as fast as a cheetah."
+                },
+                {
+                    "question_id": 125543789,
+                    "question_value": "Which word means 'a synonym for quick'?",
+                    "options": [
+                        "Slow",
+                        "Fast",
+                        "Run",
+                        "Quickly"
+                    ],
+                    "answer_value": "Fast"
+                },
+                {
+                    "question_id": 654123,
+                    "question_value": "Which word is a conjunction?",
+                    "options": [
+                        "Because",
+                        "Run",
+                        "Quickly",
+                        "Blue"
+                    ],
+                    "answer_value": "Because"
+                },
+                {
+                    "question_id": 44231444656,
+                    "question_value": "What is the opposite of 'fast'?",
+                    "options": [
+                        "Quick",
+                        "Speed",
+                        "Slow",
+                        "Run"
+                    ],
+                    "answer_value": "Slow"
+                },
+                {
+                    "question_id": 9842335123,
+                    "question_value": "Which word is a verb?",
+                    "options": [
+                        "Quickly",
+                        "Run",
+                        "Blue",
+                        "House"
+                    ],
+                    "answer_value": "Run"
+                },
+                {
+                    "question_id": 987341,
+                    "question_value": "Which sentence uses the correct form of 'your\/you're'?",
+                    "options": [
+                        "You''r the best friend.",
+                        "You're the best friend.",
+                        "Your best friend.",
+                        "Youre the best friend."
+                    ],
+                    "answer_value": "You're the best friend."
+                },
+                {
+                    "question_id": 982247231,
+                    "question_value": "Which sentence is in the future tense?",
+                    "options": [
+                        "She is going to school.",
+                        "She went to school.",
+                        "She will go to school.",
+                        "She goes to school."
+                    ],
+                    "answer_value": "She will go to school."
+                },
+                {
+                    "question_id": 3767654829,
+                    "question_value": "Which word is a homophone for 'flower'?",
+                    "options": [
+                        "Flour",
+                        "Flow",
+                        "Flaw",
+                        "Floor"
+                    ],
+                    "answer_value": "Flour"
+                },
+                {
+                    "question_id": 135709898492,
+                    "question_value": "Which word means 'a place where books are kept'?",
+                    "options": [
+                        "Library",
+                        "Kitchen",
+                        "Garage",
+                        "School"
+                    ],
+                    "answer_value": "Library"
+                }
+            ]
+        },
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 4561233234,
+                    "question_value": "What is the formula for calculating momentum?",
+                    "options": [
+                        "p = mv",
+                        "p = Fd",
+                        "p = W\/t",
+                        "p = F\/a"
+                    ],
+                    "answer_value": "p = mv"
+                },
+                {
+                    "question_id": 2342932030322,
+                    "question_value": "A cell whose internal resistance is 0.55 \u03a9 delivers a current of 4 A to an external resistor. What is the lost voltage of the cell?",
+                    "options": [
+                        "1.8 V",
+                        "2.0 V",
+                        "2.2 V",
+                        "2.4 V"
+                    ],
+                    "answer_value": "2.2 V",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030345,
+                    "question_value": "If an object just begins to slide on a surface inclined at 30\u00ba to the horizontal, what is the coefficient of friction?",
+                    "options": [
+                        "\\( \\frac{1}{\\sqrt{3}} \\)",
+                        "\\( \\frac{\\sqrt{3}}{3} \\)",
+                        "\\( \\frac{\\sqrt{3}}{2} \\)",
+                        "\\( \\sqrt{3} \\)"
+                    ],
+                    "answer_value": "\\( \\frac{1}{\\sqrt{3}} \\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 20398394320303293,
+                    "question_value": "A gas expands from a volume of 1 m\u00b3 to 3 m\u00b3 at a constant pressure of 2 atm. Calculate the work done by the gas. (1 atm = 101.3 kPa)",
+                    "options": [
+                        "101.3 kJ",
+                        "202.6 kJ",
+                        "303.9 kJ",
+                        "405.2 kJ"
+                    ],
+                    "answer_value": "405.2 kJ",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 987364521,
+                    "question_value": "What is the SI unit of electric charge?",
+                    "options": [
+                        "Coulomb",
+                        "Volt",
+                        "Ampere",
+                        "Ohm"
+                    ],
+                    "answer_value": "Coulomb"
+                },
+                {
+                    "question_id": 23429320309383,
+                    "question_value": "A current of 3 A flows for 2 seconds. Calculate the charge transferred.",
+                    "options": [
+                        "3 C",
+                        "4 C",
+                        "5 C",
+                        "6 C"
+                    ],
+                    "answer_value": "6 C",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203033143,
+                    "question_value": "Water flows through a pipe with a speed of 3 m\/s and a cross-sectional area of 0.1 m\u00b2. Calculate the volume flow rate of the water.",
+                    "options": [
+                        "0.2 m\u00b3\/s",
+                        "0.3 m\u00b3\/s",
+                        "0.4 m\u00b3\/s",
+                        "0.5 m\u00b3\/s"
+                    ],
+                    "answer_value": "0.3 m\u00b3\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203330332,
+                    "question_value": "A wheel with a radius of 0.5 m rotates at 60 RPM. Calculate the linear velocity of a point on the rim of the wheel.",
+                    "options": [
+                        "1.5 m\/s",
+                        "3 m\/s",
+                        "5 m\/s",
+                        "6 m\/s"
+                    ],
+                    "answer_value": "3 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320333221,
+                    "question_value": "The relationship between the coefficient of linear expansion (\\(\\alpha\\)) and volumetric expansion (\\(\\gamma\\)) is:",
+                    "options": [
+                        "\\(\\gamma = 2\\alpha\\)",
+                        "\\(\\gamma = 3\\alpha\\)",
+                        "\\(\\gamma = 4\\alpha\\)",
+                        "\\(\\gamma = \\alpha\\)"
+                    ],
+                    "answer_value": "\\(\\gamma = 3\\alpha\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2030393939393,
+                    "answer_value": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when?",
+                    "options": [
+                        "the magnet is moved towards the stationary solenoid",
+                        "there is no relative motion",
+                        "the magnet is moved away from the stationary solenoid",
+                        "the solenoid is moved away from the stationary magnet"
+                    ],
+                    "question_value": "there is no relative motion"
+                },
+                {
+                    "question_id": 2342932030339,
+                    "question_value": "A spring with a spring constant of 100 N\/m is compressed by 0.2 m. Calculate the elastic potential energy stored in the spring.",
+                    "options": [
+                        "2 J",
+                        "4 J",
+                        "10 J",
+                        "20 J"
+                    ],
+                    "answer_value": "4 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23440404040403,
+                    "question_value": "If a bar magnet is divided into two pieces, which of the following statement is correct?",
+                    "options": [
+                        "two new magnets are created",
+                        "the magnetic field of each separate piece becomes stronger",
+                        "the electric field is created",
+                        "the bar magnet is demagnetized"
+                    ],
+                    "answer_value": "two new magnets are created",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 6789553412,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Kelvin",
+                        "Celsius",
+                        "Fahrenheit",
+                        "Joule"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 765442332,
+                    "question_value": "What is the law of conservation of energy?",
+                    "options": [
+                        "Energy can neither be created nor destroyed.",
+                        "Energy is always increasing.",
+                        "Energy can be destroyed.",
+                        "Energy can be created at will."
+                    ],
+                    "answer_value": "Energy can neither be created nor destroyed."
+                },
+                {
+                    "question_id": 933848432030335,
+                    "question_value": "In a circuit, a resistor of 10 \u03a9 is connected in series with a resistor of 20 \u03a9. What is the total resistance of the circuit?",
+                    "options": [
+                        "3.3 \u03a9",
+                        "10 \u03a9",
+                        "20 \u03a9",
+                        "30 \u03a9"
+                    ],
+                    "answer_value": "30 \u03a9",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 987453456,
+                    "question_value": "What is the formula for calculating electric power?",
+                    "options": [
+                        "P = IV",
+                        "P = V\/I",
+                        "P = IR",
+                        "P = V\/R"
+                    ],
+                    "answer_value": "P = IV"
+                },
+                {
+                    "question_id": 288994039293542,
+                    "question_value": "The amount of energy required to change a kilogram of ice block into the water without a change in temperature is?",
+                    "options": [
+                        "specific latent heat of fusion of ice",
+                        "specific heat capacity of ice",
+                        "heat capacity of ice",
+                        "specific heat of vaporization of ice"
+                    ],
+                    "answer_value": "specific latent heat of fusion of ice",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 93948484840391032,
+                    "question_value": "The mercury column in the barometer at natural atmospheric pressure has a height of?",
+                    "options": [
+                        "0.76 cm at see level",
+                        "760 cm at sea level",
+                        "76 cm at sea level",
+                        "7.6 cm at sea level"
+                    ],
+                    "answer_value": "76 cm at sea level",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320324232,
+                    "question_value": "A 10 \u03bcF capacitor is charged to a potential difference of 200 V. Calculate the energy stored in the capacitor.",
+                    "options": [
+                        "0.1 J",
+                        "0.2 J",
+                        "0.5 J",
+                        "1.0 J"
+                    ],
+                    "answer_value": "0.2 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 239339329489336,
+                    "question_value": "A light ray strikes a plane mirror at an angle of 30\u00b0 with the normal. What is the angle between the incident ray and the reflected ray?",
+                    "options": [
+                        "15\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "60\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932093993316,
+                    "question_value": "A machine does 500 J of work in 10 seconds. Calculate the power of the machine.",
+                    "options": [
+                        "40 W",
+                        "50 W",
+                        "60 W",
+                        "70 W"
+                    ],
+                    "answer_value": "50 W",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932032348,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 3 meters. Calculate the speed of the wave.",
+                    "options": [
+                        "100 m\/s",
+                        "150 m\/s",
+                        "200 m\/s",
+                        "250 m\/s"
+                    ],
+                    "answer_value": "150 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203330443,
+                    "question_value": "A 60 W light bulb operates for 3 hours. How much energy is consumed in kilowatt-hours (kWh)?",
+                    "options": [
+                        "0.15 kWh",
+                        "0.18 kWh",
+                        "0.20 kWh",
+                        "0.25 kWh"
+                    ],
+                    "answer_value": "0.18 kWh",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 5435443876,
+                    "question_value": "What is the unit of measurement for frequency?",
+                    "options": [
+                        "Hertz",
+                        "Watt",
+                        "Joule",
+                        "Ampere"
+                    ],
+                    "answer_value": "Hertz"
+                },
+                {
+                    "question_id": 32184290,
+                    "question_value": "What is the formula for kinetic energy?",
+                    "options": [
+                        "KE = 1\/2 mv^2",
+                        "KE = mgh",
+                        "KE = Fd",
+                        "KE = p\/t"
+                    ],
+                    "answer_value": "KE = 1\/2 mv^2"
+                },
+                {
+                    "question_id": 23429320309994,
+                    "question_value": "A 3 kg object is moving at a velocity of 4 m\/s. Calculate its momentum.",
+                    "options": [
+                        "8 kg m\/s",
+                        "10 kg m\/s",
+                        "12 kg m\/s",
+                        "15 kg m\/s"
+                    ],
+                    "answer_value": "12 kg m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 28550598884849542,
+                    "question_value": "The graph of pressure (P) against the reciprocal of the volume (I\/V) in Boyles's law is a___?",
+                    "options": [
+                        "straight line",
+                        "curve",
+                        "hyperbola",
+                        "parabola"
+                    ],
+                    "answer_value": "straight line",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 32132098,
+                    "question_value": "What is the formula for calculating work done?",
+                    "options": [
+                        "W = Fd",
+                        "W = F\/a",
+                        "W = mv^2",
+                        "W = pt"
+                    ],
+                    "answer_value": "W = Fd"
+                },
+                {
+                    "question_id": 2343998399341,
+                    "question_value": "Two point charges of +2 \u00b5C and -3 \u00b5C are separated by a distance of 10 cm. Calculate the electrostatic force between them. (Electrostatic constant = \\( 9 \\times 10^9 \\) Nm\u00b2\/C\u00b2)",
+                    "options": [
+                        "3.6 N",
+                        "7.2 N",
+                        "9.0 N",
+                        "18.0 N"
+                    ],
+                    "answer_value": "7.2 N",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030330,
+                    "question_value": "What is the quantity of heat required to convert 20 g of ice at 0\u00b0C to water at the same temperature? (Specific latent heat of ice = 336 J\/g)",
+                    "options": [
+                        "5280 J",
+                        "6400 J",
+                        "6720 J",
+                        "7200 J"
+                    ],
+                    "answer_value": "6720 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030234,
+                    "question_value": "A convex lens has a focal length of 10 cm. An object is placed 15 cm from the lens. Calculate the position of the image formed.",
+                    "options": [
+                        "30 cm on the same side as the object",
+                        "30 cm on the opposite side of the object",
+                        "6 cm on the same side as the object",
+                        "6 cm on the opposite side of the object"
+                    ],
+                    "answer_value": "30 cm on the opposite side of the object",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 8764231543,
+                    "question_value": "What is the unit of measurement for voltage?",
+                    "options": [
+                        "Volt",
+                        "Ampere",
+                        "Ohm",
+                        "Watt"
+                    ],
+                    "answer_value": "Volt"
+                },
+                {
+                    "question_id": 23456723,
+                    "question_value": "What is the unit of electric current?",
+                    "options": [
+                        "Ampere",
+                        "Volt",
+                        "Ohm",
+                        "Watt"
+                    ],
+                    "answer_value": "Ampere"
+                },
+                {
+                    "question_id": 54332789,
+                    "question_value": "What is the first law of thermodynamics?",
+                    "options": [
+                        "Energy is always increasing.",
+                        "Energy can be created at will.",
+                        "Energy can be destroyed.",
+                        "Energy can neither be created nor destroyed."
+                    ],
+                    "answer_value": "Energy can neither be created nor destroyed."
+                },
+                {
+                    "question_id": 12378459,
+                    "question_value": "What is the formula for calculating gravitational force?",
+                    "options": [
+                        "F = G(m1 * m2)\/r^2",
+                        "F = mgh",
+                        "F = ma",
+                        "F = pt"
+                    ],
+                    "answer_value": "F = G(m1 * m2)\/r^2"
+                },
+                {
+                    "question_id": 23429320302234,
+                    "question_value": "A 2 kg block slides down a frictionless incline of height 10 m. Calculate the speed of the block at the bottom of the incline. (Use g = 9.8 m\/s\u00b2)",
+                    "options": [
+                        "10 m\/s",
+                        "14 m\/s",
+                        "20 m\/s",
+                        "28 m\/s"
+                    ],
+                    "answer_value": "14 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2343232030340,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 2 m. Calculate the speed of the wave.",
+                    "options": [
+                        "25 m\/s",
+                        "50 m\/s",
+                        "100 m\/s",
+                        "200 m\/s"
+                    ],
+                    "answer_value": "100 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203454,
+                    "question_value": "A 4 kg mass is lifted to a height of 5 meters. Calculate its potential energy. (g = 9.8 m\/s\u00b2)",
+                    "options": [
+                        "100 J",
+                        "120 J",
+                        "150 J",
+                        "196 J"
+                    ],
+                    "answer_value": "196 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932034432,
+                    "question_value": "A force of 50 N is applied to a 5 kg mass. Calculate the acceleration produced.",
+                    "options": [
+                        "5 m\/s\u00b2",
+                        "7 m\/s\u00b2",
+                        "8 m\/s\u00b2",
+                        "10 m\/s\u00b2"
+                    ],
+                    "answer_value": "10 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030329,
+                    "question_value": "Which expression gives the magnetic flux (\u03a6) through a surface?",
+                    "options": [
+                        "\\( \\Phi = B \\cdot A \\cdot \\cos \\theta \\)",
+                        "\\( \\Phi = \\frac{B}{A \\cdot \\cos \\theta} \\)",
+                        "\\( \\Phi = B \\cdot A \\cdot \\sin \\theta \\)",
+                        "\\( \\Phi = \\frac{B \\cdot \\cos \\theta}{A} \\)"
+                    ],
+                    "answer_value": "\\( \\Phi = B \\cdot A \\cdot \\cos \\theta \\)",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "subject": "BIOLOGY",
+            "questions": [
+                {
+                    "question_id": 34530920678,
+                    "question_value": "What is the process by which organisms produce offspring?",
+                    "options": [
+                        "Photosynthesis",
+                        "Respiration",
+                        "Reproduction",
+                        "Digestion"
+                    ],
+                    "answer_value": "Reproduction"
+                },
+                {
+                    "question_id": 5453253635,
+                    "question_value": "Which organ system is responsible for protecting the body from pathogens?",
+                    "options": [
+                        "Immune system",
+                        "Digestive system",
+                        "Nervous system",
+                        "Endocrine system"
+                    ],
+                    "answer_value": "Immune system"
+                },
+                {
+                    "question_id": 1233932456,
+                    "question_value": "Which organ is responsible for filtering blood in the human body?",
+                    "options": [
+                        "Kidneys",
+                        "Liver",
+                        "Heart",
+                        "Lungs"
+                    ],
+                    "answer_value": "Kidneys"
+                },
+                {
+                    "question_id": 3453092678,
+                    "question_value": "What is the largest organ in the human body?",
+                    "options": [
+                        "Liver",
+                        "Skin",
+                        "Brain",
+                        "Heart"
+                    ],
+                    "answer_value": "Skin"
+                },
+                {
+                    "question_id": 45618923,
+                    "question_value": "What is the powerhouse of the cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Endoplasmic Reticulum"
+                    ],
+                    "answer_value": "Mitochondria"
+                },
+                {
+                    "question_id": 323331535,
+                    "question_value": "What is the primary function of white blood cells?",
+                    "options": [
+                        "Transport oxygen",
+                        "Fight infection",
+                        "Produce antibodies",
+                        "Store energy"
+                    ],
+                    "answer_value": "Fight infection"
+                },
+                {
+                    "question_id": 56789530,
+                    "question_value": "What is the powerhouse of the plant cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Chloroplast"
+                    ],
+                    "answer_value": "Chloroplast"
+                },
+                {
+                    "question_id": 8903232123,
+                    "question_value": "Which part of the eye is responsible for seeing color?",
+                    "options": [
+                        "Iris",
+                        "Cornea",
+                        "Lens",
+                        "Retina"
+                    ],
+                    "answer_value": "Retina"
+                },
+                {
+                    "question_id": 789063412,
+                    "question_value": "Which of the following is not a type of blood vessel?",
+                    "options": [
+                        "Vein",
+                        "Artery",
+                        "Capillary",
+                        "Ligament"
+                    ],
+                    "answer_value": "Ligament"
+                },
+                {
+                    "question_id": 5674092890,
+                    "question_value": "Which part of the plant conducts photosynthesis?",
+                    "options": [
+                        "Roots",
+                        "Stem",
+                        "Leaves",
+                        "Flowers"
+                    ],
+                    "answer_value": "Leaves"
+                },
+                {
+                    "question_id": 9010830234,
+                    "question_value": "What is the chemical formula for glucose?",
+                    "options": [
+                        "C6H12O6",
+                        "CO2",
+                        "H2O",
+                        "NaCl"
+                    ],
+                    "answer_value": "C6H12O6"
+                },
+                {
+                    "question_id": 90123009324,
+                    "question_value": "Which of the following is not a function of the skeletal system?",
+                    "options": [
+                        "Support",
+                        "Protection",
+                        "Movement",
+                        "Digestion"
+                    ],
+                    "answer_value": "Digestion"
+                },
+                {
+                    "question_id": 567393812890,
+                    "question_value": "Which of the following is not a type of muscle tissue?",
+                    "options": [
+                        "Skeletal",
+                        "Cardiac",
+                        "Smooth",
+                        "Fibrous"
+                    ],
+                    "answer_value": "Fibrous"
+                },
+                {
+                    "question_id": 987656734,
+                    "question_value": "What is the longest bone in the human body?",
+                    "options": [
+                        "Femur",
+                        "Humerus",
+                        "Radius",
+                        "Tibia"
+                    ],
+                    "answer_value": "Femur"
+                },
+                {
+                    "question_id": 123993456,
+                    "question_value": "What is the main function of the respiratory system?",
+                    "options": [
+                        "Transport nutrients",
+                        "Regulate body temperature",
+                        "Exchange gases",
+                        "Produce hormones"
+                    ],
+                    "answer_value": "Exchange gases"
+                },
+                {
+                    "question_id": 346535678,
+                    "question_value": "Which of the following is not a function of the liver?",
+                    "options": [
+                        "Detoxification",
+                        "Blood clotting",
+                        "Digestion",
+                        "Metabolism"
+                    ],
+                    "answer_value": "Digestion"
+                },
+                {
+                    "question_id": 890653123,
+                    "question_value": "Which of the following is not a kingdom in the classification of living organisms?",
+                    "options": [
+                        "Animalia",
+                        "Plantae",
+                        "Protista",
+                        "Mycota"
+                    ],
+                    "answer_value": "Mycota"
+                },
+                {
+                    "question_id": 234569839097,
+                    "question_value": "What is the smallest unit of life?",
+                    "options": [
+                        "Cell",
+                        "Tissue",
+                        "Organ",
+                        "Organism"
+                    ],
+                    "answer_value": "Cell"
+                },
+                {
+                    "question_id": 344345613,
+                    "question_value": "What is the process by which plants make their own food?",
+                    "options": [
+                        "Respiration",
+                        "Fermentation",
+                        "Photosynthesis",
+                        "Digestion"
+                    ],
+                    "answer_value": "Photosynthesis"
+                },
+                {
+                    "question_id": 4342145408346,
+                    "question_value": "What is the chemical substance that carries genetic information in cells?",
+                    "options": [
+                        "DNA",
+                        "RNA",
+                        "ATP",
+                        "Glucose"
+                    ],
+                    "answer_value": "DNA"
+                },
+                {
+                    "question_id": 9023461234,
+                    "question_value": "What is the process of cell division in somatic cells called?",
+                    "options": [
+                        "Mitosis",
+                        "Meiosis",
+                        "Fertilization",
+                        "Apoptosis"
+                    ],
+                    "answer_value": "Mitosis"
+                },
+                {
+                    "question_id": 8942450123,
+                    "question_value": "What is the basic unit of heredity?",
+                    "options": [
+                        "Gene",
+                        "Allele",
+                        "Chromosome",
+                        "DNA"
+                    ],
+                    "answer_value": "Gene"
+                },
+                {
+                    "question_id": 12333456,
+                    "question_value": "What is the study of fossils called?",
+                    "options": [
+                        "Geology",
+                        "Anthropology",
+                        "Paleontology",
+                        "Archaeology"
+                    ],
+                    "answer_value": "Paleontology"
+                },
+                {
+                    "question_id": 32213264,
+                    "question_value": "Which gas do plants absorb during photosynthesis?",
+                    "options": [
+                        "Oxygen",
+                        "Carbon Dioxide",
+                        "Nitrogen",
+                        "Hydrogen"
+                    ],
+                    "answer_value": "Carbon Dioxide"
+                },
+                {
+                    "question_id": 90123349472,
+                    "question_value": "What is the function of red blood cells?",
+                    "options": [
+                        "Transport oxygen",
+                        "Fight infection",
+                        "Produce antibodies",
+                        "Store energy"
+                    ],
+                    "answer_value": "Transport oxygen"
+                }
+            ]
+        },
+        {
+            "subject": "CHEMISTRY",
+            "questions": [
+                {
+                    "question_id": 90123409,
+                    "question_value": "What is the pH value of a neutral solution?",
+                    "options": [
+                        "7",
+                        "0",
+                        "14",
+                        "1"
+                    ],
+                    "answer_value": "7"
+                },
+                {
+                    "question_id": 3456004278,
+                    "question_value": "What is the formula for water?",
+                    "options": [
+                        "H2O2",
+                        "CO2",
+                        "H2O",
+                        "CH4"
+                    ],
+                    "answer_value": "H2O"
+                },
+                {
+                    "question_id": 12123456,
+                    "question_value": "What is the process of liquid changing into solid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Freezing"
+                    ],
+                    "answer_value": "Freezing"
+                },
+                {
+                    "question_id": 5901234,
+                    "question_value": "Which of the following is a halogen?",
+                    "options": [
+                        "Sodium",
+                        "Chlorine",
+                        "Calcium",
+                        "Magnesium"
+                    ],
+                    "answer_value": "Chlorine"
+                },
+                {
+                    "question_id": 322890123,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Celsius",
+                        "Kelvin",
+                        "Fahrenheit",
+                        "Rankine"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 2340909567,
+                    "question_value": "What is the chemical symbol for iron?",
+                    "options": [
+                        "Ir",
+                        "Fe",
+                        "Fr",
+                        "In"
+                    ],
+                    "answer_value": "Fe"
+                },
+                {
+                    "question_id": 56784290,
+                    "question_value": "What is the chemical formula for carbon monoxide?",
+                    "options": [
+                        "CO2",
+                        "CO",
+                        "CH4",
+                        "C"
+                    ],
+                    "answer_value": "CO"
+                },
+                {
+                    "question_id": 12567890,
+                    "question_value": "What is the chemical formula for hydrogen peroxide?",
+                    "options": [
+                        "H2O",
+                        "H2SO4",
+                        "H2O2",
+                        "HCl"
+                    ],
+                    "answer_value": "H2O2"
+                },
+                {
+                    "question_id": 901032234,
+                    "question_value": "Which of the following is an alkali metal?",
+                    "options": [
+                        "Lithium",
+                        "Calcium",
+                        "Sulfur",
+                        "Nitrogen"
+                    ],
+                    "answer_value": "Lithium"
+                },
+                {
+                    "question_id": 89012233,
+                    "question_value": "What is the formula for methane?",
+                    "options": [
+                        "CH4",
+                        "CO2",
+                        "NH3",
+                        "H2O"
+                    ],
+                    "answer_value": "CH4"
+                },
+                {
+                    "question_id": 9420429,
+                    "question_value": "What is the process of vapor changing into liquid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Condensation"
+                },
+                {
+                    "question_id": 2345637111,
+                    "question_value": "What is the formula for sulfuric acid?",
+                    "options": [
+                        "H2O",
+                        "H2SO4",
+                        "HCl",
+                        "NaOH"
+                    ],
+                    "answer_value": "H2SO4"
+                },
+                {
+                    "question_id": 324924203,
+                    "question_value": "What is the process of solid changing directly into vapor called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Sublimation"
+                },
+                {
+                    "question_id": 67832901,
+                    "question_value": "What is the chemical symbol for sodium?",
+                    "options": [
+                        "So",
+                        "Na",
+                        "Sn",
+                        "Si"
+                    ],
+                    "answer_value": "Na"
+                },
+                {
+                    "question_id": 890123,
+                    "question_value": "What is the chemical symbol for silver?",
+                    "options": [
+                        "Si",
+                        "Ag",
+                        "Au",
+                        "Al"
+                    ],
+                    "answer_value": "Ag"
+                },
+                {
+                    "question_id": 90039283,
+                    "question_value": "What is the chemical symbol for potassium?",
+                    "options": [
+                        "Pt",
+                        "Po",
+                        "Pb",
+                        "K"
+                    ],
+                    "answer_value": "K"
+                },
+                {
+                    "question_id": 4905567890,
+                    "question_value": "What is the lightest element?",
+                    "options": [
+                        "Oxygen",
+                        "Hydrogen",
+                        "Helium",
+                        "Carbon"
+                    ],
+                    "answer_value": "Hydrogen"
+                },
+                {
+                    "question_id": 456123,
+                    "question_value": "What is the atomic number of carbon?",
+                    "options": [
+                        "5",
+                        "10",
+                        "15",
+                        "6"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 12901234,
+                    "question_value": "Which of the following is a noble gas?",
+                    "options": [
+                        "Oxygen",
+                        "Neon",
+                        "Fluorine",
+                        "Chlorine"
+                    ],
+                    "answer_value": "Neon"
+                },
+                {
+                    "question_id": 11234023456,
+                    "question_value": "What is the chemical formula for table salt?",
+                    "options": [
+                        "NaCl",
+                        "HCl",
+                        "KCl",
+                        "CaCl2"
+                    ],
+                    "answer_value": "NaCl"
+                },
+                {
+                    "question_id": 78909831012,
+                    "question_value": "What is the process of solid changing into liquid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Melting",
+                        "Sublimation"
+                    ],
+                    "answer_value": "Melting"
+                },
+                {
+                    "question_id": 34544232,
+                    "question_value": "What is the chemical symbol for gold?",
+                    "options": [
+                        "Au",
+                        "Ag",
+                        "Fe",
+                        "Cu"
+                    ],
+                    "answer_value": "Au"
+                },
+                {
+                    "question_id": 13567890,
+                    "question_value": "What is the chemical formula for ammonia?",
+                    "options": [
+                        "NH3",
+                        "N2O",
+                        "NO2",
+                        "NO3"
+                    ],
+                    "answer_value": "NH3"
+                },
+                {
+                    "question_id": 11223456,
+                    "question_value": "What is the SI unit of pressure?",
+                    "options": [
+                        "Newton",
+                        "Pascal",
+                        "Joule",
+                        "Watt"
+                    ],
+                    "answer_value": "Pascal"
+                },
+                {
+                    "question_id": 94092839384,
+                    "question_value": "What is the process of converting a liquid into vapor called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Evaporation"
+                },
+                {
+                    "question_id": 345435322,
+                    "question_value": "What is the chemical symbol for carbon dioxide?",
+                    "options": [
+                        "CO2",
+                        "CO",
+                        "CH4",
+                        "C"
+                    ],
+                    "answer_value": "CO2"
+                }
+            ]
+        }
+    ]
+}

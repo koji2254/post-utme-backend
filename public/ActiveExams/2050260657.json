@@ -1,0 +1,2100 @@
+{
+    "exam_id": 2050260657,
+    "questions": [
+        {
+            "subject": "ENGLISH LANGUAGE",
+            "questions": [
+                {
+                    "question_id": 92292929292,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "What is the main function of the Amazon rainforest according to the passage?",
+                    "options": [
+                        "Habitat for wildlife",
+                        "Source of food and medicine",
+                        "Regulation of Earth's atmosphere",
+                        "Production of oxygen"
+                    ],
+                    "answer_value": "Regulation of Earth's atmosphere"
+                },
+                {
+                    "question_id": 8765904942341,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "Which gas is absorbed by plants in the rainforest during photosynthesis?",
+                    "options": [
+                        "Nitrogen",
+                        "Oxygen",
+                        "Carbon Dioxide",
+                        "Water Vapor"
+                    ],
+                    "answer_value": "Carbon Dioxide"
+                },
+                {
+                    "question_id": 3098848484848,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "What is the negative impact of deforestation mentioned in the passage?",
+                    "options": [
+                        "Reduces biodiversity",
+                        "Increases soil erosion",
+                        "Releases stored carbon",
+                        "All of the above"
+                    ],
+                    "answer_value": "All of the above"
+                },
+                {
+                    "question_id": 89090909393484848,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "The word 'mitigate' in the passage is closest in meaning to:",
+                    "options": [
+                        "Eliminate",
+                        "Control",
+                        "Ignore",
+                        "Produce"
+                    ],
+                    "answer_value": "Control"
+                },
+                {
+                    "question_id": 8099938343248,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "Based on the passage, why is deforestation a concern?",
+                    "options": [
+                        "Reduces the beauty of the rainforest",
+                        "Disrupts the habitat of animals",
+                        "Contributes to climate change",
+                        "All of the above"
+                    ],
+                    "answer_value": "All of the above"
+                },
+                {
+                    "question_id": 194849344,
+                    "comprehension_title": "The Wonders of the Rainforest",
+                    "comprehension": "The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+                    "question_value": "What is one role the rainforest plays in regulating the Earth's climate?",
+                    "options": [
+                        "Absorbing carbon dioxide and producing oxygen",
+                        "Blocking sunlight completely",
+                        "Providing a home for all animal species",
+                        "Preventing rainfall"
+                    ],
+                    "answer_value": "Absorbing carbon dioxide and producing oxygen"
+                },
+                {
+                    "question_id": 28899389,
+                    "comprehension_title": "The Wonders of the Rainforest",
+                    "comprehension": "The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+                    "question_value": "Which part of the rainforest forms a canopy?",
+                    "options": [
+                        "The forest floor",
+                        "The dense foliage and towering trees",
+                        "The rivers",
+                        "The animals"
+                    ],
+                    "answer_value": "The dense foliage and towering trees"
+                },
+                {
+                    "question_id": 390909090,
+                    "comprehension_title": "The Wonders of the Rainforest",
+                    "comprehension": "The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+                    "question_value": "Why is the rainforest described as 'teeming with life'?",
+                    "options": [
+                        "Because it has many tourists",
+                        "Because it has a vast variety of plants, animals, and insects",
+                        "Because it has a lot of sunlight",
+                        "Because it is very large"
+                    ],
+                    "answer_value": "Because it has a vast variety of plants, animals, and insects"
+                },
+                {
+                    "question_id": 478799049,
+                    "comprehension_title": "The Wonders of the Rainforest",
+                    "comprehension": "The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+                    "question_value": "What does the canopy of the rainforest do?",
+                    "options": [
+                        "It increases the temperature",
+                        "It blocks much of the sunlight",
+                        "It absorbs rainwater",
+                        "It attracts predators"
+                    ],
+                    "answer_value": "It blocks much of the sunlight"
+                },
+                {
+                    "question_id": 598393834,
+                    "comprehension_title": "The Wonders of the Rainforest",
+                    "comprehension": "The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+                    "question_value": "How is the rainforest important to humans?",
+                    "options": [
+                        "It is a source of food, medicine, and raw materials",
+                        "It is a place for extreme sports",
+                        "It is a location for scientific studies only",
+                        "It is a place for entertainment"
+                    ],
+                    "answer_value": "It is a source of food ,medicine,and raw materials"
+                },
+                {
+                    "question_id": 394849344,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "Who invented the telegraph?",
+                    "options": [
+                        "Alexander Graham Bell",
+                        "Samuel Morse",
+                        "Thomas Edison",
+                        "Nikola Tesla"
+                    ],
+                    "answer_value": "Samuel Morse"
+                },
+                {
+                    "question_id": 48899389,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "What did the invention of the telegraph pave the way for?",
+                    "options": [
+                        "The internet",
+                        "The radio",
+                        "The telephone",
+                        "The television"
+                    ],
+                    "answer_value": "The telephone"
+                },
+                {
+                    "question_id": 590909090,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "Which 20th-century developments brought news and entertainment into homes worldwide?",
+                    "options": [
+                        "The telegraph and the internet",
+                        "The radio and the telephone",
+                        "The television and the telegraph",
+                        "The radio and the television"
+                    ],
+                    "answer_value": "The radio and the television"
+                },
+                {
+                    "question_id": 678799049,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "What is the most significant advancement in communication technology mentioned in the passage?",
+                    "options": [
+                        "The telegraph",
+                        "The telephone",
+                        "The internet",
+                        "The television"
+                    ],
+                    "answer_value": "The internet"
+                },
+                {
+                    "question_id": 798393834,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "What emerging technologies are enhancing our ability to process and analyze data?",
+                    "options": [
+                        "The telegraph and the telephone",
+                        "Radio and television",
+                        "Artificial intelligence and machine learning",
+                        "The internet and the telephone"
+                    ],
+                    "answer_value": "Artificial intelligence and machine learning"
+                },
+                {
+                    "question_id": 9876543210,
+                    "question_value": "In the phrase 'break the ice,' what does 'break the ice' metaphorically mean?",
+                    "options": [
+                        "To start a conversation",
+                        "To overcome shyness",
+                        "To build a friendship",
+                        "To resolve a conflict"
+                    ],
+                    "answer_value": "To overcome shyness"
+                },
+                {
+                    "question_id": 823748263505,
+                    "question_value": "Choose the word that is closest in meaning to 'ubiquitous'.",
+                    "options": [
+                        "Rare",
+                        "Scarce",
+                        "Omnipresent",
+                        "Isolated"
+                    ],
+                    "answer_value": "Omnipresent"
+                },
+                {
+                    "question_id": 82374822603,
+                    "question_value": "Which word is a synonym for 'pusillanimous'?",
+                    "options": [
+                        "Brave",
+                        "Timid",
+                        "Courageous",
+                        "Bold"
+                    ],
+                    "answer_value": "Timid"
+                },
+                {
+                    "question_id": 823748876218,
+                    "question_value": "The _____ of the project was evident in the meticulous planning and execution.",
+                    "options": [
+                        "haphazardness",
+                        "complexity",
+                        "simplicity",
+                        "chaos"
+                    ],
+                    "answer_value": "complexity"
+                },
+                {
+                    "question_id": 823748866210,
+                    "question_value": "Her _____ nature made it difficult for her to stay focused on one task for long.",
+                    "options": [
+                        "diligent",
+                        "mercurial",
+                        "industrious",
+                        "unwavering"
+                    ],
+                    "answer_value": "mercurial"
+                },
+                {
+                    "question_id": 823747568213,
+                    "question_value": "The _____ effects of climate change are already being felt in many parts of the world.",
+                    "options": [
+                        "negligible",
+                        "pervasive",
+                        "ephemeral",
+                        "transient"
+                    ],
+                    "answer_value": "pervasive"
+                },
+                {
+                    "question_id": 823744348239,
+                    "question_value": "Identify the figure of speech: 'The world is a stage.'",
+                    "options": [
+                        "Simile",
+                        "Metaphor",
+                        "Alliteration",
+                        "Personification"
+                    ],
+                    "answer_value": "Metaphor"
+                },
+                {
+                    "question_id": 823746678230,
+                    "question_value": "His speech was full of _____ intended to _____ the audience.",
+                    "options": [
+                        "clarity, enlighten",
+                        "equivocations, mislead",
+                        "honesty, convince",
+                        "transparency, assure"
+                    ],
+                    "answer_value": "equivocations, mislead"
+                },
+                {
+                    "question_id": 8237484535232,
+                    "question_value": "The _____ of the project was evident in the _____ planning and execution.",
+                    "options": [
+                        "haphazardness, sloppy",
+                        "complexity, meticulous",
+                        "simplicity, careless",
+                        "chaos, disorganized"
+                    ],
+                    "answer_value": "complexity, meticulous"
+                },
+                {
+                    "question_id": 823753548238,
+                    "question_value": "Identify the figure of speech: 'She was as brave as a lion.'",
+                    "options": [
+                        "Metaphor",
+                        "Simile",
+                        "Personification",
+                        "Oxymoron"
+                    ],
+                    "answer_value": "Simile"
+                },
+                {
+                    "question_id": 823748646227,
+                    "question_value": "The _____ effects of climate change are already being felt in many parts of the _____.",
+                    "options": [
+                        "negligible, country",
+                        "pervasive, world",
+                        "ephemeral, city",
+                        "transient, neighborhood"
+                    ],
+                    "answer_value": "pervasive, world"
+                },
+                {
+                    "question_id": 4356219801,
+                    "question_value": "What is the central idea of a text?",
+                    "options": [
+                        "The main topic or message of the text",
+                        "The setting of the story",
+                        "The characters involved in the story",
+                        "The plot of the story"
+                    ],
+                    "answer_value": "The main topic or message of the text"
+                },
+                {
+                    "question_id": 3283355947,
+                    "question_value": "What is the comparative form of 'tall'?",
+                    "options": [
+                        "Taller",
+                        "Tallest",
+                        "More tall",
+                        "Most tall"
+                    ],
+                    "answer_value": "Taller"
+                },
+                {
+                    "question_id": 823748774237,
+                    "question_value": "Identify the figure of speech: 'The leaves danced in the wind.'",
+                    "options": [
+                        "Metaphor",
+                        "Simile",
+                        "Personification",
+                        "Hyperbole"
+                    ],
+                    "answer_value": "Personification"
+                },
+                {
+                    "question_id": 9139750240,
+                    "question_value": "What is the difference between a metaphor and a simile?",
+                    "options": [
+                        "Metaphors directly state a comparison, while similes use 'like' or 'as'.",
+                        "Metaphors are hidden comparisons, while similes are explicit.",
+                        "Metaphors are used in poetry, while similes are used in prose.",
+                        "There is no difference."
+                    ],
+                    "answer_value": "Metaphors directly state a comparison, while similes use 'like' or 'as'."
+                },
+                {
+                    "question_id": 8237482634509,
+                    "question_value": "Despite the CEO's _____ remarks, the company's employees were still anxious about their jobs.",
+                    "options": [
+                        "reassuring",
+                        "condescending",
+                        "ambiguous",
+                        "derogatory"
+                    ],
+                    "answer_value": "reassuring"
+                },
+                {
+                    "question_id": 8237486456226,
+                    "question_value": "The author's use of _____ language added _____ to the narrative.",
+                    "options": [
+                        "colloquial, simplicity",
+                        "pedestrian, confusion",
+                        "laconic, brevity",
+                        "ornate, depth"
+                    ],
+                    "answer_value": "ornate, depth"
+                },
+                {
+                    "question_id": 823748256204,
+                    "question_value": "What is the meaning of the word 'recalcitrant'?",
+                    "options": [
+                        "Submissive",
+                        "Defiant",
+                        "Obedient",
+                        "Compliant"
+                    ],
+                    "answer_value": "Defiant"
+                },
+                {
+                    "question_id": 8237486365207,
+                    "question_value": "The scientist's theory was considered _____ until it was proven with empirical evidence.",
+                    "options": [
+                        "innovative",
+                        "heretical",
+                        "ambiguous",
+                        "untenable"
+                    ],
+                    "answer_value": "untenable"
+                },
+                {
+                    "question_id": 5026148370,
+                    "question_value": "What is the effect of using onomatopoeia in a poem?",
+                    "options": [
+                        "To create a sense of rhythm",
+                        "To create a vivid image",
+                        "To mimic a sound",
+                        "To convey a complex emotion"
+                    ],
+                    "answer_value": "To mimic a sound"
+                },
+                {
+                    "question_id": 82327448198,
+                    "question_value": "What is the meaning of the word 'antediluvian'?",
+                    "options": [
+                        "Modern",
+                        "Ancient",
+                        "Futuristic",
+                        "Primitive"
+                    ],
+                    "answer_value": "Ancient"
+                },
+                {
+                    "question_id": 4682134493,
+                    "question_value": "Which sentence is punctuated correctly?",
+                    "options": [
+                        "Lets go to the park.",
+                        "Let's go to the park.",
+                        "Lets go, to the park.",
+                        "Let's, go to the park."
+                    ],
+                    "answer_value": "Let's go to the park."
+                },
+                {
+                    "question_id": 833323748219,
+                    "question_value": "Despite their _____ efforts, the team was unable to secure the championship.",
+                    "options": [
+                        "superficial",
+                        "arduous",
+                        "half-hearted",
+                        "apathetic"
+                    ],
+                    "answer_value": "arduous"
+                },
+                {
+                    "question_id": 5545632421,
+                    "question_value": "Which word is a synonym of 'happy'?",
+                    "options": [
+                        "Sad",
+                        "Joyful",
+                        "Angry",
+                        "Bored"
+                    ],
+                    "answer_value": "Joyful"
+                },
+                {
+                    "question_id": 82374826445336,
+                    "question_value": "The company's _____ policy led to a _____ in employee morale.",
+                    "options": [
+                        "generous, boost",
+                        "draconian, decline",
+                        "lenient, drop",
+                        "transparent, increase"
+                    ],
+                    "answer_value": "draconian, decline"
+                },
+                {
+                    "question_id": 7412583960,
+                    "question_value": "What is the author's purpose most likely to be in a persuasive essay?",
+                    "options": [
+                        "To inform the reader",
+                        "To entertain the reader",
+                        "To convince the reader of a particular viewpoint",
+                        "To tell a story"
+                    ],
+                    "answer_value": "To convince the reader of a particular viewpoint"
+                },
+                {
+                    "question_id": 3767654829,
+                    "question_value": "Which word is a homophone for 'flower'?",
+                    "options": [
+                        "Flour",
+                        "Flow",
+                        "Flaw",
+                        "Floor"
+                    ],
+                    "answer_value": "Flour"
+                },
+                {
+                    "question_id": 82374813395,
+                    "question_value": "Which word is most opposite in meaning to 'munificent'?",
+                    "options": [
+                        "Generous",
+                        "Stingy",
+                        "Lavish",
+                        "Charitable"
+                    ],
+                    "answer_value": "Stingy"
+                },
+                {
+                    "question_id": 823747538246,
+                    "question_value": "Identify the figure of speech: 'The wind whispered through the trees.'",
+                    "options": [
+                        "Simile",
+                        "Hyperbole",
+                        "Personification",
+                        "Alliteration"
+                    ],
+                    "answer_value": "Personification"
+                },
+                {
+                    "question_id": 135709898492,
+                    "question_value": "Which word means 'a place where books are kept'?",
+                    "options": [
+                        "Library",
+                        "Kitchen",
+                        "Garage",
+                        "School"
+                    ],
+                    "answer_value": "Library"
+                },
+                {
+                    "question_id": 8237482566412,
+                    "question_value": "The author's use of _____ language added depth to the narrative.",
+                    "options": [
+                        "colloquial",
+                        "pedestrian",
+                        "laconic",
+                        "ornate"
+                    ],
+                    "answer_value": "ornate"
+                },
+                {
+                    "question_id": 986457654,
+                    "question_value": "Which word is a pronoun?",
+                    "options": [
+                        "Quickly",
+                        "She",
+                        "Happy",
+                        "Dog"
+                    ],
+                    "answer_value": "She"
+                },
+                {
+                    "question_id": 823444748220,
+                    "question_value": "The _____ behavior of the new recruit impressed the senior staff members.",
+                    "options": [
+                        "recalcitrant",
+                        "submissive",
+                        "insubordinate",
+                        "erratic"
+                    ],
+                    "answer_value": "submissive"
+                },
+                {
+                    "question_id": 31243789,
+                    "question_value": "What is the superlative form of 'good'?",
+                    "options": [
+                        "Gooder",
+                        "Better",
+                        "Best",
+                        "Most good"
+                    ],
+                    "answer_value": "Best"
+                },
+                {
+                    "question_id": 8237482345222,
+                    "question_value": "The scientist's theory was considered _____ until it was _____ with empirical evidence.",
+                    "options": [
+                        "innovative, discarded",
+                        "heretical, denounced",
+                        "ambiguous, clarified",
+                        "untenable, proven"
+                    ],
+                    "answer_value": "untenable, proven"
+                },
+                {
+                    "question_id": 823748276648,
+                    "question_value": "Identify the figure of speech: 'Life is a rollercoaster.'",
+                    "options": [
+                        "Simile",
+                        "Metaphor",
+                        "Hyperbole",
+                        "Personification"
+                    ],
+                    "answer_value": "Metaphor"
+                },
+                {
+                    "question_id": 8237482645411,
+                    "question_value": "The treaty was intended to _____ hostilities between the two warring nations.",
+                    "options": [
+                        "escalate",
+                        "prolong",
+                        "mitigate",
+                        "instigate"
+                    ],
+                    "answer_value": "mitigate"
+                },
+                {
+                    "question_id": 823748253533,
+                    "question_value": "Despite their _____ efforts, the team was unable to _____ the championship.",
+                    "options": [
+                        "superficial, lose",
+                        "arduous, win",
+                        "half-hearted, achieve",
+                        "apathetic, secure"
+                    ],
+                    "answer_value": "arduous, win"
+                },
+                {
+                    "question_id": 82374823197,
+                    "question_value": "Which word is a synonym for 'prodigal'?",
+                    "options": [
+                        "Frugal",
+                        "Thrifty",
+                        "Extravagant",
+                        "Economical"
+                    ],
+                    "answer_value": "Extravagant"
+                },
+                {
+                    "question_id": 8237465538214,
+                    "question_value": "She was known for her _____ ability to solve complex mathematical problems.",
+                    "options": [
+                        "innate",
+                        "mediocre",
+                        "rudimentary",
+                        "acquired"
+                    ],
+                    "answer_value": "innate"
+                },
+                {
+                    "question_id": 82374843192,
+                    "question_value": "Which word is a synonym for 'loquacious'?",
+                    "options": [
+                        "Taciturn",
+                        "Garrulous",
+                        "Reticent",
+                        "Pithy"
+                    ],
+                    "answer_value": "Garrulous"
+                },
+                {
+                    "question_id": 987341,
+                    "question_value": "Which sentence uses the correct form of 'your\/you're'?",
+                    "options": [
+                        "You''r the best friend.",
+                        "You're the best friend.",
+                        "Your best friend.",
+                        "Youre the best friend."
+                    ],
+                    "answer_value": "You're the best friend."
+                },
+                {
+                    "question_id": 8237485567242,
+                    "question_value": "Identify the figure of speech: 'The thunder grumbled like an old man.'",
+                    "options": [
+                        "Personification",
+                        "Simile",
+                        "Metaphor",
+                        "Oxymoron"
+                    ],
+                    "answer_value": "Personification"
+                },
+                {
+                    "question_id": 123249837,
+                    "question_value": "What is the antonym of 'cold'?",
+                    "options": [
+                        "Cool",
+                        "Chilly",
+                        "Hot",
+                        "Freezing"
+                    ],
+                    "answer_value": "Hot"
+                },
+                {
+                    "question_id": 1223458374,
+                    "question_value": "Which word is spelled correctly?",
+                    "options": [
+                        "Receeve",
+                        "Receive",
+                        "Recieve",
+                        "Receve"
+                    ],
+                    "answer_value": "Receive"
+                }
+            ]
+        },
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 2342932030310,
+                    "question_value": "A car starts from rest and covers a distance of 40 m in 10 s. Calculate the magnitude of its acceleration.",
+                    "options": [
+                        "0.4 m\/s\u00b2",
+                        "0.6 m\/s\u00b2",
+                        "0.8 m\/s\u00b2",
+                        "1.0 m\/s\u00b2"
+                    ],
+                    "answer_value": "0.8 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203033143,
+                    "question_value": "Water flows through a pipe with a speed of 3 m\/s and a cross-sectional area of 0.1 m\u00b2. Calculate the volume flow rate of the water.",
+                    "options": [
+                        "0.2 m\u00b3\/s",
+                        "0.3 m\u00b3\/s",
+                        "0.4 m\u00b3\/s",
+                        "0.5 m\u00b3\/s"
+                    ],
+                    "answer_value": "0.3 m\u00b3\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320234243,
+                    "question_value": "A point charge of 5 \u03bcC is placed at the center of a sphere of radius 3 cm. Calculate the electric field at a point on the surface of the sphere.",
+                    "options": [
+                        "5.0 x 10^5 N\/C",
+                        "1.0 x 10^6 N\/C",
+                        "3.0 x 10^6 N\/C",
+                        "5.0 x 10^6 N\/C"
+                    ],
+                    "answer_value": "5.0 x 10^5 N\/C",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030234,
+                    "question_value": "A convex lens has a focal length of 10 cm. An object is placed 15 cm from the lens. Calculate the position of the image formed.",
+                    "options": [
+                        "30 cm on the same side as the object",
+                        "30 cm on the opposite side of the object",
+                        "6 cm on the same side as the object",
+                        "6 cm on the opposite side of the object"
+                    ],
+                    "answer_value": "30 cm on the opposite side of the object",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2343232030340,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 2 m. Calculate the speed of the wave.",
+                    "options": [
+                        "25 m\/s",
+                        "50 m\/s",
+                        "100 m\/s",
+                        "200 m\/s"
+                    ],
+                    "answer_value": "100 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 215344365,
+                    "question_value": "What is the formula for Newton's second law of motion?",
+                    "options": [
+                        "F = ma",
+                        "F = m\/v",
+                        "F = a\/t",
+                        "F = p\/t"
+                    ],
+                    "answer_value": "F = ma"
+                },
+                {
+                    "question_id": 234293933030331,
+                    "question_value": "Calculate the heat required to raise the temperature of 200 g of water from 20\u00b0C to 50\u00b0C. (Specific heat capacity of water = 4.18 J\/g\u00b0C)",
+                    "options": [
+                        "250 J",
+                        "836 J",
+                        "1672 J",
+                        "4180 J"
+                    ],
+                    "answer_value": "4180 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 5435443876,
+                    "question_value": "What is the unit of measurement for frequency?",
+                    "options": [
+                        "Hertz",
+                        "Watt",
+                        "Joule",
+                        "Ampere"
+                    ],
+                    "answer_value": "Hertz"
+                },
+                {
+                    "question_id": 2342932234523,
+                    "question_value": "A 2 kg mass is moving with a velocity of 3 m\/s. Calculate its kinetic energy.",
+                    "options": [
+                        "6 J",
+                        "9 J",
+                        "12 J",
+                        "15 J"
+                    ],
+                    "answer_value": "9 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293098767832,
+                    "question_value": "A mass of 0.2 kg attached to a spring oscillates with a frequency of 5 Hz. Calculate the spring constant of the spring. (Assume no damping)",
+                    "options": [
+                        "4 N\/m",
+                        "16 N\/m",
+                        "20 N\/m",
+                        "25 N\/m"
+                    ],
+                    "answer_value": "16 N\/m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 987453456,
+                    "question_value": "What is the formula for calculating electric power?",
+                    "options": [
+                        "P = IV",
+                        "P = V\/I",
+                        "P = IR",
+                        "P = V\/R"
+                    ],
+                    "answer_value": "P = IV"
+                },
+                {
+                    "question_id": 234293293939344,
+                    "question_value": "A concave lens with a focal length of -10 cm forms an image 20 cm from the lens. Is the image real, virtual, convex or fixed?",
+                    "options": [
+                        "Real",
+                        "fixed",
+                        "convex",
+                        "Virtual"
+                    ],
+                    "answer_value": "Virtual",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030330,
+                    "question_value": "What is the quantity of heat required to convert 20 g of ice at 0\u00b0C to water at the same temperature? (Specific latent heat of ice = 336 J\/g)",
+                    "options": [
+                        "5280 J",
+                        "6400 J",
+                        "6720 J",
+                        "7200 J"
+                    ],
+                    "answer_value": "6720 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320309383,
+                    "question_value": "A current of 3 A flows for 2 seconds. Calculate the charge transferred.",
+                    "options": [
+                        "3 C",
+                        "4 C",
+                        "5 C",
+                        "6 C"
+                    ],
+                    "answer_value": "6 C",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1234545646,
+                    "question_value": "What is the formula for Ohm's Law?",
+                    "options": [
+                        "V = IR",
+                        "I = VR",
+                        "R = VI",
+                        "V = RI"
+                    ],
+                    "answer_value": "V = IR"
+                },
+                {
+                    "question_id": 2342932030345,
+                    "question_value": "If an object just begins to slide on a surface inclined at 30\u00ba to the horizontal, what is the coefficient of friction?",
+                    "options": [
+                        "\\( \\frac{1}{\\sqrt{3}} \\)",
+                        "\\( \\frac{\\sqrt{3}}{3} \\)",
+                        "\\( \\frac{\\sqrt{3}}{2} \\)",
+                        "\\( \\sqrt{3} \\)"
+                    ],
+                    "answer_value": "\\( \\frac{1}{\\sqrt{3}} \\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429334230311,
+                    "question_value": "A car accelerates from 10 m\/s to 30 m\/s in 5 seconds. Calculate the acceleration of the car.",
+                    "options": [
+                        "2 m\/s\u00b2",
+                        "4 m\/s\u00b2",
+                        "5 m\/s\u00b2",
+                        "6 m\/s\u00b2"
+                    ],
+                    "answer_value": "4 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320304232,
+                    "question_value": "A long straight wire carries a current of 5 A. Calculate the magnetic field at a distance of 2 cm from the wire. (Use \u03bc\u2080 = 4\u03c0 x 10^-7 T\u00b7m\/A)",
+                    "options": [
+                        "5 x 10^-5 T",
+                        "1 x 10^-4 T",
+                        "5 x 10^-4 T",
+                        "1 x 10^-3 T"
+                    ],
+                    "answer_value": "5 x 10^-5 T",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 890455123,
+                    "question_value": "What is the SI unit of power?",
+                    "options": [
+                        "Watt",
+                        "Joule",
+                        "Volt",
+                        "Ampere"
+                    ],
+                    "answer_value": "Watt"
+                },
+                {
+                    "question_id": 2342932030329,
+                    "question_value": "Which expression gives the magnetic flux (\u03a6) through a surface?",
+                    "options": [
+                        "\\( \\Phi = B \\cdot A \\cdot \\cos \\theta \\)",
+                        "\\( \\Phi = \\frac{B}{A \\cdot \\cos \\theta} \\)",
+                        "\\( \\Phi = B \\cdot A \\cdot \\sin \\theta \\)",
+                        "\\( \\Phi = \\frac{B \\cdot \\cos \\theta}{A} \\)"
+                    ],
+                    "answer_value": "\\( \\Phi = B \\cdot A \\cdot \\cos \\theta \\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 239339329489336,
+                    "question_value": "A light ray strikes a plane mirror at an angle of 30\u00b0 with the normal. What is the angle between the incident ray and the reflected ray?",
+                    "options": [
+                        "15\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "60\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320305318,
+                    "question_value": "A wave has a wavelength of 2 meters and a speed of 10 m\/s. Calculate its frequency.",
+                    "options": [
+                        "4 Hz",
+                        "5 Hz",
+                        "6 Hz",
+                        "8 Hz"
+                    ],
+                    "answer_value": "5 Hz",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030339,
+                    "question_value": "A spring with a spring constant of 100 N\/m is compressed by 0.2 m. Calculate the elastic potential energy stored in the spring.",
+                    "options": [
+                        "2 J",
+                        "4 J",
+                        "10 J",
+                        "20 J"
+                    ],
+                    "answer_value": "4 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 6789553412,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Kelvin",
+                        "Celsius",
+                        "Fahrenheit",
+                        "Joule"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 23429320303982,
+                    "question_value": "An object is placed 15 cm in front of a convex lens with a focal length of 10 cm. Calculate the position of the image formed.",
+                    "options": [
+                        "30 cm behind the lens",
+                        "20 cm behind the lens",
+                        "15 cm behind the lens",
+                        "10 cm behind the lens"
+                    ],
+                    "answer_value": "30 cm behind the lens",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 983838484334,
+                    "question_value": "A light ray passes from air into water. If the angle of incidence is 45\u00b0, calculate the angle of refraction (Refractive index of water = 1.33).",
+                    "options": [
+                        "19.5\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "30\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 8765223543,
+                    "question_value": "What is the SI unit of force?",
+                    "options": [
+                        "Newton",
+                        "Joule",
+                        "Watt",
+                        "Volt"
+                    ],
+                    "answer_value": "Newton"
+                },
+                {
+                    "question_id": 32132098,
+                    "question_value": "What is the formula for calculating work done?",
+                    "options": [
+                        "W = Fd",
+                        "W = F\/a",
+                        "W = mv^2",
+                        "W = pt"
+                    ],
+                    "answer_value": "W = Fd"
+                },
+                {
+                    "question_id": 234293290908815,
+                    "question_value": "A force of 20 N moves an object 3 meters. Calculate the work done.",
+                    "options": [
+                        "50 J",
+                        "60 J",
+                        "70 J",
+                        "80 J"
+                    ],
+                    "answer_value": "60 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2030393939393,
+                    "answer_value": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when?",
+                    "options": [
+                        "the magnet is moved towards the stationary solenoid",
+                        "there is no relative motion",
+                        "the magnet is moved away from the stationary solenoid",
+                        "the solenoid is moved away from the stationary magnet"
+                    ],
+                    "question_value": "there is no relative motion"
+                },
+                {
+                    "question_id": 933848432030335,
+                    "question_value": "In a circuit, a resistor of 10 \u03a9 is connected in series with a resistor of 20 \u03a9. What is the total resistance of the circuit?",
+                    "options": [
+                        "3.3 \u03a9",
+                        "10 \u03a9",
+                        "20 \u03a9",
+                        "30 \u03a9"
+                    ],
+                    "answer_value": "30 \u03a9",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 288994039293542,
+                    "question_value": "The amount of energy required to change a kilogram of ice block into the water without a change in temperature is?",
+                    "options": [
+                        "specific latent heat of fusion of ice",
+                        "specific heat capacity of ice",
+                        "heat capacity of ice",
+                        "specific heat of vaporization of ice"
+                    ],
+                    "answer_value": "specific latent heat of fusion of ice",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932093993316,
+                    "question_value": "A machine does 500 J of work in 10 seconds. Calculate the power of the machine.",
+                    "options": [
+                        "40 W",
+                        "50 W",
+                        "60 W",
+                        "70 W"
+                    ],
+                    "answer_value": "50 W",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932099932,
+                    "question_value": "A sound wave travels at a speed of 340 m\/s and has a frequency of 170 Hz. Calculate its wavelength.",
+                    "options": [
+                        "1 m",
+                        "2 m",
+                        "3 m",
+                        "4 m"
+                    ],
+                    "answer_value": "2 m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 28550598884849542,
+                    "question_value": "The graph of pressure (P) against the reciprocal of the volume (I\/V) in Boyles's law is a___?",
+                    "options": [
+                        "straight line",
+                        "curve",
+                        "hyperbola",
+                        "parabola"
+                    ],
+                    "answer_value": "straight line",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320309994,
+                    "question_value": "A 3 kg object is moving at a velocity of 4 m\/s. Calculate its momentum.",
+                    "options": [
+                        "8 kg m\/s",
+                        "10 kg m\/s",
+                        "12 kg m\/s",
+                        "15 kg m\/s"
+                    ],
+                    "answer_value": "12 kg m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 239388232030343,
+                    "question_value": "A straight wire carries a current of 5 A. Calculate the magnetic field strength at a point 10 cm from the wire, assuming the wire is straight and the magnetic permeability of free space is \\( 4\\pi \\times 10^{-7} \\) Tm\/A.",
+                    "options": [
+                        "2.5 \u00b5T",
+                        "5 \u00b5T",
+                        "10 \u00b5T",
+                        "20 \u00b5T"
+                    ],
+                    "answer_value": "10 \u00b5T",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320303993,
+                    "question_value": "A coil with 500 turns and a cross-sectional area of 0.1 m\u00b2 is placed in a uniform magnetic field of 0.02 T. If the angle between the magnetic field and the normal to the coil is 30\u00b0, calculate the magnetic flux through the coil.",
+                    "options": [
+                        "0.25 Wb",
+                        "0.43 Wb",
+                        "0.87 Wb",
+                        "1.00 Wb"
+                    ],
+                    "answer_value": "0.87 Wb",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320333221,
+                    "question_value": "The relationship between the coefficient of linear expansion (\\(\\alpha\\)) and volumetric expansion (\\(\\gamma\\)) is:",
+                    "options": [
+                        "\\(\\gamma = 2\\alpha\\)",
+                        "\\(\\gamma = 3\\alpha\\)",
+                        "\\(\\gamma = 4\\alpha\\)",
+                        "\\(\\gamma = \\alpha\\)"
+                    ],
+                    "answer_value": "\\(\\gamma = 3\\alpha\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030322,
+                    "question_value": "A cell whose internal resistance is 0.55 \u03a9 delivers a current of 4 A to an external resistor. What is the lost voltage of the cell?",
+                    "options": [
+                        "1.8 V",
+                        "2.0 V",
+                        "2.2 V",
+                        "2.4 V"
+                    ],
+                    "answer_value": "2.2 V",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 43848387483445,
+                    "question_value": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room ",
+                    "options": [
+                        "<eq>\\frac{15}{17}<\/eq>",
+                        "<eq>\\frac{8}{17}<\/eq>",
+                        "<eq>\\frac{12}{17}<\/eq>",
+                        "<eq>\\frac{9}{17}<\/eq>"
+                    ],
+                    "answer_value": "<eq>\\frac{15}{17}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 38719642,
+                    "question_value": "What is the answer when <eq>2434_6<\/eq> is divided by <eq>42_6<\/eq>?",
+                    "options": [
+                        "<eq>23_6<\/eq>",
+                        "<eq>35_6<\/eq>",
+                        "<eq>52_6<\/eq>",
+                        "<eq>55_6<\/eq>"
+                    ],
+                    "answer_value": "<eq>35_6<\/eq>"
+                },
+                {
+                    "question_id": 1028374660,
+                    "question_value": "Calculate <eq>\\frac{5432_8}{173_8}<\/eq>",
+                    "options": [
+                        "<eq>26_{8}<\/eq>",
+                        "<eq>27_{8}<\/eq>",
+                        "<eq>30_{8}<\/eq>",
+                        "<eq>32_{8}<\/eq>"
+                    ],
+                    "answer_value": "<eq>27_{8}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 939399403940933,
+                    "question_value": "At simple interest, a man made a deposit of some money in the bank. The amount in his bank account after 10 years is three times the money deposited. If the interest rate stays the same, after how many years will the amount be five times the money deposited?",
+                    "options": [
+                        "20 years",
+                        "15 years",
+                        "30 years",
+                        "25 years"
+                    ],
+                    "answer_value": "20 years",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102835374662,
+                    "question_value": "Calculate <eq>\\frac{1512_5}{32_5}<\/eq>",
+                    "options": [
+                        "<eq>42_{5}<\/eq>",
+                        "<eq>50_{5}<\/eq>",
+                        "<eq>54_{5}<\/eq>",
+                        "<eq>60_{5}<\/eq>"
+                    ],
+                    "answer_value": "<eq>42_{5}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 9390302844233,
+                    "question_value": "Let '*' and '^' be two binary operations such that a * b = <eq>a^2b<\/eq> and a ^ b = 2a + b. Find (-4 * 2) ^ (7 * -1).",
+                    "options": [
+                        "64",
+                        "-10",
+                        "15",
+                        "221"
+                    ],
+                    "answer_value": "15",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 93930393023433,
+                    "question_value": "The interior angle of a regular polygon is five times the size of its exterior angle. Identify the polygon.",
+                    "options": [
+                        "enneadecagon",
+                        "dodecagon",
+                        "hendecagon",
+                        "icosagon"
+                    ],
+                    "answer_value": "dodecagon",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 43938494934942,
+                    "question_value": "If the mean of 2, 5, (x+1), (x+2), 7 and 9 is 6. Find the median ",
+                    "options": [
+                        "5.5",
+                        "5",
+                        "6.5",
+                        "6"
+                    ],
+                    "answer_value": "6.5",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 4833929404435533,
+                    "question_value": "Find the length of a chord 3cm from the centre of a circle of radius 5cm",
+                    "options": [
+                        "8 cm",
+                        "5.6 cm",
+                        "7 cm",
+                        "6.5 cm"
+                    ],
+                    "answer_value": "8 cm",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 4883900393043,
+                    "question_value": "A man 1.7m tall observes a bird on top of a tree at an angle of 30\u00b0. if the distance between the man's head and the bird is 25m, what is the height of the tree?",
+                    "options": [
+                        "14.2 m",
+                        "15.0 m",
+                        "20 m",
+                        "12.5 m"
+                    ],
+                    "answer_value": "14.2 m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102833003667,
+                    "question_value": "Evaluate <eq>(2021)_3^2<\/eq>",
+                    "options": [
+                        "21010",
+                        "21101",
+                        "20021",
+                        "20100"
+                    ],
+                    "answer_value": "21101",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 9393938442339383,
+                    "question_value": "Calculate the mean deviation of the first five prime numbers.",
+                    "options": [
+                        "2.72",
+                        "5.25",
+                        "5.6",
+                        "2.00"
+                    ],
+                    "answer_value": "2.72",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 8737378950953,
+                    "question_value": "If a fair coin is tossed twice, what is the probability of obtaining at least one head?",
+                    "options": [
+                        "0.75",
+                        "0.25",
+                        "0.5",
+                        "0.43"
+                    ],
+                    "answer_value": "0.75",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030303,
+                    "question_value": "Simplify <eq>\\frac{1}{3 - \\sqrt{2}}<\/eq> in the form of <eq> p + q \\sqrt{2}<\/eq>",
+                    "options": [
+                        "<eq>\\frac{3 + \\sqrt{2}}{7}<\/eq>",
+                        "<eq>\\frac{3 - \\sqrt{2}}{7}<\/eq>",
+                        "<eq>\\frac{3}{7} + \\frac{\\sqrt{2}}{7}<\/eq>",
+                        "<eq>\\frac{3}{7} - \\frac{\\sqrt{2}}{7}<\/eq>"
+                    ],
+                    "answer_value": "<eq>\\frac{3}{7} + \\frac{\\sqrt{2}}{7}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1823587849,
+                    "question_value": "A triangle has a base of 6 and a height of 3. What is its area?",
+                    "options": [
+                        "9",
+                        "12",
+                        "18",
+                        "20"
+                    ],
+                    "answer_value": "9"
+                },
+                {
+                    "question_id": 939393843240938233,
+                    "question_value": "A committee of 5 people is to be chosen from a group of 6 men and 4 women. How many committees are possible if there is to be a majority of women?",
+                    "options": [
+                        "60",
+                        "15",
+                        "20",
+                        "66"
+                    ],
+                    "answer_value": "66",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 787837294404243,
+                    "question_value": "Reach each number to two significant figures and then evaluate <eq> \\frac{0.02174 \\times 1.2047}{0.023789} <\/eq>",
+                    "options": [
+                        "0.5",
+                        "1.1",
+                        "0",
+                        "1.2"
+                    ],
+                    "answer_value": "1.1",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 339002244332,
+                    "question_value": "A binary operation * is defined by a*b = ab+a+b for any real number a and b. if the identity element is zero, find the inverse of 2 under this operation.",
+                    "options": [
+                        "2\/3",
+                        "1\/2",
+                        "-2\/3",
+                        "3\/5"
+                    ],
+                    "answer_value": "-2\/3",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1028374670,
+                    "question_value": "Given that the mean of 2, 5,x+1, x+2, 7, and 9 is 6, find the median.",
+                    "options": [
+                        "5",
+                        "6",
+                        "6.5",
+                        "7"
+                    ],
+                    "answer_value": "6.5",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 999389424835,
+                    "question_value": "Express <eq>\\frac{1}{x^3\u22121}<\/eq> in partial fractions",
+                    "options": [
+                        "<eq>\\frac{1}{3}(\\frac{1}{x-1} - \\frac{(x+2)}{x^2+x+1})<\/eq>",
+                        "<eq>\\frac{1}{3}(\\frac{1}{x+1} - \\frac{(x+2)}{x^2+x+4})<\/eq>",
+                        "<eq>\\frac{1}{3}(\\frac{1}{x-1} - \\frac{(x-2)}{x^2+x+1})<\/eq>",
+                        "<eq>\\frac{1}{3}(\\frac{1}{x-1} - \\frac{(x+2)}{x^2-x-1})<\/eq>"
+                    ],
+                    "answer_value": "<eq>\\frac{1}{3}(\\frac{1}{x-1} - \\frac{(x+2)}{x^2+x+1})<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 93939383242233,
+                    "question_value": "If a car runs at a constant speed and takes 4.5 hrs to run a distance of 225 km, what time will it take to run 150 km?",
+                    "options": [
+                        "2 hrs",
+                        "3 hrs",
+                        "4 hrs",
+                        "1 hrs"
+                    ],
+                    "answer_value": "3 hrs",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 10283733424659,
+                    "question_value": "Solve for k in the equation <eq>\\left( \\frac{1}{8} \\right)^{k+2} = 1<\/eq> .",
+                    "options": [
+                        "k = 2",
+                        "k = -2",
+                        "k = 0",
+                        "k = 1"
+                    ],
+                    "answer_value": "k = -2"
+                },
+                {
+                    "question_id": 939308300444233,
+                    "question_value": "A boat sails 8 km north from P to Q and then sails 6 km west from Q to R. Calculate the bearing of R from P. Give your answer to the nearest degree.",
+                    "options": [
+                        "053<eq>\\degree<\/eq>",
+                        "217<eq>\\degree<\/eq>",
+                        "213<eq>\\degree<\/eq>",
+                        "323<eq>\\degree<\/eq>"
+                    ],
+                    "answer_value": "323<eq>\\degree<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 939393844233004,
+                    "question_value": "Make x the subject of the formula: y = <eq>\\frac{3x - 9c}{4x + 5d}<\/eq>",
+                    "options": [
+                        "x = <eq>\\frac{-(9c + 5dy)}{4y - 3}<\/eq>",
+                        "x = <eq>\\frac{9c - 4dy)}{4y - 3}<\/eq>",
+                        "x = <eq>\\frac{9c + 5dy}{4y - 3}<\/eq>",
+                        "x = <eq>\\frac{-(9c + 5dy)}{4y + 3}<\/eq>"
+                    ],
+                    "answer_value": "x = <eq>\\frac{-(9c + 5dy)}{4y - 3}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 993838939383940896,
+                    "question_value": "The diagram above is a circle with centre C. P,Q and S are points on the circumference. PS and SR are tangents to the circle. \u2220PSR = 36<eq>\\degree<\/eq>. Find \u2220PQR",
+                    "options": [
+                        "<eq>72\\deree<\/eq>",
+                        "<eq>36\\deree<\/eq>",
+                        "<eq>144\\deree<\/eq>",
+                        "<eq>54\\deree<\/eq>"
+                    ],
+                    "answer_value": "<eq>72\\deree<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 4387748484848333,
+                    "question_value": "Find all real number <eq>x<\/eq> which satisfy the inequality <eq>\\frac{1}{3} (x + 1) - 1 > \\frac{1}{5}(x + 4)<\/eq>",
+                    "options": [
+                        "<eq>x > 11<\/eq>",
+                        "<eq>x < 11<\/eq>",
+                        "<eq>x > 6<\/eq>",
+                        "<eq>x > -1<\/eq>"
+                    ],
+                    "answer_value": "<eq>x > 11<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 3333243244443,
+                    "question_value": "Four boys and ten girls can cut a field first in 5 hours. If the boys work at <eq>\\frac{5}{4} <\/eq> the rate at which the girls work, how many boys will be needed to cut the field in 3 hours? ",
+                    "options": [
+                        "180",
+                        "20",
+                        "60",
+                        "25"
+                    ],
+                    "answer_value": "20",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102837314661,
+                    "question_value": "Evaluate <eq>1101_2^4<\/eq>",
+                    "options": [
+                        "11010",
+                        "10111",
+                        "10011",
+                        "11110"
+                    ],
+                    "answer_value": "11110",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 9393938038204233,
+                    "question_value": "Find the equation of straight line passing through (2, 3) and perpendicular to the line <eq>3x+2y+4=0<\/eq>",
+                    "options": [
+                        "<eq>3y = 5x + 13<\/eq>",
+                        "<eq>3y = 5x - 3<\/eq>",
+                        "<eq>y = \\frac{5}{3} - 2<\/eq>",
+                        "<eq>3y = 2x + 5<\/eq>"
+                    ],
+                    "answer_value": "<eq>3y = 2x + 5<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 9939094344,
+                    "question_value": "Tope bought X oranges at N5.00 each and some mangoes at N4.00 each. if she bought twice as many mangoes as oranges and spent at least N65.00 and at most N130.00, find the range of values of X.",
+                    "options": [
+                        "4\u2264X\u22645",
+                        "5\u2264X\u226410",
+                        "2\u2264X\u22640",
+                        "6\u2264X\u22645"
+                    ],
+                    "answer_value": "5\u2264X\u226410",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 9393938093039833,
+                    "question_value": "if <eq>\\frac{3-\\sqrt{3}}{2+\\sqrt{3}} = a + b\\sqrt{3}<\/eq>",
+                    "options": [
+                        "a = 9, b = -5",
+                        "a = 5, b = -9",
+                        "a = -9, b = -5",
+                        "a = 9, b = 5"
+                    ],
+                    "answer_value": "a = 9, b = -5",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 83242444994939,
+                    "question_value": "How many different 8 letter words are possible using the letters of the word SYLLABUS?",
+                    "options": [
+                        "(8 - 1)!",
+                        "<eq>\\frac{8!}{2!2!}<\/eq>",
+                        "<eq>\\frac{8!}{2!}<\/eq>",
+                        "8!"
+                    ],
+                    "answer_value": "<eq>\\frac{8!}{2!2!}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 83938494923400343,
+                    "question_value": "What is the circumference of latitude <eq>0 \\degree S<\/eq> if R is the radius of the earth? ",
+                    "options": [
+                        "<eq>2\\pi R \\cos \\theta<\/eq>",
+                        "<eq>\\pi R \\cos \\theta<\/eq>",
+                        "<eq>2\\pi R \\sin \\theta<\/eq>",
+                        "<eq>R \\cos \\theta<\/eq>"
+                    ],
+                    "answer_value": "<eq>2\\pi R \\cos \\theta<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 483838383423,
+                    "question_value": "Divide <eq>4x^3 - 3x + 1<\/eq> by <eq>2x - 1<\/eq>",
+                    "options": [
+                        "<eq>2x^2-x+1<\/eq>",
+                        "<eq>2x^2-x-1<\/eq>",
+                        "<eq>2x^2+x+1<\/eq>",
+                        "<eq>2x^2+x-1<\/eq>"
+                    ],
+                    "answer_value": "<eq>2x^2+x-1<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 4373737373843303,
+                    "question_value": "if <eq>\\sin \\theta = -\\frac{3}{5} <\/eq> and \u03b8 lies in the third quadrant, find cos \u03b8",
+                    "options": [
+                        "<eq>\\frac{4}{5}<\/eq>",
+                        "<eq>\\frac{2}{5}<\/eq>",
+                        "<eq>-\\frac{1}{5}<\/eq>",
+                        "<eq>-\\frac{4}{5}<\/eq>"
+                    ],
+                    "answer_value": "<eq>-\\frac{4}{5}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 939393840393833,
+                    "question_value": "Find the value of t, if the distance between the points P(\u20133, \u201314) and Q(t, \u20135) is 9 units.",
+                    "options": [
+                        "3",
+                        "2",
+                        "-3",
+                        "-2"
+                    ],
+                    "answer_value": "-3",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 481345239,
+                    "question_value": "If a train travels 50 km\/h and travels for 3 hours, how far does it go?",
+                    "options": [
+                        "100 km",
+                        "150 km",
+                        "200 km",
+                        "250 km"
+                    ],
+                    "answer_value": "150 km"
+                },
+                {
+                    "question_id": 54781832,
+                    "question_value": "If a rectangle has a length of 5 and a width of 3, what is its area?",
+                    "options": [
+                        "8",
+                        "15",
+                        "10",
+                        "18"
+                    ],
+                    "answer_value": "15"
+                },
+                {
+                    "question_id": 9838374849203423,
+                    "question_value": "The first term of a geometric progression is twice its common ratio. Find the sum of the first two terms of the G.P if its sum to infinity is 8.",
+                    "options": [
+                        "8\/5",
+                        "72\/25",
+                        "8\/3",
+                        "54\/43"
+                    ],
+                    "answer_value": "72\/25",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 947233683,
+                    "question_value": "Find the value of <eq>x<\/eq> if <eq>\\frac{\\sqrt2}{x+\\sqrt2}=\\frac{1}{x-\\sqrt2}<\/eq>",
+                    "options": [
+                        "<eq>3{\\sqrt2}+4<\/eq>",
+                        "<eq>3{\\sqrt2}-4<\/eq>",
+                        "<eq>3-2{\\sqrt2}<\/eq>",
+                        "<eq>4+2{\\sqrt2}<\/eq>"
+                    ],
+                    "answer_value": "<eq>3{\\sqrt2}+4<\/eq>"
+                }
+            ]
+        },
+        {
+            "subject": "CHEMISTRY",
+            "questions": [
+                {
+                    "question_id": 324924203,
+                    "question_value": "What is the process of solid changing directly into vapor called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Sublimation"
+                },
+                {
+                    "question_id": 2345637111,
+                    "question_value": "What is the formula for sulfuric acid?",
+                    "options": [
+                        "H2O",
+                        "H2SO4",
+                        "HCl",
+                        "NaOH"
+                    ],
+                    "answer_value": "H2SO4"
+                },
+                {
+                    "question_id": 301456792,
+                    "question_value": "Balance the following redox reaction in acidic solution: MnO\u2084\u207b + Fe\u00b2\u207a \u2192 Mn\u00b2\u207a + Fe\u00b3\u207a",
+                    "options": [
+                        "MnO\u2084\u207b + 5 Fe\u00b2\u207a + 8 H\u207a \u2192 Mn\u00b2\u207a + 5 Fe\u00b3\u207a + 4 H\u2082O",
+                        "MnO\u2084\u207b + Fe\u00b2\u207a + H\u207a \u2192 Mn\u00b2\u207a + Fe\u00b3\u207a + H\u2082O",
+                        "2 MnO\u2084\u207b + 10 Fe\u00b2\u207a + 16 H\u207a \u2192 2 Mn\u00b2\u207a + 10 Fe\u00b3\u207a + 8 H\u2082O",
+                        "2 MnO\u2084\u207b + 5 Fe\u00b2\u207a + 8 H\u207a \u2192 2 Mn\u00b2\u207a + 5 Fe\u00b3\u207a + 4 H\u2082O"
+                    ],
+                    "answer_value": "MnO\u2084\u207b + 5 Fe\u00b2\u207a + 8 H\u207a \u2192 Mn\u00b2\u207a + 5 Fe\u00b3\u207a + 4 H\u2082O"
+                },
+                {
+                    "question_id": 94092839384,
+                    "question_value": "What is the process of converting a liquid into vapor called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Evaporation"
+                },
+                {
+                    "question_id": 201456800,
+                    "question_value": "In the reaction: 4 Fe + 3 O\u2082 \u2192 2 Fe\u2082O\u2083, how many grams of iron(III) oxide (Fe\u2082O\u2083) are produced from 112 grams of iron (Fe)? (Molar mass of Fe = 56 g\/mol, Fe\u2082O\u2083 = 160 g\/mol)",
+                    "options": [
+                        "160 g",
+                        "320 g",
+                        "80 g",
+                        "240 g"
+                    ],
+                    "answer_value": "160 g"
+                },
+                {
+                    "question_id": 301456800,
+                    "question_value": "Calculate the standard Gibbs free energy change (\u0394G\u00b0) for the reaction: N\u2082(g) + 3 H\u2082(g) \u2192 2 NH\u2083(g), given \u0394H\u00b0 = -92 kJ and \u0394S\u00b0 = -198 J\/K.",
+                    "options": [
+                        "-33.1 kJ",
+                        "-59.6 kJ",
+                        "-69.6 kJ",
+                        "-23.1 kJ"
+                    ],
+                    "answer_value": "-33.1 kJ"
+                },
+                {
+                    "question_id": 56784290,
+                    "question_value": "What is the chemical formula for carbon monoxide?",
+                    "options": [
+                        "CO2",
+                        "CO",
+                        "CH4",
+                        "C"
+                    ],
+                    "answer_value": "CO"
+                },
+                {
+                    "question_id": 201456789,
+                    "question_value": "How many moles of oxygen gas (O\u2082) are required to completely react with 3 moles of hydrogen gas (H\u2082) in the formation of water (H\u2082O)?",
+                    "options": [
+                        "1.5 moles",
+                        "3 moles",
+                        "6 moles",
+                        "9 moles"
+                    ],
+                    "answer_value": "1.5 moles"
+                },
+                {
+                    "question_id": 301456796,
+                    "question_value": "Identify the oxidation and reduction half-reactions for the balanced redox equation: 2 I\u207b + Cl\u2082 \u2192 I\u2082 + 2 Cl\u207b",
+                    "options": [
+                        "Oxidation: I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 2 Cl\u207b",
+                        "Oxidation: 2 I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 2 Cl\u207b",
+                        "Oxidation: 2 I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 Cl\u207b",
+                        "Oxidation: I\u207b \u2192 I\u2082 + e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 Cl\u207b"
+                    ],
+                    "answer_value": "Oxidation: 2 I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 2 Cl\u207b"
+                },
+                {
+                    "question_id": 301456790,
+                    "question_value": "For a reaction to be spontaneous at all temperatures, what must be true about the signs of \u0394H (enthalpy change) and \u0394S (entropy change)?",
+                    "options": [
+                        "\u0394H < 0 and \u0394S < 0",
+                        "\u0394H > 0 and \u0394S > 0",
+                        "\u0394H < 0 and \u0394S > 0",
+                        "\u0394H > 0 and \u0394S < 0"
+                    ],
+                    "answer_value": "\u0394H < 0 and \u0394S > 0"
+                },
+                {
+                    "question_id": 4905567890,
+                    "question_value": "What is the lightest element?",
+                    "options": [
+                        "Oxygen",
+                        "Hydrogen",
+                        "Helium",
+                        "Carbon"
+                    ],
+                    "answer_value": "Hydrogen"
+                },
+                {
+                    "question_id": 67832901,
+                    "question_value": "What is the chemical symbol for sodium?",
+                    "options": [
+                        "So",
+                        "Na",
+                        "Sn",
+                        "Si"
+                    ],
+                    "answer_value": "Na"
+                },
+                {
+                    "question_id": 9420429,
+                    "question_value": "What is the process of vapor changing into liquid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Condensation"
+                },
+                {
+                    "question_id": 301456793,
+                    "question_value": "During electrolysis of aqueous sodium chloride (NaCl), what products are formed at the anode and cathode, respectively?",
+                    "options": [
+                        "Hydrogen gas at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, hydrogen gas at the cathode",
+                        "Sodium metal at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, oxygen gas at the cathode"
+                    ],
+                    "answer_value": "Chlorine gas at the anode, hydrogen gas at the cathode"
+                },
+                {
+                    "question_id": 5901234,
+                    "question_value": "Which of the following is a halogen?",
+                    "options": [
+                        "Sodium",
+                        "Chlorine",
+                        "Calcium",
+                        "Magnesium"
+                    ],
+                    "answer_value": "Chlorine"
+                },
+                {
+                    "question_id": 89012233,
+                    "question_value": "What is the formula for methane?",
+                    "options": [
+                        "CH4",
+                        "CO2",
+                        "NH3",
+                        "H2O"
+                    ],
+                    "answer_value": "CH4"
+                },
+                {
+                    "question_id": 301456797,
+                    "question_value": "What is the equilibrium constant (K) at 298 K for a reaction with \u0394G\u00b0 = -40 kJ\/mol? (R = 8.314 J\/mol\u00b7K)",
+                    "options": [
+                        "1.29 \u00d7 10\u2076",
+                        "2.18 \u00d7 10\u2077",
+                        "3.14 \u00d7 10\u2078",
+                        "5.26 \u00d7 10\u2079"
+                    ],
+                    "answer_value": "1.29 \u00d7 10\u2076"
+                },
+                {
+                    "question_id": 12123456,
+                    "question_value": "What is the process of liquid changing into solid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Freezing"
+                    ],
+                    "answer_value": "Freezing"
+                },
+                {
+                    "question_id": 201456798,
+                    "question_value": "Calculate the number of moles in 20 grams of glucose (C\u2086H\u2081\u2082O\u2086). (Molar mass of C\u2086H\u2081\u2082O\u2086 = 180 g\/mol)",
+                    "options": [
+                        "0.111 moles",
+                        "0.222 moles",
+                        "0.333 moles",
+                        "0.444 moles"
+                    ],
+                    "answer_value": "0.111 moles"
+                },
+                {
+                    "question_id": 13567890,
+                    "question_value": "What is the chemical formula for ammonia?",
+                    "options": [
+                        "NH3",
+                        "N2O",
+                        "NO2",
+                        "NO3"
+                    ],
+                    "answer_value": "NH3"
+                },
+                {
+                    "question_id": 201456791,
+                    "question_value": "How many atoms are there in 2 moles of carbon dioxide (CO\u2082)? (Avogadro's number = 6.022 \u00d7 10\u00b2\u00b3)",
+                    "options": [
+                        "6.022 \u00d7 10\u00b2\u00b3 atoms",
+                        "1.2044 \u00d7 10\u00b2\u2074 atoms",
+                        "3.6132 \u00d7 10\u00b2\u2074 atoms",
+                        "2.4088 \u00d7 10\u00b2\u2074 atoms"
+                    ],
+                    "answer_value": "2.4088 \u00d7 10\u00b2\u2074 atoms"
+                },
+                {
+                    "question_id": 301456801,
+                    "question_value": "Balance the following redox reaction in basic solution: Cr(OH)\u2084\u207b + ClO\u207b \u2192 CrO\u2084\u00b2\u207b + Cl\u207b",
+                    "options": [
+                        "Cr(OH)\u2084\u207b + ClO\u207b \u2192 CrO\u2084\u00b2\u207b + Cl\u207b + 2 H\u2082O",
+                        "2 Cr(OH)\u2084\u207b + ClO\u207b \u2192 2 CrO\u2084\u00b2\u207b + Cl\u207b + H\u2082O",
+                        "2 Cr(OH)\u2084\u207b + ClO\u207b + H\u2082O \u2192 2 CrO\u2084\u00b2\u207b + Cl\u207b + 4 H\u2082O",
+                        "Cr(OH)\u2084\u207b + 2 ClO\u207b \u2192 CrO\u2084\u00b2\u207b + 2 Cl\u207b + H\u2082O"
+                    ],
+                    "answer_value": "2 Cr(OH)\u2084\u207b + ClO\u207b + H\u2082O \u2192 2 CrO\u2084\u00b2\u207b + Cl\u207b + 4 H\u2082O"
+                },
+                {
+                    "question_id": 301456795,
+                    "question_value": "Which of the following reactions is thermodynamically favorable at 25\u00b0C? (R = 8.314 J\/mol\u00b7K)",
+                    "options": [
+                        "\u0394H = -100 kJ, \u0394S = -200 J\/K",
+                        "\u0394H = -50 kJ, \u0394S = 100 J\/K",
+                        "\u0394H = 100 kJ, \u0394S = -300 J\/K",
+                        "\u0394H = 200 kJ, \u0394S = 500 J\/K"
+                    ],
+                    "answer_value": "\u0394H = -50 kJ, \u0394S = 100 J\/K"
+                },
+                {
+                    "question_id": 3456004278,
+                    "question_value": "What is the formula for water?",
+                    "options": [
+                        "H2O2",
+                        "CO2",
+                        "H2O",
+                        "CH4"
+                    ],
+                    "answer_value": "H2O"
+                },
+                {
+                    "question_id": 301456799,
+                    "question_value": "In the electrolysis of molten sodium chloride (NaCl), what products are formed at the anode and cathode, respectively?",
+                    "options": [
+                        "Sodium metal at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, sodium metal at the cathode",
+                        "Hydrogen gas at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, hydrogen gas at the cathode"
+                    ],
+                    "answer_value": "Chlorine gas at the anode, sodium metal at the cathode"
+                },
+                {
+                    "question_id": 201456792,
+                    "question_value": "Given the reaction: 2 Al + 3 Cl\u2082 \u2192 2 AlCl\u2083, how many grams of aluminum chloride (AlCl\u2083) can be produced from 54 grams of aluminum (Al)? (Molar mass of Al = 27 g\/mol, AlCl\u2083 = 133.5 g\/mol)",
+                    "options": [
+                        "267 g",
+                        "133.5 g",
+                        "178 g",
+                        "54 g"
+                    ],
+                    "answer_value": "267 g"
+                },
+                {
+                    "question_id": 90123409,
+                    "question_value": "What is the pH value of a neutral solution?",
+                    "options": [
+                        "7",
+                        "0",
+                        "14",
+                        "1"
+                    ],
+                    "answer_value": "7"
+                },
+                {
+                    "question_id": 322890123,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Celsius",
+                        "Kelvin",
+                        "Fahrenheit",
+                        "Rankine"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 201456803,
+                    "question_value": "What is the limiting reactant when 10 grams of methane (CH\u2084) reacts with 10 grams of oxygen (O\u2082) in the combustion reaction: CH\u2084 + 2 O\u2082 \u2192 CO\u2082 + 2 H\u2082O?",
+                    "options": [
+                        "Methane",
+                        "Oxygen",
+                        "Carbon dioxide",
+                        "Water"
+                    ],
+                    "answer_value": "Oxygen"
+                },
+                {
+                    "question_id": 34544232,
+                    "question_value": "What is the chemical symbol for gold?",
+                    "options": [
+                        "Au",
+                        "Ag",
+                        "Fe",
+                        "Cu"
+                    ],
+                    "answer_value": "Au"
+                },
+                {
+                    "question_id": 901032234,
+                    "question_value": "Which of the following is an alkali metal?",
+                    "options": [
+                        "Lithium",
+                        "Calcium",
+                        "Sulfur",
+                        "Nitrogen"
+                    ],
+                    "answer_value": "Lithium"
+                },
+                {
+                    "question_id": 301456803,
+                    "question_value": "In an electrolytic cell, which of the following statements is true?",
+                    "options": [
+                        "Electrons flow from the anode to the cathode.",
+                        "Electrons flow from the cathode to the anode.",
+                        "Anions migrate to the anode.",
+                        "Cations migrate to the cathode."
+                    ],
+                    "answer_value": "Electrons flow from the anode to the cathode."
+                },
+                {
+                    "question_id": 456123,
+                    "question_value": "What is the atomic number of carbon?",
+                    "options": [
+                        "5",
+                        "10",
+                        "15",
+                        "6"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 11234023456,
+                    "question_value": "What is the chemical formula for table salt?",
+                    "options": [
+                        "NaCl",
+                        "HCl",
+                        "KCl",
+                        "CaCl2"
+                    ],
+                    "answer_value": "NaCl"
+                },
+                {
+                    "question_id": 301456791,
+                    "question_value": "Calculate the Gibbs free energy change (\u0394G) at 298 K for a reaction with \u0394H = -100 kJ and \u0394S = -200 J\/K.",
+                    "options": [
+                        "-40 kJ",
+                        "-140 kJ",
+                        "40 kJ",
+                        "140 kJ"
+                    ],
+                    "answer_value": "40 kJ"
+                },
+                {
+                    "question_id": 201456794,
+                    "question_value": "What is the empirical formula of a compound that contains 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass?",
+                    "options": [
+                        "CH\u2082O",
+                        "C\u2082H\u2084O\u2082",
+                        "C\u2083H\u2086O\u2083",
+                        "CH\u2083O"
+                    ],
+                    "answer_value": "CH\u2082O"
+                },
+                {
+                    "question_id": 201456793,
+                    "question_value": "In the combustion of propane (C\u2083H\u2088), how many moles of carbon dioxide (CO\u2082) are produced from the complete combustion of 2 moles of propane? (Reaction: C\u2083H\u2088 + 5 O\u2082 \u2192 3 CO\u2082 + 4 H\u2082O)",
+                    "options": [
+                        "3 moles",
+                        "6 moles",
+                        "9 moles",
+                        "12 moles"
+                    ],
+                    "answer_value": "6 moles"
+                },
+                {
+                    "question_id": 12567890,
+                    "question_value": "What is the chemical formula for hydrogen peroxide?",
+                    "options": [
+                        "H2O",
+                        "H2SO4",
+                        "H2O2",
+                        "HCl"
+                    ],
+                    "answer_value": "H2O2"
+                },
+                {
+                    "question_id": 2340909567,
+                    "question_value": "What is the chemical symbol for iron?",
+                    "options": [
+                        "Ir",
+                        "Fe",
+                        "Fr",
+                        "In"
+                    ],
+                    "answer_value": "Fe"
+                },
+                {
+                    "question_id": 301456798,
+                    "question_value": "For the reaction: 2 H\u2082O\u2082 \u2192 2 H\u2082O + O\u2082, what is the change in entropy (\u0394S) given that the standard entropy (S\u00b0) values are H\u2082O\u2082 = 109 J\/mol\u00b7K, H\u2082O = 70 J\/mol\u00b7K, and O\u2082 = 205 J\/mol\u00b7K?",
+                    "options": [
+                        "198 J\/mol\u00b7K",
+                        "126 J\/mol\u00b7K",
+                        "84 J\/mol\u00b7K",
+                        "35 J\/mol\u00b7K"
+                    ],
+                    "answer_value": "126 J\/mol\u00b7K"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,650 @@
+{
+   "subject": "BIOLOGY",
+   "questions": [
+      {
+         "question_id": 45618923,
+         "question_value": "What is the powerhouse of the cell?",
+         "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+         "answer_value": "Mitochondria"
+      },
+      {
+         "question_id": 32213264,
+         "question_value": "Which gas do plants absorb during photosynthesis?",
+         "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+         "answer_value": "Carbon Dioxide"
+      },
+      {
+         "question_id": 3453092678,
+         "question_value": "What is the largest organ in the human body?",
+         "options": ["Liver", "Skin", "Brain", "Heart"],
+         "answer_value": "Skin"
+      },
+      {
+         "question_id": 90123349472,
+         "question_value": "What is the function of red blood cells?",
+         "options": ["Transport oxygen", "Fight infection", "Produce antibodies", "Store energy"],
+         "answer_value": "Transport oxygen"
+      },
+      {
+         "question_id": 5674092890,
+         "question_value": "Which part of the plant conducts photosynthesis?",
+         "options": ["Roots", "Stem", "Leaves", "Flowers"],
+         "answer_value": "Leaves"
+      },
+      {
+         "question_id": 1233932456,
+         "question_value": "Which organ is responsible for filtering blood in the human body?",
+         "options": ["Kidneys", "Liver", "Heart", "Lungs"],
+         "answer_value": "Kidneys"
+      },
+      {
+         "question_id": 4342145408346,
+         "question_value": "What is the chemical substance that carries genetic information in cells?",
+         "options": ["DNA", "RNA", "ATP", "Glucose"],
+         "answer_value": "DNA"
+      },
+      {
+         "question_id": 234569839097,
+         "question_value": "What is the smallest unit of life?",
+         "options": ["Cell", "Tissue", "Organ", "Organism"],
+         "answer_value": "Cell"
+      },
+      {
+         "question_id": 8903232123,
+         "question_value": "Which part of the eye is responsible for seeing color?",
+         "options": ["Iris", "Cornea", "Lens", "Retina"],
+         "answer_value": "Retina"
+      },
+      {
+         "question_id": 344345613,
+         "question_value": "What is the process by which plants make their own food?",
+         "options": ["Respiration", "Fermentation", "Photosynthesis", "Digestion"],
+         "answer_value": "Photosynthesis"
+      },
+      {
+         "question_id": 9010830234,
+         "question_value": "What is the chemical formula for glucose?",
+         "options": ["C6H12O6", "CO2", "H2O", "NaCl"],
+         "answer_value": "C6H12O6"
+      },
+      {
+         "question_id": 567393812890,
+         "question_value": "Which of the following is not a type of muscle tissue?",
+         "options": ["Skeletal", "Cardiac", "Smooth", "Fibrous"],
+         "answer_value": "Fibrous"
+      },
+      {
+         "question_id": 123993456,
+         "question_value": "What is the main function of the respiratory system?",
+         "options": ["Transport nutrients", "Regulate body temperature", "Exchange gases", "Produce hormones"],
+         "answer_value": "Exchange gases"
+      },
+      {
+         "question_id": 987656734,
+         "question_value": "What is the longest bone in the human body?",
+         "options": ["Femur", "Humerus", "Radius", "Tibia"],
+         "answer_value": "Femur"
+      },
+      {
+         "question_id": 5453253635,
+         "question_value": "Which organ system is responsible for protecting the body from pathogens?",
+         "options": ["Immune system", "Digestive system", "Nervous system", "Endocrine system"],
+         "answer_value": "Immune system"
+      },
+      {
+         "question_id": 8942450123,
+         "question_value": "What is the basic unit of heredity?",
+         "options": ["Gene", "Allele", "Chromosome", "DNA"],
+         "answer_value": "Gene"
+      },
+      {
+         "question_id": 346535678,
+         "question_value": "Which of the following is not a function of the liver?",
+         "options": ["Detoxification", "Blood clotting", "Digestion", "Metabolism"],
+         "answer_value": "Digestion"
+      },
+      {
+         "question_id": 9023461234,
+         "question_value": "What is the process of cell division in somatic cells called?",
+         "options": ["Mitosis", "Meiosis", "Fertilization", "Apoptosis"],
+         "answer_value": "Mitosis"
+      },
+      {
+         "question_id": 56789530,
+         "question_value": "What is the powerhouse of the plant cell?",
+         "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+         "answer_value": "Chloroplast"
+      },
+      {
+         "question_id": 12333456,
+         "question_value": "What is the study of fossils called?",
+         "options": ["Geology", "Anthropology", "Paleontology", "Archaeology"],
+         "answer_value": "Paleontology"
+      },
+      {
+         "question_id": 789063412,
+         "question_value": "Which of the following is not a type of blood vessel?",
+         "options": ["Vein", "Artery", "Capillary", "Ligament"],
+         "answer_value": "Ligament"
+      },
+      {
+         "question_id": 323331535,
+         "question_value": "What is the primary function of white blood cells?",
+         "options": ["Transport oxygen", "Fight infection", "Produce antibodies", "Store energy"],
+         "answer_value": "Fight infection"
+      },
+      {
+         "question_id": 890653123,
+         "question_value": "Which of the following is not a kingdom in the classification of living organisms?",
+         "options": ["Animalia", "Plantae", "Protista", "Mycota"],
+         "answer_value": "Mycota"
+      },
+      {
+         "question_id": 34530920678,
+         "question_value": "What is the process by which organisms produce offspring?",
+         "options": ["Photosynthesis", "Respiration", "Reproduction", "Digestion"],
+         "answer_value": "Reproduction"
+      },
+      {
+         "question_id": 90123009324,
+         "question_value": "Which of the following is not a function of the skeletal system?",
+         "options": ["Support", "Protection", "Movement", "Digestion"],
+         "answer_value": "Digestion"
+      },
+      {
+         "question_id": 983247823,
+         "question_value": "Which organelle is primarily responsible for the production of ATP in eukaryotic cells?",
+         "options": [
+             "Nucleus",
+             "Ribosome",
+             "Mitochondrion",
+             "Endoplasmic reticulum"
+         ],
+         "answer_value": "Mitochondrion"
+      },
+      {
+            "question_id": 983247824,
+            "question_value": "What process involves the conversion of glucose into pyruvate, producing ATP and NADH in the absence of oxygen?",
+            "options": [
+               "Photosynthesis",
+               "Glycolysis",
+               "Krebs cycle",
+               "Electron transport chain"
+            ],
+            "answer_value": "Glycolysis"
+      },
+      {
+            "question_id": 983247825,
+            "question_value": "In genetics, what is the term for a segment of DNA that codes for a specific protein or trait?",
+            "options": [
+               "Allele",
+               "Gene",
+               "Chromosome",
+               "Genotype"
+            ],
+            "answer_value": "Gene"
+      },
+      {
+            "question_id": 983247826,
+            "question_value": "Which phase of mitosis is characterized by the alignment of chromosomes along the metaphase plate?",
+            "options": [
+               "Prophase",
+               "Metaphase",
+               "Anaphase",
+               "Telophase"
+            ],
+            "answer_value": "Metaphase"
+      },
+      {
+            "question_id": 983247827,
+            "question_value": "What is the primary function of the ribosome in the cell?",
+            "options": [
+               "DNA replication",
+               "Protein synthesis",
+               "Lipid metabolism",
+               "Carbohydrate storage"
+            ],
+            "answer_value": "Protein synthesis"
+      },
+      {
+            "question_id": 983247828,
+            "question_value": "In the context of evolution, what term describes the process by which organisms better adapted to their environment tend to survive and produce more offspring?",
+            "options": [
+               "Genetic drift",
+               "Natural selection",
+               "Gene flow",
+               "Mutation"
+            ],
+            "answer_value": "Natural selection"
+      },
+      {
+            "question_id": 983247829,
+            "question_value": "What type of bond forms between the nitrogenous bases of complementary DNA strands?",
+            "options": [
+               "Ionic bond",
+               "Covalent bond",
+               "Hydrogen bond",
+               "Metallic bond"
+            ],
+            "answer_value": "Hydrogen bond"
+      },
+      {
+            "question_id": 983247830,
+            "question_value": "Which enzyme is responsible for synthesizing RNA from a DNA template during transcription?",
+            "options": [
+               "DNA polymerase",
+               "RNA polymerase",
+               "Ligase",
+               "Helicase"
+            ],
+            "answer_value": "RNA polymerase"
+      },
+      {
+            "question_id": 983247831,
+            "question_value": "In what part of the cell does the Krebs cycle take place?",
+            "options": [
+               "Cytoplasm",
+               "Mitochondrial matrix",
+               "Nucleus",
+               "Golgi apparatus"
+            ],
+            "answer_value": "Mitochondrial matrix"
+      },
+      {
+            "question_id": 983247832,
+            "question_value": "Which molecule carries amino acids to the ribosome for incorporation into a growing polypeptide chain?",
+            "options": [
+               "mRNA",
+               "tRNA",
+               "rRNA",
+               "DNA"
+            ],
+            "answer_value": "tRNA"
+      },
+      {
+            "question_id": 983247833,
+            "question_value": "What is the term for a group of related organisms that can interbreed and produce fertile offspring?",
+            "options": [
+               "Genus",
+               "Family",
+               "Species",
+               "Population"
+            ],
+            "answer_value": "Species"
+      },
+      {
+            "question_id": 983247834,
+            "question_value": "Which structure within the cell membrane functions primarily in cell recognition and signaling?",
+            "options": [
+               "Phospholipids",
+               "Proteins",
+               "Carbohydrates",
+               "Cholesterol"
+            ],
+            "answer_value": "Proteins"
+      },
+      {
+            "question_id": 983247835,
+            "question_value": "What is the primary photosynthetic pigment in plants?",
+            "options": [
+               "Chlorophyll",
+               "Carotene",
+               "Xanthophyll",
+               "Phycobilin"
+            ],
+            "answer_value": "Chlorophyll"
+      },
+      {
+            "question_id": 983247836,
+            "question_value": "Which blood cells are primarily responsible for fighting infections in the body?",
+            "options": [
+               "Red blood cells",
+               "Platelets",
+               "White blood cells",
+               "Plasma cells"
+            ],
+            "answer_value": "White blood cells"
+      },
+      {
+            "question_id": 983247837,
+            "question_value": "What process involves the movement of water across a semipermeable membrane from an area of low solute concentration to an area of high solute concentration?",
+            "options": [
+               "Diffusion",
+               "Osmosis",
+               "Active transport",
+               "Facilitated diffusion"
+            ],
+            "answer_value": "Osmosis"
+      },
+      {
+         "question_id": 104293847,
+         "question_value": "Which type of bone cell is responsible for the resorption of bone tissue?",
+         "options": [
+             "Osteoblast",
+             "Osteocyte",
+             "Osteoclast",
+             "Chondrocyte"
+         ],
+         "answer_value": "Osteoclast"
+      },
+      {
+            "question_id": 104293848,
+            "question_value": "What is the primary mineral found in bones that contributes to their hardness?",
+            "options": [
+               "Calcium phosphate",
+               "Magnesium sulfate",
+               "Potassium chloride",
+               "Sodium bicarbonate"
+            ],
+            "answer_value": "Calcium phosphate"
+      },
+      {
+            "question_id": 104293849,
+            "question_value": "Which part of the vertebral column is composed of the most vertebrae?",
+            "options": [
+               "Cervical",
+               "Thoracic",
+               "Lumbar",
+               "Sacral"
+            ],
+            "answer_value": "Thoracic"
+      },
+      {
+            "question_id": 104293850,
+            "question_value": "What is the term for the process by which cartilage is replaced by bone during fetal development?",
+            "options": [
+               "Ossification",
+               "Calcification",
+               "Osteogenesis",
+               "Chondrogenesis"
+            ],
+            "answer_value": "Ossification"
+      },
+      {
+            "question_id": 104293851,
+            "question_value": "Which structure in the skeletal system connects muscle to bone?",
+            "options": [
+               "Ligament",
+               "Tendon",
+               "Cartilage",
+               "Fascia"
+            ],
+            "answer_value": "Tendon"
+      },
+      {
+            "question_id": 104293852,
+            "question_value": "In which type of joint would you find a synovial membrane?",
+            "options": [
+               "Fibrous joint",
+               "Cartilaginous joint",
+               "Synovial joint",
+               "Suture joint"
+            ],
+            "answer_value": "Synovial joint"
+      },
+      {
+            "question_id": 104293853,
+            "question_value": "Which hormone is primarily responsible for regulating calcium levels in the blood and bones?",
+            "options": [
+               "Insulin",
+               "Thyroxine",
+               "Parathyroid hormone",
+               "Glucagon"
+            ],
+            "answer_value": "Parathyroid hormone"
+      },
+      {
+            "question_id": 104293854,
+            "question_value": "Which type of bone tissue is characterized by a dense and smooth appearance?",
+            "options": [
+               "Spongy bone",
+               "Compact bone",
+               "Trabecular bone",
+               "Cancellous bone"
+            ],
+            "answer_value": "Compact bone"
+      },
+      {
+            "question_id": 104293855,
+            "question_value": "Which component of the skeletal system stores and releases minerals such as calcium and phosphorus?",
+            "options": [
+               "Marrow",
+               "Periosteum",
+               "Endosteum",
+               "Bone matrix"
+            ],
+            "answer_value": "Bone matrix"
+      },
+      {
+            "question_id": 104293856,
+            "question_value": "What is the primary function of the axial skeleton?",
+            "options": [
+               "To support the weight of the body",
+               "To protect the central nervous system",
+               "To facilitate movement",
+               "To produce blood cells"
+            ],
+            "answer_value": "To protect the central nervous system"
+      },
+      {
+            "question_id": 104293857,
+            "question_value": "Which vitamin is essential for the absorption of calcium from the digestive tract?",
+            "options": [
+               "Vitamin A",
+               "Vitamin B12",
+               "Vitamin C",
+               "Vitamin D"
+            ],
+            "answer_value": "Vitamin D"
+      },
+      {
+            "question_id": 104293858,
+            "question_value": "What is the anatomical term for the growth plate found in long bones?",
+            "options": [
+               "Diaphysis",
+               "Epiphysis",
+               "Metaphysis",
+               "Epiphyseal plate"
+            ],
+            "answer_value": "Epiphyseal plate"
+      },
+      {
+            "question_id": 104293859,
+            "question_value": "Which bone is known as the kneecap?",
+            "options": [
+               "Femur",
+               "Tibia",
+               "Fibula",
+               "Patella"
+            ],
+            "answer_value": "Patella"
+      },
+      {
+            "question_id": 104293860,
+            "question_value": "Which condition is characterized by the progressive loss of bone density and increased fracture risk?",
+            "options": [
+               "Osteoporosis",
+               "Arthritis",
+               "Rickets",
+               "Scoliosis"
+            ],
+            "answer_value": "Osteoporosis"
+      },
+      {
+            "question_id": 104293861,
+            "question_value": "What is the name of the largest bone in the human body?",
+            "options": [
+               "Humerus",
+               "Tibia",
+               "Femur",
+               "Fibula"
+            ],
+            "answer_value": "Femur"
+      },
+      {
+         "question_id": 123456789,
+         "question_value": "What is the primary pacemaker of the heart that initiates the heartbeat?",
+         "options": [
+             "Atrioventricular (AV) node",
+             "Purkinje fibers",
+             "Bundle of His",
+             "Sinoatrial (SA) node"
+         ],
+         "answer_value": "Sinoatrial (SA) node"
+     },
+     {
+         "question_id": 123456790,
+         "question_value": "Which part of the brain is responsible for coordinating voluntary movements and maintaining balance?",
+         "options": [
+             "Cerebellum",
+             "Medulla oblongata",
+             "Hypothalamus",
+             "Thalamus"
+         ],
+         "answer_value": "Cerebellum"
+     },
+     {
+         "question_id": 123456791,
+         "question_value": "What is the name of the structure in the kidney that filters blood to form urine?",
+         "options": [
+             "Nephron",
+             "Glomerulus",
+             "Bowman's capsule",
+             "Loop of Henle"
+         ],
+         "answer_value": "Nephron"
+     },
+     {
+         "question_id": 123456792,
+         "question_value": "Which neurotransmitter is primarily involved in the fight-or-flight response and is produced by the adrenal medulla?",
+         "options": [
+             "Acetylcholine",
+             "Serotonin",
+             "Dopamine",
+             "Epinephrine"
+         ],
+         "answer_value": "Epinephrine"
+     },
+     {
+         "question_id": 123456793,
+         "question_value": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+         "options": [
+             "Pulmonary artery",
+             "Pulmonary vein",
+             "Aorta",
+             "Coronary artery"
+         ],
+         "answer_value": "Pulmonary vein"
+     },
+     {
+         "question_id": 123456794,
+         "question_value": "What part of the kidney is responsible for the reabsorption of water and salts back into the blood?",
+         "options": [
+             "Proximal convoluted tubule",
+             "Distal convoluted tubule",
+             "Loop of Henle",
+             "Collecting duct"
+         ],
+         "answer_value": "Proximal convoluted tubule"
+     },
+     {
+         "question_id": 123456795,
+         "question_value": "Which part of the brain regulates essential functions such as heart rate, breathing, and blood pressure?",
+         "options": [
+             "Cerebrum",
+             "Cerebellum",
+             "Medulla oblongata",
+             "Pons"
+         ],
+         "answer_value": "Medulla oblongata"
+     },
+     {
+         "question_id": 123456796,
+         "question_value": "What is the main function of the loop of Henle in the nephron?",
+         "options": [
+             "Filtration of blood",
+             "Reabsorption of nutrients",
+             "Concentration of urine",
+             "Secretion of waste"
+         ],
+         "answer_value": "Concentration of urine"
+     },
+     {
+         "question_id": 123456797,
+         "question_value": "Which chamber of the heart pumps oxygenated blood to the rest of the body?",
+         "options": [
+             "Left atrium",
+             "Right atrium",
+             "Left ventricle",
+             "Right ventricle"
+         ],
+         "answer_value": "Left ventricle"
+     },
+     {
+         "question_id": 123456798,
+         "question_value": "Which region of the brain is primarily involved in the processing of visual information?",
+         "options": [
+             "Frontal lobe",
+             "Temporal lobe",
+             "Parietal lobe",
+             "Occipital lobe"
+         ],
+         "answer_value": "Occipital lobe"
+     },
+     {
+         "question_id": 123456799,
+         "question_value": "What hormone, produced by the kidneys, stimulates the production of red blood cells?",
+         "options": [
+             "Insulin",
+             "Aldosterone",
+             "Erythropoietin",
+             "Cortisol"
+         ],
+         "answer_value": "Erythropoietin"
+     },
+     {
+         "question_id": 123456800,
+         "question_value": "Which structure in the brain is responsible for relaying sensory information to the appropriate areas of the cerebrum?",
+         "options": [
+             "Thalamus",
+             "Hypothalamus",
+             "Amygdala",
+             "Hippocampus"
+         ],
+         "answer_value": "Thalamus"
+     },
+     {
+         "question_id": 123456801,
+         "question_value": "What is the name of the valve that prevents the backflow of blood from the right ventricle into the right atrium?",
+         "options": [
+             "Aortic valve",
+             "Mitral valve",
+             "Pulmonary valve",
+             "Tricuspid valve"
+         ],
+         "answer_value": "Tricuspid valve"
+     },
+     {
+         "question_id": 123456802,
+         "question_value": "Which hormone regulates the concentration of sodium and potassium in the blood and is produced by the adrenal cortex?",
+         "options": [
+             "Adrenaline",
+             "Aldosterone",
+             "Cortisol",
+             "Insulin"
+         ],
+         "answer_value": "Aldosterone"
+     },
+     {
+         "question_id": 123456803,
+         "question_value": "What is the function of the corpus callosum in the brain?",
+         "options": [
+             "Regulating emotions",
+             "Coordinating voluntary movements",
+             "Connecting the two hemispheres",
+             "Processing auditory information"
+         ],
+         "answer_value": "Connecting the two hemispheres"
+     }
+   ]
+}

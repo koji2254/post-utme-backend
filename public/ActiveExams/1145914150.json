@@ -1,0 +1,2013 @@
+{
+    "exam_id": 1145914150,
+    "questions": [
+        {
+            "subject": "ENGLISH LANGUAGE",
+            "questions": [
+                {
+                    "question_id": 92292929292,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "What is the main function of the Amazon rainforest according to the passage?",
+                    "options": [
+                        "Habitat for wildlife",
+                        "Source of food and medicine",
+                        "Regulation of Earth's atmosphere",
+                        "Production of oxygen"
+                    ],
+                    "answer_value": "Regulation of Earth's atmosphere"
+                },
+                {
+                    "question_id": 8765904942341,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "Which gas is absorbed by plants in the rainforest during photosynthesis?",
+                    "options": [
+                        "Nitrogen",
+                        "Oxygen",
+                        "Carbon Dioxide",
+                        "Water Vapor"
+                    ],
+                    "answer_value": "Carbon Dioxide"
+                },
+                {
+                    "question_id": 3098848484848,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "What is the negative impact of deforestation mentioned in the passage?",
+                    "options": [
+                        "Reduces biodiversity",
+                        "Increases soil erosion",
+                        "Releases stored carbon",
+                        "All of the above"
+                    ],
+                    "answer_value": "All of the above"
+                },
+                {
+                    "question_id": 89090909393484848,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "The word 'mitigate' in the passage is closest in meaning to:",
+                    "options": [
+                        "Eliminate",
+                        "Control",
+                        "Ignore",
+                        "Produce"
+                    ],
+                    "answer_value": "Control"
+                },
+                {
+                    "question_id": 8099938343248,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "Based on the passage, why is deforestation a concern?",
+                    "options": [
+                        "Reduces the beauty of the rainforest",
+                        "Disrupts the habitat of animals",
+                        "Contributes to climate change",
+                        "All of the above"
+                    ],
+                    "answer_value": "All of the above"
+                },
+                {
+                    "question_id": 494849344,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "What is coral bleaching and how does it affect marine ecosystems?",
+                    "options": [
+                        "It is a process where corals change color naturally, enhancing biodiversity.",
+                        "It is the expulsion of symbiotic algae from corals, leading to the death of the coral and affecting marine life dependent on reefs.",
+                        "It is the process where corals gain more algae, increasing their growth and the surrounding marine life.",
+                        "It is the phenomenon where corals harden due to increased calcium carbonate, strengthening the reefs."
+                    ],
+                    "answer_value": "It is the expulsion of symbiotic algae from corals, leading to the death of the coral and affecting marine life dependent on reefs."
+                },
+                {
+                    "question_id": 58899389,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "How does ocean acidification impact marine organisms?",
+                    "options": [
+                        "It increases the availability of carbonate ions, enhancing the growth of calcium carbonate structures.",
+                        "It reduces the availability of carbonate ions, impairing the growth and survival of organisms that rely on calcium carbonate structures.",
+                        "It has no significant impact on marine organisms as they adapt quickly.",
+                        "It reduces the oxygen levels in the water, causing marine organisms to suffocate."
+                    ],
+                    "answer_value": "It reduces the availability of carbonate ions, impairing the growth and survival of organisms that rely on calcium carbonate structures."
+                },
+                {
+                    "question_id": 690909090,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "What is one of the effects of the melting polar ice caps and glaciers?",
+                    "options": [
+                        "Decreased erosion of coastal habitats",
+                        "Increased availability of marine biodiversity",
+                        "Rising sea levels threatening coastal habitats and human settlements",
+                        "Stabilization of ocean currents and temperatures"
+                    ],
+                    "answer_value": "Rising sea levels threatening coastal habitats and human settlements"
+                },
+                {
+                    "question_id": 778799049,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "How can changes in ocean currents and temperatures affect marine species?",
+                    "options": [
+                        "By ensuring stable habitats and improving biodiversity",
+                        "By altering their distribution and behavior, leading to shifts in marine biodiversity and potential fisheries collapse",
+                        "By reducing the overall biodiversity of terrestrial ecosystems",
+                        "By decreasing the levels of atmospheric carbon dioxide"
+                    ],
+                    "answer_value": "By altering their distribution and behavior, leading to shifts in marine biodiversity and potential fisheries collapse"
+                },
+                {
+                    "question_id": 898393834,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "What are some efforts mentioned in the passage to mitigate the impact of climate change on marine ecosystems?",
+                    "options": [
+                        "Increasing greenhouse gas emissions and constructing more coastal settlements",
+                        "Reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices",
+                        "Enhancing ocean acidification and encouraging overfishing",
+                        "Melting polar ice caps and altering ocean currents"
+                    ],
+                    "answer_value": "Reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices"
+                },
+                {
+                    "question_id": 294849344,
+                    "comprehension_title": "The Legacy of Ancient Civilizations",
+                    "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today\u2019s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+                    "question_value": "What is one architectural achievement of the Egyptians mentioned in the passage?",
+                    "options": [
+                        "The Colosseum",
+                        "The Great Wall",
+                        "The Pyramids",
+                        "The Parthenon"
+                    ],
+                    "answer_value": "The Pyramids"
+                },
+                {
+                    "question_id": 38899389,
+                    "comprehension_title": "The Legacy of Ancient Civilizations",
+                    "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today\u2019s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+                    "question_value": "Which Greek philosopher is NOT mentioned in the passage?",
+                    "options": [
+                        "Socrates",
+                        "Plato",
+                        "Aristotle",
+                        "Pythagoras"
+                    ],
+                    "answer_value": "Pythagoras"
+                },
+                {
+                    "question_id": 490909090,
+                    "comprehension_title": "The Legacy of Ancient Civilizations",
+                    "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today\u2019s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+                    "question_value": "How did ancient astronomers contribute to modern society?",
+                    "options": [
+                        "By inventing the telescope",
+                        "By charting the stars and developing calendars",
+                        "By establishing astrology as a science",
+                        "By discovering new planets"
+                    ],
+                    "answer_value": "By charting the stars and developing calendars"
+                },
+                {
+                    "question_id": 578799049,
+                    "comprehension_title": "The Legacy of Ancient Civilizations",
+                    "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today\u2019s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+                    "question_value": "Which field of study did the Greeks significantly advance, as mentioned in the passage?",
+                    "options": [
+                        "Chemistry",
+                        "Biology",
+                        "Geometry",
+                        "Psychology"
+                    ],
+                    "answer_value": "Geometry"
+                },
+                {
+                    "question_id": 698393834,
+                    "comprehension_title": "The Legacy of Ancient Civilizations",
+                    "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today\u2019s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+                    "question_value": "What aspect of Roman civilization has had a lasting impact on global legal systems?",
+                    "options": [
+                        "Their military tactics",
+                        "Their agricultural practices",
+                        "Their codification of laws",
+                        "Their religious rituals"
+                    ],
+                    "answer_value": "Their codification of laws"
+                },
+                {
+                    "question_id": 823423748221,
+                    "question_value": "Her _____ attitude towards the project resulted in several critical errors.",
+                    "options": [
+                        "meticulous",
+                        "indifferent",
+                        "diligent",
+                        "scrupulous"
+                    ],
+                    "answer_value": "indifferent"
+                },
+                {
+                    "question_id": 5026148370,
+                    "question_value": "What is the effect of using onomatopoeia in a poem?",
+                    "options": [
+                        "To create a sense of rhythm",
+                        "To create a vivid image",
+                        "To mimic a sound",
+                        "To convey a complex emotion"
+                    ],
+                    "answer_value": "To mimic a sound"
+                },
+                {
+                    "question_id": 1835242749,
+                    "question_value": "What is the correct plural of 'child'?",
+                    "options": [
+                        "Childs",
+                        "Children",
+                        "Childes",
+                        "Childrens"
+                    ],
+                    "answer_value": "Children"
+                },
+                {
+                    "question_id": 8237482634509,
+                    "question_value": "Despite the CEO's _____ remarks, the company's employees were still anxious about their jobs.",
+                    "options": [
+                        "reassuring",
+                        "condescending",
+                        "ambiguous",
+                        "derogatory"
+                    ],
+                    "answer_value": "reassuring"
+                },
+                {
+                    "question_id": 7412583960,
+                    "question_value": "What is the author's purpose most likely to be in a persuasive essay?",
+                    "options": [
+                        "To inform the reader",
+                        "To entertain the reader",
+                        "To convince the reader of a particular viewpoint",
+                        "To tell a story"
+                    ],
+                    "answer_value": "To convince the reader of a particular viewpoint"
+                },
+                {
+                    "question_id": 342781,
+                    "question_value": "Which word is a homophone for 'to'?",
+                    "options": [
+                        "Too",
+                        "Two",
+                        "Toe",
+                        "Both A and B"
+                    ],
+                    "answer_value": "Both A and B"
+                },
+                {
+                    "question_id": 986457654,
+                    "question_value": "Which word is a pronoun?",
+                    "options": [
+                        "Quickly",
+                        "She",
+                        "Happy",
+                        "Dog"
+                    ],
+                    "answer_value": "She"
+                },
+                {
+                    "question_id": 782344231,
+                    "question_value": "Which sentence is grammatically correct?",
+                    "options": [
+                        "She go to school.",
+                        "She going to school.",
+                        "She goes to school.",
+                        "She gone to school."
+                    ],
+                    "answer_value": "She goes to school."
+                },
+                {
+                    "question_id": 823748774237,
+                    "question_value": "Identify the figure of speech: 'The leaves danced in the wind.'",
+                    "options": [
+                        "Metaphor",
+                        "Simile",
+                        "Personification",
+                        "Hyperbole"
+                    ],
+                    "answer_value": "Personification"
+                },
+                {
+                    "question_id": 8237482566412,
+                    "question_value": "The author's use of _____ language added depth to the narrative.",
+                    "options": [
+                        "colloquial",
+                        "pedestrian",
+                        "laconic",
+                        "ornate"
+                    ],
+                    "answer_value": "ornate"
+                },
+                {
+                    "question_id": 823778748240,
+                    "question_value": "Identify the figure of speech: 'He is as cunning as a fox.'",
+                    "options": [
+                        "Simile",
+                        "Hyperbole",
+                        "Metaphor",
+                        "Personification"
+                    ],
+                    "answer_value": "Simile"
+                },
+                {
+                    "question_id": 82374823197,
+                    "question_value": "Which word is a synonym for 'prodigal'?",
+                    "options": [
+                        "Frugal",
+                        "Thrifty",
+                        "Extravagant",
+                        "Economical"
+                    ],
+                    "answer_value": "Extravagant"
+                },
+                {
+                    "question_id": 8237482324502,
+                    "question_value": "Identify the word that does not belong in the group: 'ephemeral, transient, perennial, fleeting'.",
+                    "options": [
+                        "Ephemeral",
+                        "Transient",
+                        "Perennial",
+                        "Fleeting"
+                    ],
+                    "answer_value": "Perennial"
+                },
+                {
+                    "question_id": 123249837,
+                    "question_value": "What is the antonym of 'cold'?",
+                    "options": [
+                        "Cool",
+                        "Chilly",
+                        "Hot",
+                        "Freezing"
+                    ],
+                    "answer_value": "Hot"
+                },
+                {
+                    "question_id": 9139750240,
+                    "question_value": "What is the difference between a metaphor and a simile?",
+                    "options": [
+                        "Metaphors directly state a comparison, while similes use 'like' or 'as'.",
+                        "Metaphors are hidden comparisons, while similes are explicit.",
+                        "Metaphors are used in poetry, while similes are used in prose.",
+                        "There is no difference."
+                    ],
+                    "answer_value": "Metaphors directly state a comparison, while similes use 'like' or 'as'."
+                },
+                {
+                    "question_id": 9842335123,
+                    "question_value": "Which word is a verb?",
+                    "options": [
+                        "Quickly",
+                        "Run",
+                        "Blue",
+                        "House"
+                    ],
+                    "answer_value": "Run"
+                },
+                {
+                    "question_id": 182423734,
+                    "question_value": "Which sentence uses the correct form of 'their\/there\/they're'?",
+                    "options": [
+                        "Their going to the park.",
+                        "There going to the park.",
+                        "They're going to the park.",
+                        "Theyre going to the park."
+                    ],
+                    "answer_value": "They're going to the park."
+                },
+                {
+                    "question_id": 1223458374,
+                    "question_value": "Which word is spelled correctly?",
+                    "options": [
+                        "Receeve",
+                        "Receive",
+                        "Recieve",
+                        "Receve"
+                    ],
+                    "answer_value": "Receive"
+                },
+                {
+                    "question_id": 823748276648,
+                    "question_value": "Identify the figure of speech: 'Life is a rollercoaster.'",
+                    "options": [
+                        "Simile",
+                        "Metaphor",
+                        "Hyperbole",
+                        "Personification"
+                    ],
+                    "answer_value": "Metaphor"
+                },
+                {
+                    "question_id": 82374832050,
+                    "question_value": "Which word is a synonym for 'laconic'?",
+                    "options": [
+                        "Verbose",
+                        "Wordy",
+                        "Reticent",
+                        "Talkative"
+                    ],
+                    "answer_value": "Reticent"
+                },
+                {
+                    "question_id": 4356219801,
+                    "question_value": "What is the central idea of a text?",
+                    "options": [
+                        "The main topic or message of the text",
+                        "The setting of the story",
+                        "The characters involved in the story",
+                        "The plot of the story"
+                    ],
+                    "answer_value": "The main topic or message of the text"
+                },
+                {
+                    "question_id": 8237482457884,
+                    "question_value": "Identify the figure of speech: 'I'm so hungry I could eat a horse.'",
+                    "options": [
+                        "Simile",
+                        "Hyperbole",
+                        "Metaphor",
+                        "Personification"
+                    ],
+                    "answer_value": "Hyperbole"
+                },
+                {
+                    "question_id": 455456123,
+                    "question_value": "What is the correct form of 'to be' in the sentence: 'They ___ happy.'?",
+                    "options": [
+                        "Am",
+                        "Is",
+                        "Are",
+                        "Be"
+                    ],
+                    "answer_value": "Are"
+                },
+                {
+                    "question_id": 31243789,
+                    "question_value": "What is the superlative form of 'good'?",
+                    "options": [
+                        "Gooder",
+                        "Better",
+                        "Best",
+                        "Most good"
+                    ],
+                    "answer_value": "Best"
+                },
+                {
+                    "question_id": 123978,
+                    "question_value": "Which sentence is grammatically correct?",
+                    "options": [
+                        "She don't like apples.",
+                        "She doesn't like apples.",
+                        "She do not like apples.",
+                        "She does not likes apples."
+                    ],
+                    "answer_value": "She doesn't like apples."
+                },
+                {
+                    "question_id": 135709898492,
+                    "question_value": "Which word means 'a place where books are kept'?",
+                    "options": [
+                        "Library",
+                        "Kitchen",
+                        "Garage",
+                        "School"
+                    ],
+                    "answer_value": "Library"
+                },
+                {
+                    "question_id": 823745638206,
+                    "question_value": "Which word is most opposite in meaning to 'obdurate'?",
+                    "options": [
+                        "Stubborn",
+                        "Flexible",
+                        "Unyielding",
+                        "Adamant"
+                    ],
+                    "answer_value": "Flexible"
+                },
+                {
+                    "question_id": 654434321,
+                    "question_value": "What is the subject in the sentence: 'The cat sat on the mat.'?",
+                    "options": [
+                        "The",
+                        "Cat",
+                        "Sat",
+                        "Mat"
+                    ],
+                    "answer_value": "Cat"
+                },
+                {
+                    "question_id": 823748274535,
+                    "question_value": "Her _____ attitude towards the project resulted in several _____ errors.",
+                    "options": [
+                        "meticulous, minor",
+                        "indifferent, critical",
+                        "diligent, negligible",
+                        "scrupulous, trivial"
+                    ],
+                    "answer_value": "indifferent, critical"
+                },
+                {
+                    "question_id": 823748866210,
+                    "question_value": "Her _____ nature made it difficult for her to stay focused on one task for long.",
+                    "options": [
+                        "diligent",
+                        "mercurial",
+                        "industrious",
+                        "unwavering"
+                    ],
+                    "answer_value": "mercurial"
+                },
+                {
+                    "question_id": 823748263505,
+                    "question_value": "Choose the word that is closest in meaning to 'ubiquitous'.",
+                    "options": [
+                        "Rare",
+                        "Scarce",
+                        "Omnipresent",
+                        "Isolated"
+                    ],
+                    "answer_value": "Omnipresent"
+                },
+                {
+                    "question_id": 654123,
+                    "question_value": "Which word is a conjunction?",
+                    "options": [
+                        "Because",
+                        "Run",
+                        "Quickly",
+                        "Blue"
+                    ],
+                    "answer_value": "Because"
+                },
+                {
+                    "question_id": 1234567890,
+                    "question_value": "What is the synonym of 'meticulous'?",
+                    "options": [
+                        "Careless",
+                        "Scrupulous",
+                        "Flippant",
+                        "Rash"
+                    ],
+                    "answer_value": "Scrupulous"
+                },
+                {
+                    "question_id": 823748646227,
+                    "question_value": "The _____ effects of climate change are already being felt in many parts of the _____.",
+                    "options": [
+                        "negligible, country",
+                        "pervasive, world",
+                        "ephemeral, city",
+                        "transient, neighborhood"
+                    ],
+                    "answer_value": "pervasive, world"
+                },
+                {
+                    "question_id": 823743458217,
+                    "question_value": "The politician's _____ promises did little to gain the trust of the voters.",
+                    "options": [
+                        "vague",
+                        "concrete",
+                        "explicit",
+                        "detailed"
+                    ],
+                    "answer_value": "vague"
+                },
+                {
+                    "question_id": 194352374,
+                    "question_value": "Which word is a preposition?",
+                    "options": [
+                        "Under",
+                        "Quick",
+                        "Cat",
+                        "Very"
+                    ],
+                    "answer_value": "Under"
+                },
+                {
+                    "question_id": 823747538246,
+                    "question_value": "Identify the figure of speech: 'The wind whispered through the trees.'",
+                    "options": [
+                        "Simile",
+                        "Hyperbole",
+                        "Personification",
+                        "Alliteration"
+                    ],
+                    "answer_value": "Personification"
+                },
+                {
+                    "question_id": 82374826445336,
+                    "question_value": "The company's _____ policy led to a _____ in employee morale.",
+                    "options": [
+                        "generous, boost",
+                        "draconian, decline",
+                        "lenient, drop",
+                        "transparent, increase"
+                    ],
+                    "answer_value": "draconian, decline"
+                },
+                {
+                    "question_id": 8237482557725,
+                    "question_value": "The treaty was intended to _____ hostilities between the two _____ nations.",
+                    "options": [
+                        "escalate, warring",
+                        "prolong, friendly",
+                        "mitigate, peaceful",
+                        "instigate, harmonious"
+                    ],
+                    "answer_value": "mitigate, warring"
+                },
+                {
+                    "question_id": 823748887245,
+                    "question_value": "Identify the figure of speech: 'The classroom was a zoo.'",
+                    "options": [
+                        "Simile",
+                        "Hyperbole",
+                        "Metaphor",
+                        "Personification"
+                    ],
+                    "answer_value": "Metaphor"
+                },
+                {
+                    "question_id": 82374813395,
+                    "question_value": "Which word is most opposite in meaning to 'munificent'?",
+                    "options": [
+                        "Generous",
+                        "Stingy",
+                        "Lavish",
+                        "Charitable"
+                    ],
+                    "answer_value": "Stingy"
+                },
+                {
+                    "question_id": 44231444656,
+                    "question_value": "What is the opposite of 'fast'?",
+                    "options": [
+                        "Quick",
+                        "Speed",
+                        "Slow",
+                        "Run"
+                    ],
+                    "answer_value": "Slow"
+                },
+                {
+                    "question_id": 823744548193,
+                    "question_value": "What is the antonym of 'enervate'?",
+                    "options": [
+                        "Weaken",
+                        "Exhaust",
+                        "Strengthen",
+                        "Debilitate"
+                    ],
+                    "answer_value": "Strengthen"
+                },
+                {
+                    "question_id": 9876543210,
+                    "question_value": "In the phrase 'break the ice,' what does 'break the ice' metaphorically mean?",
+                    "options": [
+                        "To start a conversation",
+                        "To overcome shyness",
+                        "To build a friendship",
+                        "To resolve a conflict"
+                    ],
+                    "answer_value": "To overcome shyness"
+                },
+                {
+                    "question_id": 3698527410,
+                    "question_value": "What is the main function of the colon (:) in writing?",
+                    "options": [
+                        "To separate a question from its answer",
+                        "To introduce a list",
+                        "To join two independent clauses",
+                        "To indicate a pause"
+                    ],
+                    "answer_value": "To introduce a list"
+                }
+            ]
+        },
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 23456723,
+                    "question_value": "What is the unit of electric current?",
+                    "options": [
+                        "Ampere",
+                        "Volt",
+                        "Ohm",
+                        "Watt"
+                    ],
+                    "answer_value": "Ampere"
+                },
+                {
+                    "question_id": 2030393939393,
+                    "answer_value": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when?",
+                    "options": [
+                        "the magnet is moved towards the stationary solenoid",
+                        "there is no relative motion",
+                        "the magnet is moved away from the stationary solenoid",
+                        "the solenoid is moved away from the stationary magnet"
+                    ],
+                    "question_value": "there is no relative motion"
+                },
+                {
+                    "question_id": 2342932093993316,
+                    "question_value": "A machine does 500 J of work in 10 seconds. Calculate the power of the machine.",
+                    "options": [
+                        "40 W",
+                        "50 W",
+                        "60 W",
+                        "70 W"
+                    ],
+                    "answer_value": "50 W",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 543210745,
+                    "question_value": "What is the formula for calculating speed?",
+                    "options": [
+                        "s = vt",
+                        "s = v\/t",
+                        "s = t\/v",
+                        "s = v^2"
+                    ],
+                    "answer_value": "s = v\/t"
+                },
+                {
+                    "question_id": 234293293939344,
+                    "question_value": "A concave lens with a focal length of -10 cm forms an image 20 cm from the lens. Is the image real, virtual, convex or fixed?",
+                    "options": [
+                        "Real",
+                        "fixed",
+                        "convex",
+                        "Virtual"
+                    ],
+                    "answer_value": "Virtual",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429902030342,
+                    "question_value": "A resistor with resistance 20 \u03a9 has a current of 2 A flowing through it. Calculate the potential difference across the resistor.",
+                    "options": [
+                        "20 V",
+                        "40 V",
+                        "60 V",
+                        "80 V"
+                    ],
+                    "answer_value": "40 V",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030393939,
+                    "question_value": "A capacitor with a capacitance of 5 \u00b5F is charged to a potential difference of 200 V. Calculate the energy stored in the capacitor.",
+                    "options": [
+                        "0.1 J",
+                        "0.2 J",
+                        "0.5 J",
+                        "1.0 J"
+                    ],
+                    "answer_value": "0.1 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030322,
+                    "question_value": "A cell whose internal resistance is 0.55 \u03a9 delivers a current of 4 A to an external resistor. What is the lost voltage of the cell?",
+                    "options": [
+                        "1.8 V",
+                        "2.0 V",
+                        "2.2 V",
+                        "2.4 V"
+                    ],
+                    "answer_value": "2.2 V",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 239388232030343,
+                    "question_value": "A straight wire carries a current of 5 A. Calculate the magnetic field strength at a point 10 cm from the wire, assuming the wire is straight and the magnetic permeability of free space is \\( 4\\pi \\times 10^{-7} \\) Tm\/A.",
+                    "options": [
+                        "2.5 \u00b5T",
+                        "5 \u00b5T",
+                        "10 \u00b5T",
+                        "20 \u00b5T"
+                    ],
+                    "answer_value": "10 \u00b5T",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 987364521,
+                    "question_value": "What is the SI unit of electric charge?",
+                    "options": [
+                        "Coulomb",
+                        "Volt",
+                        "Ampere",
+                        "Ohm"
+                    ],
+                    "answer_value": "Coulomb"
+                },
+                {
+                    "question_id": 983838484334,
+                    "question_value": "A light ray passes from air into water. If the angle of incidence is 45\u00b0, calculate the angle of refraction (Refractive index of water = 1.33).",
+                    "options": [
+                        "19.5\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "30\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030310,
+                    "question_value": "A car starts from rest and covers a distance of 40 m in 10 s. Calculate the magnitude of its acceleration.",
+                    "options": [
+                        "0.4 m\/s\u00b2",
+                        "0.6 m\/s\u00b2",
+                        "0.8 m\/s\u00b2",
+                        "1.0 m\/s\u00b2"
+                    ],
+                    "answer_value": "0.8 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 239339329489336,
+                    "question_value": "A light ray strikes a plane mirror at an angle of 30\u00b0 with the normal. What is the angle between the incident ray and the reflected ray?",
+                    "options": [
+                        "15\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "60\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 891234,
+                    "question_value": "What is the law of reflection?",
+                    "options": [
+                        "The angle of incidence is equal to the angle of reflection.",
+                        "Light travels in straight lines.",
+                        "The speed of light is constant.",
+                        "Light bends when passing through a medium."
+                    ],
+                    "answer_value": "The angle of incidence is equal to the angle of reflection."
+                },
+                {
+                    "question_id": 8899333223239542,
+                    "question_value": "Which of the following is a scalar quantity?",
+                    "options": [
+                        "weight",
+                        "displacement",
+                        "potential energy",
+                        "momentum"
+                    ],
+                    "answer_value": "potential energy",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203330332,
+                    "question_value": "A wheel with a radius of 0.5 m rotates at 60 RPM. Calculate the linear velocity of a point on the rim of the wheel.",
+                    "options": [
+                        "1.5 m\/s",
+                        "3 m\/s",
+                        "5 m\/s",
+                        "6 m\/s"
+                    ],
+                    "answer_value": "3 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 654327431,
+                    "question_value": "What is the formula for calculating density?",
+                    "options": [
+                        "D = m\/a",
+                        "D = mv",
+                        "D = m\/v",
+                        "D = v\/m"
+                    ],
+                    "answer_value": "D = m\/v"
+                },
+                {
+                    "question_id": 234293203454,
+                    "question_value": "A 4 kg mass is lifted to a height of 5 meters. Calculate its potential energy. (g = 9.8 m\/s\u00b2)",
+                    "options": [
+                        "100 J",
+                        "120 J",
+                        "150 J",
+                        "196 J"
+                    ],
+                    "answer_value": "196 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320309994,
+                    "question_value": "A 3 kg object is moving at a velocity of 4 m\/s. Calculate its momentum.",
+                    "options": [
+                        "8 kg m\/s",
+                        "10 kg m\/s",
+                        "12 kg m\/s",
+                        "15 kg m\/s"
+                    ],
+                    "answer_value": "12 kg m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 20939393030393,
+                    "question_value": "Which of the following is not a consequence of hydrogen bubbles covering the copper plate of a primary cell?",
+                    "options": [
+                        "formation of hydrogen bubbles on the electrode",
+                        "local action",
+                        "polarization",
+                        "increase in the resistance of the cell"
+                    ],
+                    "answer_value": "local action",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429334230311,
+                    "question_value": "A car accelerates from 10 m\/s to 30 m\/s in 5 seconds. Calculate the acceleration of the car.",
+                    "options": [
+                        "2 m\/s\u00b2",
+                        "4 m\/s\u00b2",
+                        "5 m\/s\u00b2",
+                        "6 m\/s\u00b2"
+                    ],
+                    "answer_value": "4 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 6785342912,
+                    "question_value": "What is the formula for calculating power?",
+                    "options": [
+                        "P = W\/t",
+                        "P = Fd",
+                        "P = mv^2",
+                        "P = IR"
+                    ],
+                    "answer_value": "P = W\/t"
+                },
+                {
+                    "question_id": 12378459,
+                    "question_value": "What is the formula for calculating gravitational force?",
+                    "options": [
+                        "F = G(m1 * m2)\/r^2",
+                        "F = mgh",
+                        "F = ma",
+                        "F = pt"
+                    ],
+                    "answer_value": "F = G(m1 * m2)\/r^2"
+                },
+                {
+                    "question_id": 8764231543,
+                    "question_value": "What is the unit of measurement for voltage?",
+                    "options": [
+                        "Volt",
+                        "Ampere",
+                        "Ohm",
+                        "Watt"
+                    ],
+                    "answer_value": "Volt"
+                },
+                {
+                    "question_id": 23440404040403,
+                    "question_value": "If a bar magnet is divided into two pieces, which of the following statement is correct?",
+                    "options": [
+                        "two new magnets are created",
+                        "the magnetic field of each separate piece becomes stronger",
+                        "the electric field is created",
+                        "the bar magnet is demagnetized"
+                    ],
+                    "answer_value": "two new magnets are created",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320324232,
+                    "question_value": "A 10 \u03bcF capacitor is charged to a potential difference of 200 V. Calculate the energy stored in the capacitor.",
+                    "options": [
+                        "0.1 J",
+                        "0.2 J",
+                        "0.5 J",
+                        "1.0 J"
+                    ],
+                    "answer_value": "0.2 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 765442332,
+                    "question_value": "What is the law of conservation of energy?",
+                    "options": [
+                        "Energy can neither be created nor destroyed.",
+                        "Energy is always increasing.",
+                        "Energy can be destroyed.",
+                        "Energy can be created at will."
+                    ],
+                    "answer_value": "Energy can neither be created nor destroyed."
+                },
+                {
+                    "question_id": 23429320305318,
+                    "question_value": "A wave has a wavelength of 2 meters and a speed of 10 m\/s. Calculate its frequency.",
+                    "options": [
+                        "4 Hz",
+                        "5 Hz",
+                        "6 Hz",
+                        "8 Hz"
+                    ],
+                    "answer_value": "5 Hz",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030330,
+                    "question_value": "What is the quantity of heat required to convert 20 g of ice at 0\u00b0C to water at the same temperature? (Specific latent heat of ice = 336 J\/g)",
+                    "options": [
+                        "5280 J",
+                        "6400 J",
+                        "6720 J",
+                        "7200 J"
+                    ],
+                    "answer_value": "6720 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320304232,
+                    "question_value": "A long straight wire carries a current of 5 A. Calculate the magnetic field at a distance of 2 cm from the wire. (Use \u03bc\u2080 = 4\u03c0 x 10^-7 T\u00b7m\/A)",
+                    "options": [
+                        "5 x 10^-5 T",
+                        "1 x 10^-4 T",
+                        "5 x 10^-4 T",
+                        "1 x 10^-3 T"
+                    ],
+                    "answer_value": "5 x 10^-5 T",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030329,
+                    "question_value": "Which expression gives the magnetic flux (\u03a6) through a surface?",
+                    "options": [
+                        "\\( \\Phi = B \\cdot A \\cdot \\cos \\theta \\)",
+                        "\\( \\Phi = \\frac{B}{A \\cdot \\cos \\theta} \\)",
+                        "\\( \\Phi = B \\cdot A \\cdot \\sin \\theta \\)",
+                        "\\( \\Phi = \\frac{B \\cdot \\cos \\theta}{A} \\)"
+                    ],
+                    "answer_value": "\\( \\Phi = B \\cdot A \\cdot \\cos \\theta \\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320303993,
+                    "question_value": "A coil with 500 turns and a cross-sectional area of 0.1 m\u00b2 is placed in a uniform magnetic field of 0.02 T. If the angle between the magnetic field and the normal to the coil is 30\u00b0, calculate the magnetic flux through the coil.",
+                    "options": [
+                        "0.25 Wb",
+                        "0.43 Wb",
+                        "0.87 Wb",
+                        "1.00 Wb"
+                    ],
+                    "answer_value": "0.87 Wb",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2343232030340,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 2 m. Calculate the speed of the wave.",
+                    "options": [
+                        "25 m\/s",
+                        "50 m\/s",
+                        "100 m\/s",
+                        "200 m\/s"
+                    ],
+                    "answer_value": "100 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2343998399341,
+                    "question_value": "Two point charges of +2 \u00b5C and -3 \u00b5C are separated by a distance of 10 cm. Calculate the electrostatic force between them. (Electrostatic constant = \\( 9 \\times 10^9 \\) Nm\u00b2\/C\u00b2)",
+                    "options": [
+                        "3.6 N",
+                        "7.2 N",
+                        "9.0 N",
+                        "18.0 N"
+                    ],
+                    "answer_value": "7.2 N",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 239202932030327,
+                    "question_value": "A string fixed at both ends vibrates at its fundamental frequency of 50 Hz. If the length of the string is 1.5 m and the speed of the wave on the string is 300 m\/s, calculate the wavelength of the wave.",
+                    "options": [
+                        "1 m",
+                        "2 m",
+                        "3 m",
+                        "4 m"
+                    ],
+                    "answer_value": "3 m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320303982,
+                    "question_value": "An object is placed 15 cm in front of a convex lens with a focal length of 10 cm. Calculate the position of the image formed.",
+                    "options": [
+                        "30 cm behind the lens",
+                        "20 cm behind the lens",
+                        "15 cm behind the lens",
+                        "10 cm behind the lens"
+                    ],
+                    "answer_value": "30 cm behind the lens",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 987453456,
+                    "question_value": "What is the formula for calculating electric power?",
+                    "options": [
+                        "P = IV",
+                        "P = V\/I",
+                        "P = IR",
+                        "P = V\/R"
+                    ],
+                    "answer_value": "P = IV"
+                },
+                {
+                    "question_id": 234293098767832,
+                    "question_value": "A mass of 0.2 kg attached to a spring oscillates with a frequency of 5 Hz. Calculate the spring constant of the spring. (Assume no damping)",
+                    "options": [
+                        "4 N\/m",
+                        "16 N\/m",
+                        "20 N\/m",
+                        "25 N\/m"
+                    ],
+                    "answer_value": "16 N\/m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320534332,
+                    "question_value": "A mass-spring system oscillates with a period of 2 s. Calculate the spring constant if the mass is 0.5 kg.",
+                    "options": [
+                        "1.57 N\/m",
+                        "2.5 N\/m",
+                        "3.14 N\/m",
+                        "5.0 N\/m"
+                    ],
+                    "answer_value": "1.57 N\/m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 890455123,
+                    "question_value": "What is the SI unit of power?",
+                    "options": [
+                        "Watt",
+                        "Joule",
+                        "Volt",
+                        "Ampere"
+                    ],
+                    "answer_value": "Watt"
+                }
+            ]
+        },
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 47885239,
+                    "question_value": "If a car travels at 60 km\/h for 2 hours, how far does it travel?",
+                    "options": [
+                        "60 km",
+                        "100 km",
+                        "120 km",
+                        "150 km"
+                    ],
+                    "answer_value": "120 km"
+                },
+                {
+                    "question_id": 2342932030306,
+                    "question_value": "A rectangular pyramid has an area of 24 cm\u00b2 and a height of 7.5 cm. Calculate the volume of the pyramid.",
+                    "options": [
+                        "45 cm\u00b3",
+                        "54 cm\u00b3",
+                        "60 cm\u00b3",
+                        "72 cm\u00b3"
+                    ],
+                    "answer_value": "60 cm\u00b3",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1028374660,
+                    "question_value": "Calculate <eq>\\frac{5432_8}{173_8}<\/eq>",
+                    "options": [
+                        "<eq>26_{8}<\/eq>",
+                        "<eq>27_{8}<\/eq>",
+                        "<eq>30_{8}<\/eq>",
+                        "<eq>32_{8}<\/eq>"
+                    ],
+                    "answer_value": "<eq>27_{8}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 78128834,
+                    "question_value": "If log 10 to base 8 = X, evaluate log 5 to base 8 in terms of X.",
+                    "options": [
+                        "<eq>\\frac{1}{2}X<\/eq>",
+                        "12",
+                        "16",
+                        "20"
+                    ],
+                    "answer_value": "16"
+                },
+                {
+                    "question_id": 102837324664,
+                    "question_value": "Calculate <eq>\\frac{3412_9}{112_9}<\/eq>",
+                    "options": [
+                        "<eq>31_{9}<\/eq>",
+                        "<eq>33_{9}<\/eq>",
+                        "<eq>35_{9}<\/eq>",
+                        "<eq>37_{9}<\/eq>"
+                    ],
+                    "answer_value": "<eq>31_{9}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 12303930300392,
+                    "question_value": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gifts(g), savings(s) and some miscellaneous (m) as indicated in the table below:\n F-28% ,R-15% ,c-20% ,G-14% ,S-10% ,M-13% .\nIf the information on the table is represented on a pie chart, what angle represents his spending on food?",
+                    "options": [
+                        "28\u00b0",
+                        "72\u00b0",
+                        "100.8\u00b0",
+                        "126\u00b0"
+                    ],
+                    "answer_value": "100.8\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 10283746533239,
+                    "question_value": "Evaluate <eq>(101)_2^3<\/eq>",
+                    "options": [
+                        "1111101",
+                        "1111100",
+                        "111110",
+                        "1111110"
+                    ],
+                    "answer_value": "1111101"
+                },
+                {
+                    "question_id": 1028374670,
+                    "question_value": "Given that the mean of 2, 5,x+1, x+2, 7, and 9 is 6, find the median.",
+                    "options": [
+                        "5",
+                        "6",
+                        "6.5",
+                        "7"
+                    ],
+                    "answer_value": "6.5",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 324566543332,
+                    "question_value": "Differentiate <eq>(\\cos \\theta + \\sin \\theta)^2 with respect to \u03b8 <\/eq>.",
+                    "options": [
+                        "2cos2\u03b8",
+                        "2sin2\u03b8",
+                        "-2cos2\u03b8",
+                        "-2sin2\u03b8"
+                    ],
+                    "answer_value": "2cos2\u03b8"
+                },
+                {
+                    "question_id": 102835374662,
+                    "question_value": "Calculate <eq>\\frac{1512_5}{32_5}<\/eq>",
+                    "options": [
+                        "<eq>42_{5}<\/eq>",
+                        "<eq>50_{5}<\/eq>",
+                        "<eq>54_{5}<\/eq>",
+                        "<eq>60_{5}<\/eq>"
+                    ],
+                    "answer_value": "<eq>42_{5}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 432733381,
+                    "question_value": "If a book costs $15 and you have $50, how much money will you have left after buying the book?",
+                    "options": [
+                        "30",
+                        "35",
+                        "40",
+                        "25"
+                    ],
+                    "answer_value": "35"
+                },
+                {
+                    "question_id": 54781832,
+                    "question_value": "If a rectangle has a length of 5 and a width of 3, what is its area?",
+                    "options": [
+                        "8",
+                        "15",
+                        "10",
+                        "18"
+                    ],
+                    "answer_value": "15"
+                },
+                {
+                    "question_id": 133028374665,
+                    "question_value": "Evaluate <eq>(1220)_3^3<\/eq>",
+                    "options": [
+                        "12100",
+                        "11200",
+                        "10100",
+                        "11000"
+                    ],
+                    "answer_value": "10100",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 10283733424659,
+                    "question_value": "Solve for k in the equation <eq>\\left( \\frac{1}{8} \\right)^{k+2} = 1<\/eq> .",
+                    "options": [
+                        "k = 2",
+                        "k = -2",
+                        "k = 0",
+                        "k = 1"
+                    ],
+                    "answer_value": "k = -2"
+                },
+                {
+                    "question_id": 10283654668,
+                    "question_value": "Calculate <eq>\\frac{4343_5}{122_5}<\/eq>",
+                    "options": [
+                        "<eq>2_{5}<\/eq>",
+                        "<eq>4_{5}<\/eq>",
+                        "<eq>6_{5}<\/eq>",
+                        "<eq>8_{5}<\/eq>"
+                    ],
+                    "answer_value": "34_{5}",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23845391,
+                    "question_value": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+                    "options": [
+                        "25",
+                        "19",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 2342932030304,
+                    "question_value": "Find the length of a chord 3 cm from the center of a circle of radius 5 cm.",
+                    "options": [
+                        "4 cm",
+                        "6 cm",
+                        "8 cm",
+                        "10 cm"
+                    ],
+                    "answer_value": "8 cm",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 9300928883,
+                    "question_value": "If log 10 to base 8 = X, evaluate log 5 to base 8 in terms of X.",
+                    "options": [
+                        "25",
+                        "<eq>\\frac{1}{2X}<\/eq>",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 38719642,
+                    "question_value": "If you have 10 apples and give 4 to a friend, how many apples do you have left?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 2342932030303,
+                    "question_value": "Simplify <eq>\\frac{1}{3 - \\sqrt{2}}<\/eq> in the form of <eq> p + q \\sqrt{2}<\/eq>",
+                    "options": [
+                        "<eq>\\frac{3 + \\sqrt{2}}{7}<\/eq>",
+                        "<eq>\\frac{3 - \\sqrt{2}}{7}<\/eq>",
+                        "<eq>\\frac{3}{7} + \\frac{\\sqrt{2}}{7}<\/eq>",
+                        "<eq>\\frac{3}{7} - \\frac{\\sqrt{2}}{7}<\/eq>"
+                    ],
+                    "answer_value": "<eq>\\frac{3}{7} + \\frac{\\sqrt{2}}{7}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 481345239,
+                    "question_value": "If a train travels 50 km\/h and travels for 3 hours, how far does it go?",
+                    "options": [
+                        "100 km",
+                        "150 km",
+                        "200 km",
+                        "250 km"
+                    ],
+                    "answer_value": "150 km"
+                },
+                {
+                    "question_id": 238743446,
+                    "question_value": "What is 7 squared?",
+                    "options": [
+                        "47",
+                        "49",
+                        "51",
+                        "53"
+                    ],
+                    "answer_value": "49"
+                },
+                {
+                    "question_id": 102118374663,
+                    "question_value": "Evaluate <eq>(431)_7^2<\/eq>",
+                    "options": [
+                        "2351",
+                        "2551",
+                        "2111",
+                        "2651"
+                    ],
+                    "answer_value": "2111",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1028374645559,
+                    "question_value": "Calculate <eq>\\frac{2434_6}{426_6}<\/eq>",
+                    "options": [
+                        "<eq>20_{6}<\/eq>",
+                        "<eq>25_{6}<\/eq>",
+                        "<eq>30_{6}<\/eq>",
+                        "<eq>35_{6}<\/eq>"
+                    ],
+                    "answer_value": "<eq>30_{6}<\/eq>"
+                },
+                {
+                    "question_id": 102837314661,
+                    "question_value": "Evaluate <eq>1101_2^4<\/eq>",
+                    "options": [
+                        "11010",
+                        "10111",
+                        "10011",
+                        "11110"
+                    ],
+                    "answer_value": "11110",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1028345445474659,
+                    "question_value": "Differentiate <eq> (\\cos \\theta + \\sin \\theta)^2<\/eq> with respect to <eq>\\theta<\/eq>.",
+                    "options": [
+                        "2cos2\u03b8",
+                        "2sin2\u03b8",
+                        "-2cos2\u03b8",
+                        "-2sin2\u03b8"
+                    ],
+                    "answer_value": "2cos2\u03b8"
+                },
+                {
+                    "question_id": 10284234669,
+                    "question_value": "Evaluate <eq>(323)_6^2<\/eq>",
+                    "options": [
+                        "1333",
+                        "1113",
+                        "1223",
+                        "1123"
+                    ],
+                    "answer_value": "1333",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030307,
+                    "question_value": "The 10th term of an AP is 32. If the first term is 3\/2, what is the 4th term?",
+                    "options": [
+                        "<eq>\\frac{11}{2}<\/eq>",
+                        "<eq>\\frac{16}{3}<\/eq>",
+                        "<eq>\\frac{20}{3}<\/eq>",
+                        "<eq>\\frac{35}{3}<\/eq>"
+                    ],
+                    "answer_value": "<eq>\\frac{35}{3}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 923865347,
+                    "question_value": "What is the square of 6?",
+                    "options": [
+                        "30",
+                        "36",
+                        "42",
+                        "48"
+                    ],
+                    "answer_value": "36"
+                },
+                {
+                    "question_id": 1823587849,
+                    "question_value": "A triangle has a base of 6 and a height of 3. What is its area?",
+                    "options": [
+                        "9",
+                        "12",
+                        "18",
+                        "20"
+                    ],
+                    "answer_value": "9"
+                },
+                {
+                    "question_id": 947233683,
+                    "question_value": "What is the square of 5?",
+                    "options": [
+                        "15",
+                        "20",
+                        "25",
+                        "30"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 102833003667,
+                    "question_value": "Evaluate <eq>(2021)_3^2<\/eq>",
+                    "options": [
+                        "21010",
+                        "21101",
+                        "20021",
+                        "20100"
+                    ],
+                    "answer_value": "21101",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102837424666,
+                    "question_value": "Calculate <eq>\\frac{2244_4}{112_4}<\/eq>",
+                    "options": [
+                        "<eq>20_{4}<\/eq>",
+                        "<eq>22_{4}<\/eq>",
+                        "<eq>24_{4}<\/eq>",
+                        "<eq>26_{4}<\/eq>"
+                    ],
+                    "answer_value": "<eq>20_{4}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 34787821,
+                    "question_value": "What is the square of 8?",
+                    "options": [
+                        "56",
+                        "60",
+                        "64",
+                        "68"
+                    ],
+                    "answer_value": "64"
+                }
+            ]
+        },
+        {
+            "subject": "CHEMISTRY",
+            "questions": [
+                {
+                    "question_id": 201456789,
+                    "question_value": "How many moles of oxygen gas (O\u2082) are required to completely react with 3 moles of hydrogen gas (H\u2082) in the formation of water (H\u2082O)?",
+                    "options": [
+                        "1.5 moles",
+                        "3 moles",
+                        "6 moles",
+                        "9 moles"
+                    ],
+                    "answer_value": "1.5 moles"
+                },
+                {
+                    "question_id": 301456796,
+                    "question_value": "Identify the oxidation and reduction half-reactions for the balanced redox equation: 2 I\u207b + Cl\u2082 \u2192 I\u2082 + 2 Cl\u207b",
+                    "options": [
+                        "Oxidation: I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 2 Cl\u207b",
+                        "Oxidation: 2 I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 2 Cl\u207b",
+                        "Oxidation: 2 I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 Cl\u207b",
+                        "Oxidation: I\u207b \u2192 I\u2082 + e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 Cl\u207b"
+                    ],
+                    "answer_value": "Oxidation: 2 I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 2 Cl\u207b"
+                },
+                {
+                    "question_id": 301456797,
+                    "question_value": "What is the equilibrium constant (K) at 298 K for a reaction with \u0394G\u00b0 = -40 kJ\/mol? (R = 8.314 J\/mol\u00b7K)",
+                    "options": [
+                        "1.29 \u00d7 10\u2076",
+                        "2.18 \u00d7 10\u2077",
+                        "3.14 \u00d7 10\u2078",
+                        "5.26 \u00d7 10\u2079"
+                    ],
+                    "answer_value": "1.29 \u00d7 10\u2076"
+                },
+                {
+                    "question_id": 301456800,
+                    "question_value": "Calculate the standard Gibbs free energy change (\u0394G\u00b0) for the reaction: N\u2082(g) + 3 H\u2082(g) \u2192 2 NH\u2083(g), given \u0394H\u00b0 = -92 kJ and \u0394S\u00b0 = -198 J\/K.",
+                    "options": [
+                        "-33.1 kJ",
+                        "-59.6 kJ",
+                        "-69.6 kJ",
+                        "-23.1 kJ"
+                    ],
+                    "answer_value": "-33.1 kJ"
+                },
+                {
+                    "question_id": 456123,
+                    "question_value": "What is the atomic number of carbon?",
+                    "options": [
+                        "5",
+                        "10",
+                        "15",
+                        "6"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 201456795,
+                    "question_value": "How many grams of potassium permanganate (KMnO\u2084) are needed to prepare 250 mL of a 0.1 M solution? (Molar mass of KMnO\u2084 = 158 g\/mol)",
+                    "options": [
+                        "3.95 g",
+                        "1.58 g",
+                        "15.8 g",
+                        "0.395 g"
+                    ],
+                    "answer_value": "3.95 g"
+                },
+                {
+                    "question_id": 322890123,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Celsius",
+                        "Kelvin",
+                        "Fahrenheit",
+                        "Rankine"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 13567890,
+                    "question_value": "What is the chemical formula for ammonia?",
+                    "options": [
+                        "NH3",
+                        "N2O",
+                        "NO2",
+                        "NO3"
+                    ],
+                    "answer_value": "NH3"
+                },
+                {
+                    "question_id": 301456802,
+                    "question_value": "For the reaction: 2 CO(g) + O\u2082(g) \u2192 2 CO\u2082(g), what is the enthalpy change (\u0394H) if the bond enthalpies are C\u2261O = 1076 kJ\/mol and O=O = 498 kJ\/mol, and C=O in CO\u2082 = 803 kJ\/mol?",
+                    "options": [
+                        "-566 kJ",
+                        "-394 kJ",
+                        "-168 kJ",
+                        "-226 kJ"
+                    ],
+                    "answer_value": "-566 kJ"
+                },
+                {
+                    "question_id": 301456791,
+                    "question_value": "Calculate the Gibbs free energy change (\u0394G) at 298 K for a reaction with \u0394H = -100 kJ and \u0394S = -200 J\/K.",
+                    "options": [
+                        "-40 kJ",
+                        "-140 kJ",
+                        "40 kJ",
+                        "140 kJ"
+                    ],
+                    "answer_value": "40 kJ"
+                },
+                {
+                    "question_id": 301456799,
+                    "question_value": "In the electrolysis of molten sodium chloride (NaCl), what products are formed at the anode and cathode, respectively?",
+                    "options": [
+                        "Sodium metal at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, sodium metal at the cathode",
+                        "Hydrogen gas at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, hydrogen gas at the cathode"
+                    ],
+                    "answer_value": "Chlorine gas at the anode, sodium metal at the cathode"
+                },
+                {
+                    "question_id": 11223456,
+                    "question_value": "What is the SI unit of pressure?",
+                    "options": [
+                        "Newton",
+                        "Pascal",
+                        "Joule",
+                        "Watt"
+                    ],
+                    "answer_value": "Pascal"
+                },
+                {
+                    "question_id": 12901234,
+                    "question_value": "Which of the following is a noble gas?",
+                    "options": [
+                        "Oxygen",
+                        "Neon",
+                        "Fluorine",
+                        "Chlorine"
+                    ],
+                    "answer_value": "Neon"
+                },
+                {
+                    "question_id": 301456794,
+                    "question_value": "Calculate the standard enthalpy change (\u0394H\u00b0) for the reaction: N\u2082(g) + 3 H\u2082(g) \u2192 2 NH\u2083(g), given the bond energies: N\u2261N = 945 kJ\/mol, H-H = 436 kJ\/mol, N-H = 391 kJ\/mol.",
+                    "options": [
+                        "-92 kJ",
+                        "-46 kJ",
+                        "-368 kJ",
+                        "-184 kJ"
+                    ],
+                    "answer_value": "-92 kJ"
+                },
+                {
+                    "question_id": 201456802,
+                    "question_value": "Determine the molar mass of an unknown gas if 4 grams of the gas occupy 2.24 liters at STP.",
+                    "options": [
+                        "22.4 g\/mol",
+                        "44.8 g\/mol",
+                        "28 g\/mol",
+                        "56 g\/mol"
+                    ],
+                    "answer_value": "44.8 g\/mol"
+                },
+                {
+                    "question_id": 201456801,
+                    "question_value": "How many moles of barium sulfate (BaSO\u2084) are formed when 1 mole of barium chloride (BaCl\u2082) reacts with 1 mole of sulfuric acid (H\u2082SO\u2084)?",
+                    "options": [
+                        "0.5 moles",
+                        "1 mole",
+                        "1.5 moles",
+                        "2 moles"
+                    ],
+                    "answer_value": "1 mole"
+                },
+                {
+                    "question_id": 4905567890,
+                    "question_value": "What is the lightest element?",
+                    "options": [
+                        "Oxygen",
+                        "Hydrogen",
+                        "Helium",
+                        "Carbon"
+                    ],
+                    "answer_value": "Hydrogen"
+                },
+                {
+                    "question_id": 94092839384,
+                    "question_value": "What is the process of converting a liquid into vapor called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Evaporation"
+                },
+                {
+                    "question_id": 201456799,
+                    "question_value": "What is the percent composition of oxygen in sulfuric acid (H\u2082SO\u2084)? (Molar mass of H\u2082SO\u2084 = 98 g\/mol)",
+                    "options": [
+                        "32.7%",
+                        "65.3%",
+                        "45.9%",
+                        "50%"
+                    ],
+                    "answer_value": "65.3%"
+                },
+                {
+                    "question_id": 201456791,
+                    "question_value": "How many atoms are there in 2 moles of carbon dioxide (CO\u2082)? (Avogadro's number = 6.022 \u00d7 10\u00b2\u00b3)",
+                    "options": [
+                        "6.022 \u00d7 10\u00b2\u00b3 atoms",
+                        "1.2044 \u00d7 10\u00b2\u2074 atoms",
+                        "3.6132 \u00d7 10\u00b2\u2074 atoms",
+                        "2.4088 \u00d7 10\u00b2\u2074 atoms"
+                    ],
+                    "answer_value": "2.4088 \u00d7 10\u00b2\u2074 atoms"
+                },
+                {
+                    "question_id": 301456793,
+                    "question_value": "During electrolysis of aqueous sodium chloride (NaCl), what products are formed at the anode and cathode, respectively?",
+                    "options": [
+                        "Hydrogen gas at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, hydrogen gas at the cathode",
+                        "Sodium metal at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, oxygen gas at the cathode"
+                    ],
+                    "answer_value": "Chlorine gas at the anode, hydrogen gas at the cathode"
+                },
+                {
+                    "question_id": 201456794,
+                    "question_value": "What is the empirical formula of a compound that contains 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass?",
+                    "options": [
+                        "CH\u2082O",
+                        "C\u2082H\u2084O\u2082",
+                        "C\u2083H\u2086O\u2083",
+                        "CH\u2083O"
+                    ],
+                    "answer_value": "CH\u2082O"
+                },
+                {
+                    "question_id": 901032234,
+                    "question_value": "Which of the following is an alkali metal?",
+                    "options": [
+                        "Lithium",
+                        "Calcium",
+                        "Sulfur",
+                        "Nitrogen"
+                    ],
+                    "answer_value": "Lithium"
+                },
+                {
+                    "question_id": 324924203,
+                    "question_value": "What is the process of solid changing directly into vapor called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Sublimation"
+                },
+                {
+                    "question_id": 301456789,
+                    "question_value": "Which of the following processes results in an increase in entropy?",
+                    "options": [
+                        "Freezing of water",
+                        "Condensation of steam",
+                        "Melting of ice",
+                        "Formation of a solid precipitate from a solution"
+                    ],
+                    "answer_value": "Melting of ice"
+                },
+                {
+                    "question_id": 67832901,
+                    "question_value": "What is the chemical symbol for sodium?",
+                    "options": [
+                        "So",
+                        "Na",
+                        "Sn",
+                        "Si"
+                    ],
+                    "answer_value": "Na"
+                },
+                {
+                    "question_id": 34544232,
+                    "question_value": "What is the chemical symbol for gold?",
+                    "options": [
+                        "Au",
+                        "Ag",
+                        "Fe",
+                        "Cu"
+                    ],
+                    "answer_value": "Au"
+                },
+                {
+                    "question_id": 2345637111,
+                    "question_value": "What is the formula for sulfuric acid?",
+                    "options": [
+                        "H2O",
+                        "H2SO4",
+                        "HCl",
+                        "NaOH"
+                    ],
+                    "answer_value": "H2SO4"
+                },
+                {
+                    "question_id": 201456792,
+                    "question_value": "Given the reaction: 2 Al + 3 Cl\u2082 \u2192 2 AlCl\u2083, how many grams of aluminum chloride (AlCl\u2083) can be produced from 54 grams of aluminum (Al)? (Molar mass of Al = 27 g\/mol, AlCl\u2083 = 133.5 g\/mol)",
+                    "options": [
+                        "267 g",
+                        "133.5 g",
+                        "178 g",
+                        "54 g"
+                    ],
+                    "answer_value": "267 g"
+                },
+                {
+                    "question_id": 345435322,
+                    "question_value": "What is the chemical symbol for carbon dioxide?",
+                    "options": [
+                        "CO2",
+                        "CO",
+                        "CH4",
+                        "C"
+                    ],
+                    "answer_value": "CO2"
+                },
+                {
+                    "question_id": 201456797,
+                    "question_value": "For the reaction: N\u2082 + 3 H\u2082 \u2192 2 NH\u2083, how many liters of hydrogen gas (H\u2082) at STP are required to produce 22.4 liters of ammonia (NH\u2083)?",
+                    "options": [
+                        "22.4 L",
+                        "33.6 L",
+                        "67.2 L",
+                        "11.2 L"
+                    ],
+                    "answer_value": "33.6 L"
+                },
+                {
+                    "question_id": 201456793,
+                    "question_value": "In the combustion of propane (C\u2083H\u2088), how many moles of carbon dioxide (CO\u2082) are produced from the complete combustion of 2 moles of propane? (Reaction: C\u2083H\u2088 + 5 O\u2082 \u2192 3 CO\u2082 + 4 H\u2082O)",
+                    "options": [
+                        "3 moles",
+                        "6 moles",
+                        "9 moles",
+                        "12 moles"
+                    ],
+                    "answer_value": "6 moles"
+                },
+                {
+                    "question_id": 56784290,
+                    "question_value": "What is the chemical formula for carbon monoxide?",
+                    "options": [
+                        "CO2",
+                        "CO",
+                        "CH4",
+                        "C"
+                    ],
+                    "answer_value": "CO"
+                },
+                {
+                    "question_id": 3456004278,
+                    "question_value": "What is the formula for water?",
+                    "options": [
+                        "H2O2",
+                        "CO2",
+                        "H2O",
+                        "CH4"
+                    ],
+                    "answer_value": "H2O"
+                },
+                {
+                    "question_id": 301456801,
+                    "question_value": "Balance the following redox reaction in basic solution: Cr(OH)\u2084\u207b + ClO\u207b \u2192 CrO\u2084\u00b2\u207b + Cl\u207b",
+                    "options": [
+                        "Cr(OH)\u2084\u207b + ClO\u207b \u2192 CrO\u2084\u00b2\u207b + Cl\u207b + 2 H\u2082O",
+                        "2 Cr(OH)\u2084\u207b + ClO\u207b \u2192 2 CrO\u2084\u00b2\u207b + Cl\u207b + H\u2082O",
+                        "2 Cr(OH)\u2084\u207b + ClO\u207b + H\u2082O \u2192 2 CrO\u2084\u00b2\u207b + Cl\u207b + 4 H\u2082O",
+                        "Cr(OH)\u2084\u207b + 2 ClO\u207b \u2192 CrO\u2084\u00b2\u207b + 2 Cl\u207b + H\u2082O"
+                    ],
+                    "answer_value": "2 Cr(OH)\u2084\u207b + ClO\u207b + H\u2082O \u2192 2 CrO\u2084\u00b2\u207b + Cl\u207b + 4 H\u2082O"
+                },
+                {
+                    "question_id": 12567890,
+                    "question_value": "What is the chemical formula for hydrogen peroxide?",
+                    "options": [
+                        "H2O",
+                        "H2SO4",
+                        "H2O2",
+                        "HCl"
+                    ],
+                    "answer_value": "H2O2"
+                },
+                {
+                    "question_id": 5901234,
+                    "question_value": "Which of the following is a halogen?",
+                    "options": [
+                        "Sodium",
+                        "Chlorine",
+                        "Calcium",
+                        "Magnesium"
+                    ],
+                    "answer_value": "Chlorine"
+                },
+                {
+                    "question_id": 301456790,
+                    "question_value": "For a reaction to be spontaneous at all temperatures, what must be true about the signs of \u0394H (enthalpy change) and \u0394S (entropy change)?",
+                    "options": [
+                        "\u0394H < 0 and \u0394S < 0",
+                        "\u0394H > 0 and \u0394S > 0",
+                        "\u0394H < 0 and \u0394S > 0",
+                        "\u0394H > 0 and \u0394S < 0"
+                    ],
+                    "answer_value": "\u0394H < 0 and \u0394S > 0"
+                },
+                {
+                    "question_id": 301456795,
+                    "question_value": "Which of the following reactions is thermodynamically favorable at 25\u00b0C? (R = 8.314 J\/mol\u00b7K)",
+                    "options": [
+                        "\u0394H = -100 kJ, \u0394S = -200 J\/K",
+                        "\u0394H = -50 kJ, \u0394S = 100 J\/K",
+                        "\u0394H = 100 kJ, \u0394S = -300 J\/K",
+                        "\u0394H = 200 kJ, \u0394S = 500 J\/K"
+                    ],
+                    "answer_value": "\u0394H = -50 kJ, \u0394S = 100 J\/K"
+                },
+                {
+                    "question_id": 90039283,
+                    "question_value": "What is the chemical symbol for potassium?",
+                    "options": [
+                        "Pt",
+                        "Po",
+                        "Pb",
+                        "K"
+                    ],
+                    "answer_value": "K"
+                }
+            ]
+        }
+    ]
+}

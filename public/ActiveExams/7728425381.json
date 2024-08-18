@@ -1,0 +1,69 @@
+{
+    "exam_id": 7728425381,
+    "questions": [
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 2343232030340,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 2 m. Calculate the speed of the wave.",
+                    "options": [
+                        "25 m\/s",
+                        "50 m\/s",
+                        "100 m\/s",
+                        "200 m\/s"
+                    ],
+                    "answer_value": "100 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 987453456,
+                    "question_value": "What is the formula for calculating electric power?",
+                    "options": [
+                        "P = IV",
+                        "P = V\/I",
+                        "P = IR",
+                        "P = V\/R"
+                    ],
+                    "answer_value": "P = IV"
+                },
+                {
+                    "question_id": 2342932034432,
+                    "question_value": "A force of 50 N is applied to a 5 kg mass. Calculate the acceleration produced.",
+                    "options": [
+                        "5 m\/s\u00b2",
+                        "7 m\/s\u00b2",
+                        "8 m\/s\u00b2",
+                        "10 m\/s\u00b2"
+                    ],
+                    "answer_value": "10 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030234,
+                    "question_value": "A convex lens has a focal length of 10 cm. An object is placed 15 cm from the lens. Calculate the position of the image formed.",
+                    "options": [
+                        "30 cm on the same side as the object",
+                        "30 cm on the opposite side of the object",
+                        "6 cm on the same side as the object",
+                        "6 cm on the opposite side of the object"
+                    ],
+                    "answer_value": "30 cm on the opposite side of the object",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 933848432030335,
+                    "question_value": "In a circuit, a resistor of 10 \u03a9 is connected in series with a resistor of 20 \u03a9. What is the total resistance of the circuit?",
+                    "options": [
+                        "3.3 \u03a9",
+                        "10 \u03a9",
+                        "20 \u03a9",
+                        "30 \u03a9"
+                    ],
+                    "answer_value": "30 \u03a9",
+                    "image_url": ""
+                }
+            ]
+        }
+    ]
+}

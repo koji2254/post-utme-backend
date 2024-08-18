@@ -1,0 +1,21 @@
+{
+    "exam_id": 3842683204,
+    "questions": [
+        {
+            "subject": "BIOLOGY",
+            "questions": [
+                {
+                    "question_id": 56789530,
+                    "question_value": "What is the powerhouse of the plant cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Chloroplast"
+                    ],
+                    "answer_value": "Chloroplast"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "exam_id": 1892939509,
+    "questions": [
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 9300928883,
+                    "question_value": "If log 10 to base 8 = X, evaluate log 5 to base 8 in terms of X.",
+                    "options": [
+                        "25",
+                        "\\( \\frac{1}{2X}\\)",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 987345234,
+                    "question_value": "What is 13 squared?",
+                    "options": [
+                        "159",
+                        "169",
+                        "179",
+                        "189"
+                    ],
+                    "answer_value": "169"
+                },
+                {
+                    "question_id": 349187652,
+                    "question_value": "If you read 3 books a week, how many books will you read in 4 weeks?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "answer_value": "12"
+                },
+                {
+                    "question_id": 54781832,
+                    "question_value": "If a rectangle has a length of 5 and a width of 3, what is its area?",
+                    "options": [
+                        "8",
+                        "15",
+                        "10",
+                        "18"
+                    ],
+                    "answer_value": "15"
+                },
+                {
+                    "question_id": 37813455324,
+                    "question_value": "What is the square of 17?",
+                    "options": [
+                        "287",
+                        "289",
+                        "291",
+                        "293"
+                    ],
+                    "answer_value": "289"
+                },
+                {
+                    "question_id": 812345647,
+                    "question_value": "What is the square of 11?",
+                    "options": [
+                        "110",
+                        "121",
+                        "132",
+                        "143"
+                    ],
+                    "answer_value": "121"
+                },
+                {
+                    "question_id": 98328742373,
+                    "question_value": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+                    "options": [
+                        "25",
+                        "19",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 102837314661,
+                    "question_value": "Evaluate \\( (1101)_2^4 \\)",
+                    "options": [
+                        "11010",
+                        "10111",
+                        "10011",
+                        "11110"
+                    ],
+                    "answer_value": "11110",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 10283733424659,
+                    "question_value": "Solve for \\( k \\) in the equation \\( \\left( \\frac{1}{8} \\right)^{k+2} = 1 \\).",
+                    "options": [
+                        "k = 2",
+                        "k = -2",
+                        "k = 0",
+                        "k = 1"
+                    ],
+                    "answer_value": "k = -2"
+                },
+                {
+                    "question_id": 78923409,
+                    "question_value": "What is 9 squared?",
+                    "options": [
+                        "72",
+                        "80",
+                        "81",
+                        "90"
+                    ],
+                    "answer_value": "81"
+                }
+            ]
+        }
+    ]
+}

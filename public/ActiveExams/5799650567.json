@@ -1,0 +1,109 @@
+{
+    "exam_id": 5799650567,
+    "questions": [
+        {
+            "subject": "BIOLOGY",
+            "questions": [
+                {
+                    "question_id": 4342145408346,
+                    "question_value": "What is the chemical substance that carries genetic information in cells?",
+                    "options": [
+                        "DNA",
+                        "RNA",
+                        "ATP",
+                        "Glucose"
+                    ],
+                    "answer_value": "DNA"
+                },
+                {
+                    "question_id": 987656734,
+                    "question_value": "What is the longest bone in the human body?",
+                    "options": [
+                        "Femur",
+                        "Humerus",
+                        "Radius",
+                        "Tibia"
+                    ],
+                    "answer_value": "Femur"
+                },
+                {
+                    "question_id": 45618923,
+                    "question_value": "What is the powerhouse of the cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Endoplasmic Reticulum"
+                    ],
+                    "answer_value": "Mitochondria"
+                },
+                {
+                    "question_id": 90123009324,
+                    "question_value": "Which of the following is not a function of the skeletal system?",
+                    "options": [
+                        "Support",
+                        "Protection",
+                        "Movement",
+                        "Digestion"
+                    ],
+                    "answer_value": "Digestion"
+                },
+                {
+                    "question_id": 90123349472,
+                    "question_value": "What is the function of red blood cells?",
+                    "options": [
+                        "Transport oxygen",
+                        "Fight infection",
+                        "Produce antibodies",
+                        "Store energy"
+                    ],
+                    "answer_value": "Transport oxygen"
+                },
+                {
+                    "question_id": 8942450123,
+                    "question_value": "What is the basic unit of heredity?",
+                    "options": [
+                        "Gene",
+                        "Allele",
+                        "Chromosome",
+                        "DNA"
+                    ],
+                    "answer_value": "Gene"
+                },
+                {
+                    "question_id": 1233932456,
+                    "question_value": "Which organ is responsible for filtering blood in the human body?",
+                    "options": [
+                        "Kidneys",
+                        "Liver",
+                        "Heart",
+                        "Lungs"
+                    ],
+                    "answer_value": "Kidneys"
+                },
+                {
+                    "question_id": 12333456,
+                    "question_value": "What is the study of fossils called?",
+                    "options": [
+                        "Geology",
+                        "Anthropology",
+                        "Paleontology",
+                        "Archaeology"
+                    ],
+                    "answer_value": "Paleontology"
+                },
+                {
+                    "question_id": 56789530,
+                    "question_value": "What is the powerhouse of the plant cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Chloroplast"
+                    ],
+                    "answer_value": "Chloroplast"
+                }
+            ]
+        }
+    ]
+}

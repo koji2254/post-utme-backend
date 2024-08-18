@@ -1,0 +1,57 @@
+{
+    "exam_id": 9647268794,
+    "questions": [
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 78128834,
+                    "question_value": "What is 4 squared?",
+                    "options": [
+                        "8",
+                        "12",
+                        "16",
+                        "20"
+                    ],
+                    "answer_value": "16"
+                },
+                {
+                    "question_id": 102837424666,
+                    "question_value": "Calculate \\( \\frac{2244_4}{112_4} \\)",
+                    "options": [
+                        "\\( 20_{4} \\)",
+                        "\\( 22_{4} \\)",
+                        "\\( 24_{4}  \\)",
+                        "\\( 26_{4} \\)"
+                    ],
+                    "answer_value": "\\(20_{4}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1028374670,
+                    "question_value": "Given that the mean of 2, 5, \\( (x+1) \\), \\( (x+2) \\), 7, and 9 is 6, find the median.",
+                    "options": [
+                        "5",
+                        "6",
+                        "6.5",
+                        "7"
+                    ],
+                    "answer_value": "6.5",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102837314661,
+                    "question_value": "Evaluate \\( (1101)_2^4 \\)",
+                    "options": [
+                        "11010",
+                        "10111",
+                        "10011",
+                        "11110"
+                    ],
+                    "answer_value": "11110",
+                    "image_url": ""
+                }
+            ]
+        }
+    ]
+}

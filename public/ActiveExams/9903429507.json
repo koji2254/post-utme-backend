@@ -1,0 +1,1746 @@
+{
+    "exam_id": 9903429507,
+    "questions": [
+        {
+            "subject": "ENGLISH LANGUAGE",
+            "questions": [
+                {
+                    "question_id": 194849344,
+                    "comprehension_title": "The Wonders of the Rainforest",
+                    "comprehension": "The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+                    "question_value": "What is one role the rainforest plays in regulating the Earth's climate?",
+                    "options": [
+                        "Absorbing carbon dioxide and producing oxygen",
+                        "Blocking sunlight completely",
+                        "Providing a home for all animal species",
+                        "Preventing rainfall"
+                    ],
+                    "answer_value": "Absorbing carbon dioxide and producing oxygen"
+                },
+                {
+                    "question_id": 28899389,
+                    "comprehension_title": "The Wonders of the Rainforest",
+                    "comprehension": "The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+                    "question_value": "Which part of the rainforest forms a canopy?",
+                    "options": [
+                        "The forest floor",
+                        "The dense foliage and towering trees",
+                        "The rivers",
+                        "The animals"
+                    ],
+                    "answer_value": "The dense foliage and towering trees"
+                },
+                {
+                    "question_id": 390909090,
+                    "comprehension_title": "The Wonders of the Rainforest",
+                    "comprehension": "The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+                    "question_value": "Why is the rainforest described as 'teeming with life'?",
+                    "options": [
+                        "Because it has many tourists",
+                        "Because it has a vast variety of plants, animals, and insects",
+                        "Because it has a lot of sunlight",
+                        "Because it is very large"
+                    ],
+                    "answer_value": "Because it has a vast variety of plants, animals, and insects"
+                },
+                {
+                    "question_id": 478799049,
+                    "comprehension_title": "The Wonders of the Rainforest",
+                    "comprehension": "The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+                    "question_value": "What does the canopy of the rainforest do?",
+                    "options": [
+                        "It increases the temperature",
+                        "It blocks much of the sunlight",
+                        "It absorbs rainwater",
+                        "It attracts predators"
+                    ],
+                    "answer_value": "It blocks much of the sunlight"
+                },
+                {
+                    "question_id": 598393834,
+                    "comprehension_title": "The Wonders of the Rainforest",
+                    "comprehension": "The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+                    "question_value": "How is the rainforest important to humans?",
+                    "options": [
+                        "It is a source of food, medicine, and raw materials",
+                        "It is a place for extreme sports",
+                        "It is a location for scientific studies only",
+                        "It is a place for entertainment"
+                    ],
+                    "answer_value": "It is a source of food ,medicine,and raw materials"
+                },
+                {
+                    "question_id": 394849344,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "Who invented the telegraph?",
+                    "options": [
+                        "Alexander Graham Bell",
+                        "Samuel Morse",
+                        "Thomas Edison",
+                        "Nikola Tesla"
+                    ],
+                    "answer_value": "Samuel Morse"
+                },
+                {
+                    "question_id": 48899389,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "What did the invention of the telegraph pave the way for?",
+                    "options": [
+                        "The internet",
+                        "The radio",
+                        "The telephone",
+                        "The television"
+                    ],
+                    "answer_value": "The telephone"
+                },
+                {
+                    "question_id": 590909090,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "Which 20th-century developments brought news and entertainment into homes worldwide?",
+                    "options": [
+                        "The telegraph and the internet",
+                        "The radio and the telephone",
+                        "The television and the telegraph",
+                        "The radio and the television"
+                    ],
+                    "answer_value": "The radio and the television"
+                },
+                {
+                    "question_id": 678799049,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "What is the most significant advancement in communication technology mentioned in the passage?",
+                    "options": [
+                        "The telegraph",
+                        "The telephone",
+                        "The internet",
+                        "The television"
+                    ],
+                    "answer_value": "The internet"
+                },
+                {
+                    "question_id": 798393834,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "What emerging technologies are enhancing our ability to process and analyze data?",
+                    "options": [
+                        "The telegraph and the telephone",
+                        "Radio and television",
+                        "Artificial intelligence and machine learning",
+                        "The internet and the telephone"
+                    ],
+                    "answer_value": "Artificial intelligence and machine learning"
+                },
+                {
+                    "question_id": 92292929292,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "What is the main function of the Amazon rainforest according to the passage?",
+                    "options": [
+                        "Habitat for wildlife",
+                        "Source of food and medicine",
+                        "Regulation of Earth's atmosphere",
+                        "Production of oxygen"
+                    ],
+                    "answer_value": "Regulation of Earth's atmosphere"
+                },
+                {
+                    "question_id": 8765904942341,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "Which gas is absorbed by plants in the rainforest during photosynthesis?",
+                    "options": [
+                        "Nitrogen",
+                        "Oxygen",
+                        "Carbon Dioxide",
+                        "Water Vapor"
+                    ],
+                    "answer_value": "Carbon Dioxide"
+                },
+                {
+                    "question_id": 3098848484848,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "What is the negative impact of deforestation mentioned in the passage?",
+                    "options": [
+                        "Reduces biodiversity",
+                        "Increases soil erosion",
+                        "Releases stored carbon",
+                        "All of the above"
+                    ],
+                    "answer_value": "All of the above"
+                },
+                {
+                    "question_id": 89090909393484848,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "The word 'mitigate' in the passage is closest in meaning to:",
+                    "options": [
+                        "Eliminate",
+                        "Control",
+                        "Ignore",
+                        "Produce"
+                    ],
+                    "answer_value": "Control"
+                },
+                {
+                    "question_id": 8099938343248,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "Based on the passage, why is deforestation a concern?",
+                    "options": [
+                        "Reduces the beauty of the rainforest",
+                        "Disrupts the habitat of animals",
+                        "Contributes to climate change",
+                        "All of the above"
+                    ],
+                    "answer_value": "All of the above"
+                },
+                {
+                    "question_id": 8237482645411,
+                    "question_value": "The treaty was intended to _____ hostilities between the two warring nations.",
+                    "options": [
+                        "escalate",
+                        "prolong",
+                        "mitigate",
+                        "instigate"
+                    ],
+                    "answer_value": "mitigate"
+                },
+                {
+                    "question_id": 455456123,
+                    "question_value": "What is the correct form of 'to be' in the sentence: 'They ___ happy.'?",
+                    "options": [
+                        "Am",
+                        "Is",
+                        "Are",
+                        "Be"
+                    ],
+                    "answer_value": "Are"
+                },
+                {
+                    "question_id": 823743458217,
+                    "question_value": "The politician's _____ promises did little to gain the trust of the voters.",
+                    "options": [
+                        "vague",
+                        "concrete",
+                        "explicit",
+                        "detailed"
+                    ],
+                    "answer_value": "vague"
+                },
+                {
+                    "question_id": 182423734,
+                    "question_value": "Which sentence uses the correct form of 'their\/there\/they're'?",
+                    "options": [
+                        "Their going to the park.",
+                        "There going to the park.",
+                        "They're going to the park.",
+                        "Theyre going to the park."
+                    ],
+                    "answer_value": "They're going to the park."
+                },
+                {
+                    "question_id": 1234567890,
+                    "question_value": "What is the synonym of 'meticulous'?",
+                    "options": [
+                        "Careless",
+                        "Scrupulous",
+                        "Flippant",
+                        "Rash"
+                    ],
+                    "answer_value": "Scrupulous"
+                },
+                {
+                    "question_id": 782344231,
+                    "question_value": "Which sentence is grammatically correct?",
+                    "options": [
+                        "She go to school.",
+                        "She going to school.",
+                        "She goes to school.",
+                        "She gone to school."
+                    ],
+                    "answer_value": "She goes to school."
+                },
+                {
+                    "question_id": 239874346,
+                    "question_value": "What is the plural form of 'mouse'?",
+                    "options": [
+                        "Mouses",
+                        "Mices",
+                        "Mouse",
+                        "Mice"
+                    ],
+                    "answer_value": "Mice"
+                },
+                {
+                    "question_id": 823746678230,
+                    "question_value": "His speech was full of _____ intended to _____ the audience.",
+                    "options": [
+                        "clarity, enlighten",
+                        "equivocations, mislead",
+                        "honesty, convince",
+                        "transparency, assure"
+                    ],
+                    "answer_value": "equivocations, mislead"
+                },
+                {
+                    "question_id": 8237482345222,
+                    "question_value": "The scientist's theory was considered _____ until it was _____ with empirical evidence.",
+                    "options": [
+                        "innovative, discarded",
+                        "heretical, denounced",
+                        "ambiguous, clarified",
+                        "untenable, proven"
+                    ],
+                    "answer_value": "untenable, proven"
+                },
+                {
+                    "question_id": 823787748216,
+                    "question_value": "His speech was full of _____ intended to mislead the audience.",
+                    "options": [
+                        "clarity",
+                        "equivocations",
+                        "honesty",
+                        "transparency"
+                    ],
+                    "answer_value": "equivocations"
+                },
+                {
+                    "question_id": 123249837,
+                    "question_value": "What is the antonym of 'cold'?",
+                    "options": [
+                        "Cool",
+                        "Chilly",
+                        "Hot",
+                        "Freezing"
+                    ],
+                    "answer_value": "Hot"
+                },
+                {
+                    "question_id": 23223457849,
+                    "question_value": "Which sentence is in the past tense?",
+                    "options": [
+                        "She is eating.",
+                        "She eats.",
+                        "She will eat.",
+                        "She ate."
+                    ],
+                    "answer_value": "She ate."
+                },
+                {
+                    "question_id": 125543789,
+                    "question_value": "Which word means 'a synonym for quick'?",
+                    "options": [
+                        "Slow",
+                        "Fast",
+                        "Run",
+                        "Quickly"
+                    ],
+                    "answer_value": "Fast"
+                },
+                {
+                    "question_id": 823748256549,
+                    "question_value": "Identify the figure of speech: 'The stars in the sky winked at us.'",
+                    "options": [
+                        "Personification",
+                        "Simile",
+                        "Metaphor",
+                        "Alliteration"
+                    ],
+                    "answer_value": "Personification"
+                },
+                {
+                    "question_id": 823748263505,
+                    "question_value": "Choose the word that is closest in meaning to 'ubiquitous'.",
+                    "options": [
+                        "Rare",
+                        "Scarce",
+                        "Omnipresent",
+                        "Isolated"
+                    ],
+                    "answer_value": "Omnipresent"
+                },
+                {
+                    "question_id": 8237486456226,
+                    "question_value": "The author's use of _____ language added _____ to the narrative.",
+                    "options": [
+                        "colloquial, simplicity",
+                        "pedestrian, confusion",
+                        "laconic, brevity",
+                        "ornate, depth"
+                    ],
+                    "answer_value": "ornate, depth"
+                },
+                {
+                    "question_id": 82374823197,
+                    "question_value": "Which word is a synonym for 'prodigal'?",
+                    "options": [
+                        "Frugal",
+                        "Thrifty",
+                        "Extravagant",
+                        "Economical"
+                    ],
+                    "answer_value": "Extravagant"
+                },
+                {
+                    "question_id": 823745638206,
+                    "question_value": "Which word is most opposite in meaning to 'obdurate'?",
+                    "options": [
+                        "Stubborn",
+                        "Flexible",
+                        "Unyielding",
+                        "Adamant"
+                    ],
+                    "answer_value": "Flexible"
+                },
+                {
+                    "question_id": 9867657654,
+                    "question_value": "Which sentence is an example of a simile?",
+                    "options": [
+                        "She is as fast as a cheetah.",
+                        "She is a fast cheetah.",
+                        "She runs faster than a cheetah.",
+                        "She runs fast."
+                    ],
+                    "answer_value": "She is as fast as a cheetah."
+                },
+                {
+                    "question_id": 82374823456741,
+                    "question_value": "Identify the figure of speech: 'Her laughter was a melody that filled the room.'",
+                    "options": [
+                        "Metaphor",
+                        "Simile",
+                        "Hyperbole",
+                        "Alliteration"
+                    ],
+                    "answer_value": "Metaphor"
+                },
+                {
+                    "question_id": 82374813395,
+                    "question_value": "Which word is most opposite in meaning to 'munificent'?",
+                    "options": [
+                        "Generous",
+                        "Stingy",
+                        "Lavish",
+                        "Charitable"
+                    ],
+                    "answer_value": "Stingy"
+                },
+                {
+                    "question_id": 82327448198,
+                    "question_value": "What is the meaning of the word 'antediluvian'?",
+                    "options": [
+                        "Modern",
+                        "Ancient",
+                        "Futuristic",
+                        "Primitive"
+                    ],
+                    "answer_value": "Ancient"
+                },
+                {
+                    "question_id": 8237482566412,
+                    "question_value": "The author's use of _____ language added depth to the narrative.",
+                    "options": [
+                        "colloquial",
+                        "pedestrian",
+                        "laconic",
+                        "ornate"
+                    ],
+                    "answer_value": "ornate"
+                },
+                {
+                    "question_id": 5545632421,
+                    "question_value": "Which word is a synonym of 'happy'?",
+                    "options": [
+                        "Sad",
+                        "Joyful",
+                        "Angry",
+                        "Bored"
+                    ],
+                    "answer_value": "Joyful"
+                },
+                {
+                    "question_id": 8524961730,
+                    "question_value": "What is the past participle of 'see'?",
+                    "options": [
+                        "Seen",
+                        "Saw",
+                        "Seening",
+                        "Sighted"
+                    ],
+                    "answer_value": "Seen"
+                },
+                {
+                    "question_id": 823748866210,
+                    "question_value": "Her _____ nature made it difficult for her to stay focused on one task for long.",
+                    "options": [
+                        "diligent",
+                        "mercurial",
+                        "industrious",
+                        "unwavering"
+                    ],
+                    "answer_value": "mercurial"
+                },
+                {
+                    "question_id": 654434321,
+                    "question_value": "What is the subject in the sentence: 'The cat sat on the mat.'?",
+                    "options": [
+                        "The",
+                        "Cat",
+                        "Sat",
+                        "Mat"
+                    ],
+                    "answer_value": "Cat"
+                },
+                {
+                    "question_id": 342781,
+                    "question_value": "Which word is a homophone for 'to'?",
+                    "options": [
+                        "Too",
+                        "Two",
+                        "Toe",
+                        "Both A and B"
+                    ],
+                    "answer_value": "Both A and B"
+                },
+                {
+                    "question_id": 823734548199,
+                    "question_value": "Choose the word that is closest in meaning to 'obfuscate'.",
+                    "options": [
+                        "Clarify",
+                        "Simplify",
+                        "Confuse",
+                        "Illuminate"
+                    ],
+                    "answer_value": "Confuse"
+                },
+                {
+                    "question_id": 823748276648,
+                    "question_value": "Identify the figure of speech: 'Life is a rollercoaster.'",
+                    "options": [
+                        "Simile",
+                        "Metaphor",
+                        "Hyperbole",
+                        "Personification"
+                    ],
+                    "answer_value": "Metaphor"
+                },
+                {
+                    "question_id": 823748255551,
+                    "question_value": "Identify the figure of speech: 'She was drowning in a sea of paperwork.'",
+                    "options": [
+                        "Metaphor",
+                        "Simile",
+                        "Hyperbole",
+                        "Personification"
+                    ],
+                    "answer_value": "Metaphor"
+                },
+                {
+                    "question_id": 34128654478,
+                    "question_value": "Which word is a noun?",
+                    "options": [
+                        "Run",
+                        "Happy",
+                        "House",
+                        "Quickly"
+                    ],
+                    "answer_value": "House"
+                },
+                {
+                    "question_id": 3698527410,
+                    "question_value": "What is the main function of the colon (:) in writing?",
+                    "options": [
+                        "To separate a question from its answer",
+                        "To introduce a list",
+                        "To join two independent clauses",
+                        "To indicate a pause"
+                    ],
+                    "answer_value": "To introduce a list"
+                },
+                {
+                    "question_id": 823753548238,
+                    "question_value": "Identify the figure of speech: 'She was as brave as a lion.'",
+                    "options": [
+                        "Metaphor",
+                        "Simile",
+                        "Personification",
+                        "Oxymoron"
+                    ],
+                    "answer_value": "Simile"
+                },
+                {
+                    "question_id": 823748567215,
+                    "question_value": "The committee's decision was _____ by the recent changes in the law.",
+                    "options": [
+                        "complicated",
+                        "facilitated",
+                        "obstructed",
+                        "inspired"
+                    ],
+                    "answer_value": "facilitated"
+                },
+                {
+                    "question_id": 823423748221,
+                    "question_value": "Her _____ attitude towards the project resulted in several critical errors.",
+                    "options": [
+                        "meticulous",
+                        "indifferent",
+                        "diligent",
+                        "scrupulous"
+                    ],
+                    "answer_value": "indifferent"
+                },
+                {
+                    "question_id": 8237482557725,
+                    "question_value": "The treaty was intended to _____ hostilities between the two _____ nations.",
+                    "options": [
+                        "escalate, warring",
+                        "prolong, friendly",
+                        "mitigate, peaceful",
+                        "instigate, harmonious"
+                    ],
+                    "answer_value": "mitigate, warring"
+                },
+                {
+                    "question_id": 32324525,
+                    "question_value": "Which word is an adjective?",
+                    "options": [
+                        "Run",
+                        "Blue",
+                        "Quickly",
+                        "She"
+                    ],
+                    "answer_value": "Blue"
+                },
+                {
+                    "question_id": 8237482457884,
+                    "question_value": "Identify the figure of speech: 'I'm so hungry I could eat a horse.'",
+                    "options": [
+                        "Simile",
+                        "Hyperbole",
+                        "Metaphor",
+                        "Personification"
+                    ],
+                    "answer_value": "Hyperbole"
+                },
+                {
+                    "question_id": 823748256204,
+                    "question_value": "What is the meaning of the word 'recalcitrant'?",
+                    "options": [
+                        "Submissive",
+                        "Defiant",
+                        "Obedient",
+                        "Compliant"
+                    ],
+                    "answer_value": "Defiant"
+                },
+                {
+                    "question_id": 82374843192,
+                    "question_value": "Which word is a synonym for 'loquacious'?",
+                    "options": [
+                        "Taciturn",
+                        "Garrulous",
+                        "Reticent",
+                        "Pithy"
+                    ],
+                    "answer_value": "Garrulous"
+                },
+                {
+                    "question_id": 9139750240,
+                    "question_value": "What is the difference between a metaphor and a simile?",
+                    "options": [
+                        "Metaphors directly state a comparison, while similes use 'like' or 'as'.",
+                        "Metaphors are hidden comparisons, while similes are explicit.",
+                        "Metaphors are used in poetry, while similes are used in prose.",
+                        "There is no difference."
+                    ],
+                    "answer_value": "Metaphors directly state a comparison, while similes use 'like' or 'as'."
+                },
+                {
+                    "question_id": 823748774237,
+                    "question_value": "Identify the figure of speech: 'The leaves danced in the wind.'",
+                    "options": [
+                        "Metaphor",
+                        "Simile",
+                        "Personification",
+                        "Hyperbole"
+                    ],
+                    "answer_value": "Personification"
+                },
+                {
+                    "question_id": 135709898492,
+                    "question_value": "Which word means 'a place where books are kept'?",
+                    "options": [
+                        "Library",
+                        "Kitchen",
+                        "Garage",
+                        "School"
+                    ],
+                    "answer_value": "Library"
+                },
+                {
+                    "question_id": 823744348239,
+                    "question_value": "Identify the figure of speech: 'The world is a stage.'",
+                    "options": [
+                        "Simile",
+                        "Metaphor",
+                        "Alliteration",
+                        "Personification"
+                    ],
+                    "answer_value": "Metaphor"
+                }
+            ]
+        },
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 2342932030393939,
+                    "question_value": "A capacitor with a capacitance of 5 \u00b5F is charged to a potential difference of 200 V. Calculate the energy stored in the capacitor.",
+                    "options": [
+                        "0.1 J",
+                        "0.2 J",
+                        "0.5 J",
+                        "1.0 J"
+                    ],
+                    "answer_value": "0.1 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 983838484334,
+                    "question_value": "A light ray passes from air into water. If the angle of incidence is 45\u00b0, calculate the angle of refraction (Refractive index of water = 1.33).",
+                    "options": [
+                        "19.5\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "30\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932033928,
+                    "question_value": "Calculate the pressure exerted by a force of 200 N on an area of 0.5 m\u00b2.",
+                    "options": [
+                        "100 Pa",
+                        "200 Pa",
+                        "400 Pa",
+                        "800 Pa"
+                    ],
+                    "answer_value": "400 Pa",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1234545646,
+                    "question_value": "What is the formula for Ohm's Law?",
+                    "options": [
+                        "V = IR",
+                        "I = VR",
+                        "R = VI",
+                        "V = RI"
+                    ],
+                    "answer_value": "V = IR"
+                },
+                {
+                    "question_id": 2342932099037,
+                    "question_value": "A force of 50 N moves an object through a distance of 10 m in the direction of the force. Calculate the work done.",
+                    "options": [
+                        "100 J",
+                        "250 J",
+                        "500 J",
+                        "1000 J"
+                    ],
+                    "answer_value": "500 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 20939393030393,
+                    "question_value": "Which of the following is not a consequence of hydrogen bubbles covering the copper plate of a primary cell?",
+                    "options": [
+                        "formation of hydrogen bubbles on the electrode",
+                        "local action",
+                        "polarization",
+                        "increase in the resistance of the cell"
+                    ],
+                    "answer_value": "local action",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 215344365,
+                    "question_value": "What is the formula for Newton's second law of motion?",
+                    "options": [
+                        "F = ma",
+                        "F = m\/v",
+                        "F = a\/t",
+                        "F = p\/t"
+                    ],
+                    "answer_value": "F = ma"
+                },
+                {
+                    "question_id": 8764231543,
+                    "question_value": "What is the unit of measurement for voltage?",
+                    "options": [
+                        "Volt",
+                        "Ampere",
+                        "Ohm",
+                        "Watt"
+                    ],
+                    "answer_value": "Volt"
+                },
+                {
+                    "question_id": 2342932030310,
+                    "question_value": "A car starts from rest and covers a distance of 40 m in 10 s. Calculate the magnitude of its acceleration.",
+                    "options": [
+                        "0.4 m\/s\u00b2",
+                        "0.6 m\/s\u00b2",
+                        "0.8 m\/s\u00b2",
+                        "1.0 m\/s\u00b2"
+                    ],
+                    "answer_value": "0.8 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 12378459,
+                    "question_value": "What is the formula for calculating gravitational force?",
+                    "options": [
+                        "F = G(m1 * m2)\/r^2",
+                        "F = mgh",
+                        "F = ma",
+                        "F = pt"
+                    ],
+                    "answer_value": "F = G(m1 * m2)\/r^2"
+                },
+                {
+                    "question_id": 4561233234,
+                    "question_value": "What is the formula for calculating momentum?",
+                    "options": [
+                        "p = mv",
+                        "p = Fd",
+                        "p = W\/t",
+                        "p = F\/a"
+                    ],
+                    "answer_value": "p = mv"
+                },
+                {
+                    "question_id": 23429320304232,
+                    "question_value": "A long straight wire carries a current of 5 A. Calculate the magnetic field at a distance of 2 cm from the wire. (Use \u03bc\u2080 = 4\u03c0 x 10^-7 T\u00b7m\/A)",
+                    "options": [
+                        "5 x 10^-5 T",
+                        "1 x 10^-4 T",
+                        "5 x 10^-4 T",
+                        "1 x 10^-3 T"
+                    ],
+                    "answer_value": "5 x 10^-5 T",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030309,
+                    "question_value": "An object 40 cm high is 30 cm from the pinhole camera. If the height of the image formed is 20 cm, what is the distance of the image from the pinhole?",
+                    "options": [
+                        "10 cm",
+                        "15 cm",
+                        "20 cm",
+                        "25 cm"
+                    ],
+                    "answer_value": "15 cm",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293293939344,
+                    "question_value": "A concave lens with a focal length of -10 cm forms an image 20 cm from the lens. Is the image real, virtual, convex or fixed?",
+                    "options": [
+                        "Real",
+                        "fixed",
+                        "convex",
+                        "Virtual"
+                    ],
+                    "answer_value": "Virtual",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 6785342912,
+                    "question_value": "What is the formula for calculating power?",
+                    "options": [
+                        "P = W\/t",
+                        "P = Fd",
+                        "P = mv^2",
+                        "P = IR"
+                    ],
+                    "answer_value": "P = W\/t"
+                },
+                {
+                    "question_id": 6789553412,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Kelvin",
+                        "Celsius",
+                        "Fahrenheit",
+                        "Joule"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 93948484840391032,
+                    "question_value": "The mercury column in the barometer at natural atmospheric pressure has a height of?",
+                    "options": [
+                        "0.76 cm at see level",
+                        "760 cm at sea level",
+                        "76 cm at sea level",
+                        "7.6 cm at sea level"
+                    ],
+                    "answer_value": "76 cm at sea level",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932093993316,
+                    "question_value": "A machine does 500 J of work in 10 seconds. Calculate the power of the machine.",
+                    "options": [
+                        "40 W",
+                        "50 W",
+                        "60 W",
+                        "70 W"
+                    ],
+                    "answer_value": "50 W",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 765442332,
+                    "question_value": "What is the law of conservation of energy?",
+                    "options": [
+                        "Energy can neither be created nor destroyed.",
+                        "Energy is always increasing.",
+                        "Energy can be destroyed.",
+                        "Energy can be created at will."
+                    ],
+                    "answer_value": "Energy can neither be created nor destroyed."
+                },
+                {
+                    "question_id": 933848432030335,
+                    "question_value": "In a circuit, a resistor of 10 \u03a9 is connected in series with a resistor of 20 \u03a9. What is the total resistance of the circuit?",
+                    "options": [
+                        "3.3 \u03a9",
+                        "10 \u03a9",
+                        "20 \u03a9",
+                        "30 \u03a9"
+                    ],
+                    "answer_value": "30 \u03a9",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429334230311,
+                    "question_value": "A car accelerates from 10 m\/s to 30 m\/s in 5 seconds. Calculate the acceleration of the car.",
+                    "options": [
+                        "2 m\/s\u00b2",
+                        "4 m\/s\u00b2",
+                        "5 m\/s\u00b2",
+                        "6 m\/s\u00b2"
+                    ],
+                    "answer_value": "4 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 239388232030343,
+                    "question_value": "A straight wire carries a current of 5 A. Calculate the magnetic field strength at a point 10 cm from the wire, assuming the wire is straight and the magnetic permeability of free space is \\( 4\\pi \\times 10^{-7} \\) Tm\/A.",
+                    "options": [
+                        "2.5 \u00b5T",
+                        "5 \u00b5T",
+                        "10 \u00b5T",
+                        "20 \u00b5T"
+                    ],
+                    "answer_value": "10 \u00b5T",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203330332,
+                    "question_value": "A wheel with a radius of 0.5 m rotates at 60 RPM. Calculate the linear velocity of a point on the rim of the wheel.",
+                    "options": [
+                        "1.5 m\/s",
+                        "3 m\/s",
+                        "5 m\/s",
+                        "6 m\/s"
+                    ],
+                    "answer_value": "3 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2889932849542,
+                    "question_value": "A semiconductor is formed by?",
+                    "options": [
+                        "covalent bonds",
+                        "a substance free of bonds",
+                        "electrovalent bonds",
+                        "co-ordinate bonds"
+                    ],
+                    "answer_value": "covalent bonds",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 288994043939842,
+                    "question_value": "The main factor which affects the speed of sound wave is the?",
+                    "options": [
+                        "properties of the medium",
+                        "amplitude of the sound wave",
+                        "intensity of the sound wave",
+                        "loudness of the sound wave"
+                    ],
+                    "answer_value": "properties of the medium",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 239339329489336,
+                    "question_value": "A light ray strikes a plane mirror at an angle of 30\u00b0 with the normal. What is the angle between the incident ray and the reflected ray?",
+                    "options": [
+                        "15\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "60\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030234,
+                    "question_value": "A convex lens has a focal length of 10 cm. An object is placed 15 cm from the lens. Calculate the position of the image formed.",
+                    "options": [
+                        "30 cm on the same side as the object",
+                        "30 cm on the opposite side of the object",
+                        "6 cm on the same side as the object",
+                        "6 cm on the opposite side of the object"
+                    ],
+                    "answer_value": "30 cm on the opposite side of the object",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320309994,
+                    "question_value": "A 3 kg object is moving at a velocity of 4 m\/s. Calculate its momentum.",
+                    "options": [
+                        "8 kg m\/s",
+                        "10 kg m\/s",
+                        "12 kg m\/s",
+                        "15 kg m\/s"
+                    ],
+                    "answer_value": "12 kg m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 340093939302,
+                    "question_value": "Which of the following is a derived unit?",
+                    "options": [
+                        "Kilogram",
+                        "Metre",
+                        "Newton",
+                        "Second"
+                    ],
+                    "answer_value": "Newton",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2343232030340,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 2 m. Calculate the speed of the wave.",
+                    "options": [
+                        "25 m\/s",
+                        "50 m\/s",
+                        "100 m\/s",
+                        "200 m\/s"
+                    ],
+                    "answer_value": "100 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203454,
+                    "question_value": "A 4 kg mass is lifted to a height of 5 meters. Calculate its potential energy. (g = 9.8 m\/s\u00b2)",
+                    "options": [
+                        "100 J",
+                        "120 J",
+                        "150 J",
+                        "196 J"
+                    ],
+                    "answer_value": "196 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932032348,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 3 meters. Calculate the speed of the wave.",
+                    "options": [
+                        "100 m\/s",
+                        "150 m\/s",
+                        "200 m\/s",
+                        "250 m\/s"
+                    ],
+                    "answer_value": "150 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 288994039293542,
+                    "question_value": "The amount of energy required to change a kilogram of ice block into the water without a change in temperature is?",
+                    "options": [
+                        "specific latent heat of fusion of ice",
+                        "specific heat capacity of ice",
+                        "heat capacity of ice",
+                        "specific heat of vaporization of ice"
+                    ],
+                    "answer_value": "specific latent heat of fusion of ice",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030345,
+                    "question_value": "If an object just begins to slide on a surface inclined at 30\u00ba to the horizontal, what is the coefficient of friction?",
+                    "options": [
+                        "\\( \\frac{1}{\\sqrt{3}} \\)",
+                        "\\( \\frac{\\sqrt{3}}{3} \\)",
+                        "\\( \\frac{\\sqrt{3}}{2} \\)",
+                        "\\( \\sqrt{3} \\)"
+                    ],
+                    "answer_value": "\\( \\frac{1}{\\sqrt{3}} \\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030339,
+                    "question_value": "A spring with a spring constant of 100 N\/m is compressed by 0.2 m. Calculate the elastic potential energy stored in the spring.",
+                    "options": [
+                        "2 J",
+                        "4 J",
+                        "10 J",
+                        "20 J"
+                    ],
+                    "answer_value": "4 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320534332,
+                    "question_value": "A mass-spring system oscillates with a period of 2 s. Calculate the spring constant if the mass is 0.5 kg.",
+                    "options": [
+                        "1.57 N\/m",
+                        "2.5 N\/m",
+                        "3.14 N\/m",
+                        "5.0 N\/m"
+                    ],
+                    "answer_value": "1.57 N\/m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 987364521,
+                    "question_value": "What is the SI unit of electric charge?",
+                    "options": [
+                        "Coulomb",
+                        "Volt",
+                        "Ampere",
+                        "Ohm"
+                    ],
+                    "answer_value": "Coulomb"
+                },
+                {
+                    "question_id": 234293933030331,
+                    "question_value": "Calculate the heat required to raise the temperature of 200 g of water from 20\u00b0C to 50\u00b0C. (Specific heat capacity of water = 4.18 J\/g\u00b0C)",
+                    "options": [
+                        "250 J",
+                        "836 J",
+                        "1672 J",
+                        "4180 J"
+                    ],
+                    "answer_value": "4180 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2030393939393,
+                    "answer_value": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when?",
+                    "options": [
+                        "the magnet is moved towards the stationary solenoid",
+                        "there is no relative motion",
+                        "the magnet is moved away from the stationary solenoid",
+                        "the solenoid is moved away from the stationary magnet"
+                    ],
+                    "question_value": "there is no relative motion"
+                },
+                {
+                    "question_id": 23440404040403,
+                    "question_value": "If a bar magnet is divided into two pieces, which of the following statement is correct?",
+                    "options": [
+                        "two new magnets are created",
+                        "the magnetic field of each separate piece becomes stronger",
+                        "the electric field is created",
+                        "the bar magnet is demagnetized"
+                    ],
+                    "answer_value": "two new magnets are created",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "subject": "BIOLOGY",
+            "questions": [
+                {
+                    "question_id": 56789530,
+                    "question_value": "What is the powerhouse of the plant cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Chloroplast"
+                    ],
+                    "answer_value": "Chloroplast"
+                },
+                {
+                    "question_id": 234569839097,
+                    "question_value": "What is the smallest unit of life?",
+                    "options": [
+                        "Cell",
+                        "Tissue",
+                        "Organ",
+                        "Organism"
+                    ],
+                    "answer_value": "Cell"
+                },
+                {
+                    "question_id": 344345613,
+                    "question_value": "What is the process by which plants make their own food?",
+                    "options": [
+                        "Respiration",
+                        "Fermentation",
+                        "Photosynthesis",
+                        "Digestion"
+                    ],
+                    "answer_value": "Photosynthesis"
+                },
+                {
+                    "question_id": 1233932456,
+                    "question_value": "Which organ is responsible for filtering blood in the human body?",
+                    "options": [
+                        "Kidneys",
+                        "Liver",
+                        "Heart",
+                        "Lungs"
+                    ],
+                    "answer_value": "Kidneys"
+                },
+                {
+                    "question_id": 8903232123,
+                    "question_value": "Which part of the eye is responsible for seeing color?",
+                    "options": [
+                        "Iris",
+                        "Cornea",
+                        "Lens",
+                        "Retina"
+                    ],
+                    "answer_value": "Retina"
+                },
+                {
+                    "question_id": 12333456,
+                    "question_value": "What is the study of fossils called?",
+                    "options": [
+                        "Geology",
+                        "Anthropology",
+                        "Paleontology",
+                        "Archaeology"
+                    ],
+                    "answer_value": "Paleontology"
+                },
+                {
+                    "question_id": 346535678,
+                    "question_value": "Which of the following is not a function of the liver?",
+                    "options": [
+                        "Detoxification",
+                        "Blood clotting",
+                        "Digestion",
+                        "Metabolism"
+                    ],
+                    "answer_value": "Digestion"
+                },
+                {
+                    "question_id": 123993456,
+                    "question_value": "What is the main function of the respiratory system?",
+                    "options": [
+                        "Transport nutrients",
+                        "Regulate body temperature",
+                        "Exchange gases",
+                        "Produce hormones"
+                    ],
+                    "answer_value": "Exchange gases"
+                },
+                {
+                    "question_id": 34530920678,
+                    "question_value": "What is the process by which organisms produce offspring?",
+                    "options": [
+                        "Photosynthesis",
+                        "Respiration",
+                        "Reproduction",
+                        "Digestion"
+                    ],
+                    "answer_value": "Reproduction"
+                },
+                {
+                    "question_id": 9023461234,
+                    "question_value": "What is the process of cell division in somatic cells called?",
+                    "options": [
+                        "Mitosis",
+                        "Meiosis",
+                        "Fertilization",
+                        "Apoptosis"
+                    ],
+                    "answer_value": "Mitosis"
+                },
+                {
+                    "question_id": 3453092678,
+                    "question_value": "What is the largest organ in the human body?",
+                    "options": [
+                        "Liver",
+                        "Skin",
+                        "Brain",
+                        "Heart"
+                    ],
+                    "answer_value": "Skin"
+                },
+                {
+                    "question_id": 5453253635,
+                    "question_value": "Which organ system is responsible for protecting the body from pathogens?",
+                    "options": [
+                        "Immune system",
+                        "Digestive system",
+                        "Nervous system",
+                        "Endocrine system"
+                    ],
+                    "answer_value": "Immune system"
+                },
+                {
+                    "question_id": 90123349472,
+                    "question_value": "What is the function of red blood cells?",
+                    "options": [
+                        "Transport oxygen",
+                        "Fight infection",
+                        "Produce antibodies",
+                        "Store energy"
+                    ],
+                    "answer_value": "Transport oxygen"
+                },
+                {
+                    "question_id": 567393812890,
+                    "question_value": "Which of the following is not a type of muscle tissue?",
+                    "options": [
+                        "Skeletal",
+                        "Cardiac",
+                        "Smooth",
+                        "Fibrous"
+                    ],
+                    "answer_value": "Fibrous"
+                },
+                {
+                    "question_id": 5674092890,
+                    "question_value": "Which part of the plant conducts photosynthesis?",
+                    "options": [
+                        "Roots",
+                        "Stem",
+                        "Leaves",
+                        "Flowers"
+                    ],
+                    "answer_value": "Leaves"
+                },
+                {
+                    "question_id": 789063412,
+                    "question_value": "Which of the following is not a type of blood vessel?",
+                    "options": [
+                        "Vein",
+                        "Artery",
+                        "Capillary",
+                        "Ligament"
+                    ],
+                    "answer_value": "Ligament"
+                },
+                {
+                    "question_id": 323331535,
+                    "question_value": "What is the primary function of white blood cells?",
+                    "options": [
+                        "Transport oxygen",
+                        "Fight infection",
+                        "Produce antibodies",
+                        "Store energy"
+                    ],
+                    "answer_value": "Fight infection"
+                },
+                {
+                    "question_id": 890653123,
+                    "question_value": "Which of the following is not a kingdom in the classification of living organisms?",
+                    "options": [
+                        "Animalia",
+                        "Plantae",
+                        "Protista",
+                        "Mycota"
+                    ],
+                    "answer_value": "Mycota"
+                },
+                {
+                    "question_id": 90123009324,
+                    "question_value": "Which of the following is not a function of the skeletal system?",
+                    "options": [
+                        "Support",
+                        "Protection",
+                        "Movement",
+                        "Digestion"
+                    ],
+                    "answer_value": "Digestion"
+                },
+                {
+                    "question_id": 9010830234,
+                    "question_value": "What is the chemical formula for glucose?",
+                    "options": [
+                        "C6H12O6",
+                        "CO2",
+                        "H2O",
+                        "NaCl"
+                    ],
+                    "answer_value": "C6H12O6"
+                },
+                {
+                    "question_id": 8942450123,
+                    "question_value": "What is the basic unit of heredity?",
+                    "options": [
+                        "Gene",
+                        "Allele",
+                        "Chromosome",
+                        "DNA"
+                    ],
+                    "answer_value": "Gene"
+                },
+                {
+                    "question_id": 4342145408346,
+                    "question_value": "What is the chemical substance that carries genetic information in cells?",
+                    "options": [
+                        "DNA",
+                        "RNA",
+                        "ATP",
+                        "Glucose"
+                    ],
+                    "answer_value": "DNA"
+                },
+                {
+                    "question_id": 987656734,
+                    "question_value": "What is the longest bone in the human body?",
+                    "options": [
+                        "Femur",
+                        "Humerus",
+                        "Radius",
+                        "Tibia"
+                    ],
+                    "answer_value": "Femur"
+                },
+                {
+                    "question_id": 45618923,
+                    "question_value": "What is the powerhouse of the cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Endoplasmic Reticulum"
+                    ],
+                    "answer_value": "Mitochondria"
+                },
+                {
+                    "question_id": 32213264,
+                    "question_value": "Which gas do plants absorb during photosynthesis?",
+                    "options": [
+                        "Oxygen",
+                        "Carbon Dioxide",
+                        "Nitrogen",
+                        "Hydrogen"
+                    ],
+                    "answer_value": "Carbon Dioxide"
+                }
+            ]
+        },
+        {
+            "subject": "CHEMISTRY",
+            "questions": [
+                {
+                    "question_id": 324924203,
+                    "question_value": "What is the process of solid changing directly into vapor called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Sublimation"
+                },
+                {
+                    "question_id": 56784290,
+                    "question_value": "What is the chemical formula for carbon monoxide?",
+                    "options": [
+                        "CO2",
+                        "CO",
+                        "CH4",
+                        "C"
+                    ],
+                    "answer_value": "CO"
+                },
+                {
+                    "question_id": 345435322,
+                    "question_value": "What is the chemical symbol for carbon dioxide?",
+                    "options": [
+                        "CO2",
+                        "CO",
+                        "CH4",
+                        "C"
+                    ],
+                    "answer_value": "CO2"
+                },
+                {
+                    "question_id": 12123456,
+                    "question_value": "What is the process of liquid changing into solid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Freezing"
+                    ],
+                    "answer_value": "Freezing"
+                },
+                {
+                    "question_id": 2345637111,
+                    "question_value": "What is the formula for sulfuric acid?",
+                    "options": [
+                        "H2O",
+                        "H2SO4",
+                        "HCl",
+                        "NaOH"
+                    ],
+                    "answer_value": "H2SO4"
+                },
+                {
+                    "question_id": 13567890,
+                    "question_value": "What is the chemical formula for ammonia?",
+                    "options": [
+                        "NH3",
+                        "N2O",
+                        "NO2",
+                        "NO3"
+                    ],
+                    "answer_value": "NH3"
+                },
+                {
+                    "question_id": 90039283,
+                    "question_value": "What is the chemical symbol for potassium?",
+                    "options": [
+                        "Pt",
+                        "Po",
+                        "Pb",
+                        "K"
+                    ],
+                    "answer_value": "K"
+                },
+                {
+                    "question_id": 94092839384,
+                    "question_value": "What is the process of converting a liquid into vapor called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Evaporation"
+                },
+                {
+                    "question_id": 34544232,
+                    "question_value": "What is the chemical symbol for gold?",
+                    "options": [
+                        "Au",
+                        "Ag",
+                        "Fe",
+                        "Cu"
+                    ],
+                    "answer_value": "Au"
+                },
+                {
+                    "question_id": 9420429,
+                    "question_value": "What is the process of vapor changing into liquid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Condensation"
+                },
+                {
+                    "question_id": 901032234,
+                    "question_value": "Which of the following is an alkali metal?",
+                    "options": [
+                        "Lithium",
+                        "Calcium",
+                        "Sulfur",
+                        "Nitrogen"
+                    ],
+                    "answer_value": "Lithium"
+                },
+                {
+                    "question_id": 11223456,
+                    "question_value": "What is the SI unit of pressure?",
+                    "options": [
+                        "Newton",
+                        "Pascal",
+                        "Joule",
+                        "Watt"
+                    ],
+                    "answer_value": "Pascal"
+                },
+                {
+                    "question_id": 89012233,
+                    "question_value": "What is the formula for methane?",
+                    "options": [
+                        "CH4",
+                        "CO2",
+                        "NH3",
+                        "H2O"
+                    ],
+                    "answer_value": "CH4"
+                },
+                {
+                    "question_id": 890123,
+                    "question_value": "What is the chemical symbol for silver?",
+                    "options": [
+                        "Si",
+                        "Ag",
+                        "Au",
+                        "Al"
+                    ],
+                    "answer_value": "Ag"
+                },
+                {
+                    "question_id": 90123409,
+                    "question_value": "What is the pH value of a neutral solution?",
+                    "options": [
+                        "7",
+                        "0",
+                        "14",
+                        "1"
+                    ],
+                    "answer_value": "7"
+                },
+                {
+                    "question_id": 12567890,
+                    "question_value": "What is the chemical formula for hydrogen peroxide?",
+                    "options": [
+                        "H2O",
+                        "H2SO4",
+                        "H2O2",
+                        "HCl"
+                    ],
+                    "answer_value": "H2O2"
+                },
+                {
+                    "question_id": 78909831012,
+                    "question_value": "What is the process of solid changing into liquid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Melting",
+                        "Sublimation"
+                    ],
+                    "answer_value": "Melting"
+                },
+                {
+                    "question_id": 5901234,
+                    "question_value": "Which of the following is a halogen?",
+                    "options": [
+                        "Sodium",
+                        "Chlorine",
+                        "Calcium",
+                        "Magnesium"
+                    ],
+                    "answer_value": "Chlorine"
+                },
+                {
+                    "question_id": 456123,
+                    "question_value": "What is the atomic number of carbon?",
+                    "options": [
+                        "5",
+                        "10",
+                        "15",
+                        "6"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 4905567890,
+                    "question_value": "What is the lightest element?",
+                    "options": [
+                        "Oxygen",
+                        "Hydrogen",
+                        "Helium",
+                        "Carbon"
+                    ],
+                    "answer_value": "Hydrogen"
+                },
+                {
+                    "question_id": 322890123,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Celsius",
+                        "Kelvin",
+                        "Fahrenheit",
+                        "Rankine"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 3456004278,
+                    "question_value": "What is the formula for water?",
+                    "options": [
+                        "H2O2",
+                        "CO2",
+                        "H2O",
+                        "CH4"
+                    ],
+                    "answer_value": "H2O"
+                },
+                {
+                    "question_id": 12901234,
+                    "question_value": "Which of the following is a noble gas?",
+                    "options": [
+                        "Oxygen",
+                        "Neon",
+                        "Fluorine",
+                        "Chlorine"
+                    ],
+                    "answer_value": "Neon"
+                },
+                {
+                    "question_id": 2340909567,
+                    "question_value": "What is the chemical symbol for iron?",
+                    "options": [
+                        "Ir",
+                        "Fe",
+                        "Fr",
+                        "In"
+                    ],
+                    "answer_value": "Fe"
+                },
+                {
+                    "question_id": 11234023456,
+                    "question_value": "What is the chemical formula for table salt?",
+                    "options": [
+                        "NaCl",
+                        "HCl",
+                        "KCl",
+                        "CaCl2"
+                    ],
+                    "answer_value": "NaCl"
+                },
+                {
+                    "question_id": 67832901,
+                    "question_value": "What is the chemical symbol for sodium?",
+                    "options": [
+                        "So",
+                        "Na",
+                        "Sn",
+                        "Si"
+                    ],
+                    "answer_value": "Na"
+                }
+            ]
+        }
+    ]
+}

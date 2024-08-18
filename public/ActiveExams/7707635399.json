@@ -1,0 +1,95 @@
+{
+    "exam_id": 7707635399,
+    "questions": [
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 28550598884849542,
+                    "question_value": "The graph of pressure (P) against the reciprocal of the volume (I\/V) in Boyles's law is a___?",
+                    "options": [
+                        "straight line",
+                        "curve",
+                        "hyperbola",
+                        "parabola"
+                    ],
+                    "answer_value": "straight line",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2343232030340,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 2 m. Calculate the speed of the wave.",
+                    "options": [
+                        "25 m\/s",
+                        "50 m\/s",
+                        "100 m\/s",
+                        "200 m\/s"
+                    ],
+                    "answer_value": "100 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320309994,
+                    "question_value": "A 3 kg object is moving at a velocity of 4 m\/s. Calculate its momentum.",
+                    "options": [
+                        "8 kg m\/s",
+                        "10 kg m\/s",
+                        "12 kg m\/s",
+                        "15 kg m\/s"
+                    ],
+                    "answer_value": "12 kg m\/s",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "subject": "BIOLOGY",
+            "questions": [
+                {
+                    "question_id": 32213264,
+                    "question_value": "Which gas do plants absorb during photosynthesis?",
+                    "options": [
+                        "Oxygen",
+                        "Carbon Dioxide",
+                        "Nitrogen",
+                        "Hydrogen"
+                    ],
+                    "answer_value": "Carbon Dioxide"
+                },
+                {
+                    "question_id": 789063412,
+                    "question_value": "Which of the following is not a type of blood vessel?",
+                    "options": [
+                        "Vein",
+                        "Artery",
+                        "Capillary",
+                        "Ligament"
+                    ],
+                    "answer_value": "Ligament"
+                },
+                {
+                    "question_id": 987656734,
+                    "question_value": "What is the longest bone in the human body?",
+                    "options": [
+                        "Femur",
+                        "Humerus",
+                        "Radius",
+                        "Tibia"
+                    ],
+                    "answer_value": "Femur"
+                },
+                {
+                    "question_id": 346535678,
+                    "question_value": "Which of the following is not a function of the liver?",
+                    "options": [
+                        "Detoxification",
+                        "Blood clotting",
+                        "Digestion",
+                        "Metabolism"
+                    ],
+                    "answer_value": "Digestion"
+                }
+            ]
+        }
+    ]
+}

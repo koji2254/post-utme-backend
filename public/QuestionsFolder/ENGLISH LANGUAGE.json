@@ -1,0 +1,1130 @@
+{
+   "subject":"ENGLISH LANGUAGE",
+   "questions":[
+      {
+         "question_id": 5545632421,
+         "question_value":"Which word is a synonym of 'happy'?",
+         "options":[
+            "Sad",
+            "Joyful",
+            "Angry",
+            "Bored"
+         ],
+         "answer_value":"Joyful"
+      },
+      {
+         "question_id": 123249837,
+         "question_value":"What is the antonym of 'cold'?",
+         "options":[
+            "Cool",
+            "Chilly",
+            "Hot",
+            "Freezing"
+         ],
+         "answer_value":"Hot"
+      },
+      {
+         "question_id": 9842335123,
+         "question_value":"Which word is a verb?",
+         "options":[
+            "Quickly",
+            "Run",
+            "Blue",
+            "House"
+         ],
+         "answer_value":"Run"
+      },
+      {
+         "question_id": 782344231,
+         "question_value":"Which sentence is grammatically correct?",
+         "options":[
+            "She go to school.",
+            "She going to school.",
+            "She goes to school.",
+            "She gone to school."
+         ],
+         "answer_value":"She goes to school."
+      },
+      {
+         "question_id": 239874346,
+         "question_value":"What is the plural form of 'mouse'?",
+         "options":[
+            "Mouses",
+            "Mices",
+            "Mouse",
+            "Mice"
+         ],
+         "answer_value":"Mice"
+      },
+      {
+         "question_id": 34128654478,
+         "question_value":"Which word is a noun?",
+         "options":[
+            "Run",
+            "Happy",
+            "House",
+            "Quickly"
+         ],
+         "answer_value":"House"
+      },
+      {
+         "question_id": 182423734,
+         "question_value":"Which sentence uses the correct form of 'their/there/they're'?",
+         "options":[
+            "Their going to the park.",
+            "There going to the park.",
+            "They're going to the park.",
+            "Theyre going to the park."
+         ],
+         "answer_value":"They're going to the park."
+      },
+      {
+         "question_id": 456785349,
+         "question_value":"What is the past tense of 'go'?",
+         "options":[
+            "Goed",
+            "Goes",
+            "Going",
+            "Went"
+         ],
+         "answer_value":"Went"
+      },
+      {
+         "question_id": 986457654,
+         "question_value":"Which word is a pronoun?",
+         "options":[
+            "Quickly",
+            "She",
+            "Happy",
+            "Dog"
+         ],
+         "answer_value":"She"
+      },
+      {
+         "question_id": 44231444656,
+         "question_value":"What is the opposite of 'fast'?",
+         "options":[
+            "Quick",
+            "Speed",
+            "Slow",
+            "Run"
+         ],
+         "answer_value":"Slow"
+      },
+      {
+         "question_id": 135709898492,
+         "question_value":"Which word means 'a place where books are kept'?",
+         "options":[
+            "Library",
+            "Kitchen",
+            "Garage",
+            "School"
+         ],
+         "answer_value":"Library"
+      },
+      {
+         "question_id": 4682134493,
+         "question_value":"Which sentence is punctuated correctly?",
+         "options":[
+            "Lets go to the park.",
+            "Let's go to the park.",
+            "Lets go, to the park.",
+            "Let's, go to the park."
+         ],
+         "answer_value":"Let's go to the park."
+      },
+      {
+         "question_id": 1928234537,
+         "question_value":"Which word is a conjunction?",
+         "options":[
+            "And",
+            "Very",
+            "Quick",
+            "Run"
+         ],
+         "answer_value":"And"
+      },
+      {
+         "question_id": 3767654829,
+         "question_value":"Which word is a homophone for 'flower'?",
+         "options":[
+            "Flour",
+            "Flow",
+            "Flaw",
+            "Floor"
+         ],
+         "answer_value":"Flour"
+      },
+      {
+         "question_id": 982247231,
+         "question_value":"Which sentence is in the future tense?",
+         "options":[
+            "She is going to school.",
+            "She went to school.",
+            "She will go to school.",
+            "She goes to school."
+         ],
+         "answer_value":"She will go to school."
+      },
+      {
+         "question_id": 31243789,
+         "question_value":"What is the superlative form of 'good'?",
+         "options":[
+            "Gooder",
+            "Better",
+            "Best",
+            "Most good"
+         ],
+         "answer_value":"Best"
+      },
+      {
+         "question_id": 654434321,
+         "question_value":"What is the subject in the sentence: 'The cat sat on the mat.'?",
+         "options":[
+            "The",
+            "Cat",
+            "Sat",
+            "Mat"
+         ],
+         "answer_value":"Cat"
+      },
+      {
+         "question_id": 125543789,
+         "question_value":"Which word means 'a synonym for quick'?",
+         "options":[
+            "Slow",
+            "Fast",
+            "Run",
+            "Quickly"
+         ],
+         "answer_value":"Fast"
+      },
+      {
+         "question_id": 9867657654,
+         "question_value":"Which sentence is an example of a simile?",
+         "options":[
+            "She is as fast as a cheetah.",
+            "She is a fast cheetah.",
+            "She runs faster than a cheetah.",
+            "She runs fast."
+         ],
+         "answer_value":"She is as fast as a cheetah."
+      },
+      {
+         "question_id": 455456123,
+         "question_value":"What is the correct form of 'to be' in the sentence: 'They ___ happy.'?",
+         "options":[
+            "Am",
+            "Is",
+            "Are",
+            "Be"
+         ],
+         "answer_value":"Are"
+      },
+      {
+         "question_id": 194352374,
+         "question_value":"Which word is a preposition?",
+         "options":[
+            "Under",
+            "Quick",
+            "Cat",
+            "Very"
+         ],
+         "answer_value":"Under"
+      },
+      {
+         "question_id": 1223458374,
+         "question_value":"Which word is spelled correctly?",
+         "options":[
+            "Receeve",
+            "Receive",
+            "Recieve",
+            "Receve"
+         ],
+         "answer_value":"Receive"
+      },
+      {
+         "question_id": 23223457849,
+         "question_value":"Which sentence is in the past tense?",
+         "options":[
+            "She is eating.",
+            "She eats.",
+            "She will eat.",
+            "She ate."
+         ],
+         "answer_value":"She ate."
+      },
+      {
+         "question_id": 3283355947,
+         "question_value":"What is the comparative form of 'tall'?",
+         "options":[
+            "Taller",
+            "Tallest",
+            "More tall",
+            "Most tall"
+         ],
+         "answer_value":"Taller"
+      },
+      {
+         "question_id": 1835242749,
+         "question_value":"What is the correct plural of 'child'?",
+         "options":[
+            "Childs",
+            "Children",
+            "Childes",
+            "Childrens"
+         ],
+         "answer_value":"Children"
+      },
+      {
+         "question_id": 32324525,
+         "question_value":"Which word is an adjective?",
+         "options":[
+            "Run",
+            "Blue",
+            "Quickly",
+            "She"
+         ],
+         "answer_value":"Blue"
+      },
+      {
+         "question_id": 987341,
+         "question_value":"Which sentence uses the correct form of 'your/you're'?",
+         "options":[
+            "You''r the best friend.",
+            "You're the best friend.",
+            "Your best friend.",
+            "Youre the best friend."
+         ],
+         "answer_value":"You're the best friend."
+      },
+      {
+         "question_id": 654123,
+         "question_value":"Which word is a conjunction?",
+         "options":[
+            "Because",
+            "Run",
+            "Quickly",
+            "Blue"
+         ],
+         "answer_value":"Because"
+      },
+      {
+         "question_id": 342781,
+         "question_value":"Which word is a homophone for 'to'?",
+         "options":[
+            "Too",
+            "Two",
+            "Toe",
+            "Both A and B"
+         ],
+         "answer_value":"Both A and B"
+      },
+      {
+         "question_id": 123978,
+         "question_value":"Which sentence is grammatically correct?",
+         "options":[
+            "She don't like apples.",
+            "She doesn't like apples.",
+            "She do not like apples.",
+            "She does not likes apples."
+         ],
+         "answer_value":"She doesn't like apples."
+      },
+      {
+         "question_id": 1234567890,
+         "question_value": "What is the synonym of 'meticulous'?",
+         "options": [
+           "Careless",
+           "Scrupulous",
+           "Flippant",
+           "Rash"
+         ],
+         "answer_value": "Scrupulous"
+       },
+       {
+         "question_id": 9876543210,
+         "question_value": "In the phrase 'break the ice,' what does 'break the ice' metaphorically mean?",
+         "options": [
+           "To start a conversation",
+           "To overcome shyness",
+           "To build a friendship",
+           "To resolve a conflict"
+         ],
+         "answer_value": "To overcome shyness"
+       },
+       {
+         "question_id": 1122334455,
+         "question_value": "Which of the following is an example of a simile?",
+         "options": [
+           "The house was old and creaky.",
+           "She is as cunning as a fox.",
+           "The rain fell like tears.",
+           "The flowers bloomed brightly."
+         ],
+         "answer_value": "She is as cunning as a fox."
+       },
+       {
+         "question_id": 8524961730,
+         "question_value": "What is the past participle of 'see'?",
+         "options": [
+           "Seen",
+           "Saw",
+           "Seening",
+           "Sighted"
+         ],
+         "answer_value": "Seen"
+       },
+       {
+         "question_id": 3698527410,
+         "question_value": "What is the main function of the colon (:) in writing?",
+         "options": [
+           "To separate a question from its answer",
+           "To introduce a list",
+           "To join two independent clauses",
+           "To indicate a pause"
+         ],
+         "answer_value": "To introduce a list"
+       },
+       {
+         "question_id": 7412583960,
+         "question_value": "What is the author's purpose most likely to be in a persuasive essay?",
+         "options": [
+           "To inform the reader",
+           "To entertain the reader",
+           "To convince the reader of a particular viewpoint",
+           "To tell a story"
+         ],
+         "answer_value": "To convince the reader of a particular viewpoint"
+       },
+       {
+         "question_id": 5026148370,
+         "question_value": "What is the effect of using onomatopoeia in a poem?",
+         "options": [
+           "To create a sense of rhythm",
+           "To create a vivid image",
+           "To mimic a sound",
+           "To convey a complex emotion"
+         ],
+         "answer_value": "To mimic a sound"
+       },
+       {
+         "question_id": 9139750240,
+         "question_value": "What is the difference between a metaphor and a simile?",
+         "options": [
+           "Metaphors directly state a comparison, while similes use 'like' or 'as'.",
+           "Metaphors are hidden comparisons, while similes are explicit.",
+           "Metaphors are used in poetry, while similes are used in prose.",
+           "There is no difference."
+         ],
+         "answer_value": "Metaphors directly state a comparison, while similes use 'like' or 'as'."
+       },
+       {
+         "question_id": 4356219801,
+         "question_value": "What is the central idea of a text?",
+         "options": [
+           "The main topic or message of the text",
+           "The setting of the story",
+           "The characters involved in the story",
+           "The plot of the story"
+         ],
+         "answer_value": "The main topic or message of the text"
+       },
+       {
+         "question_id": 82374843192,
+         "question_value": "Which word is a synonym for 'loquacious'?",
+         "options": [
+             "Taciturn",
+             "Garrulous",
+             "Reticent",
+             "Pithy"
+         ],
+         "answer_value": "Garrulous"
+     },
+     {
+         "question_id": 823744548193,
+         "question_value": "What is the antonym of 'enervate'?",
+         "options": [
+             "Weaken",
+             "Exhaust",
+             "Strengthen",
+             "Debilitate"
+         ],
+         "answer_value": "Strengthen"
+     },
+     {
+         "question_id": 82374814394,
+         "question_value": "Which word best describes a 'paradox'?",
+         "options": [
+             "Contradiction",
+             "Similarity",
+             "Affirmation",
+             "Clarity"
+         ],
+         "answer_value": "Contradiction"
+     },
+     {
+         "question_id": 82374813395,
+         "question_value": "Which word is most opposite in meaning to 'munificent'?",
+         "options": [
+             "Generous",
+             "Stingy",
+             "Lavish",
+             "Charitable"
+         ],
+         "answer_value": "Stingy"
+     },
+     {
+         "question_id": 823748545196,
+         "question_value": "Identify the word that does not belong in the group: 'omniscient, omnipotent, omnipresent, omnivorous'.",
+         "options": [
+             "Omniscient",
+             "Omnipotent",
+             "Omnipresent",
+             "Omnivorous"
+         ],
+         "answer_value": "Omnivorous"
+     },
+     {
+         "question_id": 82374823197,
+         "question_value": "Which word is a synonym for 'prodigal'?",
+         "options": [
+             "Frugal",
+             "Thrifty",
+             "Extravagant",
+             "Economical"
+         ],
+         "answer_value": "Extravagant"
+     },
+     {
+         "question_id": 82327448198,
+         "question_value": "What is the meaning of the word 'antediluvian'?",
+         "options": [
+             "Modern",
+             "Ancient",
+             "Futuristic",
+             "Primitive"
+         ],
+         "answer_value": "Ancient"
+     },
+     {
+         "question_id": 823734548199,
+         "question_value": "Choose the word that is closest in meaning to 'obfuscate'.",
+         "options": [
+             "Clarify",
+             "Simplify",
+             "Confuse",
+             "Illuminate"
+         ],
+         "answer_value": "Confuse"
+     },
+     {
+         "question_id": 82374832050,
+         "question_value": "Which word is a synonym for 'laconic'?",
+         "options": [
+             "Verbose",
+             "Wordy",
+             "Reticent",
+             "Talkative"
+         ],
+         "answer_value": "Reticent"
+     },
+     {
+         "question_id": 82374820144,
+         "question_value": "What is the antonym of 'efficacious'?",
+         "options": [
+             "Effective",
+             "Ineffectual",
+             "Productive",
+             "Efficient"
+         ],
+         "answer_value": "Ineffectual"
+     },
+     {
+         "question_id": 8237482324502,
+         "question_value": "Identify the word that does not belong in the group: 'ephemeral, transient, perennial, fleeting'.",
+         "options": [
+             "Ephemeral",
+             "Transient",
+             "Perennial",
+             "Fleeting"
+         ],
+         "answer_value": "Perennial"
+     },
+     {
+         "question_id": 82374822603,
+         "question_value": "Which word is a synonym for 'pusillanimous'?",
+         "options": [
+             "Brave",
+             "Timid",
+             "Courageous",
+             "Bold"
+         ],
+         "answer_value": "Timid"
+     },
+     {
+         "question_id": 823748256204,
+         "question_value": "What is the meaning of the word 'recalcitrant'?",
+         "options": [
+             "Submissive",
+             "Defiant",
+             "Obedient",
+             "Compliant"
+         ],
+         "answer_value": "Defiant"
+     },
+     {
+         "question_id": 823748263505,
+         "question_value": "Choose the word that is closest in meaning to 'ubiquitous'.",
+         "options": [
+             "Rare",
+             "Scarce",
+             "Omnipresent",
+             "Isolated"
+         ],
+         "answer_value": "Omnipresent"
+     },
+     {
+         "question_id": 823745638206,
+         "question_value": "Which word is most opposite in meaning to 'obdurate'?",
+         "options": [
+             "Stubborn",
+             "Flexible",
+             "Unyielding",
+             "Adamant"
+         ],
+         "answer_value": "Flexible"
+     },
+     {
+      "question_id": 8237486365207,
+      "question_value": "The scientist's theory was considered _____ until it was proven with empirical evidence.",
+      "options": [
+          "innovative",
+          "heretical",
+          "ambiguous",
+          "untenable"
+      ],
+      "answer_value": "untenable"
+      },
+      {
+            "question_id": 823746358208,
+            "question_value": "The artist's work was acclaimed for its _____ blend of colors and textures.",
+            "options": [
+               "harmonious",
+               "discordant",
+               "simplistic",
+               "conventional"
+            ],
+            "answer_value": "harmonious"
+      },
+      {
+            "question_id": 8237482634509,
+            "question_value": "Despite the CEO's _____ remarks, the company's employees were still anxious about their jobs.",
+            "options": [
+               "reassuring",
+               "condescending",
+               "ambiguous",
+               "derogatory"
+            ],
+            "answer_value": "reassuring"
+      },
+      {
+            "question_id": 823748866210,
+            "question_value": "Her _____ nature made it difficult for her to stay focused on one task for long.",
+            "options": [
+               "diligent",
+               "mercurial",
+               "industrious",
+               "unwavering"
+            ],
+            "answer_value": "mercurial"
+      },
+      {
+            "question_id": 8237482645411,
+            "question_value": "The treaty was intended to _____ hostilities between the two warring nations.",
+            "options": [
+               "escalate",
+               "prolong",
+               "mitigate",
+               "instigate"
+            ],
+            "answer_value": "mitigate"
+      },
+      {
+            "question_id": 8237482566412,
+            "question_value": "The author's use of _____ language added depth to the narrative.",
+            "options": [
+               "colloquial",
+               "pedestrian",
+               "laconic",
+               "ornate"
+            ],
+            "answer_value": "ornate"
+      },
+      {
+            "question_id": 823747568213,
+            "question_value": "The _____ effects of climate change are already being felt in many parts of the world.",
+            "options": [
+               "negligible",
+               "pervasive",
+               "ephemeral",
+               "transient"
+            ],
+            "answer_value": "pervasive"
+      },
+      {
+            "question_id": 8237465538214,
+            "question_value": "She was known for her _____ ability to solve complex mathematical problems.",
+            "options": [
+               "innate",
+               "mediocre",
+               "rudimentary",
+               "acquired"
+            ],
+            "answer_value": "innate"
+      },
+      {
+            "question_id": 823748567215,
+            "question_value": "The committee's decision was _____ by the recent changes in the law.",
+            "options": [
+               "complicated",
+               "facilitated",
+               "obstructed",
+               "inspired"
+            ],
+            "answer_value": "facilitated"
+      },
+      {
+            "question_id": 823787748216,
+            "question_value": "His speech was full of _____ intended to mislead the audience.",
+            "options": [
+               "clarity",
+               "equivocations",
+               "honesty",
+               "transparency"
+            ],
+            "answer_value": "equivocations"
+      },
+      {
+            "question_id": 823743458217,
+            "question_value": "The politician's _____ promises did little to gain the trust of the voters.",
+            "options": [
+               "vague",
+               "concrete",
+               "explicit",
+               "detailed"
+            ],
+            "answer_value": "vague"
+      },
+      {
+            "question_id": 823748876218,
+            "question_value": "The _____ of the project was evident in the meticulous planning and execution.",
+            "options": [
+               "haphazardness",
+               "complexity",
+               "simplicity",
+               "chaos"
+            ],
+            "answer_value": "complexity"
+      },
+      {
+            "question_id": 833323748219,
+            "question_value": "Despite their _____ efforts, the team was unable to secure the championship.",
+            "options": [
+               "superficial",
+               "arduous",
+               "half-hearted",
+               "apathetic"
+            ],
+            "answer_value": "arduous"
+      },
+      {
+            "question_id": 823444748220,
+            "question_value": "The _____ behavior of the new recruit impressed the senior staff members.",
+            "options": [
+               "recalcitrant",
+               "submissive",
+               "insubordinate",
+               "erratic"
+            ],
+            "answer_value": "submissive"
+      },
+      {
+            "question_id": 823423748221,
+            "question_value": "Her _____ attitude towards the project resulted in several critical errors.",
+            "options": [
+               "meticulous",
+               "indifferent",
+               "diligent",
+               "scrupulous"
+            ],
+            "answer_value": "indifferent"
+      },
+      {
+         "question_id": 8237482345222,
+         "question_value": "The scientist's theory was considered _____ until it was _____ with empirical evidence.",
+         "options": [
+             "innovative, discarded",
+             "heretical, denounced",
+             "ambiguous, clarified",
+             "untenable, proven"
+         ],
+         "answer_value": "untenable, proven"
+     },
+     {
+         "question_id": 8237482755423,
+         "question_value": "Despite his _____ remarks, the company's employees remained _____ about their jobs.",
+         "options": [
+             "reassuring, anxious",
+             "condescending, confident",
+             "ambiguous, relaxed",
+             "derogatory, secure"
+         ],
+         "answer_value": "reassuring, anxious"
+     },
+     {
+         "question_id": 8237482324624,
+         "question_value": "Her _____ nature made it _____ for her to stay focused on one task for long.",
+         "options": [
+             "diligent, easy",
+             "mercurial, difficult",
+             "industrious, effortless",
+             "unwavering, hard"
+         ],
+         "answer_value": "mercurial, difficult"
+     },
+     {
+         "question_id": 8237482557725,
+         "question_value": "The treaty was intended to _____ hostilities between the two _____ nations.",
+         "options": [
+             "escalate, warring",
+             "prolong, friendly",
+             "mitigate, peaceful",
+             "instigate, harmonious"
+         ],
+         "answer_value": "mitigate, warring"
+     },
+     {
+         "question_id": 8237486456226,
+         "question_value": "The author's use of _____ language added _____ to the narrative.",
+         "options": [
+             "colloquial, simplicity",
+             "pedestrian, confusion",
+             "laconic, brevity",
+             "ornate, depth"
+         ],
+         "answer_value": "ornate, depth"
+     },
+     {
+         "question_id": 823748646227,
+         "question_value": "The _____ effects of climate change are already being felt in many parts of the _____.",
+         "options": [
+             "negligible, country",
+             "pervasive, world",
+             "ephemeral, city",
+             "transient, neighborhood"
+         ],
+         "answer_value": "pervasive, world"
+     },
+     {
+         "question_id": 8237486542228,
+         "question_value": "She was known for her _____ ability to solve _____ mathematical problems.",
+         "options": [
+             "innate, complex",
+             "mediocre, easy",
+             "rudimentary, simple",
+             "acquired, basic"
+         ],
+         "answer_value": "innate, complex"
+     },
+     {
+         "question_id": 8237486455229,
+         "question_value": "The committee's decision was _____ by the recent changes in the _____.",
+         "options": [
+             "complicated, economy",
+             "facilitated, law",
+             "obstructed, weather",
+             "inspired, culture"
+         ],
+         "answer_value": "facilitated, law"
+     },
+     {
+         "question_id": 823746678230,
+         "question_value": "His speech was full of _____ intended to _____ the audience.",
+         "options": [
+             "clarity, enlighten",
+             "equivocations, mislead",
+             "honesty, convince",
+             "transparency, assure"
+         ],
+         "answer_value": "equivocations, mislead"
+     },
+     {
+         "question_id": 8237486453231,
+         "question_value": "The politician's _____ promises did little to gain the _____ of the voters.",
+         "options": [
+             "vague, trust",
+             "concrete, support",
+             "explicit, doubt",
+             "detailed, loyalty"
+         ],
+         "answer_value": "vague, trust"
+     },
+     {
+         "question_id": 8237484535232,
+         "question_value": "The _____ of the project was evident in the _____ planning and execution.",
+         "options": [
+             "haphazardness, sloppy",
+             "complexity, meticulous",
+             "simplicity, careless",
+             "chaos, disorganized"
+         ],
+         "answer_value": "complexity, meticulous"
+     },
+     {
+         "question_id": 823748253533,
+         "question_value": "Despite their _____ efforts, the team was unable to _____ the championship.",
+         "options": [
+             "superficial, lose",
+             "arduous, win",
+             "half-hearted, achieve",
+             "apathetic, secure"
+         ],
+         "answer_value": "arduous, win"
+     },
+     {
+         "question_id": 823748256734,
+         "question_value": "The _____ behavior of the new recruit _____ the senior staff members.",
+         "options": [
+             "recalcitrant, angered",
+             "submissive, impressed",
+             "insubordinate, annoyed",
+             "erratic, baffled"
+         ],
+         "answer_value": "submissive, impressed"
+     },
+     {
+         "question_id": 823748274535,
+         "question_value": "Her _____ attitude towards the project resulted in several _____ errors.",
+         "options": [
+             "meticulous, minor",
+             "indifferent, critical",
+             "diligent, negligible",
+             "scrupulous, trivial"
+         ],
+         "answer_value": "indifferent, critical"
+     },
+     {
+         "question_id": 82374826445336,
+         "question_value": "The company's _____ policy led to a _____ in employee morale.",
+         "options": [
+             "generous, boost",
+             "draconian, decline",
+             "lenient, drop",
+             "transparent, increase"
+         ],
+         "answer_value": "draconian, decline"
+     },
+     {
+      "question_id": 823748774237,
+      "question_value": "Identify the figure of speech: 'The leaves danced in the wind.'",
+      "options": [
+          "Metaphor",
+          "Simile",
+          "Personification",
+          "Hyperbole"
+      ],
+      "answer_value": "Personification"
+      },
+      {
+            "question_id": 823753548238,
+            "question_value": "Identify the figure of speech: 'She was as brave as a lion.'",
+            "options": [
+               "Metaphor",
+               "Simile",
+               "Personification",
+               "Oxymoron"
+            ],
+            "answer_value": "Simile"
+      },
+      {
+            "question_id": 823744348239,
+            "question_value": "Identify the figure of speech: 'The world is a stage.'",
+            "options": [
+               "Simile",
+               "Metaphor",
+               "Alliteration",
+               "Personification"
+            ],
+            "answer_value": "Metaphor"
+      },
+      {
+            "question_id": 823778748240,
+            "question_value": "Identify the figure of speech: 'He is as cunning as a fox.'",
+            "options": [
+               "Simile",
+               "Hyperbole",
+               "Metaphor",
+               "Personification"
+            ],
+            "answer_value": "Simile"
+      },
+      {
+            "question_id": 82374823456741,
+            "question_value": "Identify the figure of speech: 'Her laughter was a melody that filled the room.'",
+            "options": [
+               "Metaphor",
+               "Simile",
+               "Hyperbole",
+               "Alliteration"
+            ],
+            "answer_value": "Metaphor"
+      },
+      {
+            "question_id": 8237485567242,
+            "question_value": "Identify the figure of speech: 'The thunder grumbled like an old man.'",
+            "options": [
+               "Personification",
+               "Simile",
+               "Metaphor",
+               "Oxymoron"
+            ],
+            "answer_value": "Personification"
+      },
+      {
+            "question_id": 8237483433243,
+            "question_value": "Identify the figure of speech: 'She sells seashells by the seashore.'",
+            "options": [
+               "Alliteration",
+               "Simile",
+               "Metaphor",
+               "Hyperbole"
+            ],
+            "answer_value": "Alliteration"
+      },
+      {
+            "question_id": 8237482457884,
+            "question_value": "Identify the figure of speech: 'I'm so hungry I could eat a horse.'",
+            "options": [
+               "Simile",
+               "Hyperbole",
+               "Metaphor",
+               "Personification"
+            ],
+            "answer_value": "Hyperbole"
+      },
+      {
+         "question_id": 823748887245,
+         "question_value": "Identify the figure of speech: 'The classroom was a zoo.'",
+         "options": [
+            "Simile",
+            "Hyperbole",
+            "Metaphor",
+            "Personification"
+         ],
+         "answer_value": "Metaphor"
+      },
+      {
+         "question_id": 823747538246,
+         "question_value": "Identify the figure of speech: 'The wind whispered through the trees.'",
+         "options": [
+            "Simile",
+            "Hyperbole",
+            "Personification",
+            "Alliteration"
+         ],
+         "answer_value": "Personification"
+      },
+      {
+         "question_id": 82374857367,
+         "question_value": "Identify the figure of speech: 'Her smile was as bright as the sun.'",
+         "options": [
+            "Simile",
+            "Hyperbole",
+            "Metaphor",
+            "Personification"
+         ],
+         "answer_value": "Simile"
+      },
+      {
+         "question_id": 823748276648,
+         "question_value": "Identify the figure of speech: 'Life is a rollercoaster.'",
+         "options": [
+            "Simile",
+            "Metaphor",
+            "Hyperbole",
+            "Personification"
+         ],
+         "answer_value": "Metaphor"
+      },
+      {
+         "question_id": 823748256549,
+         "question_value": "Identify the figure of speech: 'The stars in the sky winked at us.'",
+         "options": [
+            "Personification",
+            "Simile",
+            "Metaphor",
+            "Alliteration"
+         ],
+         "answer_value": "Personification"
+      },
+      {
+         "question_id": 82374824350,
+         "question_value": "Identify the figure of speech: 'It was so cold, even the polar bears were wearing jackets.'",
+         "options": [
+            "Hyperbole",
+            "Simile",
+            "Metaphor",
+            "Personification"
+         ],
+         "answer_value": "Hyperbole"
+      },
+      {
+         "question_id": 823748255551,
+         "question_value": "Identify the figure of speech: 'She was drowning in a sea of paperwork.'",
+         "options": [
+            "Metaphor",
+            "Simile",
+            "Hyperbole",
+            "Personification"
+         ],
+         "answer_value": "Metaphor"
+      },
+      {
+         "question_id": 823748232451,
+         "comprehension":"For this question, choose the option opposite in meaning to the word or phrase in italics",
+         "question_value": "It is important not to let mistakes blight your life",
+         "options": [
+            "damage",
+            "impart",
+            "improve",
+            "ruin"
+         ],
+         "answer_value": "improve"
+      },
+      {
+         "question_id": 82349403093232451,
+         "comprehension":"For this question, choose the option opposite in meaning to the word or phrase in italics",
+         "question_value": "The film was shot in decrepit police station.",
+         "options": [
+            "an improved",
+            "a dilapidated",
+            "a damaged",
+            "an impoverished"
+         ],
+         "answer_value": "an improved"
+      },
+      {
+         "question_id": 890903093232451,
+         "comprehension":"For this question, choose the option opposite in meaning to the word or phrase in italics",
+         "question_value": "The film was shot in decrepit police station.",
+         "options": [
+            "an improved",
+            "a dilapidated",
+            "a damaged",
+            "an impoverished"
+         ],
+         "answer_value": "an improved"
+      }
+   ]
+}

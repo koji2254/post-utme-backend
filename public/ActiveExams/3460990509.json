@@ -1,0 +1,43 @@
+{
+    "exam_id": 3460990509,
+    "questions": [
+        {
+            "subject": "ENGLISH LANGUAGE",
+            "questions": [
+                {
+                    "question_id": 3283355947,
+                    "question_value": "What is the comparative form of 'tall'?",
+                    "options": [
+                        "Taller",
+                        "Tallest",
+                        "More tall",
+                        "Most tall"
+                    ],
+                    "answer_value": "Taller"
+                },
+                {
+                    "question_id": 44231444656,
+                    "question_value": "What is the opposite of 'fast'?",
+                    "options": [
+                        "Quick",
+                        "Speed",
+                        "Slow",
+                        "Run"
+                    ],
+                    "answer_value": "Slow"
+                },
+                {
+                    "question_id": 32324525,
+                    "question_value": "Which word is an adjective?",
+                    "options": [
+                        "Run",
+                        "Blue",
+                        "Quickly",
+                        "She"
+                    ],
+                    "answer_value": "Blue"
+                }
+            ]
+        }
+    ]
+}

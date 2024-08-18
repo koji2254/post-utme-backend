@@ -1,0 +1,32 @@
+{
+    "exam_id": 6865009201,
+    "questions": [
+        {
+            "subject": "ENGLISH LANGUAGE",
+            "questions": [
+                {
+                    "question_id": 9842335123,
+                    "question_value": "Which word is a verb?",
+                    "options": [
+                        "Quickly",
+                        "Run",
+                        "Blue",
+                        "House"
+                    ],
+                    "answer_value": "Run"
+                },
+                {
+                    "question_id": 239874346,
+                    "question_value": "What is the plural form of 'mouse'?",
+                    "options": [
+                        "Mouses",
+                        "Mices",
+                        "Mouse",
+                        "Mice"
+                    ],
+                    "answer_value": "Mice"
+                }
+            ]
+        }
+    ]
+}

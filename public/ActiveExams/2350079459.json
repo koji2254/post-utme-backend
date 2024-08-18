@@ -1,0 +1,33 @@
+{
+    "exam_id": 2350079459,
+    "questions": [
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 98328742373,
+                    "question_value": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+                    "options": [
+                        "25",
+                        "19",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 2342932030307,
+                    "question_value": "The 10th term of an AP is 32. If the first term is 3\/2, what is the 4th term?",
+                    "options": [
+                        "\\(\\frac{11}{2}\\)",
+                        "\\(\\frac{16}{3}\\)",
+                        "\\(\\frac{20}{3}\\)",
+                        "\\(\\frac{35}{3}\\)"
+                    ],
+                    "answer_value": "\\(\\frac{35}{3}\\)",
+                    "image_url": ""
+                }
+            ]
+        }
+    ]
+}

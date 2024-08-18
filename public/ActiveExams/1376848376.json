@@ -1,0 +1,1202 @@
+{
+    "exam_id": 1376848376,
+    "questions": [
+        {
+            "subject": "ENGLISH LANGUAGE",
+            "questions": [
+                {
+                    "question_id": 192837,
+                    "question_value": "Which word is a conjunction?",
+                    "options": [
+                        "And",
+                        "Very",
+                        "Quick",
+                        "Run"
+                    ],
+                    "answer_value": "And"
+                },
+                {
+                    "question_id": 984123,
+                    "question_value": "Which word is a verb?",
+                    "options": [
+                        "Quickly",
+                        "Run",
+                        "Blue",
+                        "House"
+                    ],
+                    "answer_value": "Run"
+                },
+                {
+                    "question_id": 237849,
+                    "question_value": "Which sentence is in the past tense?",
+                    "options": [
+                        "She is eating.",
+                        "She eats.",
+                        "She will eat.",
+                        "She ate."
+                    ],
+                    "answer_value": "She ate."
+                },
+                {
+                    "question_id": 374829,
+                    "question_value": "Which word is a homophone for 'flower'?",
+                    "options": [
+                        "Flour",
+                        "Flow",
+                        "Flaw",
+                        "Floor"
+                    ],
+                    "answer_value": "Flour"
+                },
+                {
+                    "question_id": 456123,
+                    "question_value": "What is the correct form of 'to be' in the sentence: 'They ___ happy.'?",
+                    "options": [
+                        "Am",
+                        "Is",
+                        "Are",
+                        "Be"
+                    ],
+                    "answer_value": "Are"
+                },
+                {
+                    "question_id": 128374,
+                    "question_value": "Which word is spelled correctly?",
+                    "options": [
+                        "Receeve",
+                        "Receive",
+                        "Recieve",
+                        "Receve"
+                    ],
+                    "answer_value": "Receive"
+                },
+                {
+                    "question_id": 654321,
+                    "question_value": "What is the subject in the sentence: 'The cat sat on the mat.'?",
+                    "options": [
+                        "The",
+                        "Cat",
+                        "Sat",
+                        "Mat"
+                    ],
+                    "answer_value": "Cat"
+                },
+                {
+                    "question_id": 341278,
+                    "question_value": "Which word is a noun?",
+                    "options": [
+                        "Run",
+                        "Happy",
+                        "House",
+                        "Quickly"
+                    ],
+                    "answer_value": "House"
+                },
+                {
+                    "question_id": 987341,
+                    "question_value": "Which sentence uses the correct form of 'your\/you're'?",
+                    "options": [
+                        "You''r the best friend.",
+                        "You're the best friend.",
+                        "Your best friend.",
+                        "Youre the best friend."
+                    ],
+                    "answer_value": "You're the best friend."
+                },
+                {
+                    "question_id": 129837,
+                    "question_value": "What is the antonym of 'cold'?",
+                    "options": [
+                        "Cool",
+                        "Chilly",
+                        "Hot",
+                        "Freezing"
+                    ],
+                    "answer_value": "Hot"
+                },
+                {
+                    "question_id": 135792,
+                    "question_value": "Which word means 'a place where books are kept'?",
+                    "options": [
+                        "Library",
+                        "Kitchen",
+                        "Garage",
+                        "School"
+                    ],
+                    "answer_value": "Library"
+                },
+                {
+                    "question_id": 183749,
+                    "question_value": "What is the correct plural of 'child'?",
+                    "options": [
+                        "Childs",
+                        "Children",
+                        "Childes",
+                        "Childrens"
+                    ],
+                    "answer_value": "Children"
+                },
+                {
+                    "question_id": 342781,
+                    "question_value": "Which word is a homophone for 'to'?",
+                    "options": [
+                        "Too",
+                        "Two",
+                        "Toe",
+                        "Both A and B"
+                    ],
+                    "answer_value": "Both A and B"
+                },
+                {
+                    "question_id": 123789,
+                    "question_value": "Which word means 'a synonym for quick'?",
+                    "options": [
+                        "Slow",
+                        "Fast",
+                        "Run",
+                        "Quickly"
+                    ],
+                    "answer_value": "Fast"
+                },
+                {
+                    "question_id": 468213,
+                    "question_value": "Which sentence is punctuated correctly?",
+                    "options": [
+                        "Lets go to the park.",
+                        "Let's go to the park.",
+                        "Lets go, to the park.",
+                        "Let's, go to the park."
+                    ],
+                    "answer_value": "Let's go to the park."
+                },
+                {
+                    "question_id": 782319,
+                    "question_value": "Which word is an adjective?",
+                    "options": [
+                        "Run",
+                        "Blue",
+                        "Quickly",
+                        "She"
+                    ],
+                    "answer_value": "Blue"
+                },
+                {
+                    "question_id": 239876,
+                    "question_value": "What is the plural form of 'mouse'?",
+                    "options": [
+                        "Mouses",
+                        "Mices",
+                        "Mouse",
+                        "Mice"
+                    ],
+                    "answer_value": "Mice"
+                },
+                {
+                    "question_id": 123978,
+                    "question_value": "Which sentence is grammatically correct?",
+                    "options": [
+                        "She don't like apples.",
+                        "She doesn't like apples.",
+                        "She do not like apples.",
+                        "She does not likes apples."
+                    ],
+                    "answer_value": "She doesn't like apples."
+                },
+                {
+                    "question_id": 312789,
+                    "question_value": "What is the superlative form of 'good'?",
+                    "options": [
+                        "Gooder",
+                        "Better",
+                        "Best",
+                        "Most good"
+                    ],
+                    "answer_value": "Best"
+                },
+                {
+                    "question_id": 192374,
+                    "question_value": "Which word is a preposition?",
+                    "options": [
+                        "Under",
+                        "Quick",
+                        "Cat",
+                        "Very"
+                    ],
+                    "answer_value": "Under"
+                },
+                {
+                    "question_id": 987231,
+                    "question_value": "Which sentence is in the future tense?",
+                    "options": [
+                        "She is going to school.",
+                        "She went to school.",
+                        "She will go to school.",
+                        "She goes to school."
+                    ],
+                    "answer_value": "She will go to school."
+                },
+                {
+                    "question_id": 456789,
+                    "question_value": "What is the past tense of 'go'?",
+                    "options": [
+                        "Goed",
+                        "Goes",
+                        "Going",
+                        "Went"
+                    ],
+                    "answer_value": "Went"
+                },
+                {
+                    "question_id": 123456,
+                    "question_value": "What is the opposite of 'fast'?",
+                    "options": [
+                        "Quick",
+                        "Speed",
+                        "Slow",
+                        "Run"
+                    ],
+                    "answer_value": "Slow"
+                },
+                {
+                    "question_id": 782341,
+                    "question_value": "Which sentence is grammatically correct?",
+                    "options": [
+                        "She go to school.",
+                        "She going to school.",
+                        "She goes to school.",
+                        "She gone to school."
+                    ],
+                    "answer_value": "She goes to school."
+                },
+                {
+                    "question_id": 987654,
+                    "question_value": "Which sentence is an example of a simile?",
+                    "options": [
+                        "She is as fast as a cheetah.",
+                        "She is a fast cheetah.",
+                        "She runs faster than a cheetah.",
+                        "She runs fast."
+                    ],
+                    "answer_value": "She is as fast as a cheetah."
+                },
+                {
+                    "question_id": 654123,
+                    "question_value": "Which word is a conjunction?",
+                    "options": [
+                        "Because",
+                        "Run",
+                        "Quickly",
+                        "Blue"
+                    ],
+                    "answer_value": "Because"
+                },
+                {
+                    "question_id": 456321,
+                    "question_value": "Which word is a synonym of 'happy'?",
+                    "options": [
+                        "Sad",
+                        "Joyful",
+                        "Angry",
+                        "Bored"
+                    ],
+                    "answer_value": "Joyful"
+                },
+                {
+                    "question_id": 328947,
+                    "question_value": "What is the comparative form of 'tall'?",
+                    "options": [
+                        "Taller",
+                        "Tallest",
+                        "More tall",
+                        "Most tall"
+                    ],
+                    "answer_value": "Taller"
+                },
+                {
+                    "question_id": 987654,
+                    "question_value": "Which word is a pronoun?",
+                    "options": [
+                        "Quickly",
+                        "She",
+                        "Happy",
+                        "Dog"
+                    ],
+                    "answer_value": "She"
+                },
+                {
+                    "question_id": 182734,
+                    "question_value": "Which sentence uses the correct form of 'their\/there\/they're'?",
+                    "options": [
+                        "Their going to the park.",
+                        "There going to the park.",
+                        "They're going to the park.",
+                        "Theyre going to the park."
+                    ],
+                    "answer_value": "They're going to the park."
+                }
+            ]
+        },
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 591823,
+                    "question_value": "If you buy 3 pens for $2 each, how much do you spend?",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 239478,
+                    "question_value": "What is 15 squared?",
+                    "options": [
+                        "210",
+                        "215",
+                        "220",
+                        "225"
+                    ],
+                    "answer_value": "225"
+                },
+                {
+                    "question_id": 238472,
+                    "question_value": "If a baker bakes 5 batches of cookies with 8 cookies in each batch, how many cookies are there in total?",
+                    "options": [
+                        "30",
+                        "35",
+                        "40",
+                        "45"
+                    ],
+                    "answer_value": "40"
+                },
+                {
+                    "question_id": 823947,
+                    "question_value": "What is the square of 10?",
+                    "options": [
+                        "80",
+                        "90",
+                        "100",
+                        "110"
+                    ],
+                    "answer_value": "100"
+                },
+                {
+                    "question_id": 438721,
+                    "question_value": "If you divide 48 by 6, what do you get?",
+                    "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+                    "answer_value": "8"
+                },
+                {
+                    "question_id": 347821,
+                    "question_value": "What is the square of 8?",
+                    "options": [
+                        "56",
+                        "60",
+                        "64",
+                        "68"
+                    ],
+                    "answer_value": "64"
+                },
+                {
+                    "question_id": 912347,
+                    "question_value": "If you buy 2 notebooks for $3 each and 2 pens for $1 each, how much do you spend in total?",
+                    "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+                    "answer_value": "8"
+                },
+                {
+                    "question_id": 238491,
+                    "question_value": "What is the square of 3?",
+                    "options": [
+                        "6",
+                        "9",
+                        "12",
+                        "15"
+                    ],
+                    "answer_value": "9"
+                },
+                {
+                    "question_id": 378124,
+                    "question_value": "What is the square of 17?",
+                    "options": [
+                        "287",
+                        "289",
+                        "291",
+                        "293"
+                    ],
+                    "answer_value": "289"
+                },
+                {
+                    "question_id": 349182,
+                    "question_value": "If you read 3 books a week, how many books will you read in 4 weeks?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "answer_value": "12"
+                },
+                {
+                    "question_id": 182349,
+                    "question_value": "A triangle has a base of 6 and a height of 3. What is its area?",
+                    "options": [
+                        "9",
+                        "12",
+                        "18",
+                        "20"
+                    ],
+                    "answer_value": "9"
+                },
+                {
+                    "question_id": 123947,
+                    "question_value": "What is the square of 12?",
+                    "options": [
+                        "124",
+                        "136",
+                        "144",
+                        "156"
+                    ],
+                    "answer_value": "144"
+                },
+                {
+                    "question_id": 192834,
+                    "question_value": "If a garden has 4 rows of flowers with 5 flowers in each row, how many flowers are there in total?",
+                    "options": [
+                        "18",
+                        "20",
+                        "22",
+                        "24"
+                    ],
+                    "answer_value": "20"
+                },
+                {
+                    "question_id": 238746,
+                    "question_value": "What is 7 squared?",
+                    "options": [
+                        "47",
+                        "49",
+                        "51",
+                        "53"
+                    ],
+                    "answer_value": "49"
+                },
+                {
+                    "question_id": 478239,
+                    "question_value": "If a car travels at 60 km\/h for 2 hours, how far does it travel?",
+                    "options": [
+                        "60 km",
+                        "100 km",
+                        "120 km",
+                        "150 km"
+                    ],
+                    "answer_value": "120 km"
+                },
+                {
+                    "question_id": 892347,
+                    "question_value": "What is the square of 16?",
+                    "options": [
+                        "246",
+                        "256",
+                        "266",
+                        "276"
+                    ],
+                    "answer_value": "256"
+                },
+                {
+                    "question_id": 781234,
+                    "question_value": "What is 4 squared?",
+                    "options": [
+                        "8",
+                        "12",
+                        "16",
+                        "20"
+                    ],
+                    "answer_value": "16"
+                },
+                {
+                    "question_id": 432781,
+                    "question_value": "If a book costs $15 and you have $50, how much money will you have left after buying the book?",
+                    "options": [
+                        "30",
+                        "35",
+                        "40",
+                        "25"
+                    ],
+                    "answer_value": "35"
+                },
+                {
+                    "question_id": 947283,
+                    "question_value": "What is the square of 5?",
+                    "options": [
+                        "15",
+                        "20",
+                        "25",
+                        "30"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 481239,
+                    "question_value": "If a train travels 50 km\/h and travels for 3 hours, how far does it go?",
+                    "options": [
+                        "100 km",
+                        "150 km",
+                        "200 km",
+                        "250 km"
+                    ],
+                    "answer_value": "150 km"
+                },
+                {
+                    "question_id": 384719,
+                    "question_value": "If you have 18 candies and you give 5 to a friend, how many candies do you have left?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "answer_value": "13"
+                },
+                {
+                    "question_id": 873124,
+                    "question_value": "What is the square of 14?",
+                    "options": [
+                        "184",
+                        "186",
+                        "194",
+                        "196"
+                    ],
+                    "answer_value": "196"
+                },
+                {
+                    "question_id": 987234,
+                    "question_value": "What is 13 squared?",
+                    "options": [
+                        "159",
+                        "169",
+                        "179",
+                        "189"
+                    ],
+                    "answer_value": "169"
+                },
+                {
+                    "question_id": 812347,
+                    "question_value": "What is the square of 11?",
+                    "options": [
+                        "110",
+                        "121",
+                        "132",
+                        "143"
+                    ],
+                    "answer_value": "121"
+                },
+                {
+                    "question_id": 174928,
+                    "question_value": "If you have 4 boxes with 6 apples each, how many apples do you have in total?",
+                    "options": [
+                        "20",
+                        "22",
+                        "24",
+                        "26"
+                    ],
+                    "answer_value": "24"
+                },
+                {
+                    "question_id": 923847,
+                    "question_value": "What is the square of 6?",
+                    "options": [
+                        "30",
+                        "36",
+                        "42",
+                        "48"
+                    ],
+                    "answer_value": "36"
+                },
+                {
+                    "question_id": 789234,
+                    "question_value": "What is 9 squared?",
+                    "options": [
+                        "72",
+                        "80",
+                        "81",
+                        "90"
+                    ],
+                    "answer_value": "81"
+                },
+                {
+                    "question_id": 238947,
+                    "question_value": "If a box contains 24 chocolates and you eat 7, how many chocolates are left?",
+                    "options": [
+                        "15",
+                        "16",
+                        "17",
+                        "18"
+                    ],
+                    "answer_value": "17"
+                },
+                {
+                    "question_id": 547812,
+                    "question_value": "If a rectangle has a length of 5 and a width of 3, what is its area?",
+                    "options": [
+                        "8",
+                        "15",
+                        "10",
+                        "18"
+                    ],
+                    "answer_value": "15"
+                },
+                {
+                    "question_id": 387192,
+                    "question_value": "If you have 10 apples and give 4 to a friend, how many apples do you have left?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer_value": "6"
+                }
+            ]
+        },
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 123456,
+                    "question_value": "What is the formula for Ohm's Law?",
+                    "options": [
+                        "V = IR",
+                        "I = VR",
+                        "R = VI",
+                        "V = RI"
+                    ],
+                    "answer_value": "V = IR"
+                },
+                {
+                    "question_id": 543210,
+                    "question_value": "What is the formula for calculating speed?",
+                    "options": [
+                        "s = vt",
+                        "s = v\/t",
+                        "s = t\/v",
+                        "s = v^2"
+                    ],
+                    "answer_value": "s = v\/t"
+                },
+                {
+                    "question_id": 890123,
+                    "question_value": "What is the SI unit of power?",
+                    "options": [
+                        "Watt",
+                        "Joule",
+                        "Volt",
+                        "Ampere"
+                    ],
+                    "answer_value": "Watt"
+                },
+                {
+                    "question_id": 876543,
+                    "question_value": "What is the unit of measurement for voltage?",
+                    "options": [
+                        "Volt",
+                        "Ampere",
+                        "Ohm",
+                        "Watt"
+                    ],
+                    "answer_value": "Volt"
+                },
+                {
+                    "question_id": 987654,
+                    "question_value": "What is the acceleration due to gravity on Earth?",
+                    "options": [
+                        "9.8 m\/s^2",
+                        "6.67 x 10^-11 Nm^2\/kg^2",
+                        "3 x 10^8 m\/s",
+                        "3 x 10^5 km\/s"
+                    ],
+                    "answer_value": "9.8 m\/s^2"
+                },
+                {
+                    "question_id": 987321,
+                    "question_value": "What is the SI unit of electric charge?",
+                    "options": [
+                        "Coulomb",
+                        "Volt",
+                        "Ampere",
+                        "Ohm"
+                    ],
+                    "answer_value": "Coulomb"
+                },
+                {
+                    "question_id": 321890,
+                    "question_value": "What is the formula for kinetic energy?",
+                    "options": [
+                        "KE = 1\/2 mv^2",
+                        "KE = mgh",
+                        "KE = Fd",
+                        "KE = p\/t"
+                    ],
+                    "answer_value": "KE = 1\/2 mv^2"
+                },
+                {
+                    "question_id": 214365,
+                    "question_value": "What is the formula for Newton's second law of motion?",
+                    "options": [
+                        "F = ma",
+                        "F = m\/v",
+                        "F = a\/t",
+                        "F = p\/t"
+                    ],
+                    "answer_value": "F = ma"
+                },
+                {
+                    "question_id": 543789,
+                    "question_value": "What is the first law of thermodynamics?",
+                    "options": [
+                        "Energy is always increasing.",
+                        "Energy can be created at will.",
+                        "Energy can be destroyed.",
+                        "Energy can neither be created nor destroyed."
+                    ],
+                    "answer_value": "Energy can neither be created nor destroyed."
+                },
+                {
+                    "question_id": 987456,
+                    "question_value": "What is the formula for calculating electric power?",
+                    "options": [
+                        "P = IV",
+                        "P = V\/I",
+                        "P = IR",
+                        "P = V\/R"
+                    ],
+                    "answer_value": "P = IV"
+                },
+                {
+                    "question_id": 321098,
+                    "question_value": "What is the formula for calculating work done?",
+                    "options": [
+                        "W = Fd",
+                        "W = F\/a",
+                        "W = mv^2",
+                        "W = pt"
+                    ],
+                    "answer_value": "W = Fd"
+                },
+                {
+                    "question_id": 123789,
+                    "question_value": "What is the formula for calculating gravitational force?",
+                    "options": [
+                        "F = G(m1 * m2)\/r^2",
+                        "F = mgh",
+                        "F = ma",
+                        "F = pt"
+                    ],
+                    "answer_value": "F = G(m1 * m2)\/r^2"
+                },
+                {
+                    "question_id": 543876,
+                    "question_value": "What is the unit of measurement for frequency?",
+                    "options": [
+                        "Hertz",
+                        "Watt",
+                        "Joule",
+                        "Ampere"
+                    ],
+                    "answer_value": "Hertz"
+                },
+                {
+                    "question_id": 654321,
+                    "question_value": "What is the formula for calculating density?",
+                    "options": [
+                        "D = m\/a",
+                        "D = mv",
+                        "D = m\/v",
+                        "D = v\/m"
+                    ],
+                    "answer_value": "D = m\/v"
+                },
+                {
+                    "question_id": 876543,
+                    "question_value": "What is the SI unit of force?",
+                    "options": [
+                        "Newton",
+                        "Joule",
+                        "Watt",
+                        "Volt"
+                    ],
+                    "answer_value": "Newton"
+                },
+                {
+                    "question_id": 234567,
+                    "question_value": "What is the unit of electric current?",
+                    "options": [
+                        "Ampere",
+                        "Volt",
+                        "Ohm",
+                        "Watt"
+                    ],
+                    "answer_value": "Ampere"
+                },
+                {
+                    "question_id": 765432,
+                    "question_value": "What is the law of conservation of energy?",
+                    "options": [
+                        "Energy can neither be created nor destroyed.",
+                        "Energy is always increasing.",
+                        "Energy can be destroyed.",
+                        "Energy can be created at will."
+                    ],
+                    "answer_value": "Energy can neither be created nor destroyed."
+                },
+                {
+                    "question_id": 678912,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Kelvin",
+                        "Celsius",
+                        "Fahrenheit",
+                        "Joule"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 678912,
+                    "question_value": "What is the formula for calculating power?",
+                    "options": [
+                        "P = W\/t",
+                        "P = Fd",
+                        "P = mv^2",
+                        "P = IR"
+                    ],
+                    "answer_value": "P = W\/t"
+                },
+                {
+                    "question_id": 891234,
+                    "question_value": "What is the law of reflection?",
+                    "options": [
+                        "The angle of incidence is equal to the angle of reflection.",
+                        "Light travels in straight lines.",
+                        "The speed of light is constant.",
+                        "Light bends when passing through a medium."
+                    ],
+                    "answer_value": "The angle of incidence is equal to the angle of reflection."
+                },
+                {
+                    "question_id": 456123,
+                    "question_value": "What is the formula for calculating momentum?",
+                    "options": [
+                        "p = mv",
+                        "p = Fd",
+                        "p = W\/t",
+                        "p = F\/a"
+                    ],
+                    "answer_value": "p = mv"
+                },
+                {
+                    "question_id": 341289,
+                    "question_value": "What is the SI unit of frequency?",
+                    "options": [
+                        "Hertz",
+                        "Newton",
+                        "Watt",
+                        "Volt"
+                    ],
+                    "answer_value": "Hertz"
+                }
+            ]
+        },
+        {
+            "subject": "BIOLOGY",
+            "questions": [
+                {
+                    "question_id": 234567,
+                    "question_value": "Which organ system is responsible for protecting the body from pathogens?",
+                    "options": [
+                        "Immune system",
+                        "Digestive system",
+                        "Nervous system",
+                        "Endocrine system"
+                    ],
+                    "answer_value": "Immune system"
+                },
+                {
+                    "question_id": 789012,
+                    "question_value": "Which gas do plants absorb during photosynthesis?",
+                    "options": [
+                        "Oxygen",
+                        "Carbon Dioxide",
+                        "Nitrogen",
+                        "Hydrogen"
+                    ],
+                    "answer_value": "Carbon Dioxide"
+                },
+                {
+                    "question_id": 789012,
+                    "question_value": "Which of the following is not a type of blood vessel?",
+                    "options": [
+                        "Vein",
+                        "Artery",
+                        "Capillary",
+                        "Ligament"
+                    ],
+                    "answer_value": "Ligament"
+                },
+                {
+                    "question_id": 890123,
+                    "question_value": "What is the basic unit of heredity?",
+                    "options": [
+                        "Gene",
+                        "Allele",
+                        "Chromosome",
+                        "DNA"
+                    ],
+                    "answer_value": "Gene"
+                },
+                {
+                    "question_id": 345678,
+                    "question_value": "What is the process by which plants make their own food?",
+                    "options": [
+                        "Respiration",
+                        "Fermentation",
+                        "Photosynthesis",
+                        "Digestion"
+                    ],
+                    "answer_value": "Photosynthesis"
+                },
+                {
+                    "question_id": 123456,
+                    "question_value": "What is the main function of the respiratory system?",
+                    "options": [
+                        "Transport nutrients",
+                        "Regulate body temperature",
+                        "Exchange gases",
+                        "Produce hormones"
+                    ],
+                    "answer_value": "Exchange gases"
+                },
+                {
+                    "question_id": 901234,
+                    "question_value": "What is the chemical formula for glucose?",
+                    "options": [
+                        "C6H12O6",
+                        "CO2",
+                        "H2O",
+                        "NaCl"
+                    ],
+                    "answer_value": "C6H12O6"
+                },
+                {
+                    "question_id": 567890,
+                    "question_value": "Which of the following is not a type of muscle tissue?",
+                    "options": [
+                        "Skeletal",
+                        "Cardiac",
+                        "Smooth",
+                        "Fibrous"
+                    ],
+                    "answer_value": "Fibrous"
+                },
+                {
+                    "question_id": 123456,
+                    "question_value": "What is the study of fossils called?",
+                    "options": [
+                        "Geology",
+                        "Anthropology",
+                        "Paleontology",
+                        "Archaeology"
+                    ],
+                    "answer_value": "Paleontology"
+                },
+                {
+                    "question_id": 901234,
+                    "question_value": "Which of the following is not a function of the skeletal system?",
+                    "options": [
+                        "Support",
+                        "Protection",
+                        "Movement",
+                        "Digestion"
+                    ],
+                    "answer_value": "Digestion"
+                },
+                {
+                    "question_id": 123456,
+                    "question_value": "Which organ is responsible for filtering blood in the human body?",
+                    "options": [
+                        "Kidneys",
+                        "Liver",
+                        "Heart",
+                        "Lungs"
+                    ],
+                    "answer_value": "Kidneys"
+                },
+                {
+                    "question_id": 345678,
+                    "question_value": "Which of the following is not a function of the liver?",
+                    "options": [
+                        "Detoxification",
+                        "Blood clotting",
+                        "Digestion",
+                        "Metabolism"
+                    ],
+                    "answer_value": "Digestion"
+                },
+                {
+                    "question_id": 890123,
+                    "question_value": "Which part of the eye is responsible for seeing color?",
+                    "options": [
+                        "Iris",
+                        "Cornea",
+                        "Lens",
+                        "Retina"
+                    ],
+                    "answer_value": "Retina"
+                },
+                {
+                    "question_id": 345678,
+                    "question_value": "What is the largest organ in the human body?",
+                    "options": [
+                        "Liver",
+                        "Skin",
+                        "Brain",
+                        "Heart"
+                    ],
+                    "answer_value": "Skin"
+                },
+                {
+                    "question_id": 456123,
+                    "question_value": "What is the powerhouse of the cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Endoplasmic Reticulum"
+                    ],
+                    "answer_value": "Mitochondria"
+                },
+                {
+                    "question_id": 901234,
+                    "question_value": "What is the function of red blood cells?",
+                    "options": [
+                        "Transport oxygen",
+                        "Fight infection",
+                        "Produce antibodies",
+                        "Store energy"
+                    ],
+                    "answer_value": "Transport oxygen"
+                },
+                {
+                    "question_id": 890123,
+                    "question_value": "Which of the following is not a kingdom in the classification of living organisms?",
+                    "options": [
+                        "Animalia",
+                        "Plantae",
+                        "Protista",
+                        "Mycota"
+                    ],
+                    "answer_value": "Mycota"
+                },
+                {
+                    "question_id": 901234,
+                    "question_value": "What is the process of cell division in somatic cells called?",
+                    "options": [
+                        "Mitosis",
+                        "Meiosis",
+                        "Fertilization",
+                        "Apoptosis"
+                    ],
+                    "answer_value": "Mitosis"
+                },
+                {
+                    "question_id": 234567,
+                    "question_value": "What is the primary function of white blood cells?",
+                    "options": [
+                        "Transport oxygen",
+                        "Fight infection",
+                        "Produce antibodies",
+                        "Store energy"
+                    ],
+                    "answer_value": "Fight infection"
+                },
+                {
+                    "question_id": 234567,
+                    "question_value": "What is the smallest unit of life?",
+                    "options": [
+                        "Cell",
+                        "Tissue",
+                        "Organ",
+                        "Organism"
+                    ],
+                    "answer_value": "Cell"
+                },
+                {
+                    "question_id": 567890,
+                    "question_value": "Which part of the plant conducts photosynthesis?",
+                    "options": [
+                        "Roots",
+                        "Stem",
+                        "Leaves",
+                        "Flowers"
+                    ],
+                    "answer_value": "Leaves"
+                },
+                {
+                    "question_id": 789012,
+                    "question_value": "What is the longest bone in the human body?",
+                    "options": [
+                        "Femur",
+                        "Humerus",
+                        "Radius",
+                        "Tibia"
+                    ],
+                    "answer_value": "Femur"
+                },
+                {
+                    "question_id": 345678,
+                    "question_value": "What is the process by which organisms produce offspring?",
+                    "options": [
+                        "Photosynthesis",
+                        "Respiration",
+                        "Reproduction",
+                        "Digestion"
+                    ],
+                    "answer_value": "Reproduction"
+                },
+                {
+                    "question_id": 567890,
+                    "question_value": "What is the powerhouse of the plant cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Chloroplast"
+                    ],
+                    "answer_value": "Chloroplast"
+                },
+                {
+                    "question_id": 789012,
+                    "question_value": "What is the chemical substance that carries genetic information in cells?",
+                    "options": [
+                        "DNA",
+                        "RNA",
+                        "ATP",
+                        "Glucose"
+                    ],
+                    "answer_value": "DNA"
+                }
+            ]
+        }
+    ]
+}

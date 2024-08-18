@@ -1,0 +1,1553 @@
+{
+    "exam_id": 1614165344,
+    "questions": [
+        {
+            "subject": "ENGLISH LANGUAGE",
+            "questions": [
+                {
+                    "question_id": 182423734,
+                    "question_value": "Which sentence uses the correct form of 'their\/there\/they're'?",
+                    "options": [
+                        "Their going to the park.",
+                        "There going to the park.",
+                        "They're going to the park.",
+                        "Theyre going to the park."
+                    ],
+                    "answer_value": "They're going to the park."
+                },
+                {
+                    "question_id": 9867657654,
+                    "question_value": "Which sentence is an example of a simile?",
+                    "options": [
+                        "She is as fast as a cheetah.",
+                        "She is a fast cheetah.",
+                        "She runs faster than a cheetah.",
+                        "She runs fast."
+                    ],
+                    "answer_value": "She is as fast as a cheetah."
+                },
+                {
+                    "question_id": 456785349,
+                    "question_value": "What is the past tense of 'go'?",
+                    "options": [
+                        "Goed",
+                        "Goes",
+                        "Going",
+                        "Went"
+                    ],
+                    "answer_value": "Went"
+                },
+                {
+                    "question_id": 34128654478,
+                    "question_value": "Which word is a noun?",
+                    "options": [
+                        "Run",
+                        "Happy",
+                        "House",
+                        "Quickly"
+                    ],
+                    "answer_value": "House"
+                },
+                {
+                    "question_id": 987341,
+                    "question_value": "Which sentence uses the correct form of 'your\/you're'?",
+                    "options": [
+                        "You''r the best friend.",
+                        "You're the best friend.",
+                        "Your best friend.",
+                        "Youre the best friend."
+                    ],
+                    "answer_value": "You're the best friend."
+                },
+                {
+                    "question_id": 135709898492,
+                    "question_value": "Which word means 'a place where books are kept'?",
+                    "options": [
+                        "Library",
+                        "Kitchen",
+                        "Garage",
+                        "School"
+                    ],
+                    "answer_value": "Library"
+                },
+                {
+                    "question_id": 3767654829,
+                    "question_value": "Which word is a homophone for 'flower'?",
+                    "options": [
+                        "Flour",
+                        "Flow",
+                        "Flaw",
+                        "Floor"
+                    ],
+                    "answer_value": "Flour"
+                },
+                {
+                    "question_id": 654434321,
+                    "question_value": "What is the subject in the sentence: 'The cat sat on the mat.'?",
+                    "options": [
+                        "The",
+                        "Cat",
+                        "Sat",
+                        "Mat"
+                    ],
+                    "answer_value": "Cat"
+                },
+                {
+                    "question_id": 654123,
+                    "question_value": "Which word is a conjunction?",
+                    "options": [
+                        "Because",
+                        "Run",
+                        "Quickly",
+                        "Blue"
+                    ],
+                    "answer_value": "Because"
+                },
+                {
+                    "question_id": 3283355947,
+                    "question_value": "What is the comparative form of 'tall'?",
+                    "options": [
+                        "Taller",
+                        "Tallest",
+                        "More tall",
+                        "Most tall"
+                    ],
+                    "answer_value": "Taller"
+                },
+                {
+                    "question_id": 1835242749,
+                    "question_value": "What is the correct plural of 'child'?",
+                    "options": [
+                        "Childs",
+                        "Children",
+                        "Childes",
+                        "Childrens"
+                    ],
+                    "answer_value": "Children"
+                },
+                {
+                    "question_id": 123978,
+                    "question_value": "Which sentence is grammatically correct?",
+                    "options": [
+                        "She don't like apples.",
+                        "She doesn't like apples.",
+                        "She do not like apples.",
+                        "She does not likes apples."
+                    ],
+                    "answer_value": "She doesn't like apples."
+                },
+                {
+                    "question_id": 986457654,
+                    "question_value": "Which word is a pronoun?",
+                    "options": [
+                        "Quickly",
+                        "She",
+                        "Happy",
+                        "Dog"
+                    ],
+                    "answer_value": "She"
+                },
+                {
+                    "question_id": 9842335123,
+                    "question_value": "Which word is a verb?",
+                    "options": [
+                        "Quickly",
+                        "Run",
+                        "Blue",
+                        "House"
+                    ],
+                    "answer_value": "Run"
+                },
+                {
+                    "question_id": 23223457849,
+                    "question_value": "Which sentence is in the past tense?",
+                    "options": [
+                        "She is eating.",
+                        "She eats.",
+                        "She will eat.",
+                        "She ate."
+                    ],
+                    "answer_value": "She ate."
+                },
+                {
+                    "question_id": 455456123,
+                    "question_value": "What is the correct form of 'to be' in the sentence: 'They ___ happy.'?",
+                    "options": [
+                        "Am",
+                        "Is",
+                        "Are",
+                        "Be"
+                    ],
+                    "answer_value": "Are"
+                },
+                {
+                    "question_id": 123249837,
+                    "question_value": "What is the antonym of 'cold'?",
+                    "options": [
+                        "Cool",
+                        "Chilly",
+                        "Hot",
+                        "Freezing"
+                    ],
+                    "answer_value": "Hot"
+                },
+                {
+                    "question_id": 239874346,
+                    "question_value": "What is the plural form of 'mouse'?",
+                    "options": [
+                        "Mouses",
+                        "Mices",
+                        "Mouse",
+                        "Mice"
+                    ],
+                    "answer_value": "Mice"
+                },
+                {
+                    "question_id": 1928234537,
+                    "question_value": "Which word is a conjunction?",
+                    "options": [
+                        "And",
+                        "Very",
+                        "Quick",
+                        "Run"
+                    ],
+                    "answer_value": "And"
+                },
+                {
+                    "question_id": 44231444656,
+                    "question_value": "What is the opposite of 'fast'?",
+                    "options": [
+                        "Quick",
+                        "Speed",
+                        "Slow",
+                        "Run"
+                    ],
+                    "answer_value": "Slow"
+                },
+                {
+                    "question_id": 5545632421,
+                    "question_value": "Which word is a synonym of 'happy'?",
+                    "options": [
+                        "Sad",
+                        "Joyful",
+                        "Angry",
+                        "Bored"
+                    ],
+                    "answer_value": "Joyful"
+                },
+                {
+                    "question_id": 342781,
+                    "question_value": "Which word is a homophone for 'to'?",
+                    "options": [
+                        "Too",
+                        "Two",
+                        "Toe",
+                        "Both A and B"
+                    ],
+                    "answer_value": "Both A and B"
+                },
+                {
+                    "question_id": 31243789,
+                    "question_value": "What is the superlative form of 'good'?",
+                    "options": [
+                        "Gooder",
+                        "Better",
+                        "Best",
+                        "Most good"
+                    ],
+                    "answer_value": "Best"
+                },
+                {
+                    "question_id": 1223458374,
+                    "question_value": "Which word is spelled correctly?",
+                    "options": [
+                        "Receeve",
+                        "Receive",
+                        "Recieve",
+                        "Receve"
+                    ],
+                    "answer_value": "Receive"
+                },
+                {
+                    "question_id": 125543789,
+                    "question_value": "Which word means 'a synonym for quick'?",
+                    "options": [
+                        "Slow",
+                        "Fast",
+                        "Run",
+                        "Quickly"
+                    ],
+                    "answer_value": "Fast"
+                },
+                {
+                    "question_id": 4682134493,
+                    "question_value": "Which sentence is punctuated correctly?",
+                    "options": [
+                        "Lets go to the park.",
+                        "Let's go to the park.",
+                        "Lets go, to the park.",
+                        "Let's, go to the park."
+                    ],
+                    "answer_value": "Let's go to the park."
+                },
+                {
+                    "question_id": 982247231,
+                    "question_value": "Which sentence is in the future tense?",
+                    "options": [
+                        "She is going to school.",
+                        "She went to school.",
+                        "She will go to school.",
+                        "She goes to school."
+                    ],
+                    "answer_value": "She will go to school."
+                },
+                {
+                    "question_id": 782344231,
+                    "question_value": "Which sentence is grammatically correct?",
+                    "options": [
+                        "She go to school.",
+                        "She going to school.",
+                        "She goes to school.",
+                        "She gone to school."
+                    ],
+                    "answer_value": "She goes to school."
+                },
+                {
+                    "question_id": 32324525,
+                    "question_value": "Which word is an adjective?",
+                    "options": [
+                        "Run",
+                        "Blue",
+                        "Quickly",
+                        "She"
+                    ],
+                    "answer_value": "Blue"
+                },
+                {
+                    "question_id": 194352374,
+                    "question_value": "Which word is a preposition?",
+                    "options": [
+                        "Under",
+                        "Quick",
+                        "Cat",
+                        "Very"
+                    ],
+                    "answer_value": "Under"
+                }
+            ]
+        },
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 19276834,
+                    "question_value": "If a garden has 4 rows of flowers with 5 flowers in each row, how many flowers are there in total?",
+                    "options": [
+                        "18",
+                        "20",
+                        "22",
+                        "24"
+                    ],
+                    "answer_value": "20"
+                },
+                {
+                    "question_id": 2342932030304,
+                    "question_value": "Find the length of a chord 3 cm from the center of a circle of radius 5 cm.",
+                    "options": [
+                        "4 cm",
+                        "6 cm",
+                        "8 cm",
+                        "10 cm"
+                    ],
+                    "answer_value": "8 cm",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1028374670,
+                    "question_value": "Given that the mean of 2, 5, \\( (x+1) \\), \\( (x+2) \\), 7, and 9 is 6, find the median.",
+                    "options": [
+                        "5",
+                        "6",
+                        "6.5",
+                        "7"
+                    ],
+                    "answer_value": "6.5",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102837424666,
+                    "question_value": "Calculate \\( \\frac{2244_4}{112_4} \\)",
+                    "options": [
+                        "\\( 20_{4} \\)",
+                        "\\( 22_{4} \\)",
+                        "\\( 24_{4}  \\)",
+                        "\\( 26_{4} \\)"
+                    ],
+                    "answer_value": "\\(20_{4}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102833003667,
+                    "question_value": "Evaluate \\( (2021)_3^2 \\)",
+                    "options": [
+                        "21010",
+                        "21101",
+                        "20021",
+                        "20100"
+                    ],
+                    "answer_value": "21101",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 238434572,
+                    "question_value": "If a baker bakes 5 batches of cookies with 8 cookies in each batch, how many cookies are there in total?",
+                    "options": [
+                        "30",
+                        "35",
+                        "40",
+                        "45"
+                    ],
+                    "answer_value": "40"
+                },
+                {
+                    "question_id": 432733381,
+                    "question_value": "If a book costs $15 and you have $50, how much money will you have left after buying the book?",
+                    "options": [
+                        "30",
+                        "35",
+                        "40",
+                        "25"
+                    ],
+                    "answer_value": "35"
+                },
+                {
+                    "question_id": 133028374665,
+                    "question_value": "Evaluate \\( (1220)_3^3 \\)",
+                    "options": [
+                        "12100",
+                        "11200",
+                        "10100",
+                        "11000"
+                    ],
+                    "answer_value": "10100",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23845391,
+                    "question_value": "What is the square of 3?",
+                    "options": [
+                        "6",
+                        "9",
+                        "12",
+                        "15"
+                    ],
+                    "answer_value": "9"
+                },
+                {
+                    "question_id": 2342932030306,
+                    "question_value": "A rectangular pyramid has an area of 24 cm\u00b2 and a height of 7.5 cm. Calculate the volume of the pyramid.",
+                    "options": [
+                        "45 cm\u00b3",
+                        "54 cm\u00b3",
+                        "60 cm\u00b3",
+                        "72 cm\u00b3"
+                    ],
+                    "answer_value": "60 cm\u00b3",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102118374663,
+                    "question_value": "Evaluate \\( (431)_7^2 \\)",
+                    "options": [
+                        "2351",
+                        "2551",
+                        "2111",
+                        "2651"
+                    ],
+                    "answer_value": "2111",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 349187652,
+                    "question_value": "If you read 3 books a week, how many books will you read in 4 weeks?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "answer_value": "12"
+                },
+                {
+                    "question_id": 823453947,
+                    "question_value": "What is the square of 10?",
+                    "options": [
+                        "80",
+                        "90",
+                        "100",
+                        "110"
+                    ],
+                    "answer_value": "100"
+                },
+                {
+                    "question_id": 5918245334563,
+                    "question_value": "If you buy 3 pens for $2 each, how much do you spend?",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 54781832,
+                    "question_value": "If a rectangle has a length of 5 and a width of 3, what is its area?",
+                    "options": [
+                        "8",
+                        "15",
+                        "10",
+                        "18"
+                    ],
+                    "answer_value": "15"
+                },
+                {
+                    "question_id": 10283654668,
+                    "question_value": "Calculate \\( \\frac{4343_5}{122_5} \\)",
+                    "options": [
+                        "\\(2_{5} \\)",
+                        "\\(4_{5} \\)",
+                        "\\(6_{5} \\)",
+                        "\\(8_{5} \\)"
+                    ],
+                    "answer_value": "\\(34_{5}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 174963328,
+                    "question_value": "If you have 4 boxes with 6 apples each, how many apples do you have in total?",
+                    "options": [
+                        "20",
+                        "22",
+                        "24",
+                        "26"
+                    ],
+                    "answer_value": "24"
+                },
+                {
+                    "question_id": 384734519,
+                    "question_value": "If you have 18 candies and you give 5 to a friend, how many candies do you have left?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "answer_value": "13"
+                },
+                {
+                    "question_id": 10283733424659,
+                    "question_value": "Solve for \\( k \\) in the equation \\( \\left( \\frac{1}{8} \\right)^{k+2} = 1 \\).",
+                    "options": [
+                        "k = 2",
+                        "k = -2",
+                        "k = 0",
+                        "k = 1"
+                    ],
+                    "answer_value": "k = -2"
+                },
+                {
+                    "question_id": 912424347,
+                    "question_value": "If you buy 2 notebooks for $3 each and 2 pens for $1 each, how much do you spend in total?",
+                    "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+                    "answer_value": "8"
+                },
+                {
+                    "question_id": 102837324664,
+                    "question_value": "Calculate \\( \\frac{3412_9}{112_9} \\)",
+                    "options": [
+                        "\\(31_{9}\\)",
+                        "\\(33_{9}\\)",
+                        "\\(35_{9}\\)",
+                        "\\(37_{9}\\)"
+                    ],
+                    "answer_value": "\\(31_{9}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 8731234524,
+                    "question_value": "What is the square of 14?",
+                    "options": [
+                        "184",
+                        "186",
+                        "194",
+                        "196"
+                    ],
+                    "answer_value": "196"
+                },
+                {
+                    "question_id": 1028374660,
+                    "question_value": "Calculate \\( \\frac{5432_8}{173_8} \\)",
+                    "options": [
+                        "\\(26_{8}\\)",
+                        "\\(27_{8}\\)",
+                        "\\(30_{8}\\)",
+                        "\\(32_{8}\\)"
+                    ],
+                    "answer_value": "\\(27_{8}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 481345239,
+                    "question_value": "If a train travels 50 km\/h and travels for 3 hours, how far does it go?",
+                    "options": [
+                        "100 km",
+                        "150 km",
+                        "200 km",
+                        "250 km"
+                    ],
+                    "answer_value": "150 km"
+                },
+                {
+                    "question_id": 2394456578,
+                    "question_value": "What is 15 squared?",
+                    "options": [
+                        "210",
+                        "215",
+                        "220",
+                        "225"
+                    ],
+                    "answer_value": "225"
+                },
+                {
+                    "question_id": 438753421,
+                    "question_value": "If you divide 48 by 6, what do you get?",
+                    "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+                    "answer_value": "8"
+                },
+                {
+                    "question_id": 9300928883,
+                    "question_value": "If log 10 to base 8 = X, evaluate log 5 to base 8 in terms of X.",
+                    "options": [
+                        "25",
+                        "\\( \\frac{1}{2X}\\)",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 10283746533239,
+                    "question_value": "Evaluate \\( (101)_2^3 \\)",
+                    "options": [
+                        "1111101",
+                        "1111100",
+                        "111110",
+                        "1111110"
+                    ],
+                    "answer_value": "1111101"
+                },
+                {
+                    "question_id": 38719642,
+                    "question_value": "If you have 10 apples and give 4 to a friend, how many apples do you have left?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 238743446,
+                    "question_value": "What is 7 squared?",
+                    "options": [
+                        "47",
+                        "49",
+                        "51",
+                        "53"
+                    ],
+                    "answer_value": "49"
+                },
+                {
+                    "question_id": 102837314661,
+                    "question_value": "Evaluate \\( (1101)_2^4 \\)",
+                    "options": [
+                        "11010",
+                        "10111",
+                        "10011",
+                        "11110"
+                    ],
+                    "answer_value": "11110",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2389947,
+                    "question_value": "If a box contains 24 chocolates and you eat 7, how many chocolates are left?",
+                    "options": [
+                        "15",
+                        "16",
+                        "17",
+                        "18"
+                    ],
+                    "answer_value": "17"
+                },
+                {
+                    "question_id": 923865347,
+                    "question_value": "What is the square of 6?",
+                    "options": [
+                        "30",
+                        "36",
+                        "42",
+                        "48"
+                    ],
+                    "answer_value": "36"
+                },
+                {
+                    "question_id": 2342932030303,
+                    "question_value": "Simplify \\( \\frac{1}{3 - \\sqrt{2}} \\) in the form of \\( p + q\\sqrt{2} \\)",
+                    "options": [
+                        "\\( \\frac{3 + \\sqrt{2}}{7}\\)",
+                        "\\( \\frac{3 - \\sqrt{2}}{7}\\)",
+                        "\\( \\frac{3}{7} + \\frac{\\sqrt{2}}{7}\\)",
+                        "\\( \\frac{3}{7} - \\frac{\\sqrt{2}}{7}\\)"
+                    ],
+                    "answer_value": "\\( \\frac{3}{7} + \\frac{\\sqrt{2}}{7}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 98328742373,
+                    "question_value": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+                    "options": [
+                        "25",
+                        "19",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 947233683,
+                    "question_value": "What is the square of 5?",
+                    "options": [
+                        "15",
+                        "20",
+                        "25",
+                        "30"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 12303930300392,
+                    "question_value": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gifts(g), savings(s) and some miscellaneous (m) as indicated in the table below:\n F-28% ,R-15% ,c-20% ,G-14% ,S-10% ,M-13% .\nIf the information on the table is represented on a pie chart, what angle represents his spending on food?",
+                    "options": [
+                        "28\u00b0",
+                        "72\u00b0",
+                        "100.8\u00b0",
+                        "126\u00b0"
+                    ],
+                    "answer_value": "100.8\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 34787821,
+                    "question_value": "What is the square of 8?",
+                    "options": [
+                        "56",
+                        "60",
+                        "64",
+                        "68"
+                    ],
+                    "answer_value": "64"
+                },
+                {
+                    "question_id": 1028345445474659,
+                    "question_value": "Differentiate \\((\\cos \\theta + \\sin \\theta)^2\\) with respect to \\(\\theta\\).",
+                    "options": [
+                        "2cos2\u03b8",
+                        "2sin2\u03b8",
+                        "-2cos2\u03b8",
+                        "-2sin2\u03b8"
+                    ],
+                    "answer_value": "2cos2\u03b8"
+                },
+                {
+                    "question_id": 47885239,
+                    "question_value": "If a car travels at 60 km\/h for 2 hours, how far does it travel?",
+                    "options": [
+                        "60 km",
+                        "100 km",
+                        "120 km",
+                        "150 km"
+                    ],
+                    "answer_value": "120 km"
+                }
+            ]
+        },
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 2342932030322,
+                    "question_value": "A cell whose internal resistance is 0.55 \u03a9 delivers a current of 4 A to an external resistor. What is the lost voltage of the cell?",
+                    "options": [
+                        "1.8 V",
+                        "2.0 V",
+                        "2.2 V",
+                        "2.4 V"
+                    ],
+                    "answer_value": "2.2 V",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 543210745,
+                    "question_value": "What is the formula for calculating speed?",
+                    "options": [
+                        "s = vt",
+                        "s = v\/t",
+                        "s = t\/v",
+                        "s = v^2"
+                    ],
+                    "answer_value": "s = v\/t"
+                },
+                {
+                    "question_id": 2342932099037,
+                    "question_value": "A force of 50 N moves an object through a distance of 10 m in the direction of the force. Calculate the work done.",
+                    "options": [
+                        "100 J",
+                        "250 J",
+                        "500 J",
+                        "1000 J"
+                    ],
+                    "answer_value": "500 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 890455123,
+                    "question_value": "What is the SI unit of power?",
+                    "options": [
+                        "Watt",
+                        "Joule",
+                        "Volt",
+                        "Ampere"
+                    ],
+                    "answer_value": "Watt"
+                },
+                {
+                    "question_id": 8899333223239542,
+                    "question_value": "Which of the following is a scalar quantity?",
+                    "options": [
+                        "weight",
+                        "displacement",
+                        "potential energy",
+                        "momentum"
+                    ],
+                    "answer_value": "potential energy",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932093993316,
+                    "question_value": "A machine does 500 J of work in 10 seconds. Calculate the power of the machine.",
+                    "options": [
+                        "40 W",
+                        "50 W",
+                        "60 W",
+                        "70 W"
+                    ],
+                    "answer_value": "50 W",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320305318,
+                    "question_value": "A wave has a wavelength of 2 meters and a speed of 10 m\/s. Calculate its frequency.",
+                    "options": [
+                        "4 Hz",
+                        "5 Hz",
+                        "6 Hz",
+                        "8 Hz"
+                    ],
+                    "answer_value": "5 Hz",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 288994039293542,
+                    "question_value": "The amount of energy required to change a kilogram of ice block into the water without a change in temperature is?",
+                    "options": [
+                        "specific latent heat of fusion of ice",
+                        "specific heat capacity of ice",
+                        "heat capacity of ice",
+                        "specific heat of vaporization of ice"
+                    ],
+                    "answer_value": "specific latent heat of fusion of ice",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 20398394320303293,
+                    "question_value": "A gas expands from a volume of 1 m\u00b3 to 3 m\u00b3 at a constant pressure of 2 atm. Calculate the work done by the gas. (1 atm = 101.3 kPa)",
+                    "options": [
+                        "101.3 kJ",
+                        "202.6 kJ",
+                        "303.9 kJ",
+                        "405.2 kJ"
+                    ],
+                    "answer_value": "405.2 kJ",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932234523,
+                    "question_value": "A 2 kg mass is moving with a velocity of 3 m\/s. Calculate its kinetic energy.",
+                    "options": [
+                        "6 J",
+                        "9 J",
+                        "12 J",
+                        "15 J"
+                    ],
+                    "answer_value": "9 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030310,
+                    "question_value": "A car starts from rest and covers a distance of 40 m in 10 s. Calculate the magnitude of its acceleration.",
+                    "options": [
+                        "0.4 m\/s\u00b2",
+                        "0.6 m\/s\u00b2",
+                        "0.8 m\/s\u00b2",
+                        "1.0 m\/s\u00b2"
+                    ],
+                    "answer_value": "0.8 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342998323333,
+                    "question_value": "A force of 20 N acts on a body of mass 5 kg for 4 seconds. What is the change in momentum of the body?",
+                    "options": [
+                        "5 kg m\/s",
+                        "20 kg m\/s",
+                        "80 kg m\/s",
+                        "100 kg m\/s"
+                    ],
+                    "answer_value": "80 kg m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 3412829,
+                    "question_value": "What is the SI unit of frequency?",
+                    "options": [
+                        "Hertz",
+                        "Newton",
+                        "Watt",
+                        "Volt"
+                    ],
+                    "answer_value": "Hertz"
+                },
+                {
+                    "question_id": 2342932030329,
+                    "question_value": "Which expression gives the magnetic flux (\u03a6) through a surface?",
+                    "options": [
+                        "\\( \\Phi = B \\cdot A \\cdot \\cos \\theta \\)",
+                        "\\( \\Phi = \\frac{B}{A \\cdot \\cos \\theta} \\)",
+                        "\\( \\Phi = B \\cdot A \\cdot \\sin \\theta \\)",
+                        "\\( \\Phi = \\frac{B \\cdot \\cos \\theta}{A} \\)"
+                    ],
+                    "answer_value": "\\( \\Phi = B \\cdot A \\cdot \\cos \\theta \\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 93948484840391032,
+                    "question_value": "The mercury column in the barometer at natural atmospheric pressure has a height of?",
+                    "options": [
+                        "0.76 cm at see level",
+                        "760 cm at sea level",
+                        "76 cm at sea level",
+                        "7.6 cm at sea level"
+                    ],
+                    "answer_value": "76 cm at sea level",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 32184290,
+                    "question_value": "What is the formula for kinetic energy?",
+                    "options": [
+                        "KE = 1\/2 mv^2",
+                        "KE = mgh",
+                        "KE = Fd",
+                        "KE = p\/t"
+                    ],
+                    "answer_value": "KE = 1\/2 mv^2"
+                },
+                {
+                    "question_id": 340093939302,
+                    "question_value": "Which of the following is a derived unit?",
+                    "options": [
+                        "Kilogram",
+                        "Metre",
+                        "Newton",
+                        "Second"
+                    ],
+                    "answer_value": "Newton",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2889932849542,
+                    "question_value": "A semiconductor is formed by?",
+                    "options": [
+                        "covalent bonds",
+                        "a substance free of bonds",
+                        "electrovalent bonds",
+                        "co-ordinate bonds"
+                    ],
+                    "answer_value": "covalent bonds",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 32132098,
+                    "question_value": "What is the formula for calculating work done?",
+                    "options": [
+                        "W = Fd",
+                        "W = F\/a",
+                        "W = mv^2",
+                        "W = pt"
+                    ],
+                    "answer_value": "W = Fd"
+                },
+                {
+                    "question_id": 933848432030335,
+                    "question_value": "In a circuit, a resistor of 10 \u03a9 is connected in series with a resistor of 20 \u03a9. What is the total resistance of the circuit?",
+                    "options": [
+                        "3.3 \u03a9",
+                        "10 \u03a9",
+                        "20 \u03a9",
+                        "30 \u03a9"
+                    ],
+                    "answer_value": "30 \u03a9",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 288994043939842,
+                    "question_value": "The main factor which affects the speed of sound wave is the?",
+                    "options": [
+                        "properties of the medium",
+                        "amplitude of the sound wave",
+                        "intensity of the sound wave",
+                        "loudness of the sound wave"
+                    ],
+                    "answer_value": "properties of the medium",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293098767832,
+                    "question_value": "A mass of 0.2 kg attached to a spring oscillates with a frequency of 5 Hz. Calculate the spring constant of the spring. (Assume no damping)",
+                    "options": [
+                        "4 N\/m",
+                        "16 N\/m",
+                        "20 N\/m",
+                        "25 N\/m"
+                    ],
+                    "answer_value": "16 N\/m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 54332789,
+                    "question_value": "What is the first law of thermodynamics?",
+                    "options": [
+                        "Energy is always increasing.",
+                        "Energy can be created at will.",
+                        "Energy can be destroyed.",
+                        "Energy can neither be created nor destroyed."
+                    ],
+                    "answer_value": "Energy can neither be created nor destroyed."
+                },
+                {
+                    "question_id": 891234,
+                    "question_value": "What is the law of reflection?",
+                    "options": [
+                        "The angle of incidence is equal to the angle of reflection.",
+                        "Light travels in straight lines.",
+                        "The speed of light is constant.",
+                        "Light bends when passing through a medium."
+                    ],
+                    "answer_value": "The angle of incidence is equal to the angle of reflection."
+                },
+                {
+                    "question_id": 23429320304232,
+                    "question_value": "A long straight wire carries a current of 5 A. Calculate the magnetic field at a distance of 2 cm from the wire. (Use \u03bc\u2080 = 4\u03c0 x 10^-7 T\u00b7m\/A)",
+                    "options": [
+                        "5 x 10^-5 T",
+                        "1 x 10^-4 T",
+                        "5 x 10^-4 T",
+                        "1 x 10^-3 T"
+                    ],
+                    "answer_value": "5 x 10^-5 T",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293933030331,
+                    "question_value": "Calculate the heat required to raise the temperature of 200 g of water from 20\u00b0C to 50\u00b0C. (Specific heat capacity of water = 4.18 J\/g\u00b0C)",
+                    "options": [
+                        "250 J",
+                        "836 J",
+                        "1672 J",
+                        "4180 J"
+                    ],
+                    "answer_value": "4180 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293290908815,
+                    "question_value": "A force of 20 N moves an object 3 meters. Calculate the work done.",
+                    "options": [
+                        "50 J",
+                        "60 J",
+                        "70 J",
+                        "80 J"
+                    ],
+                    "answer_value": "60 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 4561233234,
+                    "question_value": "What is the formula for calculating momentum?",
+                    "options": [
+                        "p = mv",
+                        "p = Fd",
+                        "p = W\/t",
+                        "p = F\/a"
+                    ],
+                    "answer_value": "p = mv"
+                },
+                {
+                    "question_id": 6789553412,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Kelvin",
+                        "Celsius",
+                        "Fahrenheit",
+                        "Joule"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 2342932030330,
+                    "question_value": "What is the quantity of heat required to convert 20 g of ice at 0\u00b0C to water at the same temperature? (Specific latent heat of ice = 336 J\/g)",
+                    "options": [
+                        "5280 J",
+                        "6400 J",
+                        "6720 J",
+                        "7200 J"
+                    ],
+                    "answer_value": "6720 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932032348,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 3 meters. Calculate the speed of the wave.",
+                    "options": [
+                        "100 m\/s",
+                        "150 m\/s",
+                        "200 m\/s",
+                        "250 m\/s"
+                    ],
+                    "answer_value": "150 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 983838484334,
+                    "question_value": "A light ray passes from air into water. If the angle of incidence is 45\u00b0, calculate the angle of refraction (Refractive index of water = 1.33).",
+                    "options": [
+                        "19.5\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "30\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030393939,
+                    "question_value": "A capacitor with a capacitance of 5 \u00b5F is charged to a potential difference of 200 V. Calculate the energy stored in the capacitor.",
+                    "options": [
+                        "0.1 J",
+                        "0.2 J",
+                        "0.5 J",
+                        "1.0 J"
+                    ],
+                    "answer_value": "0.1 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030339,
+                    "question_value": "A spring with a spring constant of 100 N\/m is compressed by 0.2 m. Calculate the elastic potential energy stored in the spring.",
+                    "options": [
+                        "2 J",
+                        "4 J",
+                        "10 J",
+                        "20 J"
+                    ],
+                    "answer_value": "4 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320234243,
+                    "question_value": "A point charge of 5 \u03bcC is placed at the center of a sphere of radius 3 cm. Calculate the electric field at a point on the surface of the sphere.",
+                    "options": [
+                        "5.0 x 10^5 N\/C",
+                        "1.0 x 10^6 N\/C",
+                        "3.0 x 10^6 N\/C",
+                        "5.0 x 10^6 N\/C"
+                    ],
+                    "answer_value": "5.0 x 10^5 N\/C",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203330332,
+                    "question_value": "A wheel with a radius of 0.5 m rotates at 60 RPM. Calculate the linear velocity of a point on the rim of the wheel.",
+                    "options": [
+                        "1.5 m\/s",
+                        "3 m\/s",
+                        "5 m\/s",
+                        "6 m\/s"
+                    ],
+                    "answer_value": "3 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 5435443876,
+                    "question_value": "What is the unit of measurement for frequency?",
+                    "options": [
+                        "Hertz",
+                        "Watt",
+                        "Joule",
+                        "Ampere"
+                    ],
+                    "answer_value": "Hertz"
+                },
+                {
+                    "question_id": 23429320309994,
+                    "question_value": "A 3 kg object is moving at a velocity of 4 m\/s. Calculate its momentum.",
+                    "options": [
+                        "8 kg m\/s",
+                        "10 kg m\/s",
+                        "12 kg m\/s",
+                        "15 kg m\/s"
+                    ],
+                    "answer_value": "12 kg m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23440404040403,
+                    "question_value": "If a bar magnet is divided into two pieces, which of the following statement is correct?",
+                    "options": [
+                        "two new magnets are created",
+                        "the magnetic field of each separate piece becomes stronger",
+                        "the electric field is created",
+                        "the bar magnet is demagnetized"
+                    ],
+                    "answer_value": "two new magnets are created",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203454,
+                    "question_value": "A 4 kg mass is lifted to a height of 5 meters. Calculate its potential energy. (g = 9.8 m\/s\u00b2)",
+                    "options": [
+                        "100 J",
+                        "120 J",
+                        "150 J",
+                        "196 J"
+                    ],
+                    "answer_value": "196 J",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "subject": "BIOLOGY",
+            "questions": [
+                {
+                    "question_id": 346535678,
+                    "question_value": "Which of the following is not a function of the liver?",
+                    "options": [
+                        "Detoxification",
+                        "Blood clotting",
+                        "Digestion",
+                        "Metabolism"
+                    ],
+                    "answer_value": "Digestion"
+                },
+                {
+                    "question_id": 32213264,
+                    "question_value": "Which gas do plants absorb during photosynthesis?",
+                    "options": [
+                        "Oxygen",
+                        "Carbon Dioxide",
+                        "Nitrogen",
+                        "Hydrogen"
+                    ],
+                    "answer_value": "Carbon Dioxide"
+                },
+                {
+                    "question_id": 987656734,
+                    "question_value": "What is the longest bone in the human body?",
+                    "options": [
+                        "Femur",
+                        "Humerus",
+                        "Radius",
+                        "Tibia"
+                    ],
+                    "answer_value": "Femur"
+                },
+                {
+                    "question_id": 12333456,
+                    "question_value": "What is the study of fossils called?",
+                    "options": [
+                        "Geology",
+                        "Anthropology",
+                        "Paleontology",
+                        "Archaeology"
+                    ],
+                    "answer_value": "Paleontology"
+                },
+                {
+                    "question_id": 5674092890,
+                    "question_value": "Which part of the plant conducts photosynthesis?",
+                    "options": [
+                        "Roots",
+                        "Stem",
+                        "Leaves",
+                        "Flowers"
+                    ],
+                    "answer_value": "Leaves"
+                },
+                {
+                    "question_id": 1233932456,
+                    "question_value": "Which organ is responsible for filtering blood in the human body?",
+                    "options": [
+                        "Kidneys",
+                        "Liver",
+                        "Heart",
+                        "Lungs"
+                    ],
+                    "answer_value": "Kidneys"
+                },
+                {
+                    "question_id": 45618923,
+                    "question_value": "What is the powerhouse of the cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Endoplasmic Reticulum"
+                    ],
+                    "answer_value": "Mitochondria"
+                },
+                {
+                    "question_id": 890653123,
+                    "question_value": "Which of the following is not a kingdom in the classification of living organisms?",
+                    "options": [
+                        "Animalia",
+                        "Plantae",
+                        "Protista",
+                        "Mycota"
+                    ],
+                    "answer_value": "Mycota"
+                },
+                {
+                    "question_id": 8903232123,
+                    "question_value": "Which part of the eye is responsible for seeing color?",
+                    "options": [
+                        "Iris",
+                        "Cornea",
+                        "Lens",
+                        "Retina"
+                    ],
+                    "answer_value": "Retina"
+                },
+                {
+                    "question_id": 9023461234,
+                    "question_value": "What is the process of cell division in somatic cells called?",
+                    "options": [
+                        "Mitosis",
+                        "Meiosis",
+                        "Fertilization",
+                        "Apoptosis"
+                    ],
+                    "answer_value": "Mitosis"
+                },
+                {
+                    "question_id": 323331535,
+                    "question_value": "What is the primary function of white blood cells?",
+                    "options": [
+                        "Transport oxygen",
+                        "Fight infection",
+                        "Produce antibodies",
+                        "Store energy"
+                    ],
+                    "answer_value": "Fight infection"
+                },
+                {
+                    "question_id": 5453253635,
+                    "question_value": "Which organ system is responsible for protecting the body from pathogens?",
+                    "options": [
+                        "Immune system",
+                        "Digestive system",
+                        "Nervous system",
+                        "Endocrine system"
+                    ],
+                    "answer_value": "Immune system"
+                },
+                {
+                    "question_id": 8942450123,
+                    "question_value": "What is the basic unit of heredity?",
+                    "options": [
+                        "Gene",
+                        "Allele",
+                        "Chromosome",
+                        "DNA"
+                    ],
+                    "answer_value": "Gene"
+                },
+                {
+                    "question_id": 123993456,
+                    "question_value": "What is the main function of the respiratory system?",
+                    "options": [
+                        "Transport nutrients",
+                        "Regulate body temperature",
+                        "Exchange gases",
+                        "Produce hormones"
+                    ],
+                    "answer_value": "Exchange gases"
+                },
+                {
+                    "question_id": 56789530,
+                    "question_value": "What is the powerhouse of the plant cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Chloroplast"
+                    ],
+                    "answer_value": "Chloroplast"
+                },
+                {
+                    "question_id": 34530920678,
+                    "question_value": "What is the process by which organisms produce offspring?",
+                    "options": [
+                        "Photosynthesis",
+                        "Respiration",
+                        "Reproduction",
+                        "Digestion"
+                    ],
+                    "answer_value": "Reproduction"
+                },
+                {
+                    "question_id": 344345613,
+                    "question_value": "What is the process by which plants make their own food?",
+                    "options": [
+                        "Respiration",
+                        "Fermentation",
+                        "Photosynthesis",
+                        "Digestion"
+                    ],
+                    "answer_value": "Photosynthesis"
+                },
+                {
+                    "question_id": 567393812890,
+                    "question_value": "Which of the following is not a type of muscle tissue?",
+                    "options": [
+                        "Skeletal",
+                        "Cardiac",
+                        "Smooth",
+                        "Fibrous"
+                    ],
+                    "answer_value": "Fibrous"
+                },
+                {
+                    "question_id": 90123009324,
+                    "question_value": "Which of the following is not a function of the skeletal system?",
+                    "options": [
+                        "Support",
+                        "Protection",
+                        "Movement",
+                        "Digestion"
+                    ],
+                    "answer_value": "Digestion"
+                },
+                {
+                    "question_id": 789063412,
+                    "question_value": "Which of the following is not a type of blood vessel?",
+                    "options": [
+                        "Vein",
+                        "Artery",
+                        "Capillary",
+                        "Ligament"
+                    ],
+                    "answer_value": "Ligament"
+                },
+                {
+                    "question_id": 9010830234,
+                    "question_value": "What is the chemical formula for glucose?",
+                    "options": [
+                        "C6H12O6",
+                        "CO2",
+                        "H2O",
+                        "NaCl"
+                    ],
+                    "answer_value": "C6H12O6"
+                },
+                {
+                    "question_id": 3453092678,
+                    "question_value": "What is the largest organ in the human body?",
+                    "options": [
+                        "Liver",
+                        "Skin",
+                        "Brain",
+                        "Heart"
+                    ],
+                    "answer_value": "Skin"
+                },
+                {
+                    "question_id": 4342145408346,
+                    "question_value": "What is the chemical substance that carries genetic information in cells?",
+                    "options": [
+                        "DNA",
+                        "RNA",
+                        "ATP",
+                        "Glucose"
+                    ],
+                    "answer_value": "DNA"
+                },
+                {
+                    "question_id": 90123349472,
+                    "question_value": "What is the function of red blood cells?",
+                    "options": [
+                        "Transport oxygen",
+                        "Fight infection",
+                        "Produce antibodies",
+                        "Store energy"
+                    ],
+                    "answer_value": "Transport oxygen"
+                },
+                {
+                    "question_id": 234569839097,
+                    "question_value": "What is the smallest unit of life?",
+                    "options": [
+                        "Cell",
+                        "Tissue",
+                        "Organ",
+                        "Organism"
+                    ],
+                    "answer_value": "Cell"
+                }
+            ]
+        }
+    ]
+}

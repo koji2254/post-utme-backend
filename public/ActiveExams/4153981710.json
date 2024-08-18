@@ -1,0 +1,126 @@
+{
+    "exam_id": 4153981710,
+    "questions": [
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 3412829,
+                    "question_value": "What is the SI unit of frequency?",
+                    "options": [
+                        "Hertz",
+                        "Newton",
+                        "Watt",
+                        "Volt"
+                    ],
+                    "answer_value": "Hertz"
+                },
+                {
+                    "question_id": 983838484334,
+                    "question_value": "A light ray passes from air into water. If the angle of incidence is 45\u00b0, calculate the angle of refraction (Refractive index of water = 1.33).",
+                    "options": [
+                        "19.5\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "30\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2343232030340,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 2 m. Calculate the speed of the wave.",
+                    "options": [
+                        "25 m\/s",
+                        "50 m\/s",
+                        "100 m\/s",
+                        "200 m\/s"
+                    ],
+                    "answer_value": "100 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 239339329489336,
+                    "question_value": "A light ray strikes a plane mirror at an angle of 30\u00b0 with the normal. What is the angle between the incident ray and the reflected ray?",
+                    "options": [
+                        "15\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "60\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 32184290,
+                    "question_value": "What is the formula for kinetic energy?",
+                    "options": [
+                        "KE = 1\/2 mv^2",
+                        "KE = mgh",
+                        "KE = Fd",
+                        "KE = p\/t"
+                    ],
+                    "answer_value": "KE = 1\/2 mv^2"
+                },
+                {
+                    "question_id": 234293203330443,
+                    "question_value": "A 60 W light bulb operates for 3 hours. How much energy is consumed in kilowatt-hours (kWh)?",
+                    "options": [
+                        "0.15 kWh",
+                        "0.18 kWh",
+                        "0.20 kWh",
+                        "0.25 kWh"
+                    ],
+                    "answer_value": "0.18 kWh",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932093993316,
+                    "question_value": "A machine does 500 J of work in 10 seconds. Calculate the power of the machine.",
+                    "options": [
+                        "40 W",
+                        "50 W",
+                        "60 W",
+                        "70 W"
+                    ],
+                    "answer_value": "50 W",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 32132098,
+                    "question_value": "What is the formula for calculating work done?",
+                    "options": [
+                        "W = Fd",
+                        "W = F\/a",
+                        "W = mv^2",
+                        "W = pt"
+                    ],
+                    "answer_value": "W = Fd"
+                },
+                {
+                    "question_id": 8899333223239542,
+                    "question_value": "Which of the following is a scalar quantity?",
+                    "options": [
+                        "weight",
+                        "displacement",
+                        "potential energy",
+                        "momentum"
+                    ],
+                    "answer_value": "potential energy",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 543210745,
+                    "question_value": "What is the formula for calculating speed?",
+                    "options": [
+                        "s = vt",
+                        "s = v\/t",
+                        "s = t\/v",
+                        "s = v^2"
+                    ],
+                    "answer_value": "s = v\/t"
+                }
+            ]
+        }
+    ]
+}

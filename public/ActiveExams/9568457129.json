@@ -1,0 +1,65 @@
+{
+    "exam_id": 9568457129,
+    "questions": [
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 765432,
+                    "question_value": "What is the law of conservation of energy?",
+                    "options": [
+                        "Energy can neither be created nor destroyed.",
+                        "Energy is always increasing.",
+                        "Energy can be destroyed.",
+                        "Energy can be created at will."
+                    ],
+                    "answer_value": "Energy can neither be created nor destroyed."
+                },
+                {
+                    "question_id": 234567,
+                    "question_value": "What is the unit of electric current?",
+                    "options": [
+                        "Ampere",
+                        "Volt",
+                        "Ohm",
+                        "Watt"
+                    ],
+                    "answer_value": "Ampere"
+                },
+                {
+                    "question_id": 987321,
+                    "question_value": "What is the SI unit of electric charge?",
+                    "options": [
+                        "Coulomb",
+                        "Volt",
+                        "Ampere",
+                        "Ohm"
+                    ],
+                    "answer_value": "Coulomb"
+                },
+                {
+                    "question_id": 678912,
+                    "question_value": "What is the formula for calculating power?",
+                    "options": [
+                        "P = W\/t",
+                        "P = Fd",
+                        "P = mv^2",
+                        "P = IR"
+                    ],
+                    "answer_value": "P = W\/t"
+                },
+                {
+                    "question_id": 321890,
+                    "question_value": "What is the formula for kinetic energy?",
+                    "options": [
+                        "KE = 1\/2 mv^2",
+                        "KE = mgh",
+                        "KE = Fd",
+                        "KE = p\/t"
+                    ],
+                    "answer_value": "KE = 1\/2 mv^2"
+                }
+            ]
+        }
+    ]
+}

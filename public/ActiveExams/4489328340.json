@@ -1,0 +1,406 @@
+{
+    "exam_id": 4489328340,
+    "questions": [
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 1028374659,
+                    "question_value": "Differentiate (cos\u03b8 + sin\u03b8)^2 with respect to \u03b8.",
+                    "options": [
+                        "2cos2\u03b8",
+                        "2sin2\u03b8",
+                        "-2cos2\u03b8",
+                        "-2sin2\u03b8"
+                    ],
+                    "answer_value": "2cos2\u03b8"
+                },
+                {
+                    "question_id": 238743446,
+                    "question_value": "What is 7 squared?",
+                    "options": [
+                        "47",
+                        "49",
+                        "51",
+                        "53"
+                    ],
+                    "answer_value": "49"
+                },
+                {
+                    "question_id": 47885239,
+                    "question_value": "If a car travels at 60 km\/h for 2 hours, how far does it travel?",
+                    "options": [
+                        "60 km",
+                        "100 km",
+                        "120 km",
+                        "150 km"
+                    ],
+                    "answer_value": "120 km"
+                },
+                {
+                    "question_id": 238434572,
+                    "question_value": "If a baker bakes 5 batches of cookies with 8 cookies in each batch, how many cookies are there in total?",
+                    "options": [
+                        "30",
+                        "35",
+                        "40",
+                        "45"
+                    ],
+                    "answer_value": "40"
+                },
+                {
+                    "question_id": 1028374659,
+                    "question_value": "Solve for \\( k \\) in the equation \\( \\left( \\frac{1}{8} \\right)^{k+2} = 1 \\).",
+                    "options": [
+                        "k = 2",
+                        "k = -2",
+                        "k = 0",
+                        "k = 1"
+                    ],
+                    "answer_value": "k = -2"
+                },
+                {
+                    "question_id": 8731234524,
+                    "question_value": "What is the square of 14?",
+                    "options": [
+                        "184",
+                        "186",
+                        "194",
+                        "196"
+                    ],
+                    "answer_value": "196"
+                },
+                {
+                    "question_id": 54781832,
+                    "question_value": "If a rectangle has a length of 5 and a width of 3, what is its area?",
+                    "options": [
+                        "8",
+                        "15",
+                        "10",
+                        "18"
+                    ],
+                    "answer_value": "15"
+                },
+                {
+                    "question_id": 812345647,
+                    "question_value": "What is the square of 11?",
+                    "options": [
+                        "110",
+                        "121",
+                        "132",
+                        "143"
+                    ],
+                    "answer_value": "121"
+                },
+                {
+                    "question_id": 9300928883,
+                    "question_value": "If log 10 to base 8 = X, evaluate log 5 to base 8 in terms of X.",
+                    "options": [
+                        "25",
+                        "1\/2X",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 2394456578,
+                    "question_value": "What is 15 squared?",
+                    "options": [
+                        "210",
+                        "215",
+                        "220",
+                        "225"
+                    ],
+                    "answer_value": "225"
+                },
+                {
+                    "question_id": 5918245334563,
+                    "question_value": "If you buy 3 pens for $2 each, how much do you spend?",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 34787821,
+                    "question_value": "What is the square of 8?",
+                    "options": [
+                        "56",
+                        "60",
+                        "64",
+                        "68"
+                    ],
+                    "answer_value": "64"
+                },
+                {
+                    "question_id": 481345239,
+                    "question_value": "If a train travels 50 km\/h and travels for 3 hours, how far does it go?",
+                    "options": [
+                        "100 km",
+                        "150 km",
+                        "200 km",
+                        "250 km"
+                    ],
+                    "answer_value": "150 km"
+                },
+                {
+                    "question_id": 1028374659,
+                    "question_value": "Differentiate \\((\\cos \\theta + \\sin \\theta)^2\\) with respect to \\(\\theta\\).",
+                    "options": [
+                        "2cos2\u03b8",
+                        "2sin2\u03b8",
+                        "-2cos2\u03b8",
+                        "-2sin2\u03b8"
+                    ],
+                    "answer_value": "2cos2\u03b8"
+                },
+                {
+                    "question_id": 1028374659,
+                    "question_value": "Evaluate \\( (101)_2^3 \\)",
+                    "options": [
+                        "1111101",
+                        "1111100",
+                        "111110",
+                        "1111110"
+                    ],
+                    "answer_value": "1111101"
+                },
+                {
+                    "question_id": 19276834,
+                    "question_value": "If a garden has 4 rows of flowers with 5 flowers in each row, how many flowers are there in total?",
+                    "options": [
+                        "18",
+                        "20",
+                        "22",
+                        "24"
+                    ],
+                    "answer_value": "20"
+                },
+                {
+                    "question_id": 174963328,
+                    "question_value": "If you have 4 boxes with 6 apples each, how many apples do you have in total?",
+                    "options": [
+                        "20",
+                        "22",
+                        "24",
+                        "26"
+                    ],
+                    "answer_value": "24"
+                },
+                {
+                    "question_id": 78128834,
+                    "question_value": "What is 4 squared?",
+                    "options": [
+                        "8",
+                        "12",
+                        "16",
+                        "20"
+                    ],
+                    "answer_value": "16"
+                },
+                {
+                    "question_id": 78923409,
+                    "question_value": "What is 9 squared?",
+                    "options": [
+                        "72",
+                        "80",
+                        "81",
+                        "90"
+                    ],
+                    "answer_value": "81"
+                },
+                {
+                    "question_id": 23845391,
+                    "question_value": "What is the square of 3?",
+                    "options": [
+                        "6",
+                        "9",
+                        "12",
+                        "15"
+                    ],
+                    "answer_value": "9"
+                },
+                {
+                    "question_id": 384734519,
+                    "question_value": "If you have 18 candies and you give 5 to a friend, how many candies do you have left?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "answer_value": "13"
+                },
+                {
+                    "question_id": 947233683,
+                    "question_value": "What is the square of 5?",
+                    "options": [
+                        "15",
+                        "20",
+                        "25",
+                        "30"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 912424347,
+                    "question_value": "If you buy 2 notebooks for $3 each and 2 pens for $1 each, how much do you spend in total?",
+                    "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+                    "answer_value": "8"
+                },
+                {
+                    "question_id": 1823587849,
+                    "question_value": "A triangle has a base of 6 and a height of 3. What is its area?",
+                    "options": [
+                        "9",
+                        "12",
+                        "18",
+                        "20"
+                    ],
+                    "answer_value": "9"
+                },
+                {
+                    "question_id": 98328742373,
+                    "question_value": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+                    "options": [
+                        "25",
+                        "19",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 438753421,
+                    "question_value": "If you divide 48 by 6, what do you get?",
+                    "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+                    "answer_value": "8"
+                },
+                {
+                    "question_id": 349187652,
+                    "question_value": "If you read 3 books a week, how many books will you read in 4 weeks?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "answer_value": "12"
+                },
+                {
+                    "question_id": 823453947,
+                    "question_value": "What is the square of 10?",
+                    "options": [
+                        "80",
+                        "90",
+                        "100",
+                        "110"
+                    ],
+                    "answer_value": "100"
+                },
+                {
+                    "question_id": 123934547,
+                    "question_value": "What is the square of 12?",
+                    "options": [
+                        "124",
+                        "136",
+                        "144",
+                        "156"
+                    ],
+                    "answer_value": "144"
+                },
+                {
+                    "question_id": 89234547,
+                    "question_value": "What is the square of 16?",
+                    "options": [
+                        "246",
+                        "256",
+                        "266",
+                        "276"
+                    ],
+                    "answer_value": "256"
+                },
+                {
+                    "question_id": 38719642,
+                    "question_value": "If you have 10 apples and give 4 to a friend, how many apples do you have left?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 432733381,
+                    "question_value": "If a book costs $15 and you have $50, how much money will you have left after buying the book?",
+                    "options": [
+                        "30",
+                        "35",
+                        "40",
+                        "25"
+                    ],
+                    "answer_value": "35"
+                },
+                {
+                    "question_id": 923865347,
+                    "question_value": "What is the square of 6?",
+                    "options": [
+                        "30",
+                        "36",
+                        "42",
+                        "48"
+                    ],
+                    "answer_value": "36"
+                },
+                {
+                    "question_id": 2389947,
+                    "question_value": "If a box contains 24 chocolates and you eat 7, how many chocolates are left?",
+                    "options": [
+                        "15",
+                        "16",
+                        "17",
+                        "18"
+                    ],
+                    "answer_value": "17"
+                },
+                {
+                    "question_id": 987345234,
+                    "question_value": "What is 13 squared?",
+                    "options": [
+                        "159",
+                        "169",
+                        "179",
+                        "189"
+                    ],
+                    "answer_value": "169"
+                },
+                {
+                    "question_id": 37813455324,
+                    "question_value": "What is the square of 17?",
+                    "options": [
+                        "287",
+                        "289",
+                        "291",
+                        "293"
+                    ],
+                    "answer_value": "289"
+                }
+            ]
+        }
+    ]
+}

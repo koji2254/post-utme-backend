@@ -1,0 +1,180 @@
+{
+    "exam_id": 7666143224,
+    "questions": [
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 1028374645559,
+                    "question_value": "Calculate \\( \\frac{2434_6}{426_6} \\)",
+                    "options": [
+                        "\\(20_{6}\\)",
+                        "\\(25_{6}\\)",
+                        "\\(30_{6}\\)",
+                        "\\(35_{6}\\)"
+                    ],
+                    "answer_value": "\\(30_{6}\\)"
+                },
+                {
+                    "question_id": 349187652,
+                    "question_value": "If you read 3 books a week, how many books will you read in 4 weeks?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "answer_value": "12"
+                },
+                {
+                    "question_id": 481345239,
+                    "question_value": "If a train travels 50 km\/h and travels for 3 hours, how far does it go?",
+                    "options": [
+                        "100 km",
+                        "150 km",
+                        "200 km",
+                        "250 km"
+                    ],
+                    "answer_value": "150 km"
+                },
+                {
+                    "question_id": 98328742373,
+                    "question_value": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+                    "options": [
+                        "25",
+                        "19",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 823453947,
+                    "question_value": "What is the square of 10?",
+                    "options": [
+                        "80",
+                        "90",
+                        "100",
+                        "110"
+                    ],
+                    "answer_value": "100"
+                },
+                {
+                    "question_id": 2342932030303,
+                    "question_value": "Simplify \\( \\frac{1}{3 - \\sqrt{2}} \\) in the form of \\( p + q\\sqrt{2} \\)",
+                    "options": [
+                        "\\( \\frac{3 + \\sqrt{2}}{7}\\)",
+                        "\\( \\frac{3 - \\sqrt{2}}{7}\\)",
+                        "\\( \\frac{3}{7} + \\frac{\\sqrt{2}}{7}\\)",
+                        "\\( \\frac{3}{7} - \\frac{\\sqrt{2}}{7}\\)"
+                    ],
+                    "answer_value": "\\( \\frac{3}{7} + \\frac{\\sqrt{2}}{7}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 12303930300392,
+                    "question_value": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gifts(g), savings(s) and some miscellaneous (m) as indicated in the table below:\n F-28% ,R-15% ,c-20% ,G-14% ,S-10% ,M-13% .\nIf the information on the table is represented on a pie chart, what angle represents his spending on food?",
+                    "options": [
+                        "28\u00b0",
+                        "72\u00b0",
+                        "100.8\u00b0",
+                        "126\u00b0"
+                    ],
+                    "answer_value": "100.8\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030304,
+                    "question_value": "Find the length of a chord 3 cm from the center of a circle of radius 5 cm.",
+                    "options": [
+                        "4 cm",
+                        "6 cm",
+                        "8 cm",
+                        "10 cm"
+                    ],
+                    "answer_value": "8 cm",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 34787821,
+                    "question_value": "What is the square of 8?",
+                    "options": [
+                        "56",
+                        "60",
+                        "64",
+                        "68"
+                    ],
+                    "answer_value": "64"
+                },
+                {
+                    "question_id": 102837324664,
+                    "question_value": "Calculate \\( \\frac{3412_9}{112_9} \\)",
+                    "options": [
+                        "\\(31_{9}\\)",
+                        "\\(33_{9}\\)",
+                        "\\(35_{9}\\)",
+                        "\\(37_{9}\\)"
+                    ],
+                    "answer_value": "\\(31_{9}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 238434572,
+                    "question_value": "If a baker bakes 5 batches of cookies with 8 cookies in each batch, how many cookies are there in total?",
+                    "options": [
+                        "30",
+                        "35",
+                        "40",
+                        "45"
+                    ],
+                    "answer_value": "40"
+                },
+                {
+                    "question_id": 9300928883,
+                    "question_value": "If log 10 to base 8 = X, evaluate log 5 to base 8 in terms of X.",
+                    "options": [
+                        "25",
+                        "\\( \\frac{1}{2X}\\)",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 23845391,
+                    "question_value": "What is the square of 3?",
+                    "options": [
+                        "6",
+                        "9",
+                        "12",
+                        "15"
+                    ],
+                    "answer_value": "9"
+                },
+                {
+                    "question_id": 10284234669,
+                    "question_value": "Evaluate \\( (323)_6^2 \\)",
+                    "options": [
+                        "1333",
+                        "1113",
+                        "1223",
+                        "1123"
+                    ],
+                    "answer_value": "1333",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 324566543332,
+                    "question_value": "Differentiate (cos\u03b8 + sin\u03b8)^2 with respect to \u03b8.",
+                    "options": [
+                        "2cos2\u03b8",
+                        "2sin2\u03b8",
+                        "-2cos2\u03b8",
+                        "-2sin2\u03b8"
+                    ],
+                    "answer_value": "2cos2\u03b8"
+                }
+            ]
+        }
+    ]
+}

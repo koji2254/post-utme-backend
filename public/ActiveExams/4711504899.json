@@ -1,0 +1,65 @@
+{
+    "exam_id": 4711504899,
+    "questions": [
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 32132098,
+                    "question_value": "What is the formula for calculating work done?",
+                    "options": [
+                        "W = Fd",
+                        "W = F\/a",
+                        "W = mv^2",
+                        "W = pt"
+                    ],
+                    "answer_value": "W = Fd"
+                },
+                {
+                    "question_id": 1234545646,
+                    "question_value": "What is the formula for Ohm's Law?",
+                    "options": [
+                        "V = IR",
+                        "I = VR",
+                        "R = VI",
+                        "V = RI"
+                    ],
+                    "answer_value": "V = IR"
+                },
+                {
+                    "question_id": 8765223543,
+                    "question_value": "What is the SI unit of force?",
+                    "options": [
+                        "Newton",
+                        "Joule",
+                        "Watt",
+                        "Volt"
+                    ],
+                    "answer_value": "Newton"
+                },
+                {
+                    "question_id": 654327431,
+                    "question_value": "What is the formula for calculating density?",
+                    "options": [
+                        "D = m\/a",
+                        "D = mv",
+                        "D = m\/v",
+                        "D = v\/m"
+                    ],
+                    "answer_value": "D = m\/v"
+                },
+                {
+                    "question_id": 215344365,
+                    "question_value": "What is the formula for Newton's second law of motion?",
+                    "options": [
+                        "F = ma",
+                        "F = m\/v",
+                        "F = a\/t",
+                        "F = p\/t"
+                    ],
+                    "answer_value": "F = ma"
+                }
+            ]
+        }
+    ]
+}

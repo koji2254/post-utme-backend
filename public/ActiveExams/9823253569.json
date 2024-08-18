@@ -1,0 +1,54 @@
+{
+    "exam_id": 9823253569,
+    "questions": [
+        {
+            "subject": "ENGLISH LANGUAGE",
+            "questions": [
+                {
+                    "question_id": 342781,
+                    "question_value": "Which word is a homophone for 'to'?",
+                    "options": [
+                        "Too",
+                        "Two",
+                        "Toe",
+                        "Both A and B"
+                    ],
+                    "answer_value": "Both A and B"
+                },
+                {
+                    "question_id": 982247231,
+                    "question_value": "Which sentence is in the future tense?",
+                    "options": [
+                        "She is going to school.",
+                        "She went to school.",
+                        "She will go to school.",
+                        "She goes to school."
+                    ],
+                    "answer_value": "She will go to school."
+                },
+                {
+                    "question_id": 3767654829,
+                    "question_value": "Which word is a homophone for 'flower'?",
+                    "options": [
+                        "Flour",
+                        "Flow",
+                        "Flaw",
+                        "Floor"
+                    ],
+                    "answer_value": "Flour"
+                },
+                {
+                    "question_id": 44231444656,
+                    "question_value": "What is the opposite of 'fast'?",
+                    "options": [
+                        "Quick",
+                        "Speed",
+                        "Slow",
+                        "Run"
+                    ],
+                    "answer_value": "Slow"
+                }
+            ]
+        }
+    ]
+}

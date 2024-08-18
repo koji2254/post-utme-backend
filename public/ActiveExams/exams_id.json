@@ -1,0 +1,147 @@
+[
+  {   
+    "exams_id": "8935335151",
+    "questions":{
+      "MATHEMATICS": [
+         {
+            "id": 238491,
+            "question_value":"What is the square of 3?",
+            "options":[
+               "6",
+               "9",
+               "12",
+               "15"
+            ],
+            "answer_value":"9"
+         },
+         {
+            "id": 547812,
+            "question_value":"If a rectangle has a length of 5 and a width of 3, what is its area?",
+            "options":[
+               "8",
+               "15",
+               "10",
+               "18"
+            ],
+            "answer_value":"15"
+         },
+         {
+            "id": 781234,
+            "question_value":"What is 4 squared?",
+            "options":[
+               "8",
+               "12",
+               "16",
+               "20"
+            ],
+            "answer_value":"16"
+         },
+         {
+            "id": 182349,
+            "question_value":"A triangle has a base of 6 and a height of 3. What is its area?",
+            "options":[
+               "9",
+               "12",
+               "18",
+               "20"
+            ],
+            "answer_value":"9"
+         }
+      ],
+      "ENGLISH": [
+         
+         {
+            "id": 654123,
+            "question_value":"Which word is a conjunction?",
+            "options":[
+               "Because",
+               "Run",
+               "Quickly",
+               "Blue"
+            ],
+            "answer_value":"Because"
+         },
+         {
+            "id": 342781,
+            "question_value":"Which word is a homophone for 'to'?",
+            "options":[
+               "Too",
+               "Two",
+               "Toe",
+               "Both A and B"
+            ],
+            "answer_value":"Both A and B"
+         },
+         {
+            "id": 123978,
+            "question_value":"Which sentence is grammatically correct?",
+            "options":[
+               "She don't like apples.",
+               "She doesn't like apples.",
+               "She do not like apples.",
+               "She does not likes apples."
+            ],
+            "answer_value":"She doesn't like apples."
+         }
+      ],
+      "PHYSICS": [
+         {
+            "id": 876543,
+            "question_value": "What is the SI unit of force?",
+            "options": ["Newton", "Joule", "Watt", "Volt"],
+            "answer_value": "Newton"
+         },
+         {
+            "id": 543210,
+            "question_value": "What is the formula for calculating speed?",
+            "options": ["s = vt", "s = v/t", "s = t/v", "s = v^2"],
+            "answer_value": "s = v/t"
+         },
+         {
+            "id": 987654,
+            "question_value": "What is the acceleration due to gravity on Earth?",
+            "options": ["9.8 m/s^2", "6.67 x 10^-11 Nm^2/kg^2", "3 x 10^8 m/s", "3 x 10^5 km/s"],
+            "answer_value": "9.8 m/s^2"
+         },
+         {
+            "id": 321098,
+            "question_value": "What is the formula for calculating work done?",
+            "options": ["W = Fd", "W = F/a", "W = mv^2", "W = pt"],
+            "answer_value": "W = Fd"
+         }
+      ],
+      "CHEMISTRY":[
+         {
+            "id": 234567,
+            "question_value": "What is the formula for sulfuric acid?",
+            "options": ["H2O", "H2SO4", "HCl", "NaOH"],
+            "answer_value": "H2SO4"
+         },
+         {
+            "id": 678901,
+            "question_value": "What is the chemical symbol for sodium?",
+            "options": ["So", "Na", "Sn", "Si"],
+            "answer_value": "Na"
+         },
+         {
+            "id": 345678,
+            "question_value": "What is the process of vapor changing into liquid called?",
+            "options": ["Condensation", "Evaporation", "Sublimation", "Melting"],
+            "answer_value": "Condensation"
+         },
+         {
+            "id": 901234,
+            "question_value": "Which of the following is a halogen?",
+            "options": ["Sodium", "Chlorine", "Calcium", "Magnesium"],
+            "answer_value": "Chlorine"
+         },
+         {
+            "id": 567890,
+            "question_value": "What is the chemical formula for ammonia?",
+            "options": ["NH3", "N2O", "NO2", "NO3"],
+            "answer_value": "NH3"
+         }
+      ]
+    }
+  }
+]

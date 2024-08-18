@@ -1,0 +1,493 @@
+
+{
+   "subject": "CHEMISTRY",
+   "questions": [
+      {
+         "question_id": 456123,
+         "question_value": "What is the atomic number of carbon?",
+         "options": ["5", "10", "15", "6"],
+         "answer_value": "6"
+      },
+      {
+         "question_id": 34544232,
+         "question_value": "What is the chemical symbol for gold?",
+         "options": ["Au", "Ag", "Fe", "Cu"],
+         "answer_value": "Au"
+      },
+      {
+         "question_id": 3456004278,
+         "question_value": "What is the formula for water?",
+         "options": ["H2O2", "CO2", "H2O", "CH4"],
+         "answer_value": "H2O"
+      },
+      {
+         "question_id": 90123409,
+         "question_value": "What is the pH value of a neutral solution?",
+         "options": ["7", "0", "14", "1"],
+         "answer_value": "7"
+      },
+      {
+         "question_id": 4905567890,
+         "question_value": "What is the lightest element?",
+         "options": ["Oxygen", "Hydrogen", "Helium", "Carbon"],
+         "answer_value": "Hydrogen"
+      },
+      {
+         "question_id": 11234023456,
+         "question_value": "What is the chemical formula for table salt?",
+         "options": ["NaCl", "HCl", "KCl", "CaCl2"],
+         "answer_value": "NaCl"
+      },
+      {
+         "question_id": 94092839384,
+         "question_value": "What is the process of converting a liquid into vapor called?",
+         "options": ["Condensation", "Evaporation", "Sublimation", "Melting"],
+         "answer_value": "Evaporation"
+      },
+      {
+         "question_id": 2340909567,
+         "question_value": "What is the chemical symbol for iron?",
+         "options": ["Ir", "Fe", "Fr", "In"],
+         "answer_value": "Fe"
+      },
+      {
+         "question_id": 322890123,
+         "question_value": "What is the SI unit of temperature?",
+         "options": ["Celsius", "Kelvin", "Fahrenheit", "Rankine"],
+         "answer_value": "Kelvin"
+      },
+      {
+         "question_id": 324924203,
+         "question_value": "What is the process of solid changing directly into vapor called?",
+         "options": ["Condensation", "Evaporation", "Sublimation", "Melting"],
+         "answer_value": "Sublimation"
+      },
+      {
+         "question_id": 12901234,
+         "question_value": "Which of the following is a noble gas?",
+         "options": ["Oxygen", "Neon", "Fluorine", "Chlorine"],
+         "answer_value": "Neon"
+      },
+      {
+         "question_id": 12567890,
+         "question_value": "What is the chemical formula for hydrogen peroxide?",
+         "options": ["H2O", "H2SO4", "H2O2", "HCl"],
+         "answer_value": "H2O2"
+      },
+      {
+         "question_id": 12123456,
+         "question_value": "What is the process of liquid changing into solid called?",
+         "options": ["Condensation", "Evaporation", "Sublimation", "Freezing"],
+         "answer_value": "Freezing"
+      },
+      {
+         "question_id": 890123,
+         "question_value": "What is the chemical symbol for silver?",
+         "options": ["Si", "Ag", "Au", "Al"],
+         "answer_value": "Ag"
+      },
+      {
+         "question_id": 2345637111,
+         "question_value": "What is the formula for sulfuric acid?",
+         "options": ["H2O", "H2SO4", "HCl", "NaOH"],
+         "answer_value": "H2SO4"
+      },
+      {
+         "question_id": 67832901,
+         "question_value": "What is the chemical symbol for sodium?",
+         "options": ["So", "Na", "Sn", "Si"],
+         "answer_value": "Na"
+      },
+      {
+         "question_id": 9420429,
+         "question_value": "What is the process of vapor changing into liquid called?",
+         "options": ["Condensation", "Evaporation", "Sublimation", "Melting"],
+         "answer_value": "Condensation"
+      },
+      {
+         "question_id": 5901234,
+         "question_value": "Which of the following is a halogen?",
+         "options": ["Sodium", "Chlorine", "Calcium", "Magnesium"],
+         "answer_value": "Chlorine"
+      },
+      {
+         "question_id": 13567890,
+         "question_value": "What is the chemical formula for ammonia?",
+         "options": ["NH3", "N2O", "NO2", "NO3"],
+         "answer_value": "NH3"
+      },
+      {
+         "question_id": 11223456,
+         "question_value": "What is the SI unit of pressure?",
+         "options": ["Newton", "Pascal", "Joule", "Watt"],
+         "answer_value": "Pascal"
+      },
+      {
+         "question_id": 78909831012,
+         "question_value": "What is the process of solid changing into liquid called?",
+         "options": ["Condensation", "Evaporation", "Melting", "Sublimation"],
+         "answer_value": "Melting"
+      },
+      {
+         "question_id": 90039283,
+         "question_value": "What is the chemical symbol for potassium?",
+         "options": ["Pt", "Po", "Pb", "K"],
+         "answer_value": "K"
+      },
+      {
+         "question_id": 89012233,
+         "question_value": "What is the formula for methane?",
+         "options": ["CH4", "CO2", "NH3", "H2O"],
+         "answer_value": "CH4"
+      },
+      {
+         "question_id": 345435322,
+         "question_value": "What is the chemical symbol for carbon dioxide?",
+         "options": ["CO2", "CO", "CH4", "C"],
+         "answer_value": "CO2"
+      },
+      {
+         "question_id": 901032234,
+         "question_value": "Which of the following is an alkali metal?",
+         "options": ["Lithium", "Calcium", "Sulfur", "Nitrogen"],
+         "answer_value": "Lithium"
+      },
+      {
+         "question_id": 56784290,
+         "question_value": "What is the chemical formula for carbon monoxide?",
+         "options": ["CO2", "CO", "CH4", "C"],
+         "answer_value": "CO"
+      },
+      {
+         "question_id": 201456789,
+         "question_value": "How many moles of oxygen gas (O₂) are required to completely react with 3 moles of hydrogen gas (H₂) in the formation of water (H₂O)?",
+         "options": [
+             "1.5 moles",
+             "3 moles",
+             "6 moles",
+             "9 moles"
+         ],
+         "answer_value": "1.5 moles"
+      },
+      {
+            "question_id": 201456790,
+            "question_value": "What is the mass of 0.25 moles of sulfuric acid (H₂SO₄)? (Molar mass of H₂SO₄ = 98 g/mol)",
+            "options": [
+               "24.5 g",
+               "49 g",
+               "19.6 g",
+               "9.8 g"
+            ],
+            "answer_value": "24.5 g"
+      },
+      {
+            "question_id": 201456791,
+            "question_value": "How many atoms are there in 2 moles of carbon dioxide (CO₂)? (Avogadro's number = 6.022 × 10²³)",
+            "options": [
+               "6.022 × 10²³ atoms",
+               "1.2044 × 10²⁴ atoms",
+               "3.6132 × 10²⁴ atoms",
+               "2.4088 × 10²⁴ atoms"
+            ],
+            "answer_value": "2.4088 × 10²⁴ atoms"
+      },
+      {
+            "question_id": 201456792,
+            "question_value": "Given the reaction: 2 Al + 3 Cl₂ → 2 AlCl₃, how many grams of aluminum chloride (AlCl₃) can be produced from 54 grams of aluminum (Al)? (Molar mass of Al = 27 g/mol, AlCl₃ = 133.5 g/mol)",
+            "options": [
+               "267 g",
+               "133.5 g",
+               "178 g",
+               "54 g"
+            ],
+            "answer_value": "267 g"
+      },
+      {
+            "question_id": 201456793,
+            "question_value": "In the combustion of propane (C₃H₈), how many moles of carbon dioxide (CO₂) are produced from the complete combustion of 2 moles of propane? (Reaction: C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O)",
+            "options": [
+               "3 moles",
+               "6 moles",
+               "9 moles",
+               "12 moles"
+            ],
+            "answer_value": "6 moles"
+      },
+      {
+            "question_id": 201456794,
+            "question_value": "What is the empirical formula of a compound that contains 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass?",
+            "options": [
+               "CH₂O",
+               "C₂H₄O₂",
+               "C₃H₆O₃",
+               "CH₃O"
+            ],
+            "answer_value": "CH₂O"
+      },
+      {
+            "question_id": 201456795,
+            "question_value": "How many grams of potassium permanganate (KMnO₄) are needed to prepare 250 mL of a 0.1 M solution? (Molar mass of KMnO₄ = 158 g/mol)",
+            "options": [
+               "3.95 g",
+               "1.58 g",
+               "15.8 g",
+               "0.395 g"
+            ],
+            "answer_value": "3.95 g"
+      },
+      {
+            "question_id": 201456796,
+            "question_value": "What volume of 0.5 M hydrochloric acid (HCl) solution is required to completely neutralize 25 mL of 1 M sodium hydroxide (NaOH) solution?",
+            "options": [
+               "50 mL",
+               "25 mL",
+               "12.5 mL",
+               "75 mL"
+            ],
+            "answer_value": "50 mL"
+      },
+      {
+            "question_id": 201456797,
+            "question_value": "For the reaction: N₂ + 3 H₂ → 2 NH₃, how many liters of hydrogen gas (H₂) at STP are required to produce 22.4 liters of ammonia (NH₃)?",
+            "options": [
+               "22.4 L",
+               "33.6 L",
+               "67.2 L",
+               "11.2 L"
+            ],
+            "answer_value": "33.6 L"
+      },
+      {
+            "question_id": 201456798,
+            "question_value": "Calculate the number of moles in 20 grams of glucose (C₆H₁₂O₆). (Molar mass of C₆H₁₂O₆ = 180 g/mol)",
+            "options": [
+               "0.111 moles",
+               "0.222 moles",
+               "0.333 moles",
+               "0.444 moles"
+            ],
+            "answer_value": "0.111 moles"
+      },
+      {
+            "question_id": 201456799,
+            "question_value": "What is the percent composition of oxygen in sulfuric acid (H₂SO₄)? (Molar mass of H₂SO₄ = 98 g/mol)",
+            "options": [
+               "32.7%",
+               "65.3%",
+               "45.9%",
+               "50%"
+            ],
+            "answer_value": "65.3%"
+      },
+      {
+            "question_id": 201456800,
+            "question_value": "In the reaction: 4 Fe + 3 O₂ → 2 Fe₂O₃, how many grams of iron(III) oxide (Fe₂O₃) are produced from 112 grams of iron (Fe)? (Molar mass of Fe = 56 g/mol, Fe₂O₃ = 160 g/mol)",
+            "options": [
+               "160 g",
+               "320 g",
+               "80 g",
+               "240 g"
+            ],
+            "answer_value": "160 g"
+      },
+      {
+            "question_id": 201456801,
+            "question_value": "How many moles of barium sulfate (BaSO₄) are formed when 1 mole of barium chloride (BaCl₂) reacts with 1 mole of sulfuric acid (H₂SO₄)?",
+            "options": [
+               "0.5 moles",
+               "1 mole",
+               "1.5 moles",
+               "2 moles"
+            ],
+            "answer_value": "1 mole"
+      },
+      {
+            "question_id": 201456802,
+            "question_value": "Determine the molar mass of an unknown gas if 4 grams of the gas occupy 2.24 liters at STP.",
+            "options": [
+               "22.4 g/mol",
+               "44.8 g/mol",
+               "28 g/mol",
+               "56 g/mol"
+            ],
+            "answer_value": "44.8 g/mol"
+      },
+      {
+            "question_id": 201456803,
+            "question_value": "What is the limiting reactant when 10 grams of methane (CH₄) reacts with 10 grams of oxygen (O₂) in the combustion reaction: CH₄ + 2 O₂ → CO₂ + 2 H₂O?",
+            "options": [
+               "Methane",
+               "Oxygen",
+               "Carbon dioxide",
+               "Water"
+            ],
+            "answer_value": "Oxygen"
+      },
+      {
+         "question_id": 301456789,
+         "question_value": "Which of the following processes results in an increase in entropy?",
+         "options": [
+             "Freezing of water",
+             "Condensation of steam",
+             "Melting of ice",
+             "Formation of a solid precipitate from a solution"
+         ],
+         "answer_value": "Melting of ice"
+     },
+     {
+         "question_id": 301456790,
+         "question_value": "For a reaction to be spontaneous at all temperatures, what must be true about the signs of ΔH (enthalpy change) and ΔS (entropy change)?",
+         "options": [
+             "ΔH < 0 and ΔS < 0",
+             "ΔH > 0 and ΔS > 0",
+             "ΔH < 0 and ΔS > 0",
+             "ΔH > 0 and ΔS < 0"
+         ],
+         "answer_value": "ΔH < 0 and ΔS > 0"
+     },
+     {
+         "question_id": 301456791,
+         "question_value": "Calculate the Gibbs free energy change (ΔG) at 298 K for a reaction with ΔH = -100 kJ and ΔS = -200 J/K.",
+         "options": [
+             "-40 kJ",
+             "-140 kJ",
+             "40 kJ",
+             "140 kJ"
+         ],
+         "answer_value": "40 kJ"
+     },
+     {
+         "question_id": 301456792,
+         "question_value": "Balance the following redox reaction in acidic solution: MnO₄⁻ + Fe²⁺ → Mn²⁺ + Fe³⁺",
+         "options": [
+             "MnO₄⁻ + 5 Fe²⁺ + 8 H⁺ → Mn²⁺ + 5 Fe³⁺ + 4 H₂O",
+             "MnO₄⁻ + Fe²⁺ + H⁺ → Mn²⁺ + Fe³⁺ + H₂O",
+             "2 MnO₄⁻ + 10 Fe²⁺ + 16 H⁺ → 2 Mn²⁺ + 10 Fe³⁺ + 8 H₂O",
+             "2 MnO₄⁻ + 5 Fe²⁺ + 8 H⁺ → 2 Mn²⁺ + 5 Fe³⁺ + 4 H₂O"
+         ],
+         "answer_value": "MnO₄⁻ + 5 Fe²⁺ + 8 H⁺ → Mn²⁺ + 5 Fe³⁺ + 4 H₂O"
+     },
+     {
+         "question_id": 301456793,
+         "question_value": "During electrolysis of aqueous sodium chloride (NaCl), what products are formed at the anode and cathode, respectively?",
+         "options": [
+             "Hydrogen gas at the anode, chlorine gas at the cathode",
+             "Chlorine gas at the anode, hydrogen gas at the cathode",
+             "Sodium metal at the anode, chlorine gas at the cathode",
+             "Chlorine gas at the anode, oxygen gas at the cathode"
+         ],
+         "answer_value": "Chlorine gas at the anode, hydrogen gas at the cathode"
+     },
+     {
+         "question_id": 301456794,
+         "question_value": "Calculate the standard enthalpy change (ΔH°) for the reaction: N₂(g) + 3 H₂(g) → 2 NH₃(g), given the bond energies: N≡N = 945 kJ/mol, H-H = 436 kJ/mol, N-H = 391 kJ/mol.",
+         "options": [
+             "-92 kJ",
+             "-46 kJ",
+             "-368 kJ",
+             "-184 kJ"
+         ],
+         "answer_value": "-92 kJ"
+     },
+     {
+         "question_id": 301456795,
+         "question_value": "Which of the following reactions is thermodynamically favorable at 25°C? (R = 8.314 J/mol·K)",
+         "options": [
+             "ΔH = -100 kJ, ΔS = -200 J/K",
+             "ΔH = -50 kJ, ΔS = 100 J/K",
+             "ΔH = 100 kJ, ΔS = -300 J/K",
+             "ΔH = 200 kJ, ΔS = 500 J/K"
+         ],
+         "answer_value": "ΔH = -50 kJ, ΔS = 100 J/K"
+     },
+     {
+         "question_id": 301456796,
+         "question_value": "Identify the oxidation and reduction half-reactions for the balanced redox equation: 2 I⁻ + Cl₂ → I₂ + 2 Cl⁻",
+         "options": [
+             "Oxidation: I⁻ → I₂ + 2 e⁻, Reduction: Cl₂ + 2 e⁻ → 2 Cl⁻",
+             "Oxidation: 2 I⁻ → I₂ + 2 e⁻, Reduction: Cl₂ + 2 e⁻ → 2 Cl⁻",
+             "Oxidation: 2 I⁻ → I₂ + 2 e⁻, Reduction: Cl₂ + 2 e⁻ → Cl⁻",
+             "Oxidation: I⁻ → I₂ + e⁻, Reduction: Cl₂ + 2 e⁻ → Cl⁻"
+         ],
+         "answer_value": "Oxidation: 2 I⁻ → I₂ + 2 e⁻, Reduction: Cl₂ + 2 e⁻ → 2 Cl⁻"
+     },
+     {
+         "question_id": 301456797,
+         "question_value": "What is the equilibrium constant (K) at 298 K for a reaction with ΔG° = -40 kJ/mol? (R = 8.314 J/mol·K)",
+         "options": [
+             "1.29 × 10⁶",
+             "2.18 × 10⁷",
+             "3.14 × 10⁸",
+             "5.26 × 10⁹"
+         ],
+         "answer_value": "1.29 × 10⁶"
+     },
+     {
+         "question_id": 301456798,
+         "question_value": "For the reaction: 2 H₂O₂ → 2 H₂O + O₂, what is the change in entropy (ΔS) given that the standard entropy (S°) values are H₂O₂ = 109 J/mol·K, H₂O = 70 J/mol·K, and O₂ = 205 J/mol·K?",
+         "options": [
+             "198 J/mol·K",
+             "126 J/mol·K",
+             "84 J/mol·K",
+             "35 J/mol·K"
+         ],
+         "answer_value": "126 J/mol·K"
+     },
+     {
+         "question_id": 301456799,
+         "question_value": "In the electrolysis of molten sodium chloride (NaCl), what products are formed at the anode and cathode, respectively?",
+         "options": [
+             "Sodium metal at the anode, chlorine gas at the cathode",
+             "Chlorine gas at the anode, sodium metal at the cathode",
+             "Hydrogen gas at the anode, chlorine gas at the cathode",
+             "Chlorine gas at the anode, hydrogen gas at the cathode"
+         ],
+         "answer_value": "Chlorine gas at the anode, sodium metal at the cathode"
+     },
+     {
+         "question_id": 301456800,
+         "question_value": "Calculate the standard Gibbs free energy change (ΔG°) for the reaction: N₂(g) + 3 H₂(g) → 2 NH₃(g), given ΔH° = -92 kJ and ΔS° = -198 J/K.",
+         "options": [
+             "-33.1 kJ",
+             "-59.6 kJ",
+             "-69.6 kJ",
+             "-23.1 kJ"
+         ],
+         "answer_value": "-33.1 kJ"
+     },
+     {
+         "question_id": 301456801,
+         "question_value": "Balance the following redox reaction in basic solution: Cr(OH)₄⁻ + ClO⁻ → CrO₄²⁻ + Cl⁻",
+         "options": [
+             "Cr(OH)₄⁻ + ClO⁻ → CrO₄²⁻ + Cl⁻ + 2 H₂O",
+             "2 Cr(OH)₄⁻ + ClO⁻ → 2 CrO₄²⁻ + Cl⁻ + H₂O",
+             "2 Cr(OH)₄⁻ + ClO⁻ + H₂O → 2 CrO₄²⁻ + Cl⁻ + 4 H₂O",
+             "Cr(OH)₄⁻ + 2 ClO⁻ → CrO₄²⁻ + 2 Cl⁻ + H₂O"
+         ],
+         "answer_value": "2 Cr(OH)₄⁻ + ClO⁻ + H₂O → 2 CrO₄²⁻ + Cl⁻ + 4 H₂O"
+     },
+     {
+         "question_id": 301456802,
+         "question_value": "For the reaction: 2 CO(g) + O₂(g) → 2 CO₂(g), what is the enthalpy change (ΔH) if the bond enthalpies are C≡O = 1076 kJ/mol and O=O = 498 kJ/mol, and C=O in CO₂ = 803 kJ/mol?",
+         "options": [
+             "-566 kJ",
+             "-394 kJ",
+             "-168 kJ",
+             "-226 kJ"
+         ],
+         "answer_value": "-566 kJ"
+     },
+     {
+         "question_id": 301456803,
+         "question_value": "In an electrolytic cell, which of the following statements is true?",
+         "options": [
+             "Electrons flow from the anode to the cathode.",
+             "Electrons flow from the cathode to the anode.",
+             "Anions migrate to the anode.",
+             "Cations migrate to the cathode."
+         ],
+         "answer_value": "Electrons flow from the anode to the cathode."
+     }
+   ]
+}
+

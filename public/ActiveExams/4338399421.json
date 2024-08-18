@@ -1,0 +1,112 @@
+{
+    "exam_id": 4338399421,
+    "questions": [
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 174963328,
+                    "question_value": "If you have 4 boxes with 6 apples each, how many apples do you have in total?",
+                    "options": [
+                        "20",
+                        "22",
+                        "24",
+                        "26"
+                    ],
+                    "answer_value": "24"
+                },
+                {
+                    "question_id": 912424347,
+                    "question_value": "If you buy 2 notebooks for $3 each and 2 pens for $1 each, how much do you spend in total?",
+                    "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+                    "answer_value": "8"
+                },
+                {
+                    "question_id": 324566543332,
+                    "question_value": "Differentiate (cos\u03b8 + sin\u03b8)^2 with respect to \u03b8.",
+                    "options": [
+                        "2cos2\u03b8",
+                        "2sin2\u03b8",
+                        "-2cos2\u03b8",
+                        "-2sin2\u03b8"
+                    ],
+                    "answer_value": "2cos2\u03b8"
+                },
+                {
+                    "question_id": 384734519,
+                    "question_value": "If you have 18 candies and you give 5 to a friend, how many candies do you have left?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "answer_value": "13"
+                },
+                {
+                    "question_id": 38719642,
+                    "question_value": "If you have 10 apples and give 4 to a friend, how many apples do you have left?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 98328742373,
+                    "question_value": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+                    "options": [
+                        "25",
+                        "19",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 102833003667,
+                    "question_value": "Evaluate \\( (2021)_3^2 \\)",
+                    "options": [
+                        "21010",
+                        "21101",
+                        "20021",
+                        "20100"
+                    ],
+                    "answer_value": "21101",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030306,
+                    "question_value": "A rectangular pyramid has an area of 24 cm\u00b2 and a height of 7.5 cm. Calculate the volume of the pyramid.",
+                    "options": [
+                        "45 cm\u00b3",
+                        "54 cm\u00b3",
+                        "60 cm\u00b3",
+                        "72 cm\u00b3"
+                    ],
+                    "answer_value": "60 cm\u00b3",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102837314661,
+                    "question_value": "Evaluate \\( (1101)_2^4 \\)",
+                    "options": [
+                        "11010",
+                        "10111",
+                        "10011",
+                        "11110"
+                    ],
+                    "answer_value": "11110",
+                    "image_url": ""
+                }
+            ]
+        }
+    ]
+}

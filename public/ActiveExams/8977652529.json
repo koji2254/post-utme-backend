@@ -1,0 +1,180 @@
+{
+    "exam_id": 8977652529,
+    "questions": [
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 19276834,
+                    "question_value": "If a garden has 4 rows of flowers with 5 flowers in each row, how many flowers are there in total?",
+                    "options": [
+                        "18",
+                        "20",
+                        "22",
+                        "24"
+                    ],
+                    "answer_value": "20"
+                },
+                {
+                    "question_id": 102835374662,
+                    "question_value": "Calculate \\( \\frac{1512_5}{32_5} \\)",
+                    "options": [
+                        "\\(42_{5}\\)",
+                        "\\(50_{5}\\)",
+                        "\\(54_{5}\\)",
+                        "\\(60_{5}\\)"
+                    ],
+                    "answer_value": "\\(42_{5}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 384734519,
+                    "question_value": "If you have 18 candies and you give 5 to a friend, how many candies do you have left?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "answer_value": "13"
+                },
+                {
+                    "question_id": 12303930300392,
+                    "question_value": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gifts(g), savings(s) and some miscellaneous (m) as indicated in the table below:\n F-28% ,R-15% ,c-20% ,G-14% ,S-10% ,M-13% .\nIf the information on the table is represented on a pie chart, what angle represents his spending on food?",
+                    "options": [
+                        "28\u00b0",
+                        "72\u00b0",
+                        "100.8\u00b0",
+                        "126\u00b0"
+                    ],
+                    "answer_value": "100.8\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030306,
+                    "question_value": "A rectangular pyramid has an area of 24 cm\u00b2 and a height of 7.5 cm. Calculate the volume of the pyramid.",
+                    "options": [
+                        "45 cm\u00b3",
+                        "54 cm\u00b3",
+                        "60 cm\u00b3",
+                        "72 cm\u00b3"
+                    ],
+                    "answer_value": "60 cm\u00b3",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 432733381,
+                    "question_value": "If a book costs $15 and you have $50, how much money will you have left after buying the book?",
+                    "options": [
+                        "30",
+                        "35",
+                        "40",
+                        "25"
+                    ],
+                    "answer_value": "35"
+                },
+                {
+                    "question_id": 481345239,
+                    "question_value": "If a train travels 50 km\/h and travels for 3 hours, how far does it go?",
+                    "options": [
+                        "100 km",
+                        "150 km",
+                        "200 km",
+                        "250 km"
+                    ],
+                    "answer_value": "150 km"
+                },
+                {
+                    "question_id": 10283654668,
+                    "question_value": "Calculate \\( \\frac{4343_5}{122_5} \\)",
+                    "options": [
+                        "\\(2_{5} \\)",
+                        "\\(4_{5} \\)",
+                        "\\(6_{5} \\)",
+                        "\\(8_{5} \\)"
+                    ],
+                    "answer_value": "\\(34_{5}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 823453947,
+                    "question_value": "What is the square of 10?",
+                    "options": [
+                        "80",
+                        "90",
+                        "100",
+                        "110"
+                    ],
+                    "answer_value": "100"
+                },
+                {
+                    "question_id": 1028374645559,
+                    "question_value": "Calculate \\( \\frac{2434_6}{426_6} \\)",
+                    "options": [
+                        "\\(20_{6}\\)",
+                        "\\(25_{6}\\)",
+                        "\\(30_{6}\\)",
+                        "\\(35_{6}\\)"
+                    ],
+                    "answer_value": "\\(30_{6}\\)"
+                },
+                {
+                    "question_id": 812345647,
+                    "question_value": "What is the square of 11?",
+                    "options": [
+                        "110",
+                        "121",
+                        "132",
+                        "143"
+                    ],
+                    "answer_value": "121"
+                },
+                {
+                    "question_id": 47885239,
+                    "question_value": "If a car travels at 60 km\/h for 2 hours, how far does it travel?",
+                    "options": [
+                        "60 km",
+                        "100 km",
+                        "120 km",
+                        "150 km"
+                    ],
+                    "answer_value": "120 km"
+                },
+                {
+                    "question_id": 23845391,
+                    "question_value": "What is the square of 3?",
+                    "options": [
+                        "6",
+                        "9",
+                        "12",
+                        "15"
+                    ],
+                    "answer_value": "9"
+                },
+                {
+                    "question_id": 102833003667,
+                    "question_value": "Evaluate \\( (2021)_3^2 \\)",
+                    "options": [
+                        "21010",
+                        "21101",
+                        "20021",
+                        "20100"
+                    ],
+                    "answer_value": "21101",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 947233683,
+                    "question_value": "What is the square of 5?",
+                    "options": [
+                        "15",
+                        "20",
+                        "25",
+                        "30"
+                    ],
+                    "answer_value": "25"
+                }
+            ]
+        }
+    ]
+}

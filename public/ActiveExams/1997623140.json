@@ -1,0 +1,65 @@
+{
+    "exam_id": 1997623140,
+    "questions": [
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 654321,
+                    "question_value": "What is the formula for calculating density?",
+                    "options": [
+                        "D = m\/a",
+                        "D = mv",
+                        "D = m\/v",
+                        "D = v\/m"
+                    ],
+                    "answer_value": "D = m\/v"
+                },
+                {
+                    "question_id": 123456,
+                    "question_value": "What is the formula for Ohm's Law?",
+                    "options": [
+                        "V = IR",
+                        "I = VR",
+                        "R = VI",
+                        "V = RI"
+                    ],
+                    "answer_value": "V = IR"
+                },
+                {
+                    "question_id": 876543,
+                    "question_value": "What is the unit of measurement for voltage?",
+                    "options": [
+                        "Volt",
+                        "Ampere",
+                        "Ohm",
+                        "Watt"
+                    ],
+                    "answer_value": "Volt"
+                },
+                {
+                    "question_id": 234567,
+                    "question_value": "What is the unit of electric current?",
+                    "options": [
+                        "Ampere",
+                        "Volt",
+                        "Ohm",
+                        "Watt"
+                    ],
+                    "answer_value": "Ampere"
+                },
+                {
+                    "question_id": 678912,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Kelvin",
+                        "Celsius",
+                        "Fahrenheit",
+                        "Joule"
+                    ],
+                    "answer_value": "Kelvin"
+                }
+            ]
+        }
+    ]
+}

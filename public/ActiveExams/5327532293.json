@@ -1,0 +1,22 @@
+{
+    "exam_id": 5327532293,
+    "questions": [
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 239202932030327,
+                    "question_value": "A string fixed at both ends vibrates at its fundamental frequency of 50 Hz. If the length of the string is 1.5 m and the speed of the wave on the string is 300 m\/s, calculate the wavelength of the wave.",
+                    "options": [
+                        "1 m",
+                        "2 m",
+                        "3 m",
+                        "4 m"
+                    ],
+                    "answer_value": "3 m",
+                    "image_url": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "exam_id": 9032367286,
+    "questions": [
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 238743446,
+                    "question_value": "What is 7 squared?",
+                    "options": [
+                        "47",
+                        "49",
+                        "51",
+                        "53"
+                    ],
+                    "answer_value": "49"
+                },
+                {
+                    "question_id": 133028374665,
+                    "question_value": "Evaluate \\( (1220)_3^3 \\)",
+                    "options": [
+                        "12100",
+                        "11200",
+                        "10100",
+                        "11000"
+                    ],
+                    "answer_value": "10100",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 38719642,
+                    "question_value": "If you have 10 apples and give 4 to a friend, how many apples do you have left?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 1028374670,
+                    "question_value": "Given that the mean of 2, 5, \\( (x+1) \\), \\( (x+2) \\), 7, and 9 is 6, find the median.",
+                    "options": [
+                        "5",
+                        "6",
+                        "6.5",
+                        "7"
+                    ],
+                    "answer_value": "6.5",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030306,
+                    "question_value": "A rectangular pyramid has an area of 24 cm\u00b2 and a height of 7.5 cm. Calculate the volume of the pyramid.",
+                    "options": [
+                        "45 cm\u00b3",
+                        "54 cm\u00b3",
+                        "60 cm\u00b3",
+                        "72 cm\u00b3"
+                    ],
+                    "answer_value": "60 cm\u00b3",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102837324664,
+                    "question_value": "Calculate \\( \\frac{3412_9}{112_9} \\)",
+                    "options": [
+                        "\\(31_{9}\\)",
+                        "\\(33_{9}\\)",
+                        "\\(35_{9}\\)",
+                        "\\(37_{9}\\)"
+                    ],
+                    "answer_value": "\\(31_{9}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 10283654668,
+                    "question_value": "Calculate \\( \\frac{4343_5}{122_5} \\)",
+                    "options": [
+                        "\\(2_{5} \\)",
+                        "\\(4_{5} \\)",
+                        "\\(6_{5} \\)",
+                        "\\(8_{5} \\)"
+                    ],
+                    "answer_value": "\\(34_{5}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 10283733424659,
+                    "question_value": "Solve for \\( k \\) in the equation \\( \\left( \\frac{1}{8} \\right)^{k+2} = 1 \\).",
+                    "options": [
+                        "k = 2",
+                        "k = -2",
+                        "k = 0",
+                        "k = 1"
+                    ],
+                    "answer_value": "k = -2"
+                },
+                {
+                    "question_id": 10284234669,
+                    "question_value": "Evaluate \\( (323)_6^2 \\)",
+                    "options": [
+                        "1333",
+                        "1113",
+                        "1223",
+                        "1123"
+                    ],
+                    "answer_value": "1333",
+                    "image_url": ""
+                }
+            ]
+        }
+    ]
+}

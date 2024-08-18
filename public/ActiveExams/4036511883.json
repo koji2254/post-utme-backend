@@ -1,0 +1,66 @@
+{
+    "exam_id": 4036511883,
+    "questions": [
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 10283654668,
+                    "question_value": "Calculate \\( \\frac{4343_5}{122_5} \\)",
+                    "options": [
+                        "\\(2_{5} \\)",
+                        "\\(4_{5} \\)",
+                        "\\(6_{5} \\)",
+                        "\\(8_{5} \\)"
+                    ],
+                    "answer_value": "\\(34_{5}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 324566543332,
+                    "question_value": "Differentiate (cos\u03b8 + sin\u03b8)^2 with respect to \u03b8.",
+                    "options": [
+                        "2cos2\u03b8",
+                        "2sin2\u03b8",
+                        "-2cos2\u03b8",
+                        "-2sin2\u03b8"
+                    ],
+                    "answer_value": "2cos2\u03b8"
+                },
+                {
+                    "question_id": 38719642,
+                    "question_value": "If you have 10 apples and give 4 to a friend, how many apples do you have left?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 37813455324,
+                    "question_value": "What is the square of 17?",
+                    "options": [
+                        "287",
+                        "289",
+                        "291",
+                        "293"
+                    ],
+                    "answer_value": "289"
+                },
+                {
+                    "question_id": 10283733424659,
+                    "question_value": "Solve for \\( k \\) in the equation \\( \\left( \\frac{1}{8} \\right)^{k+2} = 1 \\).",
+                    "options": [
+                        "k = 2",
+                        "k = -2",
+                        "k = 0",
+                        "k = 1"
+                    ],
+                    "answer_value": "k = -2"
+                }
+            ]
+        }
+    ]
+}

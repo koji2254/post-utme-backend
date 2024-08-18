@@ -1,0 +1,923 @@
+{
+    "exam_id": 9250574247,
+    "questions": [
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 215344365,
+                    "question_value": "What is the formula for Newton's second law of motion?",
+                    "options": [
+                        "F = ma",
+                        "F = m\/v",
+                        "F = a\/t",
+                        "F = p\/t"
+                    ],
+                    "answer_value": "F = ma"
+                },
+                {
+                    "question_id": 239388232030343,
+                    "question_value": "A straight wire carries a current of 5 A. Calculate the magnetic field strength at a point 10 cm from the wire, assuming the wire is straight and the magnetic permeability of free space is \\( 4\\pi \\times 10^{-7} \\) Tm\/A.",
+                    "options": [
+                        "2.5 \u00b5T",
+                        "5 \u00b5T",
+                        "10 \u00b5T",
+                        "20 \u00b5T"
+                    ],
+                    "answer_value": "10 \u00b5T",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932034432,
+                    "question_value": "A force of 50 N is applied to a 5 kg mass. Calculate the acceleration produced.",
+                    "options": [
+                        "5 m\/s\u00b2",
+                        "7 m\/s\u00b2",
+                        "8 m\/s\u00b2",
+                        "10 m\/s\u00b2"
+                    ],
+                    "answer_value": "10 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 890455123,
+                    "question_value": "What is the SI unit of power?",
+                    "options": [
+                        "Watt",
+                        "Joule",
+                        "Volt",
+                        "Ampere"
+                    ],
+                    "answer_value": "Watt"
+                },
+                {
+                    "question_id": 2342932093993316,
+                    "question_value": "A machine does 500 J of work in 10 seconds. Calculate the power of the machine.",
+                    "options": [
+                        "40 W",
+                        "50 W",
+                        "60 W",
+                        "70 W"
+                    ],
+                    "answer_value": "50 W",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 28550598884849542,
+                    "question_value": "The graph of pressure (P) against the reciprocal of the volume (I\/V) in Boyles's law is a___?",
+                    "options": [
+                        "straight line",
+                        "curve",
+                        "hyperbola",
+                        "parabola"
+                    ],
+                    "answer_value": "straight line",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 891234,
+                    "question_value": "What is the law of reflection?",
+                    "options": [
+                        "The angle of incidence is equal to the angle of reflection.",
+                        "Light travels in straight lines.",
+                        "The speed of light is constant.",
+                        "Light bends when passing through a medium."
+                    ],
+                    "answer_value": "The angle of incidence is equal to the angle of reflection."
+                },
+                {
+                    "question_id": 2342932030322,
+                    "question_value": "A cell whose internal resistance is 0.55 \u03a9 delivers a current of 4 A to an external resistor. What is the lost voltage of the cell?",
+                    "options": [
+                        "1.8 V",
+                        "2.0 V",
+                        "2.2 V",
+                        "2.4 V"
+                    ],
+                    "answer_value": "2.2 V",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23456723,
+                    "question_value": "What is the unit of electric current?",
+                    "options": [
+                        "Ampere",
+                        "Volt",
+                        "Ohm",
+                        "Watt"
+                    ],
+                    "answer_value": "Ampere"
+                },
+                {
+                    "question_id": 288994039293542,
+                    "question_value": "The amount of energy required to change a kilogram of ice block into the water without a change in temperature is?",
+                    "options": [
+                        "specific latent heat of fusion of ice",
+                        "specific heat capacity of ice",
+                        "heat capacity of ice",
+                        "specific heat of vaporization of ice"
+                    ],
+                    "answer_value": "specific latent heat of fusion of ice",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 239339329489336,
+                    "question_value": "A light ray strikes a plane mirror at an angle of 30\u00b0 with the normal. What is the angle between the incident ray and the reflected ray?",
+                    "options": [
+                        "15\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "60\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030309,
+                    "question_value": "An object 40 cm high is 30 cm from the pinhole camera. If the height of the image formed is 20 cm, what is the distance of the image from the pinhole?",
+                    "options": [
+                        "10 cm",
+                        "15 cm",
+                        "20 cm",
+                        "25 cm"
+                    ],
+                    "answer_value": "15 cm",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 5435443876,
+                    "question_value": "What is the unit of measurement for frequency?",
+                    "options": [
+                        "Hertz",
+                        "Watt",
+                        "Joule",
+                        "Ampere"
+                    ],
+                    "answer_value": "Hertz"
+                },
+                {
+                    "question_id": 2342932030393939,
+                    "question_value": "A capacitor with a capacitance of 5 \u00b5F is charged to a potential difference of 200 V. Calculate the energy stored in the capacitor.",
+                    "options": [
+                        "0.1 J",
+                        "0.2 J",
+                        "0.5 J",
+                        "1.0 J"
+                    ],
+                    "answer_value": "0.1 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030329,
+                    "question_value": "Which expression gives the magnetic flux (\u03a6) through a surface?",
+                    "options": [
+                        "\\( \\Phi = B \\cdot A \\cdot \\cos \\theta \\)",
+                        "\\( \\Phi = \\frac{B}{A \\cdot \\cos \\theta} \\)",
+                        "\\( \\Phi = B \\cdot A \\cdot \\sin \\theta \\)",
+                        "\\( \\Phi = \\frac{B \\cdot \\cos \\theta}{A} \\)"
+                    ],
+                    "answer_value": "\\( \\Phi = B \\cdot A \\cdot \\cos \\theta \\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932032348,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 3 meters. Calculate the speed of the wave.",
+                    "options": [
+                        "100 m\/s",
+                        "150 m\/s",
+                        "200 m\/s",
+                        "250 m\/s"
+                    ],
+                    "answer_value": "150 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030310,
+                    "question_value": "A car starts from rest and covers a distance of 40 m in 10 s. Calculate the magnitude of its acceleration.",
+                    "options": [
+                        "0.4 m\/s\u00b2",
+                        "0.6 m\/s\u00b2",
+                        "0.8 m\/s\u00b2",
+                        "1.0 m\/s\u00b2"
+                    ],
+                    "answer_value": "0.8 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320309383,
+                    "question_value": "A current of 3 A flows for 2 seconds. Calculate the charge transferred.",
+                    "options": [
+                        "3 C",
+                        "4 C",
+                        "5 C",
+                        "6 C"
+                    ],
+                    "answer_value": "6 C",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203033143,
+                    "question_value": "Water flows through a pipe with a speed of 3 m\/s and a cross-sectional area of 0.1 m\u00b2. Calculate the volume flow rate of the water.",
+                    "options": [
+                        "0.2 m\u00b3\/s",
+                        "0.3 m\u00b3\/s",
+                        "0.4 m\u00b3\/s",
+                        "0.5 m\u00b3\/s"
+                    ],
+                    "answer_value": "0.3 m\u00b3\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320304232,
+                    "question_value": "A long straight wire carries a current of 5 A. Calculate the magnetic field at a distance of 2 cm from the wire. (Use \u03bc\u2080 = 4\u03c0 x 10^-7 T\u00b7m\/A)",
+                    "options": [
+                        "5 x 10^-5 T",
+                        "1 x 10^-4 T",
+                        "5 x 10^-4 T",
+                        "1 x 10^-3 T"
+                    ],
+                    "answer_value": "5 x 10^-5 T",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 6785342912,
+                    "question_value": "What is the formula for calculating power?",
+                    "options": [
+                        "P = W\/t",
+                        "P = Fd",
+                        "P = mv^2",
+                        "P = IR"
+                    ],
+                    "answer_value": "P = W\/t"
+                },
+                {
+                    "question_id": 20398394320303293,
+                    "question_value": "A gas expands from a volume of 1 m\u00b3 to 3 m\u00b3 at a constant pressure of 2 atm. Calculate the work done by the gas. (1 atm = 101.3 kPa)",
+                    "options": [
+                        "101.3 kJ",
+                        "202.6 kJ",
+                        "303.9 kJ",
+                        "405.2 kJ"
+                    ],
+                    "answer_value": "405.2 kJ",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030339,
+                    "question_value": "A spring with a spring constant of 100 N\/m is compressed by 0.2 m. Calculate the elastic potential energy stored in the spring.",
+                    "options": [
+                        "2 J",
+                        "4 J",
+                        "10 J",
+                        "20 J"
+                    ],
+                    "answer_value": "4 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203454,
+                    "question_value": "A 4 kg mass is lifted to a height of 5 meters. Calculate its potential energy. (g = 9.8 m\/s\u00b2)",
+                    "options": [
+                        "100 J",
+                        "120 J",
+                        "150 J",
+                        "196 J"
+                    ],
+                    "answer_value": "196 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030345,
+                    "question_value": "If an object just begins to slide on a surface inclined at 30\u00ba to the horizontal, what is the coefficient of friction?",
+                    "options": [
+                        "\\( \\frac{1}{\\sqrt{3}} \\)",
+                        "\\( \\frac{\\sqrt{3}}{3} \\)",
+                        "\\( \\frac{\\sqrt{3}}{2} \\)",
+                        "\\( \\sqrt{3} \\)"
+                    ],
+                    "answer_value": "\\( \\frac{1}{\\sqrt{3}} \\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23440404040403,
+                    "question_value": "If a bar magnet is divided into two pieces, which of the following statement is correct?",
+                    "options": [
+                        "two new magnets are created",
+                        "the magnetic field of each separate piece becomes stronger",
+                        "the electric field is created",
+                        "the bar magnet is demagnetized"
+                    ],
+                    "answer_value": "two new magnets are created",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 32132098,
+                    "question_value": "What is the formula for calculating work done?",
+                    "options": [
+                        "W = Fd",
+                        "W = F\/a",
+                        "W = mv^2",
+                        "W = pt"
+                    ],
+                    "answer_value": "W = Fd"
+                },
+                {
+                    "question_id": 23429320305318,
+                    "question_value": "A wave has a wavelength of 2 meters and a speed of 10 m\/s. Calculate its frequency.",
+                    "options": [
+                        "4 Hz",
+                        "5 Hz",
+                        "6 Hz",
+                        "8 Hz"
+                    ],
+                    "answer_value": "5 Hz",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320234243,
+                    "question_value": "A point charge of 5 \u03bcC is placed at the center of a sphere of radius 3 cm. Calculate the electric field at a point on the surface of the sphere.",
+                    "options": [
+                        "5.0 x 10^5 N\/C",
+                        "1.0 x 10^6 N\/C",
+                        "3.0 x 10^6 N\/C",
+                        "5.0 x 10^6 N\/C"
+                    ],
+                    "answer_value": "5.0 x 10^5 N\/C",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320333221,
+                    "question_value": "The relationship between the coefficient of linear expansion (\\(\\alpha\\)) and volumetric expansion (\\(\\gamma\\)) is:",
+                    "options": [
+                        "\\(\\gamma = 2\\alpha\\)",
+                        "\\(\\gamma = 3\\alpha\\)",
+                        "\\(\\gamma = 4\\alpha\\)",
+                        "\\(\\gamma = \\alpha\\)"
+                    ],
+                    "answer_value": "\\(\\gamma = 3\\alpha\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320303993,
+                    "question_value": "A coil with 500 turns and a cross-sectional area of 0.1 m\u00b2 is placed in a uniform magnetic field of 0.02 T. If the angle between the magnetic field and the normal to the coil is 30\u00b0, calculate the magnetic flux through the coil.",
+                    "options": [
+                        "0.25 Wb",
+                        "0.43 Wb",
+                        "0.87 Wb",
+                        "1.00 Wb"
+                    ],
+                    "answer_value": "0.87 Wb",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932099932,
+                    "question_value": "A sound wave travels at a speed of 340 m\/s and has a frequency of 170 Hz. Calculate its wavelength.",
+                    "options": [
+                        "1 m",
+                        "2 m",
+                        "3 m",
+                        "4 m"
+                    ],
+                    "answer_value": "2 m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 4561233234,
+                    "question_value": "What is the formula for calculating momentum?",
+                    "options": [
+                        "p = mv",
+                        "p = Fd",
+                        "p = W\/t",
+                        "p = F\/a"
+                    ],
+                    "answer_value": "p = mv"
+                },
+                {
+                    "question_id": 8764231543,
+                    "question_value": "What is the unit of measurement for voltage?",
+                    "options": [
+                        "Volt",
+                        "Ampere",
+                        "Ohm",
+                        "Watt"
+                    ],
+                    "answer_value": "Volt"
+                },
+                {
+                    "question_id": 234293293939344,
+                    "question_value": "A concave lens with a focal length of -10 cm forms an image 20 cm from the lens. Is the image real, virtual, convex or fixed?",
+                    "options": [
+                        "Real",
+                        "fixed",
+                        "convex",
+                        "Virtual"
+                    ],
+                    "answer_value": "Virtual",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2030393939393,
+                    "answer_value": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when?",
+                    "options": [
+                        "the magnet is moved towards the stationary solenoid",
+                        "there is no relative motion",
+                        "the magnet is moved away from the stationary solenoid",
+                        "the solenoid is moved away from the stationary magnet"
+                    ],
+                    "question_value": "there is no relative motion"
+                },
+                {
+                    "question_id": 987364521,
+                    "question_value": "What is the SI unit of electric charge?",
+                    "options": [
+                        "Coulomb",
+                        "Volt",
+                        "Ampere",
+                        "Ohm"
+                    ],
+                    "answer_value": "Coulomb"
+                },
+                {
+                    "question_id": 933848432030335,
+                    "question_value": "In a circuit, a resistor of 10 \u03a9 is connected in series with a resistor of 20 \u03a9. What is the total resistance of the circuit?",
+                    "options": [
+                        "3.3 \u03a9",
+                        "10 \u03a9",
+                        "20 \u03a9",
+                        "30 \u03a9"
+                    ],
+                    "answer_value": "30 \u03a9",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429334230311,
+                    "question_value": "A car accelerates from 10 m\/s to 30 m\/s in 5 seconds. Calculate the acceleration of the car.",
+                    "options": [
+                        "2 m\/s\u00b2",
+                        "4 m\/s\u00b2",
+                        "5 m\/s\u00b2",
+                        "6 m\/s\u00b2"
+                    ],
+                    "answer_value": "4 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203330332,
+                    "question_value": "A wheel with a radius of 0.5 m rotates at 60 RPM. Calculate the linear velocity of a point on the rim of the wheel.",
+                    "options": [
+                        "1.5 m\/s",
+                        "3 m\/s",
+                        "5 m\/s",
+                        "6 m\/s"
+                    ],
+                    "answer_value": "3 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 288994043939842,
+                    "question_value": "The main factor which affects the speed of sound wave is the?",
+                    "options": [
+                        "properties of the medium",
+                        "amplitude of the sound wave",
+                        "intensity of the sound wave",
+                        "loudness of the sound wave"
+                    ],
+                    "answer_value": "properties of the medium",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320534332,
+                    "question_value": "A mass-spring system oscillates with a period of 2 s. Calculate the spring constant if the mass is 0.5 kg.",
+                    "options": [
+                        "1.57 N\/m",
+                        "2.5 N\/m",
+                        "3.14 N\/m",
+                        "5.0 N\/m"
+                    ],
+                    "answer_value": "1.57 N\/m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 654327431,
+                    "question_value": "What is the formula for calculating density?",
+                    "options": [
+                        "D = m\/a",
+                        "D = mv",
+                        "D = m\/v",
+                        "D = v\/m"
+                    ],
+                    "answer_value": "D = m\/v"
+                },
+                {
+                    "question_id": 32184290,
+                    "question_value": "What is the formula for kinetic energy?",
+                    "options": [
+                        "KE = 1\/2 mv^2",
+                        "KE = mgh",
+                        "KE = Fd",
+                        "KE = p\/t"
+                    ],
+                    "answer_value": "KE = 1\/2 mv^2"
+                },
+                {
+                    "question_id": 23429320309994,
+                    "question_value": "A 3 kg object is moving at a velocity of 4 m\/s. Calculate its momentum.",
+                    "options": [
+                        "8 kg m\/s",
+                        "10 kg m\/s",
+                        "12 kg m\/s",
+                        "15 kg m\/s"
+                    ],
+                    "answer_value": "12 kg m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 8899333223239542,
+                    "question_value": "Which of the following is a scalar quantity?",
+                    "options": [
+                        "weight",
+                        "displacement",
+                        "potential energy",
+                        "momentum"
+                    ],
+                    "answer_value": "potential energy",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2343232030340,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 2 m. Calculate the speed of the wave.",
+                    "options": [
+                        "25 m\/s",
+                        "50 m\/s",
+                        "100 m\/s",
+                        "200 m\/s"
+                    ],
+                    "answer_value": "100 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 543210745,
+                    "question_value": "What is the formula for calculating speed?",
+                    "options": [
+                        "s = vt",
+                        "s = v\/t",
+                        "s = t\/v",
+                        "s = v^2"
+                    ],
+                    "answer_value": "s = v\/t"
+                },
+                {
+                    "question_id": 239202932030327,
+                    "question_value": "A string fixed at both ends vibrates at its fundamental frequency of 50 Hz. If the length of the string is 1.5 m and the speed of the wave on the string is 300 m\/s, calculate the wavelength of the wave.",
+                    "options": [
+                        "1 m",
+                        "2 m",
+                        "3 m",
+                        "4 m"
+                    ],
+                    "answer_value": "3 m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320303982,
+                    "question_value": "An object is placed 15 cm in front of a convex lens with a focal length of 10 cm. Calculate the position of the image formed.",
+                    "options": [
+                        "30 cm behind the lens",
+                        "20 cm behind the lens",
+                        "15 cm behind the lens",
+                        "10 cm behind the lens"
+                    ],
+                    "answer_value": "30 cm behind the lens",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 983838484334,
+                    "question_value": "A light ray passes from air into water. If the angle of incidence is 45\u00b0, calculate the angle of refraction (Refractive index of water = 1.33).",
+                    "options": [
+                        "19.5\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "30\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 987453456,
+                    "question_value": "What is the formula for calculating electric power?",
+                    "options": [
+                        "P = IV",
+                        "P = V\/I",
+                        "P = IR",
+                        "P = V\/R"
+                    ],
+                    "answer_value": "P = IV"
+                },
+                {
+                    "question_id": 2342932030234,
+                    "question_value": "A convex lens has a focal length of 10 cm. An object is placed 15 cm from the lens. Calculate the position of the image formed.",
+                    "options": [
+                        "30 cm on the same side as the object",
+                        "30 cm on the opposite side of the object",
+                        "6 cm on the same side as the object",
+                        "6 cm on the opposite side of the object"
+                    ],
+                    "answer_value": "30 cm on the opposite side of the object",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 20939393030393,
+                    "question_value": "Which of the following is not a consequence of hydrogen bubbles covering the copper plate of a primary cell?",
+                    "options": [
+                        "formation of hydrogen bubbles on the electrode",
+                        "local action",
+                        "polarization",
+                        "increase in the resistance of the cell"
+                    ],
+                    "answer_value": "local action",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932099037,
+                    "question_value": "A force of 50 N moves an object through a distance of 10 m in the direction of the force. Calculate the work done.",
+                    "options": [
+                        "100 J",
+                        "250 J",
+                        "500 J",
+                        "1000 J"
+                    ],
+                    "answer_value": "500 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 12378459,
+                    "question_value": "What is the formula for calculating gravitational force?",
+                    "options": [
+                        "F = G(m1 * m2)\/r^2",
+                        "F = mgh",
+                        "F = ma",
+                        "F = pt"
+                    ],
+                    "answer_value": "F = G(m1 * m2)\/r^2"
+                },
+                {
+                    "question_id": 1234545646,
+                    "question_value": "What is the formula for Ohm's Law?",
+                    "options": [
+                        "V = IR",
+                        "I = VR",
+                        "R = VI",
+                        "V = RI"
+                    ],
+                    "answer_value": "V = IR"
+                },
+                {
+                    "question_id": 234293203330443,
+                    "question_value": "A 60 W light bulb operates for 3 hours. How much energy is consumed in kilowatt-hours (kWh)?",
+                    "options": [
+                        "0.15 kWh",
+                        "0.18 kWh",
+                        "0.20 kWh",
+                        "0.25 kWh"
+                    ],
+                    "answer_value": "0.18 kWh",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320324232,
+                    "question_value": "A 10 \u03bcF capacitor is charged to a potential difference of 200 V. Calculate the energy stored in the capacitor.",
+                    "options": [
+                        "0.1 J",
+                        "0.2 J",
+                        "0.5 J",
+                        "1.0 J"
+                    ],
+                    "answer_value": "0.2 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 98765564,
+                    "question_value": "What is the acceleration due to gravity on Earth?",
+                    "options": [
+                        "9.8 m\/s^2",
+                        "6.67 x 10^-11 Nm^2\/kg^2",
+                        "3 x 10^8 m\/s",
+                        "3 x 10^5 km\/s"
+                    ],
+                    "answer_value": "9.8 m\/s^2"
+                },
+                {
+                    "question_id": 6789553412,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Kelvin",
+                        "Celsius",
+                        "Fahrenheit",
+                        "Joule"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 8765223543,
+                    "question_value": "What is the SI unit of force?",
+                    "options": [
+                        "Newton",
+                        "Joule",
+                        "Watt",
+                        "Volt"
+                    ],
+                    "answer_value": "Newton"
+                },
+                {
+                    "question_id": 234293290908815,
+                    "question_value": "A force of 20 N moves an object 3 meters. Calculate the work done.",
+                    "options": [
+                        "50 J",
+                        "60 J",
+                        "70 J",
+                        "80 J"
+                    ],
+                    "answer_value": "60 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293933030331,
+                    "question_value": "Calculate the heat required to raise the temperature of 200 g of water from 20\u00b0C to 50\u00b0C. (Specific heat capacity of water = 4.18 J\/g\u00b0C)",
+                    "options": [
+                        "250 J",
+                        "836 J",
+                        "1672 J",
+                        "4180 J"
+                    ],
+                    "answer_value": "4180 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 54332789,
+                    "question_value": "What is the first law of thermodynamics?",
+                    "options": [
+                        "Energy is always increasing.",
+                        "Energy can be created at will.",
+                        "Energy can be destroyed.",
+                        "Energy can neither be created nor destroyed."
+                    ],
+                    "answer_value": "Energy can neither be created nor destroyed."
+                },
+                {
+                    "question_id": 2342932234523,
+                    "question_value": "A 2 kg mass is moving with a velocity of 3 m\/s. Calculate its kinetic energy.",
+                    "options": [
+                        "6 J",
+                        "9 J",
+                        "12 J",
+                        "15 J"
+                    ],
+                    "answer_value": "9 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 93948484840391032,
+                    "question_value": "The mercury column in the barometer at natural atmospheric pressure has a height of?",
+                    "options": [
+                        "0.76 cm at see level",
+                        "760 cm at sea level",
+                        "76 cm at sea level",
+                        "7.6 cm at sea level"
+                    ],
+                    "answer_value": "76 cm at sea level",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320302234,
+                    "question_value": "A 2 kg block slides down a frictionless incline of height 10 m. Calculate the speed of the block at the bottom of the incline. (Use g = 9.8 m\/s\u00b2)",
+                    "options": [
+                        "10 m\/s",
+                        "14 m\/s",
+                        "20 m\/s",
+                        "28 m\/s"
+                    ],
+                    "answer_value": "14 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030330,
+                    "question_value": "What is the quantity of heat required to convert 20 g of ice at 0\u00b0C to water at the same temperature? (Specific latent heat of ice = 336 J\/g)",
+                    "options": [
+                        "5280 J",
+                        "6400 J",
+                        "6720 J",
+                        "7200 J"
+                    ],
+                    "answer_value": "6720 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932033928,
+                    "question_value": "Calculate the pressure exerted by a force of 200 N on an area of 0.5 m\u00b2.",
+                    "options": [
+                        "100 Pa",
+                        "200 Pa",
+                        "400 Pa",
+                        "800 Pa"
+                    ],
+                    "answer_value": "400 Pa",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 340093939302,
+                    "question_value": "Which of the following is a derived unit?",
+                    "options": [
+                        "Kilogram",
+                        "Metre",
+                        "Newton",
+                        "Second"
+                    ],
+                    "answer_value": "Newton",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2343998399341,
+                    "question_value": "Two point charges of +2 \u00b5C and -3 \u00b5C are separated by a distance of 10 cm. Calculate the electrostatic force between them. (Electrostatic constant = \\( 9 \\times 10^9 \\) Nm\u00b2\/C\u00b2)",
+                    "options": [
+                        "3.6 N",
+                        "7.2 N",
+                        "9.0 N",
+                        "18.0 N"
+                    ],
+                    "answer_value": "7.2 N",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429902030342,
+                    "question_value": "A resistor with resistance 20 \u03a9 has a current of 2 A flowing through it. Calculate the potential difference across the resistor.",
+                    "options": [
+                        "20 V",
+                        "40 V",
+                        "60 V",
+                        "80 V"
+                    ],
+                    "answer_value": "40 V",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 765442332,
+                    "question_value": "What is the law of conservation of energy?",
+                    "options": [
+                        "Energy can neither be created nor destroyed.",
+                        "Energy is always increasing.",
+                        "Energy can be destroyed.",
+                        "Energy can be created at will."
+                    ],
+                    "answer_value": "Energy can neither be created nor destroyed."
+                },
+                {
+                    "question_id": 2889932849542,
+                    "question_value": "A semiconductor is formed by?",
+                    "options": [
+                        "covalent bonds",
+                        "a substance free of bonds",
+                        "electrovalent bonds",
+                        "co-ordinate bonds"
+                    ],
+                    "answer_value": "covalent bonds",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 3412829,
+                    "question_value": "What is the SI unit of frequency?",
+                    "options": [
+                        "Hertz",
+                        "Newton",
+                        "Watt",
+                        "Volt"
+                    ],
+                    "answer_value": "Hertz"
+                },
+                {
+                    "question_id": 2342998323333,
+                    "question_value": "A force of 20 N acts on a body of mass 5 kg for 4 seconds. What is the change in momentum of the body?",
+                    "options": [
+                        "5 kg m\/s",
+                        "20 kg m\/s",
+                        "80 kg m\/s",
+                        "100 kg m\/s"
+                    ],
+                    "answer_value": "80 kg m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293098767832,
+                    "question_value": "A mass of 0.2 kg attached to a spring oscillates with a frequency of 5 Hz. Calculate the spring constant of the spring. (Assume no damping)",
+                    "options": [
+                        "4 N\/m",
+                        "16 N\/m",
+                        "20 N\/m",
+                        "25 N\/m"
+                    ],
+                    "answer_value": "16 N\/m",
+                    "image_url": ""
+                }
+            ]
+        }
+    ]
+}

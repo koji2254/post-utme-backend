@@ -1,0 +1,340 @@
+{
+   "subject":"ENGLISH",
+   "comprehensions":[
+      {
+         "comprehension_id":439333339393,
+         "comprehension_title": "The Amazon Rainforest",
+         "questions":[
+            {
+               "question_id":92292929292,
+               "comprehension_title": "The Amazon Rainforest",
+               "comprehension":"The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+              "question_value": "What is the main function of the Amazon rainforest according to the passage?", 
+              "options": [
+                  "Habitat for wildlife", 
+                  "Source of food and medicine", 
+                  "Regulation of Earth's atmosphere", 
+                  "Production of oxygen"
+               ], 
+              "answer_value": "Regulation of Earth's atmosphere"
+            },
+            {
+               "question_id": 8765904942341, 
+               "comprehension_title": "The Amazon Rainforest",
+               "comprehension":"The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+               "question_value": "Which gas is absorbed by plants in the rainforest during photosynthesis?", 
+               "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Water Vapor"], 
+               "answer_value": "Carbon Dioxide"
+            },
+            {
+               "question_id":3098848484848,
+               "comprehension_title": "The Amazon Rainforest",
+               "comprehension":"The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+              "question_value": "What is the negative impact of deforestation mentioned in the passage?", 
+              "options": [
+                  "Reduces biodiversity", 
+                  "Increases soil erosion", 
+                  "Releases stored carbon", 
+                  "All of the above"
+               ], 
+               "answer_value": "All of the above"
+            },
+            {
+               "question_id":89090909393484848,
+               "comprehension_title": "The Amazon Rainforest",
+               "comprehension":"The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+               "question_value": "The word 'mitigate' in the passage is closest in meaning to:", 
+               "options": ["Eliminate", "Control", "Ignore", "Produce"], "answer_value": "Control"
+            },
+            {
+               "question_id":8099938343248,
+               "comprehension_title": "The Amazon Rainforest",
+               "comprehension":"The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+               "question_value": "Based on the passage, why is deforestation a concern?", 
+               "options": ["Reduces the beauty of the rainforest", "Disrupts the habitat of animals", "Contributes to climate change", "All of the above"], 
+               "answer_value": "All of the above"
+            }
+         ]
+      },
+      {
+         "comprehension_id":938389383888884,
+         "questions":[
+            {
+              "question_id": 194849344,
+              "comprehension_title": "The Wonders of the Rainforest",
+              "comprehension":"The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+              "question_value": "What is one role the rainforest plays in regulating the Earth's climate?",
+              "options": [
+                "Absorbing carbon dioxide and producing oxygen",
+                "Blocking sunlight completely",
+                "Providing a home for all animal species",
+                "Preventing rainfall"
+              ],
+              "answer_value": "Absorbing carbon dioxide and producing oxygen"
+            },
+            {
+              "question_id": 28899389,
+              "comprehension_title": "The Wonders of the Rainforest",
+              "comprehension":"The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+              "question_value": "Which part of the rainforest forms a canopy?",
+              "options": [
+                "The forest floor",
+                "The dense foliage and towering trees",
+                "The rivers",
+                "The animals"
+              ],
+              "answer_value": "The dense foliage and towering trees"
+            },
+            {
+              "question_id": 390909090,
+              "comprehension_title": "The Wonders of the Rainforest",
+              "comprehension":"The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+              "question_value": "Why is the rainforest described as 'teeming with life'?",
+              "options": [
+                "Because it has many tourists",
+                "Because it has a vast variety of plants, animals, and insects",
+                "Because it has a lot of sunlight",
+                "Because it is very large"
+              ],
+              "answer_value": "Because it has a vast variety of plants, animals, and insects"
+            },
+            {
+              "question_id": 478799049,
+              "comprehension_title": "The Wonders of the Rainforest",
+              "comprehension":"The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+              "question_value": "What does the canopy of the rainforest do?",
+              "options": [
+                "It increases the temperature",
+                "It blocks much of the sunlight",
+                "It absorbs rainwater",
+                "It attracts predators"
+              ],
+              "answer_value": "It blocks much of the sunlight"
+            },
+            {
+              "question_id": 598393834,
+              "comprehension_title": "The Wonders of the Rainforest",
+              "comprehension":"The rainforest is a vibrant ecosystem teeming with life. It is home to an incredible variety of plants, animals, and insects, many of which cannot be found anywhere else on Earth. The dense foliage and towering trees form a canopy that blocks much of the sunlight, creating a unique environment on the forest floor. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen. Additionally, it is a vital source of food, medicine, and raw materials for people around the world.",
+              "question_value": "How is the rainforest important to humans?",
+              "options": [
+                "It is a source of food, medicine, and raw materials",
+                "It is a place for extreme sports",
+                "It is a location for scientific studies only",
+                "It is a place for entertainment"
+              ],
+              "answer_value": "It is a source of food ,medicine,and raw materials"
+            }
+          ]
+          
+      },
+      {
+         "comprehension_id": 938389383888884,
+         "questions": [
+           {
+             "question_id": 294849344,
+             "comprehension_title": "The Legacy of Ancient Civilizations",
+             "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today’s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+             "question_value": "What is one architectural achievement of the Egyptians mentioned in the passage?",
+             "options": [
+               "The Colosseum",
+               "The Great Wall",
+               "The Pyramids",
+               "The Parthenon"
+             ],
+             "answer_value": "The Pyramids"
+           },
+           {
+             "question_id": 38899389,
+             "comprehension_title": "The Legacy of Ancient Civilizations",
+             "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today’s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+             "question_value": "Which Greek philosopher is NOT mentioned in the passage?",
+             "options": [
+               "Socrates",
+               "Plato",
+               "Aristotle",
+               "Pythagoras"
+             ],
+             "answer_value": "Pythagoras"
+           },
+           {
+             "question_id": 490909090,
+             "comprehension_title": "The Legacy of Ancient Civilizations",
+             "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today’s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+             "question_value": "How did ancient astronomers contribute to modern society?",
+             "options": [
+               "By inventing the telescope",
+               "By charting the stars and developing calendars",
+               "By establishing astrology as a science",
+               "By discovering new planets"
+             ],
+             "answer_value": "By charting the stars and developing calendars"
+           },
+           {
+             "question_id": 578799049,
+             "comprehension_title": "The Legacy of Ancient Civilizations",
+             "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today’s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+             "question_value": "Which field of study did the Greeks significantly advance, as mentioned in the passage?",
+             "options": [
+               "Chemistry",
+               "Biology",
+               "Geometry",
+               "Psychology"
+             ],
+             "answer_value": "Geometry"
+           },
+           {
+             "question_id": 698393834,
+             "comprehension_title": "The Legacy of Ancient Civilizations",
+             "comprehension": "Ancient civilizations have left an indelible mark on the world, influencing modern society in numerous ways. From the architectural marvels of the Egyptians and the philosophical inquiries of the Greeks to the legal systems of the Romans, these early cultures laid the foundation for many aspects of contemporary life. The Egyptian pyramids, constructed with precise engineering, continue to awe scientists and tourists alike. Greek philosophers such as Socrates, Plato, and Aristotle developed methods of logical reasoning that underpin modern scientific inquiry and ethical frameworks. Meanwhile, the Roman Empire's codification of laws has influenced legal systems around the globe, promoting principles of justice and equality.\n\nThese civilizations also made significant advancements in mathematics, astronomy, and medicine. The Greeks introduced the concept of geometry, while the Babylonians made early strides in algebra. Egyptian and Mesopotamian astronomers meticulously charted the stars, contributing to navigation and the development of calendars. Medical practices in these ancient societies, although rudimentary by today’s standards, laid the groundwork for modern medicine through early surgeries and herbal remedies.\n\nHowever, the impact of these civilizations extends beyond their intellectual contributions. Their social structures, religious beliefs, and artistic expressions have also shaped cultural norms and values. Festivals, rituals, and mythologies from these ancient times continue to be celebrated and studied, providing insight into the human experience. The rich tapestry of art and literature from these periods remains a source of inspiration and education, reflecting the complexities of human society and the quest for understanding.",
+             "question_value": "What aspect of Roman civilization has had a lasting impact on global legal systems?",
+             "options": [
+               "Their military tactics",
+               "Their agricultural practices",
+               "Their codification of laws",
+               "Their religious rituals"
+             ],
+             "answer_value": "Their codification of laws"
+           }
+         ]
+       },{
+         "comprehension_id": 938389383888885,
+         "questions": [
+           {
+             "question_id": 394849344,
+             "comprehension_title": "The Evolution of Communication Technology",
+             "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+             "question_value": "Who invented the telegraph?",
+             "options": [
+               "Alexander Graham Bell",
+               "Samuel Morse",
+               "Thomas Edison",
+               "Nikola Tesla"
+             ],
+             "answer_value": "Samuel Morse"
+           },
+           {
+             "question_id": 48899389,
+             "comprehension_title": "The Evolution of Communication Technology",
+             "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+             "question_value": "What did the invention of the telegraph pave the way for?",
+             "options": [
+               "The internet",
+               "The radio",
+               "The telephone",
+               "The television"
+             ],
+             "answer_value": "The telephone"
+           },
+           {
+             "question_id": 590909090,
+             "comprehension_title": "The Evolution of Communication Technology",
+             "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+             "question_value": "Which 20th-century developments brought news and entertainment into homes worldwide?",
+             "options": [
+               "The telegraph and the internet",
+               "The radio and the telephone",
+               "The television and the telegraph",
+               "The radio and the television"
+             ],
+             "answer_value": "The radio and the television"
+           },
+           {
+             "question_id": 678799049,
+             "comprehension_title": "The Evolution of Communication Technology",
+             "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+             "question_value": "What is the most significant advancement in communication technology mentioned in the passage?",
+             "options": [
+               "The telegraph",
+               "The telephone",
+               "The internet",
+               "The television"
+             ],
+             "answer_value": "The internet"
+           },
+           {
+             "question_id": 798393834,
+             "comprehension_title": "The Evolution of Communication Technology",
+             "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+             "question_value": "What emerging technologies are enhancing our ability to process and analyze data?",
+             "options": [
+               "The telegraph and the telephone",
+               "Radio and television",
+               "Artificial intelligence and machine learning",
+               "The internet and the telephone"
+             ],
+             "answer_value": "Artificial intelligence and machine learning"
+           }
+         ]
+       },
+       {
+         "comprehension_id": 938389383888886,
+         "questions": [
+           {
+             "question_id": 494849344,
+             "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+             "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+             "question_value": "What is coral bleaching and how does it affect marine ecosystems?",
+             "options": [
+               "It is a process where corals change color naturally, enhancing biodiversity.",
+               "It is the expulsion of symbiotic algae from corals, leading to the death of the coral and affecting marine life dependent on reefs.",
+               "It is the process where corals gain more algae, increasing their growth and the surrounding marine life.",
+               "It is the phenomenon where corals harden due to increased calcium carbonate, strengthening the reefs."
+             ],
+             "answer_value": "It is the expulsion of symbiotic algae from corals, leading to the death of the coral and affecting marine life dependent on reefs."
+           },
+           {
+             "question_id": 58899389,
+             "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+             "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+             "question_value": "How does ocean acidification impact marine organisms?",
+             "options": [
+               "It increases the availability of carbonate ions, enhancing the growth of calcium carbonate structures.",
+               "It reduces the availability of carbonate ions, impairing the growth and survival of organisms that rely on calcium carbonate structures.",
+               "It has no significant impact on marine organisms as they adapt quickly.",
+               "It reduces the oxygen levels in the water, causing marine organisms to suffocate."
+             ],
+             "answer_value": "It reduces the availability of carbonate ions, impairing the growth and survival of organisms that rely on calcium carbonate structures."
+           },
+           {
+             "question_id": 690909090,
+             "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+             "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+             "question_value": "What is one of the effects of the melting polar ice caps and glaciers?",
+             "options": [
+               "Decreased erosion of coastal habitats",
+               "Increased availability of marine biodiversity",
+               "Rising sea levels threatening coastal habitats and human settlements",
+               "Stabilization of ocean currents and temperatures"
+             ],
+             "answer_value": "Rising sea levels threatening coastal habitats and human settlements"
+           },
+           {
+             "question_id": 778799049,
+             "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+             "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+             "question_value": "How can changes in ocean currents and temperatures affect marine species?",
+             "options": [
+               "By ensuring stable habitats and improving biodiversity",
+               "By altering their distribution and behavior, leading to shifts in marine biodiversity and potential fisheries collapse",
+               "By reducing the overall biodiversity of terrestrial ecosystems",
+               "By decreasing the levels of atmospheric carbon dioxide"
+             ],
+             "answer_value": "By altering their distribution and behavior, leading to shifts in marine biodiversity and potential fisheries collapse"
+           },
+           {
+             "question_id": 898393834,
+             "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+             "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+             "question_value": "What are some efforts mentioned in the passage to mitigate the impact of climate change on marine ecosystems?",
+             "options": [
+               "Increasing greenhouse gas emissions and constructing more coastal settlements",
+               "Reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices",
+               "Enhancing ocean acidification and encouraging overfishing",
+               "Melting polar ice caps and altering ocean currents"
+             ],
+             "answer_value": "Reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices"
+           }
+         ]
+       }
+   ] 	
+}

@@ -1,0 +1,78 @@
+{
+    "exam_id": 5872561656,
+    "questions": [
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 947233683,
+                    "question_value": "What is the square of 5?",
+                    "options": [
+                        "15",
+                        "20",
+                        "25",
+                        "30"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 8731234524,
+                    "question_value": "What is the square of 14?",
+                    "options": [
+                        "184",
+                        "186",
+                        "194",
+                        "196"
+                    ],
+                    "answer_value": "196"
+                },
+                {
+                    "question_id": 37813455324,
+                    "question_value": "What is the square of 17?",
+                    "options": [
+                        "287",
+                        "289",
+                        "291",
+                        "293"
+                    ],
+                    "answer_value": "289"
+                },
+                {
+                    "question_id": 102837424666,
+                    "question_value": "Calculate \\( \\frac{2244_4}{112_4} \\)",
+                    "options": [
+                        "\\( 20_{4} \\)",
+                        "\\( 22_{4} \\)",
+                        "\\( 24_{4}  \\)",
+                        "\\( 26_{4} \\)"
+                    ],
+                    "answer_value": "\\(20_{4}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 78923409,
+                    "question_value": "What is 9 squared?",
+                    "options": [
+                        "72",
+                        "80",
+                        "81",
+                        "90"
+                    ],
+                    "answer_value": "81"
+                },
+                {
+                    "question_id": 10283654668,
+                    "question_value": "Calculate \\( \\frac{4343_5}{122_5} \\)",
+                    "options": [
+                        "\\(2_{5} \\)",
+                        "\\(4_{5} \\)",
+                        "\\(6_{5} \\)",
+                        "\\(8_{5} \\)"
+                    ],
+                    "answer_value": "\\(34_{5}\\)",
+                    "image_url": ""
+                }
+            ]
+        }
+    ]
+}

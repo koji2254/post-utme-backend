@@ -1,0 +1,2092 @@
+{
+    "exam_id": 5703009894,
+    "questions": [
+        {
+            "subject": "ENGLISH LANGUAGE",
+            "questions": [
+                {
+                    "question_id": 92292929292,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "What is the main function of the Amazon rainforest according to the passage?",
+                    "options": [
+                        "Habitat for wildlife",
+                        "Source of food and medicine",
+                        "Regulation of Earth's atmosphere",
+                        "Production of oxygen"
+                    ],
+                    "answer_value": "Regulation of Earth's atmosphere"
+                },
+                {
+                    "question_id": 8765904942341,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "Which gas is absorbed by plants in the rainforest during photosynthesis?",
+                    "options": [
+                        "Nitrogen",
+                        "Oxygen",
+                        "Carbon Dioxide",
+                        "Water Vapor"
+                    ],
+                    "answer_value": "Carbon Dioxide"
+                },
+                {
+                    "question_id": 3098848484848,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "What is the negative impact of deforestation mentioned in the passage?",
+                    "options": [
+                        "Reduces biodiversity",
+                        "Increases soil erosion",
+                        "Releases stored carbon",
+                        "All of the above"
+                    ],
+                    "answer_value": "All of the above"
+                },
+                {
+                    "question_id": 89090909393484848,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "The word 'mitigate' in the passage is closest in meaning to:",
+                    "options": [
+                        "Eliminate",
+                        "Control",
+                        "Ignore",
+                        "Produce"
+                    ],
+                    "answer_value": "Control"
+                },
+                {
+                    "question_id": 8099938343248,
+                    "comprehension_title": "The Amazon Rainforest",
+                    "comprehension": "The Amazon rainforest, often referred to as the (lungs of the planet), plays a vital role in regulating Earth's atmosphere. Lush green foliage blanketing millions of square kilometers absorbs vast amounts of carbon dioxide, a greenhouse gas, during photosynthesis. This process helps mitigate climate change by preventing excessive heat from escaping back into space.  However, deforestation, driven by factors like logging and agricultural expansion, disrupts this delicate balance. When trees are cut down, their stored carbon is released back into the atmosphere, accelerating global warming.",
+                    "question_value": "Based on the passage, why is deforestation a concern?",
+                    "options": [
+                        "Reduces the beauty of the rainforest",
+                        "Disrupts the habitat of animals",
+                        "Contributes to climate change",
+                        "All of the above"
+                    ],
+                    "answer_value": "All of the above"
+                },
+                {
+                    "question_id": 494849344,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "What is coral bleaching and how does it affect marine ecosystems?",
+                    "options": [
+                        "It is a process where corals change color naturally, enhancing biodiversity.",
+                        "It is the expulsion of symbiotic algae from corals, leading to the death of the coral and affecting marine life dependent on reefs.",
+                        "It is the process where corals gain more algae, increasing their growth and the surrounding marine life.",
+                        "It is the phenomenon where corals harden due to increased calcium carbonate, strengthening the reefs."
+                    ],
+                    "answer_value": "It is the expulsion of symbiotic algae from corals, leading to the death of the coral and affecting marine life dependent on reefs."
+                },
+                {
+                    "question_id": 58899389,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "How does ocean acidification impact marine organisms?",
+                    "options": [
+                        "It increases the availability of carbonate ions, enhancing the growth of calcium carbonate structures.",
+                        "It reduces the availability of carbonate ions, impairing the growth and survival of organisms that rely on calcium carbonate structures.",
+                        "It has no significant impact on marine organisms as they adapt quickly.",
+                        "It reduces the oxygen levels in the water, causing marine organisms to suffocate."
+                    ],
+                    "answer_value": "It reduces the availability of carbonate ions, impairing the growth and survival of organisms that rely on calcium carbonate structures."
+                },
+                {
+                    "question_id": 690909090,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "What is one of the effects of the melting polar ice caps and glaciers?",
+                    "options": [
+                        "Decreased erosion of coastal habitats",
+                        "Increased availability of marine biodiversity",
+                        "Rising sea levels threatening coastal habitats and human settlements",
+                        "Stabilization of ocean currents and temperatures"
+                    ],
+                    "answer_value": "Rising sea levels threatening coastal habitats and human settlements"
+                },
+                {
+                    "question_id": 778799049,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "How can changes in ocean currents and temperatures affect marine species?",
+                    "options": [
+                        "By ensuring stable habitats and improving biodiversity",
+                        "By altering their distribution and behavior, leading to shifts in marine biodiversity and potential fisheries collapse",
+                        "By reducing the overall biodiversity of terrestrial ecosystems",
+                        "By decreasing the levels of atmospheric carbon dioxide"
+                    ],
+                    "answer_value": "By altering their distribution and behavior, leading to shifts in marine biodiversity and potential fisheries collapse"
+                },
+                {
+                    "question_id": 898393834,
+                    "comprehension_title": "The Impact of Climate Change on Marine Ecosystems",
+                    "comprehension": "Climate change is having a profound impact on marine ecosystems around the globe. Rising ocean temperatures are causing widespread coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, leading to a loss of color and, eventually, the death of the coral. This not only affects the corals themselves but also the vast array of marine life that depends on coral reefs for food and shelter.\n\nAdditionally, the increase in atmospheric carbon dioxide is leading to ocean acidification. This process reduces the availability of carbonate ions, which are crucial for the formation of calcium carbonate structures in marine organisms such as shellfish and certain types of plankton. Ocean acidification can impair the growth and survival of these organisms, disrupting marine food webs and ecosystems.\n\nThe melting of polar ice caps and glaciers is another consequence of climate change, contributing to rising sea levels. This poses a threat to coastal habitats and human settlements, leading to increased erosion, flooding, and loss of biodiversity. Furthermore, changes in ocean currents and temperatures can alter the distribution and behavior of marine species, leading to shifts in marine biodiversity and the potential collapse of fisheries.\n\nEfforts to mitigate the impact of climate change on marine ecosystems include reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices. It is essential for global cooperation and policy changes to address these challenges and preserve the health of our oceans.",
+                    "question_value": "What are some efforts mentioned in the passage to mitigate the impact of climate change on marine ecosystems?",
+                    "options": [
+                        "Increasing greenhouse gas emissions and constructing more coastal settlements",
+                        "Reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices",
+                        "Enhancing ocean acidification and encouraging overfishing",
+                        "Melting polar ice caps and altering ocean currents"
+                    ],
+                    "answer_value": "Reducing greenhouse gas emissions, protecting and restoring marine habitats, and promoting sustainable fishing practices"
+                },
+                {
+                    "question_id": 394849344,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "Who invented the telegraph?",
+                    "options": [
+                        "Alexander Graham Bell",
+                        "Samuel Morse",
+                        "Thomas Edison",
+                        "Nikola Tesla"
+                    ],
+                    "answer_value": "Samuel Morse"
+                },
+                {
+                    "question_id": 48899389,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "What did the invention of the telegraph pave the way for?",
+                    "options": [
+                        "The internet",
+                        "The radio",
+                        "The telephone",
+                        "The television"
+                    ],
+                    "answer_value": "The telephone"
+                },
+                {
+                    "question_id": 590909090,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "Which 20th-century developments brought news and entertainment into homes worldwide?",
+                    "options": [
+                        "The telegraph and the internet",
+                        "The radio and the telephone",
+                        "The television and the telegraph",
+                        "The radio and the television"
+                    ],
+                    "answer_value": "The radio and the television"
+                },
+                {
+                    "question_id": 678799049,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "What is the most significant advancement in communication technology mentioned in the passage?",
+                    "options": [
+                        "The telegraph",
+                        "The telephone",
+                        "The internet",
+                        "The television"
+                    ],
+                    "answer_value": "The internet"
+                },
+                {
+                    "question_id": 798393834,
+                    "comprehension_title": "The Evolution of Communication Technology",
+                    "comprehension": "The evolution of communication technology has been a cornerstone of human progress, transforming the way we interact and share information. From the invention of the telegraph in the 19th century to the rise of the internet in the late 20th century, each advancement has brought profound changes. The telegraph, invented by Samuel Morse, allowed messages to be sent over long distances almost instantaneously. This innovation paved the way for the telephone, which revolutionized personal and business communication.\n\nThe 20th century saw the development of radio and television, which brought news and entertainment into homes worldwide. The internet, arguably the most significant advancement, has created a global network connecting billions of people. It has facilitated the rapid exchange of information, enabling advancements in various fields including education, healthcare, and commerce.\n\nAs communication technology continues to evolve, we are witnessing the rise of artificial intelligence and machine learning. These technologies are enhancing our ability to process and analyze vast amounts of data, leading to smarter decision-making and more personalized experiences. The impact of these advancements on society is profound, influencing how we work, learn, and connect with one another.",
+                    "question_value": "What emerging technologies are enhancing our ability to process and analyze data?",
+                    "options": [
+                        "The telegraph and the telephone",
+                        "Radio and television",
+                        "Artificial intelligence and machine learning",
+                        "The internet and the telephone"
+                    ],
+                    "answer_value": "Artificial intelligence and machine learning"
+                },
+                {
+                    "question_id": 833323748219,
+                    "question_value": "Despite their _____ efforts, the team was unable to secure the championship.",
+                    "options": [
+                        "superficial",
+                        "arduous",
+                        "half-hearted",
+                        "apathetic"
+                    ],
+                    "answer_value": "arduous"
+                },
+                {
+                    "question_id": 82374857367,
+                    "question_value": "Identify the figure of speech: 'Her smile was as bright as the sun.'",
+                    "options": [
+                        "Simile",
+                        "Hyperbole",
+                        "Metaphor",
+                        "Personification"
+                    ],
+                    "answer_value": "Simile"
+                },
+                {
+                    "question_id": 8237482634509,
+                    "question_value": "Despite the CEO's _____ remarks, the company's employees were still anxious about their jobs.",
+                    "options": [
+                        "reassuring",
+                        "condescending",
+                        "ambiguous",
+                        "derogatory"
+                    ],
+                    "answer_value": "reassuring"
+                },
+                {
+                    "question_id": 823748876218,
+                    "question_value": "The _____ of the project was evident in the meticulous planning and execution.",
+                    "options": [
+                        "haphazardness",
+                        "complexity",
+                        "simplicity",
+                        "chaos"
+                    ],
+                    "answer_value": "complexity"
+                },
+                {
+                    "question_id": 8237465538214,
+                    "question_value": "She was known for her _____ ability to solve complex mathematical problems.",
+                    "options": [
+                        "innate",
+                        "mediocre",
+                        "rudimentary",
+                        "acquired"
+                    ],
+                    "answer_value": "innate"
+                },
+                {
+                    "question_id": 823423748221,
+                    "question_value": "Her _____ attitude towards the project resulted in several critical errors.",
+                    "options": [
+                        "meticulous",
+                        "indifferent",
+                        "diligent",
+                        "scrupulous"
+                    ],
+                    "answer_value": "indifferent"
+                },
+                {
+                    "question_id": 82374820144,
+                    "question_value": "What is the antonym of 'efficacious'?",
+                    "options": [
+                        "Effective",
+                        "Ineffectual",
+                        "Productive",
+                        "Efficient"
+                    ],
+                    "answer_value": "Ineffectual"
+                },
+                {
+                    "question_id": 823748256204,
+                    "question_value": "What is the meaning of the word 'recalcitrant'?",
+                    "options": [
+                        "Submissive",
+                        "Defiant",
+                        "Obedient",
+                        "Compliant"
+                    ],
+                    "answer_value": "Defiant"
+                },
+                {
+                    "question_id": 239874346,
+                    "question_value": "What is the plural form of 'mouse'?",
+                    "options": [
+                        "Mouses",
+                        "Mices",
+                        "Mouse",
+                        "Mice"
+                    ],
+                    "answer_value": "Mice"
+                },
+                {
+                    "question_id": 82374832050,
+                    "question_value": "Which word is a synonym for 'laconic'?",
+                    "options": [
+                        "Verbose",
+                        "Wordy",
+                        "Reticent",
+                        "Talkative"
+                    ],
+                    "answer_value": "Reticent"
+                },
+                {
+                    "question_id": 9139750240,
+                    "question_value": "What is the difference between a metaphor and a simile?",
+                    "options": [
+                        "Metaphors directly state a comparison, while similes use 'like' or 'as'.",
+                        "Metaphors are hidden comparisons, while similes are explicit.",
+                        "Metaphors are used in poetry, while similes are used in prose.",
+                        "There is no difference."
+                    ],
+                    "answer_value": "Metaphors directly state a comparison, while similes use 'like' or 'as'."
+                },
+                {
+                    "question_id": 4356219801,
+                    "question_value": "What is the central idea of a text?",
+                    "options": [
+                        "The main topic or message of the text",
+                        "The setting of the story",
+                        "The characters involved in the story",
+                        "The plot of the story"
+                    ],
+                    "answer_value": "The main topic or message of the text"
+                },
+                {
+                    "question_id": 654434321,
+                    "question_value": "What is the subject in the sentence: 'The cat sat on the mat.'?",
+                    "options": [
+                        "The",
+                        "Cat",
+                        "Sat",
+                        "Mat"
+                    ],
+                    "answer_value": "Cat"
+                },
+                {
+                    "question_id": 823747568213,
+                    "question_value": "The _____ effects of climate change are already being felt in many parts of the world.",
+                    "options": [
+                        "negligible",
+                        "pervasive",
+                        "ephemeral",
+                        "transient"
+                    ],
+                    "answer_value": "pervasive"
+                },
+                {
+                    "question_id": 342781,
+                    "question_value": "Which word is a homophone for 'to'?",
+                    "options": [
+                        "Too",
+                        "Two",
+                        "Toe",
+                        "Both A and B"
+                    ],
+                    "answer_value": "Both A and B"
+                },
+                {
+                    "question_id": 823748255551,
+                    "question_value": "Identify the figure of speech: 'She was drowning in a sea of paperwork.'",
+                    "options": [
+                        "Metaphor",
+                        "Simile",
+                        "Hyperbole",
+                        "Personification"
+                    ],
+                    "answer_value": "Metaphor"
+                },
+                {
+                    "question_id": 8237482324502,
+                    "question_value": "Identify the word that does not belong in the group: 'ephemeral, transient, perennial, fleeting'.",
+                    "options": [
+                        "Ephemeral",
+                        "Transient",
+                        "Perennial",
+                        "Fleeting"
+                    ],
+                    "answer_value": "Perennial"
+                },
+                {
+                    "question_id": 8237486455229,
+                    "question_value": "The committee's decision was _____ by the recent changes in the _____.",
+                    "options": [
+                        "complicated, economy",
+                        "facilitated, law",
+                        "obstructed, weather",
+                        "inspired, culture"
+                    ],
+                    "answer_value": "facilitated, law"
+                },
+                {
+                    "question_id": 823787748216,
+                    "question_value": "His speech was full of _____ intended to mislead the audience.",
+                    "options": [
+                        "clarity",
+                        "equivocations",
+                        "honesty",
+                        "transparency"
+                    ],
+                    "answer_value": "equivocations"
+                },
+                {
+                    "question_id": 123978,
+                    "question_value": "Which sentence is grammatically correct?",
+                    "options": [
+                        "She don't like apples.",
+                        "She doesn't like apples.",
+                        "She do not like apples.",
+                        "She does not likes apples."
+                    ],
+                    "answer_value": "She doesn't like apples."
+                },
+                {
+                    "question_id": 125543789,
+                    "question_value": "Which word means 'a synonym for quick'?",
+                    "options": [
+                        "Slow",
+                        "Fast",
+                        "Run",
+                        "Quickly"
+                    ],
+                    "answer_value": "Fast"
+                },
+                {
+                    "question_id": 82374823456741,
+                    "question_value": "Identify the figure of speech: 'Her laughter was a melody that filled the room.'",
+                    "options": [
+                        "Metaphor",
+                        "Simile",
+                        "Hyperbole",
+                        "Alliteration"
+                    ],
+                    "answer_value": "Metaphor"
+                },
+                {
+                    "question_id": 8237482345222,
+                    "question_value": "The scientist's theory was considered _____ until it was _____ with empirical evidence.",
+                    "options": [
+                        "innovative, discarded",
+                        "heretical, denounced",
+                        "ambiguous, clarified",
+                        "untenable, proven"
+                    ],
+                    "answer_value": "untenable, proven"
+                },
+                {
+                    "question_id": 823746358208,
+                    "question_value": "The artist's work was acclaimed for its _____ blend of colors and textures.",
+                    "options": [
+                        "harmonious",
+                        "discordant",
+                        "simplistic",
+                        "conventional"
+                    ],
+                    "answer_value": "harmonious"
+                },
+                {
+                    "question_id": 823746678230,
+                    "question_value": "His speech was full of _____ intended to _____ the audience.",
+                    "options": [
+                        "clarity, enlighten",
+                        "equivocations, mislead",
+                        "honesty, convince",
+                        "transparency, assure"
+                    ],
+                    "answer_value": "equivocations, mislead"
+                },
+                {
+                    "question_id": 823734548199,
+                    "question_value": "Choose the word that is closest in meaning to 'obfuscate'.",
+                    "options": [
+                        "Clarify",
+                        "Simplify",
+                        "Confuse",
+                        "Illuminate"
+                    ],
+                    "answer_value": "Confuse"
+                },
+                {
+                    "question_id": 823743458217,
+                    "question_value": "The politician's _____ promises did little to gain the trust of the voters.",
+                    "options": [
+                        "vague",
+                        "concrete",
+                        "explicit",
+                        "detailed"
+                    ],
+                    "answer_value": "vague"
+                },
+                {
+                    "question_id": 823744348239,
+                    "question_value": "Identify the figure of speech: 'The world is a stage.'",
+                    "options": [
+                        "Simile",
+                        "Metaphor",
+                        "Alliteration",
+                        "Personification"
+                    ],
+                    "answer_value": "Metaphor"
+                },
+                {
+                    "question_id": 34128654478,
+                    "question_value": "Which word is a noun?",
+                    "options": [
+                        "Run",
+                        "Happy",
+                        "House",
+                        "Quickly"
+                    ],
+                    "answer_value": "House"
+                },
+                {
+                    "question_id": 3283355947,
+                    "question_value": "What is the comparative form of 'tall'?",
+                    "options": [
+                        "Taller",
+                        "Tallest",
+                        "More tall",
+                        "Most tall"
+                    ],
+                    "answer_value": "Taller"
+                },
+                {
+                    "question_id": 823748774237,
+                    "question_value": "Identify the figure of speech: 'The leaves danced in the wind.'",
+                    "options": [
+                        "Metaphor",
+                        "Simile",
+                        "Personification",
+                        "Hyperbole"
+                    ],
+                    "answer_value": "Personification"
+                },
+                {
+                    "question_id": 455456123,
+                    "question_value": "What is the correct form of 'to be' in the sentence: 'They ___ happy.'?",
+                    "options": [
+                        "Am",
+                        "Is",
+                        "Are",
+                        "Be"
+                    ],
+                    "answer_value": "Are"
+                },
+                {
+                    "question_id": 1928234537,
+                    "question_value": "Which word is a conjunction?",
+                    "options": [
+                        "And",
+                        "Very",
+                        "Quick",
+                        "Run"
+                    ],
+                    "answer_value": "And"
+                },
+                {
+                    "question_id": 23223457849,
+                    "question_value": "Which sentence is in the past tense?",
+                    "options": [
+                        "She is eating.",
+                        "She eats.",
+                        "She will eat.",
+                        "She ate."
+                    ],
+                    "answer_value": "She ate."
+                },
+                {
+                    "question_id": 8237482645411,
+                    "question_value": "The treaty was intended to _____ hostilities between the two warring nations.",
+                    "options": [
+                        "escalate",
+                        "prolong",
+                        "mitigate",
+                        "instigate"
+                    ],
+                    "answer_value": "mitigate"
+                },
+                {
+                    "question_id": 9867657654,
+                    "question_value": "Which sentence is an example of a simile?",
+                    "options": [
+                        "She is as fast as a cheetah.",
+                        "She is a fast cheetah.",
+                        "She runs faster than a cheetah.",
+                        "She runs fast."
+                    ],
+                    "answer_value": "She is as fast as a cheetah."
+                },
+                {
+                    "question_id": 135709898492,
+                    "question_value": "Which word means 'a place where books are kept'?",
+                    "options": [
+                        "Library",
+                        "Kitchen",
+                        "Garage",
+                        "School"
+                    ],
+                    "answer_value": "Library"
+                },
+                {
+                    "question_id": 82327448198,
+                    "question_value": "What is the meaning of the word 'antediluvian'?",
+                    "options": [
+                        "Modern",
+                        "Ancient",
+                        "Futuristic",
+                        "Primitive"
+                    ],
+                    "answer_value": "Ancient"
+                },
+                {
+                    "question_id": 182423734,
+                    "question_value": "Which sentence uses the correct form of 'their\/there\/they're'?",
+                    "options": [
+                        "Their going to the park.",
+                        "There going to the park.",
+                        "They're going to the park.",
+                        "Theyre going to the park."
+                    ],
+                    "answer_value": "They're going to the park."
+                },
+                {
+                    "question_id": 823748646227,
+                    "question_value": "The _____ effects of climate change are already being felt in many parts of the _____.",
+                    "options": [
+                        "negligible, country",
+                        "pervasive, world",
+                        "ephemeral, city",
+                        "transient, neighborhood"
+                    ],
+                    "answer_value": "pervasive, world"
+                },
+                {
+                    "question_id": 823748887245,
+                    "question_value": "Identify the figure of speech: 'The classroom was a zoo.'",
+                    "options": [
+                        "Simile",
+                        "Hyperbole",
+                        "Metaphor",
+                        "Personification"
+                    ],
+                    "answer_value": "Metaphor"
+                },
+                {
+                    "question_id": 8237486456226,
+                    "question_value": "The author's use of _____ language added _____ to the narrative.",
+                    "options": [
+                        "colloquial, simplicity",
+                        "pedestrian, confusion",
+                        "laconic, brevity",
+                        "ornate, depth"
+                    ],
+                    "answer_value": "ornate, depth"
+                },
+                {
+                    "question_id": 82374843192,
+                    "question_value": "Which word is a synonym for 'loquacious'?",
+                    "options": [
+                        "Taciturn",
+                        "Garrulous",
+                        "Reticent",
+                        "Pithy"
+                    ],
+                    "answer_value": "Garrulous"
+                },
+                {
+                    "question_id": 82374813395,
+                    "question_value": "Which word is most opposite in meaning to 'munificent'?",
+                    "options": [
+                        "Generous",
+                        "Stingy",
+                        "Lavish",
+                        "Charitable"
+                    ],
+                    "answer_value": "Stingy"
+                },
+                {
+                    "question_id": 782344231,
+                    "question_value": "Which sentence is grammatically correct?",
+                    "options": [
+                        "She go to school.",
+                        "She going to school.",
+                        "She goes to school.",
+                        "She gone to school."
+                    ],
+                    "answer_value": "She goes to school."
+                }
+            ]
+        },
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 239202932030327,
+                    "question_value": "A string fixed at both ends vibrates at its fundamental frequency of 50 Hz. If the length of the string is 1.5 m and the speed of the wave on the string is 300 m\/s, calculate the wavelength of the wave.",
+                    "options": [
+                        "1 m",
+                        "2 m",
+                        "3 m",
+                        "4 m"
+                    ],
+                    "answer_value": "3 m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203330332,
+                    "question_value": "A wheel with a radius of 0.5 m rotates at 60 RPM. Calculate the linear velocity of a point on the rim of the wheel.",
+                    "options": [
+                        "1.5 m\/s",
+                        "3 m\/s",
+                        "5 m\/s",
+                        "6 m\/s"
+                    ],
+                    "answer_value": "3 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 543210745,
+                    "question_value": "What is the formula for calculating speed?",
+                    "options": [
+                        "s = vt",
+                        "s = v\/t",
+                        "s = t\/v",
+                        "s = v^2"
+                    ],
+                    "answer_value": "s = v\/t"
+                },
+                {
+                    "question_id": 5435443876,
+                    "question_value": "What is the unit of measurement for frequency?",
+                    "options": [
+                        "Hertz",
+                        "Watt",
+                        "Joule",
+                        "Ampere"
+                    ],
+                    "answer_value": "Hertz"
+                },
+                {
+                    "question_id": 234293290908815,
+                    "question_value": "A force of 20 N moves an object 3 meters. Calculate the work done.",
+                    "options": [
+                        "50 J",
+                        "60 J",
+                        "70 J",
+                        "80 J"
+                    ],
+                    "answer_value": "60 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 98765564,
+                    "question_value": "What is the acceleration due to gravity on Earth?",
+                    "options": [
+                        "9.8 m\/s^2",
+                        "6.67 x 10^-11 Nm^2\/kg^2",
+                        "3 x 10^8 m\/s",
+                        "3 x 10^5 km\/s"
+                    ],
+                    "answer_value": "9.8 m\/s^2"
+                },
+                {
+                    "question_id": 23429320304232,
+                    "question_value": "A long straight wire carries a current of 5 A. Calculate the magnetic field at a distance of 2 cm from the wire. (Use \u03bc\u2080 = 4\u03c0 x 10^-7 T\u00b7m\/A)",
+                    "options": [
+                        "5 x 10^-5 T",
+                        "1 x 10^-4 T",
+                        "5 x 10^-4 T",
+                        "1 x 10^-3 T"
+                    ],
+                    "answer_value": "5 x 10^-5 T",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 93948484840391032,
+                    "question_value": "The mercury column in the barometer at natural atmospheric pressure has a height of?",
+                    "options": [
+                        "0.76 cm at see level",
+                        "760 cm at sea level",
+                        "76 cm at sea level",
+                        "7.6 cm at sea level"
+                    ],
+                    "answer_value": "76 cm at sea level",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 239388232030343,
+                    "question_value": "A straight wire carries a current of 5 A. Calculate the magnetic field strength at a point 10 cm from the wire, assuming the wire is straight and the magnetic permeability of free space is \\( 4\\pi \\times 10^{-7} \\) Tm\/A.",
+                    "options": [
+                        "2.5 \u00b5T",
+                        "5 \u00b5T",
+                        "10 \u00b5T",
+                        "20 \u00b5T"
+                    ],
+                    "answer_value": "10 \u00b5T",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030234,
+                    "question_value": "A convex lens has a focal length of 10 cm. An object is placed 15 cm from the lens. Calculate the position of the image formed.",
+                    "options": [
+                        "30 cm on the same side as the object",
+                        "30 cm on the opposite side of the object",
+                        "6 cm on the same side as the object",
+                        "6 cm on the opposite side of the object"
+                    ],
+                    "answer_value": "30 cm on the opposite side of the object",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293293939344,
+                    "question_value": "A concave lens with a focal length of -10 cm forms an image 20 cm from the lens. Is the image real, virtual, convex or fixed?",
+                    "options": [
+                        "Real",
+                        "fixed",
+                        "convex",
+                        "Virtual"
+                    ],
+                    "answer_value": "Virtual",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932234523,
+                    "question_value": "A 2 kg mass is moving with a velocity of 3 m\/s. Calculate its kinetic energy.",
+                    "options": [
+                        "6 J",
+                        "9 J",
+                        "12 J",
+                        "15 J"
+                    ],
+                    "answer_value": "9 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 340093939302,
+                    "question_value": "Which of the following is a derived unit?",
+                    "options": [
+                        "Kilogram",
+                        "Metre",
+                        "Newton",
+                        "Second"
+                    ],
+                    "answer_value": "Newton",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320333221,
+                    "question_value": "The relationship between the coefficient of linear expansion (\\(\\alpha\\)) and volumetric expansion (\\(\\gamma\\)) is:",
+                    "options": [
+                        "\\(\\gamma = 2\\alpha\\)",
+                        "\\(\\gamma = 3\\alpha\\)",
+                        "\\(\\gamma = 4\\alpha\\)",
+                        "\\(\\gamma = \\alpha\\)"
+                    ],
+                    "answer_value": "\\(\\gamma = 3\\alpha\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030310,
+                    "question_value": "A car starts from rest and covers a distance of 40 m in 10 s. Calculate the magnitude of its acceleration.",
+                    "options": [
+                        "0.4 m\/s\u00b2",
+                        "0.6 m\/s\u00b2",
+                        "0.8 m\/s\u00b2",
+                        "1.0 m\/s\u00b2"
+                    ],
+                    "answer_value": "0.8 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320324232,
+                    "question_value": "A 10 \u03bcF capacitor is charged to a potential difference of 200 V. Calculate the energy stored in the capacitor.",
+                    "options": [
+                        "0.1 J",
+                        "0.2 J",
+                        "0.5 J",
+                        "1.0 J"
+                    ],
+                    "answer_value": "0.2 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 20398394320303293,
+                    "question_value": "A gas expands from a volume of 1 m\u00b3 to 3 m\u00b3 at a constant pressure of 2 atm. Calculate the work done by the gas. (1 atm = 101.3 kPa)",
+                    "options": [
+                        "101.3 kJ",
+                        "202.6 kJ",
+                        "303.9 kJ",
+                        "405.2 kJ"
+                    ],
+                    "answer_value": "405.2 kJ",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 8765223543,
+                    "question_value": "What is the SI unit of force?",
+                    "options": [
+                        "Newton",
+                        "Joule",
+                        "Watt",
+                        "Volt"
+                    ],
+                    "answer_value": "Newton"
+                },
+                {
+                    "question_id": 2342998323333,
+                    "question_value": "A force of 20 N acts on a body of mass 5 kg for 4 seconds. What is the change in momentum of the body?",
+                    "options": [
+                        "5 kg m\/s",
+                        "20 kg m\/s",
+                        "80 kg m\/s",
+                        "100 kg m\/s"
+                    ],
+                    "answer_value": "80 kg m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 983838484334,
+                    "question_value": "A light ray passes from air into water. If the angle of incidence is 45\u00b0, calculate the angle of refraction (Refractive index of water = 1.33).",
+                    "options": [
+                        "19.5\u00b0",
+                        "30\u00b0",
+                        "45\u00b0",
+                        "60\u00b0"
+                    ],
+                    "answer_value": "30\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 765442332,
+                    "question_value": "What is the law of conservation of energy?",
+                    "options": [
+                        "Energy can neither be created nor destroyed.",
+                        "Energy is always increasing.",
+                        "Energy can be destroyed.",
+                        "Energy can be created at will."
+                    ],
+                    "answer_value": "Energy can neither be created nor destroyed."
+                },
+                {
+                    "question_id": 234293098767832,
+                    "question_value": "A mass of 0.2 kg attached to a spring oscillates with a frequency of 5 Hz. Calculate the spring constant of the spring. (Assume no damping)",
+                    "options": [
+                        "4 N\/m",
+                        "16 N\/m",
+                        "20 N\/m",
+                        "25 N\/m"
+                    ],
+                    "answer_value": "16 N\/m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23440404040403,
+                    "question_value": "If a bar magnet is divided into two pieces, which of the following statement is correct?",
+                    "options": [
+                        "two new magnets are created",
+                        "the magnetic field of each separate piece becomes stronger",
+                        "the electric field is created",
+                        "the bar magnet is demagnetized"
+                    ],
+                    "answer_value": "two new magnets are created",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030345,
+                    "question_value": "If an object just begins to slide on a surface inclined at 30\u00ba to the horizontal, what is the coefficient of friction?",
+                    "options": [
+                        "\\( \\frac{1}{\\sqrt{3}} \\)",
+                        "\\( \\frac{\\sqrt{3}}{3} \\)",
+                        "\\( \\frac{\\sqrt{3}}{2} \\)",
+                        "\\( \\sqrt{3} \\)"
+                    ],
+                    "answer_value": "\\( \\frac{1}{\\sqrt{3}} \\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030309,
+                    "question_value": "An object 40 cm high is 30 cm from the pinhole camera. If the height of the image formed is 20 cm, what is the distance of the image from the pinhole?",
+                    "options": [
+                        "10 cm",
+                        "15 cm",
+                        "20 cm",
+                        "25 cm"
+                    ],
+                    "answer_value": "15 cm",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203330443,
+                    "question_value": "A 60 W light bulb operates for 3 hours. How much energy is consumed in kilowatt-hours (kWh)?",
+                    "options": [
+                        "0.15 kWh",
+                        "0.18 kWh",
+                        "0.20 kWh",
+                        "0.25 kWh"
+                    ],
+                    "answer_value": "0.18 kWh",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932034432,
+                    "question_value": "A force of 50 N is applied to a 5 kg mass. Calculate the acceleration produced.",
+                    "options": [
+                        "5 m\/s\u00b2",
+                        "7 m\/s\u00b2",
+                        "8 m\/s\u00b2",
+                        "10 m\/s\u00b2"
+                    ],
+                    "answer_value": "10 m\/s\u00b2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429320234243,
+                    "question_value": "A point charge of 5 \u03bcC is placed at the center of a sphere of radius 3 cm. Calculate the electric field at a point on the surface of the sphere.",
+                    "options": [
+                        "5.0 x 10^5 N\/C",
+                        "1.0 x 10^6 N\/C",
+                        "3.0 x 10^6 N\/C",
+                        "5.0 x 10^6 N\/C"
+                    ],
+                    "answer_value": "5.0 x 10^5 N\/C",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 933848432030335,
+                    "question_value": "In a circuit, a resistor of 10 \u03a9 is connected in series with a resistor of 20 \u03a9. What is the total resistance of the circuit?",
+                    "options": [
+                        "3.3 \u03a9",
+                        "10 \u03a9",
+                        "20 \u03a9",
+                        "30 \u03a9"
+                    ],
+                    "answer_value": "30 \u03a9",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 6785342912,
+                    "question_value": "What is the formula for calculating power?",
+                    "options": [
+                        "P = W\/t",
+                        "P = Fd",
+                        "P = mv^2",
+                        "P = IR"
+                    ],
+                    "answer_value": "P = W\/t"
+                },
+                {
+                    "question_id": 2342932030330,
+                    "question_value": "What is the quantity of heat required to convert 20 g of ice at 0\u00b0C to water at the same temperature? (Specific latent heat of ice = 336 J\/g)",
+                    "options": [
+                        "5280 J",
+                        "6400 J",
+                        "6720 J",
+                        "7200 J"
+                    ],
+                    "answer_value": "6720 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932099037,
+                    "question_value": "A force of 50 N moves an object through a distance of 10 m in the direction of the force. Calculate the work done.",
+                    "options": [
+                        "100 J",
+                        "250 J",
+                        "500 J",
+                        "1000 J"
+                    ],
+                    "answer_value": "500 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 23429902030342,
+                    "question_value": "A resistor with resistance 20 \u03a9 has a current of 2 A flowing through it. Calculate the potential difference across the resistor.",
+                    "options": [
+                        "20 V",
+                        "40 V",
+                        "60 V",
+                        "80 V"
+                    ],
+                    "answer_value": "40 V",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 3412829,
+                    "question_value": "What is the SI unit of frequency?",
+                    "options": [
+                        "Hertz",
+                        "Newton",
+                        "Watt",
+                        "Volt"
+                    ],
+                    "answer_value": "Hertz"
+                },
+                {
+                    "question_id": 8764231543,
+                    "question_value": "What is the unit of measurement for voltage?",
+                    "options": [
+                        "Volt",
+                        "Ampere",
+                        "Ohm",
+                        "Watt"
+                    ],
+                    "answer_value": "Volt"
+                },
+                {
+                    "question_id": 987364521,
+                    "question_value": "What is the SI unit of electric charge?",
+                    "options": [
+                        "Coulomb",
+                        "Volt",
+                        "Ampere",
+                        "Ohm"
+                    ],
+                    "answer_value": "Coulomb"
+                },
+                {
+                    "question_id": 890455123,
+                    "question_value": "What is the SI unit of power?",
+                    "options": [
+                        "Watt",
+                        "Joule",
+                        "Volt",
+                        "Ampere"
+                    ],
+                    "answer_value": "Watt"
+                },
+                {
+                    "question_id": 2342932032348,
+                    "question_value": "A wave has a frequency of 50 Hz and a wavelength of 3 meters. Calculate the speed of the wave.",
+                    "options": [
+                        "100 m\/s",
+                        "150 m\/s",
+                        "200 m\/s",
+                        "250 m\/s"
+                    ],
+                    "answer_value": "150 m\/s",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 234293203454,
+                    "question_value": "A 4 kg mass is lifted to a height of 5 meters. Calculate its potential energy. (g = 9.8 m\/s\u00b2)",
+                    "options": [
+                        "100 J",
+                        "120 J",
+                        "150 J",
+                        "196 J"
+                    ],
+                    "answer_value": "196 J",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 654327431,
+                    "question_value": "What is the formula for calculating density?",
+                    "options": [
+                        "D = m\/a",
+                        "D = mv",
+                        "D = m\/v",
+                        "D = v\/m"
+                    ],
+                    "answer_value": "D = m\/v"
+                }
+            ]
+        },
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 9939094344,
+                    "question_value": "Tope bought X oranges at N5.00 each and some mangoes at N4.00 each. if she bought twice as many mangoes as oranges and spent at least N65.00 and at most N130.00, find the range of values of X.",
+                    "options": [
+                        "4\u2264X\u22645",
+                        "5\u2264X\u226410",
+                        "2\u2264X\u22640",
+                        "6\u2264X\u22645"
+                    ],
+                    "answer_value": "5\u2264X\u226410",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1028374645559,
+                    "question_value": "Calculate <eq>\\frac{2434_6}{426_6}<\/eq>",
+                    "options": [
+                        "<eq>20_{6}<\/eq>",
+                        "<eq>25_{6}<\/eq>",
+                        "<eq>30_{6}<\/eq>",
+                        "<eq>35_{6}<\/eq>"
+                    ],
+                    "answer_value": "<eq>30_{6}<\/eq>"
+                },
+                {
+                    "question_id": 4883939303930393,
+                    "question_value": "In a class of 150 students, the sector in a pie chart representing the students offering physics has angle <eq>12\\degree<\/eq>. How many students are offering physics? ",
+                    "options": [
+                        "15",
+                        "10",
+                        "5",
+                        "4"
+                    ],
+                    "answer_value": "5",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 787837294404243,
+                    "question_value": "Reach each number to two significant figures and then evaluate <eq> \\frac{0.02174 \\times 1.2047}{0.023789} <\/eq>",
+                    "options": [
+                        "0.5",
+                        "1.1",
+                        "0",
+                        "1.2"
+                    ],
+                    "answer_value": "1.1",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102837324664,
+                    "question_value": "Calculate <eq>\\frac{3412_9}{112_9}<\/eq>",
+                    "options": [
+                        "<eq>31_{9}<\/eq>",
+                        "<eq>33_{9}<\/eq>",
+                        "<eq>35_{9}<\/eq>",
+                        "<eq>37_{9}<\/eq>"
+                    ],
+                    "answer_value": "<eq>31_{9}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030303,
+                    "question_value": "Simplify <eq>\\frac{1}{3 - \\sqrt{2}}<\/eq> in the form of <eq> p + q \\sqrt{2}<\/eq>",
+                    "options": [
+                        "<eq>\\frac{3 + \\sqrt{2}}{7}<\/eq>",
+                        "<eq>\\frac{3 - \\sqrt{2}}{7}<\/eq>",
+                        "<eq>\\frac{3}{7} + \\frac{\\sqrt{2}}{7}<\/eq>",
+                        "<eq>\\frac{3}{7} - \\frac{\\sqrt{2}}{7}<\/eq>"
+                    ],
+                    "answer_value": "<eq>\\frac{3}{7} + \\frac{\\sqrt{2}}{7}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102833003667,
+                    "question_value": "Evaluate <eq>(2021)_3^2<\/eq>",
+                    "options": [
+                        "21010",
+                        "21101",
+                        "20021",
+                        "20100"
+                    ],
+                    "answer_value": "21101",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 4373737373843303,
+                    "question_value": "if <eq>\\sin \\theta = -\\frac{3}{5} <\/eq> and \u03b8 lies in the third quadrant, find cos \u03b8",
+                    "options": [
+                        "<eq>\\frac{4}{5}<\/eq>",
+                        "<eq>\\frac{2}{5}<\/eq>",
+                        "<eq>-\\frac{1}{5}<\/eq>",
+                        "<eq>-\\frac{4}{5}<\/eq>"
+                    ],
+                    "answer_value": "<eq>-\\frac{4}{5}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 54781832,
+                    "question_value": "If a rectangle has a length of 5 and a width of 3, what is its area?",
+                    "options": [
+                        "8",
+                        "15",
+                        "10",
+                        "18"
+                    ],
+                    "answer_value": "15"
+                },
+                {
+                    "question_id": 47885239,
+                    "question_value": "Simplify <eq>\\sqrt{\\frac{(0.0023 \\times 750)}{(0.00345 \\times 1.25)}}<\/eq>",
+                    "options": [
+                        "15",
+                        "20",
+                        "40",
+                        "75"
+                    ],
+                    "answer_value": "20"
+                },
+                {
+                    "question_id": 78128834,
+                    "question_value": "If log 10 to base 8 = x, evaluate log 5 to base 8 in terms of <eq>x<\/eq>.",
+                    "options": [
+                        "<eq>\\frac{1}{2}x<\/eq>",
+                        "<eq>x-\\frac{1}{4}<\/eq>",
+                        "<eq>x-\\frac{1}{3}<\/eq>",
+                        "<eq>x-\\frac{1}{2}<\/eq>"
+                    ],
+                    "answer_value": " <eq>x-\\frac{1}{3}<\/eq>"
+                },
+                {
+                    "question_id": 43938494934942,
+                    "question_value": "If the mean of 2, 5, (x+1), (x+2), 7 and 9 is 6. Find the median ",
+                    "options": [
+                        "5.5",
+                        "5",
+                        "6.5",
+                        "6"
+                    ],
+                    "answer_value": "6.5",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 10283654668,
+                    "question_value": "Calculate <eq>\\frac{4343_5}{122_5}<\/eq>",
+                    "options": [
+                        "<eq>2_{5}<\/eq>",
+                        "<eq>4_{5}<\/eq>",
+                        "<eq>6_{5}<\/eq>",
+                        "<eq>8_{5}<\/eq>"
+                    ],
+                    "answer_value": "34_{5}",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 10284234669,
+                    "question_value": "Evaluate <eq>(323)_6^2<\/eq>",
+                    "options": [
+                        "1333",
+                        "1113",
+                        "1223",
+                        "1123"
+                    ],
+                    "answer_value": "1333",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1823587849,
+                    "question_value": "A triangle has a base of 6 and a height of 3. What is its area?",
+                    "options": [
+                        "9",
+                        "12",
+                        "18",
+                        "20"
+                    ],
+                    "answer_value": "9"
+                },
+                {
+                    "question_id": 383888899332,
+                    "question_value": "The sum of two numbers is twice their difference. If the difference of the numbers is P, find the larger of the two numbers",
+                    "options": [
+                        "p\/2",
+                        "3p\/2",
+                        "5p\/2",
+                        "3p"
+                    ],
+                    "answer_value": "3p\/2",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 43848387483445,
+                    "question_value": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room ",
+                    "options": [
+                        "<eq>\\frac{15}{17}<\/eq>",
+                        "<eq>\\frac{8}{17}<\/eq>",
+                        "<eq>\\frac{12}{17}<\/eq>",
+                        "<eq>\\frac{9}{17}<\/eq>"
+                    ],
+                    "answer_value": "<eq>\\frac{15}{17}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 483838383423,
+                    "question_value": "Divide <eq>4x^3 - 3x + 1<\/eq> by <eq>2x - 1<\/eq>",
+                    "options": [
+                        "<eq>2x^2-x+1<\/eq>",
+                        "<eq>2x^2-x-1<\/eq>",
+                        "<eq>2x^2+x+1<\/eq>",
+                        "<eq>2x^2+x-1<\/eq>"
+                    ],
+                    "answer_value": "<eq>2x^2+x-1<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 9300928883,
+                    "question_value": "If log 10 to base 8 = X, evaluate log 5 to base 8 in terms of X.",
+                    "options": [
+                        "25",
+                        "<eq>\\frac{1}{2X}<\/eq>",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 102837314661,
+                    "question_value": "Evaluate <eq>1101_2^4<\/eq>",
+                    "options": [
+                        "11010",
+                        "10111",
+                        "10011",
+                        "11110"
+                    ],
+                    "answer_value": "11110",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 4383839394233,
+                    "question_value": "Find all median of the numbers 89, 141, 130, 161, 120, 131, 131, 100, 108 and 119 ",
+                    "options": [
+                        "131",
+                        "120",
+                        "123",
+                        "125"
+                    ],
+                    "answer_value": "125",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 8737378950953,
+                    "question_value": "If a fair coin is tossed twice, what is the probability of obtaining at least one head?",
+                    "options": [
+                        "0.75",
+                        "0.25",
+                        "0.5",
+                        "0.43"
+                    ],
+                    "answer_value": "0.75",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 4300909090909003,
+                    "question_value": "In \u2206MNO, MN = 6 units, MO = 4 units and NO = 12 units. If the bisector of and M meets NO at P, calculate NP.",
+                    "options": [
+                        "7.2 units",
+                        "7.99 units",
+                        "18.0 units",
+                        "4.8 units"
+                    ],
+                    "answer_value": "7.2 units",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030307,
+                    "question_value": "The 10th term of an AP is 32. If the first term is 3\/2, what is the 4th term?",
+                    "options": [
+                        "<eq>\\frac{11}{2}<\/eq>",
+                        "<eq>\\frac{16}{3}<\/eq>",
+                        "<eq>\\frac{20}{3}<\/eq>",
+                        "<eq>\\frac{35}{3}<\/eq>"
+                    ],
+                    "answer_value": "<eq>\\frac{35}{3}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1028374670,
+                    "question_value": "Given that the mean of 2, 5,x+1, x+2, 7, and 9 is 6, find the median.",
+                    "options": [
+                        "5",
+                        "6",
+                        "6.5",
+                        "7"
+                    ],
+                    "answer_value": "6.5",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102118374663,
+                    "question_value": "Evaluate <eq>(431)_7^2<\/eq>",
+                    "options": [
+                        "2351",
+                        "2551",
+                        "2111",
+                        "2651"
+                    ],
+                    "answer_value": "2111",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 34787821,
+                    "question_value": "if <eq>m \\times n = (\\frac{m}{n} - \\frac{n}{m})<\/eq> for m, n belongs to R, evaluate <eq>-3\\times4<\/eq>",
+                    "options": [
+                        "<eq>\\frac{-25}{12}<\/eq>",
+                        "<eq>\\frac{-7}{12}<\/eq>",
+                        "<eq>\\frac{7}{12}<\/eq>",
+                        "<eq>\\frac{25}{12}<\/eq>"
+                    ],
+                    "answer_value": "<eq>\\frac{7}{12}<\/eq>"
+                },
+                {
+                    "question_id": 999389424835,
+                    "question_value": "Express <eq>\\frac{1}{x^3\u22121}<\/eq> in partial fractions",
+                    "options": [
+                        "<eq>\\frac{1}{3}(\\frac{1}{x-1} - \\frac{(x+2)}{x^2+x+1})<\/eq>",
+                        "<eq>\\frac{1}{3}(\\frac{1}{x+1} - \\frac{(x+2)}{x^2+x+4})<\/eq>",
+                        "<eq>\\frac{1}{3}(\\frac{1}{x-1} - \\frac{(x-2)}{x^2+x+1})<\/eq>",
+                        "<eq>\\frac{1}{3}(\\frac{1}{x-1} - \\frac{(x+2)}{x^2-x-1})<\/eq>"
+                    ],
+                    "answer_value": "<eq>\\frac{1}{3}(\\frac{1}{x-1} - \\frac{(x+2)}{x^2+x+1})<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 38719642,
+                    "question_value": "What is the answer when <eq>2434_6<\/eq> is divided by <eq>42_6<\/eq>?",
+                    "options": [
+                        "<eq>23_6<\/eq>",
+                        "<eq>35_6<\/eq>",
+                        "<eq>52_6<\/eq>",
+                        "<eq>55_6<\/eq>"
+                    ],
+                    "answer_value": "<eq>35_6<\/eq>"
+                },
+                {
+                    "question_id": 4938394303930393,
+                    "question_value": "If <eq>log_{10} 2 = 0.3010<\/eq> and <eq>log_{10} 3 = 0.4771<\/eq>, eventually without using the logarithm tables, <eq>log_{10} 4.5<\/eq>",
+                    "options": [
+                        "0.3010",
+                        "0.4771",
+                        "0.5432",
+                        "0.6532"
+                    ],
+                    "answer_value": "0.6532",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 947233683,
+                    "question_value": "Find the value of <eq>x<\/eq> if <eq>\\frac{\\sqrt2}{x+\\sqrt2}=\\frac{1}{x-\\sqrt2}<\/eq>",
+                    "options": [
+                        "<eq>3{\\sqrt2}+4<\/eq>",
+                        "<eq>3{\\sqrt2}-4<\/eq>",
+                        "<eq>3-2{\\sqrt2}<\/eq>",
+                        "<eq>4+2{\\sqrt2}<\/eq>"
+                    ],
+                    "answer_value": "<eq>3{\\sqrt2}+4<\/eq>"
+                },
+                {
+                    "question_id": 12303930300392,
+                    "question_value": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gifts(g), savings(s) and some miscellaneous (m) as indicated in the table below:\n F-28% ,R-15% ,c-20% ,G-14% ,S-10% ,M-13% .\nIf the information on the table is represented on a pie chart, what angle represents his spending on food?",
+                    "options": [
+                        "28\u00b0",
+                        "72\u00b0",
+                        "100.8\u00b0",
+                        "126\u00b0"
+                    ],
+                    "answer_value": "100.8\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 481345239,
+                    "question_value": "If a train travels 50 km\/h and travels for 3 hours, how far does it go?",
+                    "options": [
+                        "100 km",
+                        "150 km",
+                        "200 km",
+                        "250 km"
+                    ],
+                    "answer_value": "150 km"
+                },
+                {
+                    "question_id": 923865347,
+                    "question_value": "A trader bought 100 oranges at 5 for N1.20, 20 oranges got spoilt and the remaining were sold at 4 for N1.50. Find the percentage gain or loss.?",
+                    "options": [
+                        "30% gain",
+                        "25% gain",
+                        "30% gain",
+                        "25% gain"
+                    ],
+                    "answer_value": "25% gain"
+                },
+                {
+                    "question_id": 9838374849203423,
+                    "question_value": "The first term of a geometric progression is twice its common ratio. Find the sum of the first two terms of the G.P if its sum to infinity is 8.",
+                    "options": [
+                        "8\/5",
+                        "72\/25",
+                        "8\/3",
+                        "54\/43"
+                    ],
+                    "answer_value": "72\/25",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1028345445474659,
+                    "question_value": "Differentiate <eq> (\\cos \\theta + \\sin \\theta)^2<\/eq> with respect to <eq>\\theta<\/eq>.",
+                    "options": [
+                        "2cos2\u03b8",
+                        "2sin2\u03b8",
+                        "-2cos2\u03b8",
+                        "-2sin2\u03b8"
+                    ],
+                    "answer_value": "2cos2\u03b8"
+                },
+                {
+                    "question_id": 43849943494049,
+                    "question_value": "Evaluate <eq>(212)_3 - (121)_3 + (222)_3<\/eq>",
+                    "options": [
+                        "<eq>(1020)_3<\/eq>",
+                        "<eq>(1120)_3<\/eq>",
+                        "<eq>(1220)_3<\/eq>",
+                        "<eq>(1320)_3<\/eq>"
+                    ],
+                    "answer_value": "<eq>(1020)_3<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1028374660,
+                    "question_value": "Calculate <eq>\\frac{5432_8}{173_8}<\/eq>",
+                    "options": [
+                        "<eq>26_{8}<\/eq>",
+                        "<eq>27_{8}<\/eq>",
+                        "<eq>30_{8}<\/eq>",
+                        "<eq>32_{8}<\/eq>"
+                    ],
+                    "answer_value": "<eq>27_{8}<\/eq>",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 4883900393043,
+                    "question_value": "A man 1.7m tall observes a bird on top of a tree at an angle of 30\u00b0. if the distance between the man's head and the bird is 25m, what is the height of the tree?",
+                    "options": [
+                        "14.2 m",
+                        "15.0 m",
+                        "20 m",
+                        "12.5 m"
+                    ],
+                    "answer_value": "14.2 m",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 133028374665,
+                    "question_value": "Evaluate <eq>(1220)_3^3<\/eq>",
+                    "options": [
+                        "12100",
+                        "11200",
+                        "10100",
+                        "11000"
+                    ],
+                    "answer_value": "10100",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "subject": "CHEMISTRY",
+            "questions": [
+                {
+                    "question_id": 2345637111,
+                    "question_value": "What is the formula for sulfuric acid?",
+                    "options": [
+                        "H2O",
+                        "H2SO4",
+                        "HCl",
+                        "NaOH"
+                    ],
+                    "answer_value": "H2SO4"
+                },
+                {
+                    "question_id": 34544232,
+                    "question_value": "What is the chemical symbol for gold?",
+                    "options": [
+                        "Au",
+                        "Ag",
+                        "Fe",
+                        "Cu"
+                    ],
+                    "answer_value": "Au"
+                },
+                {
+                    "question_id": 301456801,
+                    "question_value": "Balance the following redox reaction in basic solution: Cr(OH)\u2084\u207b + ClO\u207b \u2192 CrO\u2084\u00b2\u207b + Cl\u207b",
+                    "options": [
+                        "Cr(OH)\u2084\u207b + ClO\u207b \u2192 CrO\u2084\u00b2\u207b + Cl\u207b + 2 H\u2082O",
+                        "2 Cr(OH)\u2084\u207b + ClO\u207b \u2192 2 CrO\u2084\u00b2\u207b + Cl\u207b + H\u2082O",
+                        "2 Cr(OH)\u2084\u207b + ClO\u207b + H\u2082O \u2192 2 CrO\u2084\u00b2\u207b + Cl\u207b + 4 H\u2082O",
+                        "Cr(OH)\u2084\u207b + 2 ClO\u207b \u2192 CrO\u2084\u00b2\u207b + 2 Cl\u207b + H\u2082O"
+                    ],
+                    "answer_value": "2 Cr(OH)\u2084\u207b + ClO\u207b + H\u2082O \u2192 2 CrO\u2084\u00b2\u207b + Cl\u207b + 4 H\u2082O"
+                },
+                {
+                    "question_id": 301456795,
+                    "question_value": "Which of the following reactions is thermodynamically favorable at 25\u00b0C? (R = 8.314 J\/mol\u00b7K)",
+                    "options": [
+                        "\u0394H = -100 kJ, \u0394S = -200 J\/K",
+                        "\u0394H = -50 kJ, \u0394S = 100 J\/K",
+                        "\u0394H = 100 kJ, \u0394S = -300 J\/K",
+                        "\u0394H = 200 kJ, \u0394S = 500 J\/K"
+                    ],
+                    "answer_value": "\u0394H = -50 kJ, \u0394S = 100 J\/K"
+                },
+                {
+                    "question_id": 301456799,
+                    "question_value": "In the electrolysis of molten sodium chloride (NaCl), what products are formed at the anode and cathode, respectively?",
+                    "options": [
+                        "Sodium metal at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, sodium metal at the cathode",
+                        "Hydrogen gas at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, hydrogen gas at the cathode"
+                    ],
+                    "answer_value": "Chlorine gas at the anode, sodium metal at the cathode"
+                },
+                {
+                    "question_id": 201456797,
+                    "question_value": "For the reaction: N\u2082 + 3 H\u2082 \u2192 2 NH\u2083, how many liters of hydrogen gas (H\u2082) at STP are required to produce 22.4 liters of ammonia (NH\u2083)?",
+                    "options": [
+                        "22.4 L",
+                        "33.6 L",
+                        "67.2 L",
+                        "11.2 L"
+                    ],
+                    "answer_value": "33.6 L"
+                },
+                {
+                    "question_id": 12901234,
+                    "question_value": "Which of the following is a noble gas?",
+                    "options": [
+                        "Oxygen",
+                        "Neon",
+                        "Fluorine",
+                        "Chlorine"
+                    ],
+                    "answer_value": "Neon"
+                },
+                {
+                    "question_id": 301456789,
+                    "question_value": "Which of the following processes results in an increase in entropy?",
+                    "options": [
+                        "Freezing of water",
+                        "Condensation of steam",
+                        "Melting of ice",
+                        "Formation of a solid precipitate from a solution"
+                    ],
+                    "answer_value": "Melting of ice"
+                },
+                {
+                    "question_id": 12567890,
+                    "question_value": "What is the chemical formula for hydrogen peroxide?",
+                    "options": [
+                        "H2O",
+                        "H2SO4",
+                        "H2O2",
+                        "HCl"
+                    ],
+                    "answer_value": "H2O2"
+                },
+                {
+                    "question_id": 201456798,
+                    "question_value": "Calculate the number of moles in 20 grams of glucose (C\u2086H\u2081\u2082O\u2086). (Molar mass of C\u2086H\u2081\u2082O\u2086 = 180 g\/mol)",
+                    "options": [
+                        "0.111 moles",
+                        "0.222 moles",
+                        "0.333 moles",
+                        "0.444 moles"
+                    ],
+                    "answer_value": "0.111 moles"
+                },
+                {
+                    "question_id": 201456796,
+                    "question_value": "What volume of 0.5 M hydrochloric acid (HCl) solution is required to completely neutralize 25 mL of 1 M sodium hydroxide (NaOH) solution?",
+                    "options": [
+                        "50 mL",
+                        "25 mL",
+                        "12.5 mL",
+                        "75 mL"
+                    ],
+                    "answer_value": "50 mL"
+                },
+                {
+                    "question_id": 301456791,
+                    "question_value": "Calculate the Gibbs free energy change (\u0394G) at 298 K for a reaction with \u0394H = -100 kJ and \u0394S = -200 J\/K.",
+                    "options": [
+                        "-40 kJ",
+                        "-140 kJ",
+                        "40 kJ",
+                        "140 kJ"
+                    ],
+                    "answer_value": "40 kJ"
+                },
+                {
+                    "question_id": 301456797,
+                    "question_value": "What is the equilibrium constant (K) at 298 K for a reaction with \u0394G\u00b0 = -40 kJ\/mol? (R = 8.314 J\/mol\u00b7K)",
+                    "options": [
+                        "1.29 \u00d7 10\u2076",
+                        "2.18 \u00d7 10\u2077",
+                        "3.14 \u00d7 10\u2078",
+                        "5.26 \u00d7 10\u2079"
+                    ],
+                    "answer_value": "1.29 \u00d7 10\u2076"
+                },
+                {
+                    "question_id": 301456790,
+                    "question_value": "For a reaction to be spontaneous at all temperatures, what must be true about the signs of \u0394H (enthalpy change) and \u0394S (entropy change)?",
+                    "options": [
+                        "\u0394H < 0 and \u0394S < 0",
+                        "\u0394H > 0 and \u0394S > 0",
+                        "\u0394H < 0 and \u0394S > 0",
+                        "\u0394H > 0 and \u0394S < 0"
+                    ],
+                    "answer_value": "\u0394H < 0 and \u0394S > 0"
+                },
+                {
+                    "question_id": 456123,
+                    "question_value": "What is the atomic number of carbon?",
+                    "options": [
+                        "5",
+                        "10",
+                        "15",
+                        "6"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 301456793,
+                    "question_value": "During electrolysis of aqueous sodium chloride (NaCl), what products are formed at the anode and cathode, respectively?",
+                    "options": [
+                        "Hydrogen gas at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, hydrogen gas at the cathode",
+                        "Sodium metal at the anode, chlorine gas at the cathode",
+                        "Chlorine gas at the anode, oxygen gas at the cathode"
+                    ],
+                    "answer_value": "Chlorine gas at the anode, hydrogen gas at the cathode"
+                },
+                {
+                    "question_id": 322890123,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Celsius",
+                        "Kelvin",
+                        "Fahrenheit",
+                        "Rankine"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 301456798,
+                    "question_value": "For the reaction: 2 H\u2082O\u2082 \u2192 2 H\u2082O + O\u2082, what is the change in entropy (\u0394S) given that the standard entropy (S\u00b0) values are H\u2082O\u2082 = 109 J\/mol\u00b7K, H\u2082O = 70 J\/mol\u00b7K, and O\u2082 = 205 J\/mol\u00b7K?",
+                    "options": [
+                        "198 J\/mol\u00b7K",
+                        "126 J\/mol\u00b7K",
+                        "84 J\/mol\u00b7K",
+                        "35 J\/mol\u00b7K"
+                    ],
+                    "answer_value": "126 J\/mol\u00b7K"
+                },
+                {
+                    "question_id": 56784290,
+                    "question_value": "What is the chemical formula for carbon monoxide?",
+                    "options": [
+                        "CO2",
+                        "CO",
+                        "CH4",
+                        "C"
+                    ],
+                    "answer_value": "CO"
+                },
+                {
+                    "question_id": 201456789,
+                    "question_value": "How many moles of oxygen gas (O\u2082) are required to completely react with 3 moles of hydrogen gas (H\u2082) in the formation of water (H\u2082O)?",
+                    "options": [
+                        "1.5 moles",
+                        "3 moles",
+                        "6 moles",
+                        "9 moles"
+                    ],
+                    "answer_value": "1.5 moles"
+                },
+                {
+                    "question_id": 201456793,
+                    "question_value": "In the combustion of propane (C\u2083H\u2088), how many moles of carbon dioxide (CO\u2082) are produced from the complete combustion of 2 moles of propane? (Reaction: C\u2083H\u2088 + 5 O\u2082 \u2192 3 CO\u2082 + 4 H\u2082O)",
+                    "options": [
+                        "3 moles",
+                        "6 moles",
+                        "9 moles",
+                        "12 moles"
+                    ],
+                    "answer_value": "6 moles"
+                },
+                {
+                    "question_id": 301456792,
+                    "question_value": "Balance the following redox reaction in acidic solution: MnO\u2084\u207b + Fe\u00b2\u207a \u2192 Mn\u00b2\u207a + Fe\u00b3\u207a",
+                    "options": [
+                        "MnO\u2084\u207b + 5 Fe\u00b2\u207a + 8 H\u207a \u2192 Mn\u00b2\u207a + 5 Fe\u00b3\u207a + 4 H\u2082O",
+                        "MnO\u2084\u207b + Fe\u00b2\u207a + H\u207a \u2192 Mn\u00b2\u207a + Fe\u00b3\u207a + H\u2082O",
+                        "2 MnO\u2084\u207b + 10 Fe\u00b2\u207a + 16 H\u207a \u2192 2 Mn\u00b2\u207a + 10 Fe\u00b3\u207a + 8 H\u2082O",
+                        "2 MnO\u2084\u207b + 5 Fe\u00b2\u207a + 8 H\u207a \u2192 2 Mn\u00b2\u207a + 5 Fe\u00b3\u207a + 4 H\u2082O"
+                    ],
+                    "answer_value": "MnO\u2084\u207b + 5 Fe\u00b2\u207a + 8 H\u207a \u2192 Mn\u00b2\u207a + 5 Fe\u00b3\u207a + 4 H\u2082O"
+                },
+                {
+                    "question_id": 12123456,
+                    "question_value": "What is the process of liquid changing into solid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Freezing"
+                    ],
+                    "answer_value": "Freezing"
+                },
+                {
+                    "question_id": 13567890,
+                    "question_value": "What is the chemical formula for ammonia?",
+                    "options": [
+                        "NH3",
+                        "N2O",
+                        "NO2",
+                        "NO3"
+                    ],
+                    "answer_value": "NH3"
+                },
+                {
+                    "question_id": 890123,
+                    "question_value": "What is the chemical symbol for silver?",
+                    "options": [
+                        "Si",
+                        "Ag",
+                        "Au",
+                        "Al"
+                    ],
+                    "answer_value": "Ag"
+                },
+                {
+                    "question_id": 78909831012,
+                    "question_value": "What is the process of solid changing into liquid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Melting",
+                        "Sublimation"
+                    ],
+                    "answer_value": "Melting"
+                },
+                {
+                    "question_id": 201456790,
+                    "question_value": "What is the mass of 0.25 moles of sulfuric acid (H\u2082SO\u2084)? (Molar mass of H\u2082SO\u2084 = 98 g\/mol)",
+                    "options": [
+                        "24.5 g",
+                        "49 g",
+                        "19.6 g",
+                        "9.8 g"
+                    ],
+                    "answer_value": "24.5 g"
+                },
+                {
+                    "question_id": 90039283,
+                    "question_value": "What is the chemical symbol for potassium?",
+                    "options": [
+                        "Pt",
+                        "Po",
+                        "Pb",
+                        "K"
+                    ],
+                    "answer_value": "K"
+                },
+                {
+                    "question_id": 90123409,
+                    "question_value": "What is the pH value of a neutral solution?",
+                    "options": [
+                        "7",
+                        "0",
+                        "14",
+                        "1"
+                    ],
+                    "answer_value": "7"
+                },
+                {
+                    "question_id": 5901234,
+                    "question_value": "Which of the following is a halogen?",
+                    "options": [
+                        "Sodium",
+                        "Chlorine",
+                        "Calcium",
+                        "Magnesium"
+                    ],
+                    "answer_value": "Chlorine"
+                },
+                {
+                    "question_id": 345435322,
+                    "question_value": "What is the chemical symbol for carbon dioxide?",
+                    "options": [
+                        "CO2",
+                        "CO",
+                        "CH4",
+                        "C"
+                    ],
+                    "answer_value": "CO2"
+                },
+                {
+                    "question_id": 201456801,
+                    "question_value": "How many moles of barium sulfate (BaSO\u2084) are formed when 1 mole of barium chloride (BaCl\u2082) reacts with 1 mole of sulfuric acid (H\u2082SO\u2084)?",
+                    "options": [
+                        "0.5 moles",
+                        "1 mole",
+                        "1.5 moles",
+                        "2 moles"
+                    ],
+                    "answer_value": "1 mole"
+                },
+                {
+                    "question_id": 301456796,
+                    "question_value": "Identify the oxidation and reduction half-reactions for the balanced redox equation: 2 I\u207b + Cl\u2082 \u2192 I\u2082 + 2 Cl\u207b",
+                    "options": [
+                        "Oxidation: I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 2 Cl\u207b",
+                        "Oxidation: 2 I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 2 Cl\u207b",
+                        "Oxidation: 2 I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 Cl\u207b",
+                        "Oxidation: I\u207b \u2192 I\u2082 + e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 Cl\u207b"
+                    ],
+                    "answer_value": "Oxidation: 2 I\u207b \u2192 I\u2082 + 2 e\u207b, Reduction: Cl\u2082 + 2 e\u207b \u2192 2 Cl\u207b"
+                },
+                {
+                    "question_id": 67832901,
+                    "question_value": "What is the chemical symbol for sodium?",
+                    "options": [
+                        "So",
+                        "Na",
+                        "Sn",
+                        "Si"
+                    ],
+                    "answer_value": "Na"
+                },
+                {
+                    "question_id": 901032234,
+                    "question_value": "Which of the following is an alkali metal?",
+                    "options": [
+                        "Lithium",
+                        "Calcium",
+                        "Sulfur",
+                        "Nitrogen"
+                    ],
+                    "answer_value": "Lithium"
+                },
+                {
+                    "question_id": 324924203,
+                    "question_value": "What is the process of solid changing directly into vapor called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Sublimation"
+                },
+                {
+                    "question_id": 201456799,
+                    "question_value": "What is the percent composition of oxygen in sulfuric acid (H\u2082SO\u2084)? (Molar mass of H\u2082SO\u2084 = 98 g\/mol)",
+                    "options": [
+                        "32.7%",
+                        "65.3%",
+                        "45.9%",
+                        "50%"
+                    ],
+                    "answer_value": "65.3%"
+                },
+                {
+                    "question_id": 11234023456,
+                    "question_value": "What is the chemical formula for table salt?",
+                    "options": [
+                        "NaCl",
+                        "HCl",
+                        "KCl",
+                        "CaCl2"
+                    ],
+                    "answer_value": "NaCl"
+                },
+                {
+                    "question_id": 201456800,
+                    "question_value": "In the reaction: 4 Fe + 3 O\u2082 \u2192 2 Fe\u2082O\u2083, how many grams of iron(III) oxide (Fe\u2082O\u2083) are produced from 112 grams of iron (Fe)? (Molar mass of Fe = 56 g\/mol, Fe\u2082O\u2083 = 160 g\/mol)",
+                    "options": [
+                        "160 g",
+                        "320 g",
+                        "80 g",
+                        "240 g"
+                    ],
+                    "answer_value": "160 g"
+                },
+                {
+                    "question_id": 201456794,
+                    "question_value": "What is the empirical formula of a compound that contains 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass?",
+                    "options": [
+                        "CH\u2082O",
+                        "C\u2082H\u2084O\u2082",
+                        "C\u2083H\u2086O\u2083",
+                        "CH\u2083O"
+                    ],
+                    "answer_value": "CH\u2082O"
+                }
+            ]
+        }
+    ]
+}

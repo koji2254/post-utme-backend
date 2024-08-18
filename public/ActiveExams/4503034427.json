@@ -1,0 +1,46 @@
+{
+    "exam_id": 4503034427,
+    "questions": [
+        {
+            "subject": "PHYSICS",
+            "questions": [
+                {
+                    "question_id": 933848432030335,
+                    "question_value": "In a circuit, a resistor of 10 \u03a9 is connected in series with a resistor of 20 \u03a9. What is the total resistance of the circuit?",
+                    "options": [
+                        "3.3 \u03a9",
+                        "10 \u03a9",
+                        "20 \u03a9",
+                        "30 \u03a9"
+                    ],
+                    "answer_value": "30 \u03a9",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2343998399341,
+                    "question_value": "Two point charges of +2 \u00b5C and -3 \u00b5C are separated by a distance of 10 cm. Calculate the electrostatic force between them. (Electrostatic constant = \\( 9 \\times 10^9 \\) Nm\u00b2\/C\u00b2)",
+                    "options": [
+                        "3.6 N",
+                        "7.2 N",
+                        "9.0 N",
+                        "18.0 N"
+                    ],
+                    "answer_value": "7.2 N",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 20939393030393,
+                    "question_value": "Which of the following is not a consequence of hydrogen bubbles covering the copper plate of a primary cell?",
+                    "options": [
+                        "formation of hydrogen bubbles on the electrode",
+                        "local action",
+                        "polarization",
+                        "increase in the resistance of the cell"
+                    ],
+                    "answer_value": "local action",
+                    "image_url": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "exam_id": 6899043757,
+    "questions": [
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 10283654668,
+                    "question_value": "Calculate \\( \\frac{4343_5}{122_5} \\)",
+                    "options": [
+                        "\\(2_{5} \\)",
+                        "\\(4_{5} \\)",
+                        "\\(6_{5} \\)",
+                        "\\(8_{5} \\)"
+                    ],
+                    "answer_value": "\\(34_{5}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 812345647,
+                    "question_value": "What is the square of 11?",
+                    "options": [
+                        "110",
+                        "121",
+                        "132",
+                        "143"
+                    ],
+                    "answer_value": "121"
+                },
+                {
+                    "question_id": 2394456578,
+                    "question_value": "What is 15 squared?",
+                    "options": [
+                        "210",
+                        "215",
+                        "220",
+                        "225"
+                    ],
+                    "answer_value": "225"
+                },
+                {
+                    "question_id": 2342932030303,
+                    "question_value": "Simplify \\( \\frac{1}{3 - \\sqrt{2}} \\) in the form of \\( p + q\\sqrt{2} \\)",
+                    "options": [
+                        "\\( \\frac{3 + \\sqrt{2}}{7}\\)",
+                        "\\( \\frac{3 - \\sqrt{2}}{7}\\)",
+                        "\\( \\frac{3}{7} + \\frac{\\sqrt{2}}{7}\\)",
+                        "\\( \\frac{3}{7} - \\frac{\\sqrt{2}}{7}\\)"
+                    ],
+                    "answer_value": "\\( \\frac{3}{7} + \\frac{\\sqrt{2}}{7}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2389947,
+                    "question_value": "If a box contains 24 chocolates and you eat 7, how many chocolates are left?",
+                    "options": [
+                        "15",
+                        "16",
+                        "17",
+                        "18"
+                    ],
+                    "answer_value": "17"
+                },
+                {
+                    "question_id": 923865347,
+                    "question_value": "What is the square of 6?",
+                    "options": [
+                        "30",
+                        "36",
+                        "42",
+                        "48"
+                    ],
+                    "answer_value": "36"
+                },
+                {
+                    "question_id": 1028374670,
+                    "question_value": "Given that the mean of 2, 5, \\( (x+1) \\), \\( (x+2) \\), 7, and 9 is 6, find the median.",
+                    "options": [
+                        "5",
+                        "6",
+                        "6.5",
+                        "7"
+                    ],
+                    "answer_value": "6.5",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102837424666,
+                    "question_value": "Calculate \\( \\frac{2244_4}{112_4} \\)",
+                    "options": [
+                        "\\( 20_{4} \\)",
+                        "\\( 22_{4} \\)",
+                        "\\( 24_{4}  \\)",
+                        "\\( 26_{4} \\)"
+                    ],
+                    "answer_value": "\\(20_{4}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 123934547,
+                    "question_value": "What is the square of 12?",
+                    "options": [
+                        "124",
+                        "136",
+                        "144",
+                        "156"
+                    ],
+                    "answer_value": "144"
+                },
+                {
+                    "question_id": 987345234,
+                    "question_value": "What is 13 squared?",
+                    "options": [
+                        "159",
+                        "169",
+                        "179",
+                        "189"
+                    ],
+                    "answer_value": "169"
+                }
+            ]
+        },
+        {
+            "subject": "CHEMISTRY",
+            "questions": [
+                {
+                    "question_id": 3456004278,
+                    "question_value": "What is the formula for water?",
+                    "options": [
+                        "H2O2",
+                        "CO2",
+                        "H2O",
+                        "CH4"
+                    ],
+                    "answer_value": "H2O"
+                },
+                {
+                    "question_id": 56784290,
+                    "question_value": "What is the chemical formula for carbon monoxide?",
+                    "options": [
+                        "CO2",
+                        "CO",
+                        "CH4",
+                        "C"
+                    ],
+                    "answer_value": "CO"
+                },
+                {
+                    "question_id": 67832901,
+                    "question_value": "What is the chemical symbol for sodium?",
+                    "options": [
+                        "So",
+                        "Na",
+                        "Sn",
+                        "Si"
+                    ],
+                    "answer_value": "Na"
+                },
+                {
+                    "question_id": 12123456,
+                    "question_value": "What is the process of liquid changing into solid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Freezing"
+                    ],
+                    "answer_value": "Freezing"
+                },
+                {
+                    "question_id": 890123,
+                    "question_value": "What is the chemical symbol for silver?",
+                    "options": [
+                        "Si",
+                        "Ag",
+                        "Au",
+                        "Al"
+                    ],
+                    "answer_value": "Ag"
+                },
+                {
+                    "question_id": 11234023456,
+                    "question_value": "What is the chemical formula for table salt?",
+                    "options": [
+                        "NaCl",
+                        "HCl",
+                        "KCl",
+                        "CaCl2"
+                    ],
+                    "answer_value": "NaCl"
+                },
+                {
+                    "question_id": 322890123,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Celsius",
+                        "Kelvin",
+                        "Fahrenheit",
+                        "Rankine"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 456123,
+                    "question_value": "What is the atomic number of carbon?",
+                    "options": [
+                        "5",
+                        "10",
+                        "15",
+                        "6"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 34544232,
+                    "question_value": "What is the chemical symbol for gold?",
+                    "options": [
+                        "Au",
+                        "Ag",
+                        "Fe",
+                        "Cu"
+                    ],
+                    "answer_value": "Au"
+                },
+                {
+                    "question_id": 90039283,
+                    "question_value": "What is the chemical symbol for potassium?",
+                    "options": [
+                        "Pt",
+                        "Po",
+                        "Pb",
+                        "K"
+                    ],
+                    "answer_value": "K"
+                }
+            ]
+        }
+    ]
+}

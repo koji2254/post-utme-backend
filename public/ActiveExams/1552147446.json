@@ -1,0 +1,32 @@
+{
+    "exam_id": 1552147446,
+    "questions": [
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 47885239,
+                    "question_value": "If a car travels at 60 km\/h for 2 hours, how far does it travel?",
+                    "options": [
+                        "60 km",
+                        "100 km",
+                        "120 km",
+                        "150 km"
+                    ],
+                    "answer_value": "120 km"
+                },
+                {
+                    "question_id": 10283746533239,
+                    "question_value": "Evaluate \\( (101)_2^3 \\)",
+                    "options": [
+                        "1111101",
+                        "1111100",
+                        "111110",
+                        "1111110"
+                    ],
+                    "answer_value": "1111101"
+                }
+            ]
+        }
+    ]
+}

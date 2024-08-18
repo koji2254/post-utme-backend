@@ -1,0 +1,43 @@
+{
+    "exam_id": 4784941411,
+    "questions": [
+        {
+            "subject": "ENGLISH LANGUAGE",
+            "questions": [
+                {
+                    "question_id": 194352374,
+                    "question_value": "Which word is a preposition?",
+                    "options": [
+                        "Under",
+                        "Quick",
+                        "Cat",
+                        "Very"
+                    ],
+                    "answer_value": "Under"
+                },
+                {
+                    "question_id": 23223457849,
+                    "question_value": "Which sentence is in the past tense?",
+                    "options": [
+                        "She is eating.",
+                        "She eats.",
+                        "She will eat.",
+                        "She ate."
+                    ],
+                    "answer_value": "She ate."
+                },
+                {
+                    "question_id": 654434321,
+                    "question_value": "What is the subject in the sentence: 'The cat sat on the mat.'?",
+                    "options": [
+                        "The",
+                        "Cat",
+                        "Sat",
+                        "Mat"
+                    ],
+                    "answer_value": "Cat"
+                }
+            ]
+        }
+    ]
+}

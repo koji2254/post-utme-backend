@@ -1,0 +1,33 @@
+{
+    "exam_id": 9999403016,
+    "questions": [
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 38719642,
+                    "question_value": "If you have 10 apples and give 4 to a friend, how many apples do you have left?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 2342932030307,
+                    "question_value": "The 10th term of an AP is 32. If the first term is 3\/2, what is the 4th term?",
+                    "options": [
+                        "\\(\\frac{11}{2}\\)",
+                        "\\(\\frac{16}{3}\\)",
+                        "\\(\\frac{20}{3}\\)",
+                        "\\(\\frac{35}{3}\\)"
+                    ],
+                    "answer_value": "\\(\\frac{35}{3}\\)",
+                    "image_url": ""
+                }
+            ]
+        }
+    ]
+}

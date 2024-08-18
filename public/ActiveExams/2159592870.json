@@ -1,0 +1,1369 @@
+{
+    "exam_id": 2159592870,
+    "questions": [
+        {
+            "subject": "ENGLISH LANGUAGE",
+            "questions": [
+                {
+                    "question_id": 239874346,
+                    "question_value": "What is the plural form of 'mouse'?",
+                    "options": [
+                        "Mouses",
+                        "Mices",
+                        "Mouse",
+                        "Mice"
+                    ],
+                    "answer_value": "Mice"
+                },
+                {
+                    "question_id": 982247231,
+                    "question_value": "Which sentence is in the future tense?",
+                    "options": [
+                        "She is going to school.",
+                        "She went to school.",
+                        "She will go to school.",
+                        "She goes to school."
+                    ],
+                    "answer_value": "She will go to school."
+                },
+                {
+                    "question_id": 44231444656,
+                    "question_value": "What is the opposite of 'fast'?",
+                    "options": [
+                        "Quick",
+                        "Speed",
+                        "Slow",
+                        "Run"
+                    ],
+                    "answer_value": "Slow"
+                },
+                {
+                    "question_id": 986457654,
+                    "question_value": "Which word is a pronoun?",
+                    "options": [
+                        "Quickly",
+                        "She",
+                        "Happy",
+                        "Dog"
+                    ],
+                    "answer_value": "She"
+                },
+                {
+                    "question_id": 3283355947,
+                    "question_value": "What is the comparative form of 'tall'?",
+                    "options": [
+                        "Taller",
+                        "Tallest",
+                        "More tall",
+                        "Most tall"
+                    ],
+                    "answer_value": "Taller"
+                },
+                {
+                    "question_id": 456785349,
+                    "question_value": "What is the past tense of 'go'?",
+                    "options": [
+                        "Goed",
+                        "Goes",
+                        "Going",
+                        "Went"
+                    ],
+                    "answer_value": "Went"
+                },
+                {
+                    "question_id": 1928234537,
+                    "question_value": "Which word is a conjunction?",
+                    "options": [
+                        "And",
+                        "Very",
+                        "Quick",
+                        "Run"
+                    ],
+                    "answer_value": "And"
+                },
+                {
+                    "question_id": 782344231,
+                    "question_value": "Which sentence is grammatically correct?",
+                    "options": [
+                        "She go to school.",
+                        "She going to school.",
+                        "She goes to school.",
+                        "She gone to school."
+                    ],
+                    "answer_value": "She goes to school."
+                },
+                {
+                    "question_id": 3767654829,
+                    "question_value": "Which word is a homophone for 'flower'?",
+                    "options": [
+                        "Flour",
+                        "Flow",
+                        "Flaw",
+                        "Floor"
+                    ],
+                    "answer_value": "Flour"
+                },
+                {
+                    "question_id": 194352374,
+                    "question_value": "Which word is a preposition?",
+                    "options": [
+                        "Under",
+                        "Quick",
+                        "Cat",
+                        "Very"
+                    ],
+                    "answer_value": "Under"
+                },
+                {
+                    "question_id": 5545632421,
+                    "question_value": "Which word is a synonym of 'happy'?",
+                    "options": [
+                        "Sad",
+                        "Joyful",
+                        "Angry",
+                        "Bored"
+                    ],
+                    "answer_value": "Joyful"
+                },
+                {
+                    "question_id": 654123,
+                    "question_value": "Which word is a conjunction?",
+                    "options": [
+                        "Because",
+                        "Run",
+                        "Quickly",
+                        "Blue"
+                    ],
+                    "answer_value": "Because"
+                },
+                {
+                    "question_id": 123249837,
+                    "question_value": "What is the antonym of 'cold'?",
+                    "options": [
+                        "Cool",
+                        "Chilly",
+                        "Hot",
+                        "Freezing"
+                    ],
+                    "answer_value": "Hot"
+                },
+                {
+                    "question_id": 135709898492,
+                    "question_value": "Which word means 'a place where books are kept'?",
+                    "options": [
+                        "Library",
+                        "Kitchen",
+                        "Garage",
+                        "School"
+                    ],
+                    "answer_value": "Library"
+                },
+                {
+                    "question_id": 342781,
+                    "question_value": "Which word is a homophone for 'to'?",
+                    "options": [
+                        "Too",
+                        "Two",
+                        "Toe",
+                        "Both A and B"
+                    ],
+                    "answer_value": "Both A and B"
+                },
+                {
+                    "question_id": 654434321,
+                    "question_value": "What is the subject in the sentence: 'The cat sat on the mat.'?",
+                    "options": [
+                        "The",
+                        "Cat",
+                        "Sat",
+                        "Mat"
+                    ],
+                    "answer_value": "Cat"
+                },
+                {
+                    "question_id": 1835242749,
+                    "question_value": "What is the correct plural of 'child'?",
+                    "options": [
+                        "Childs",
+                        "Children",
+                        "Childes",
+                        "Childrens"
+                    ],
+                    "answer_value": "Children"
+                },
+                {
+                    "question_id": 4682134493,
+                    "question_value": "Which sentence is punctuated correctly?",
+                    "options": [
+                        "Lets go to the park.",
+                        "Let's go to the park.",
+                        "Lets go, to the park.",
+                        "Let's, go to the park."
+                    ],
+                    "answer_value": "Let's go to the park."
+                },
+                {
+                    "question_id": 125543789,
+                    "question_value": "Which word means 'a synonym for quick'?",
+                    "options": [
+                        "Slow",
+                        "Fast",
+                        "Run",
+                        "Quickly"
+                    ],
+                    "answer_value": "Fast"
+                },
+                {
+                    "question_id": 1223458374,
+                    "question_value": "Which word is spelled correctly?",
+                    "options": [
+                        "Receeve",
+                        "Receive",
+                        "Recieve",
+                        "Receve"
+                    ],
+                    "answer_value": "Receive"
+                },
+                {
+                    "question_id": 23223457849,
+                    "question_value": "Which sentence is in the past tense?",
+                    "options": [
+                        "She is eating.",
+                        "She eats.",
+                        "She will eat.",
+                        "She ate."
+                    ],
+                    "answer_value": "She ate."
+                },
+                {
+                    "question_id": 32324525,
+                    "question_value": "Which word is an adjective?",
+                    "options": [
+                        "Run",
+                        "Blue",
+                        "Quickly",
+                        "She"
+                    ],
+                    "answer_value": "Blue"
+                },
+                {
+                    "question_id": 34128654478,
+                    "question_value": "Which word is a noun?",
+                    "options": [
+                        "Run",
+                        "Happy",
+                        "House",
+                        "Quickly"
+                    ],
+                    "answer_value": "House"
+                },
+                {
+                    "question_id": 31243789,
+                    "question_value": "What is the superlative form of 'good'?",
+                    "options": [
+                        "Gooder",
+                        "Better",
+                        "Best",
+                        "Most good"
+                    ],
+                    "answer_value": "Best"
+                },
+                {
+                    "question_id": 455456123,
+                    "question_value": "What is the correct form of 'to be' in the sentence: 'They ___ happy.'?",
+                    "options": [
+                        "Am",
+                        "Is",
+                        "Are",
+                        "Be"
+                    ],
+                    "answer_value": "Are"
+                },
+                {
+                    "question_id": 987341,
+                    "question_value": "Which sentence uses the correct form of 'your\/you're'?",
+                    "options": [
+                        "You''r the best friend.",
+                        "You're the best friend.",
+                        "Your best friend.",
+                        "Youre the best friend."
+                    ],
+                    "answer_value": "You're the best friend."
+                },
+                {
+                    "question_id": 123978,
+                    "question_value": "Which sentence is grammatically correct?",
+                    "options": [
+                        "She don't like apples.",
+                        "She doesn't like apples.",
+                        "She do not like apples.",
+                        "She does not likes apples."
+                    ],
+                    "answer_value": "She doesn't like apples."
+                },
+                {
+                    "question_id": 9867657654,
+                    "question_value": "Which sentence is an example of a simile?",
+                    "options": [
+                        "She is as fast as a cheetah.",
+                        "She is a fast cheetah.",
+                        "She runs faster than a cheetah.",
+                        "She runs fast."
+                    ],
+                    "answer_value": "She is as fast as a cheetah."
+                },
+                {
+                    "question_id": 182423734,
+                    "question_value": "Which sentence uses the correct form of 'their\/there\/they're'?",
+                    "options": [
+                        "Their going to the park.",
+                        "There going to the park.",
+                        "They're going to the park.",
+                        "Theyre going to the park."
+                    ],
+                    "answer_value": "They're going to the park."
+                },
+                {
+                    "question_id": 9842335123,
+                    "question_value": "Which word is a verb?",
+                    "options": [
+                        "Quickly",
+                        "Run",
+                        "Blue",
+                        "House"
+                    ],
+                    "answer_value": "Run"
+                }
+            ]
+        },
+        {
+            "subject": "MATHEMATICS",
+            "questions": [
+                {
+                    "question_id": 102837424666,
+                    "question_value": "Calculate \\( \\frac{2244_4}{112_4} \\)",
+                    "options": [
+                        "\\( 20_{4} \\)",
+                        "\\( 22_{4} \\)",
+                        "\\( 24_{4}  \\)",
+                        "\\( 26_{4} \\)"
+                    ],
+                    "answer_value": "\\(20_{4}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1823587849,
+                    "question_value": "A triangle has a base of 6 and a height of 3. What is its area?",
+                    "options": [
+                        "9",
+                        "12",
+                        "18",
+                        "20"
+                    ],
+                    "answer_value": "9"
+                },
+                {
+                    "question_id": 9300928883,
+                    "question_value": "If log 10 to base 8 = X, evaluate log 5 to base 8 in terms of X.",
+                    "options": [
+                        "25",
+                        "\\( \\frac{1}{2X}\\)",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 2342932030303,
+                    "question_value": "Simplify \\( \\frac{1}{3 - \\sqrt{2}} \\) in the form of \\( p + q\\sqrt{2} \\)",
+                    "options": [
+                        "\\( \\frac{3 + \\sqrt{2}}{7}\\)",
+                        "\\( \\frac{3 - \\sqrt{2}}{7}\\)",
+                        "\\( \\frac{3}{7} + \\frac{\\sqrt{2}}{7}\\)",
+                        "\\( \\frac{3}{7} - \\frac{\\sqrt{2}}{7}\\)"
+                    ],
+                    "answer_value": "\\( \\frac{3}{7} + \\frac{\\sqrt{2}}{7}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 89234547,
+                    "question_value": "What is the square of 16?",
+                    "options": [
+                        "246",
+                        "256",
+                        "266",
+                        "276"
+                    ],
+                    "answer_value": "256"
+                },
+                {
+                    "question_id": 10283746533239,
+                    "question_value": "Evaluate \\( (101)_2^3 \\)",
+                    "options": [
+                        "1111101",
+                        "1111100",
+                        "111110",
+                        "1111110"
+                    ],
+                    "answer_value": "1111101"
+                },
+                {
+                    "question_id": 923865347,
+                    "question_value": "What is the square of 6?",
+                    "options": [
+                        "30",
+                        "36",
+                        "42",
+                        "48"
+                    ],
+                    "answer_value": "36"
+                },
+                {
+                    "question_id": 98328742373,
+                    "question_value": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+                    "options": [
+                        "25",
+                        "19",
+                        "18",
+                        "17"
+                    ],
+                    "answer_value": "25"
+                },
+                {
+                    "question_id": 812345647,
+                    "question_value": "What is the square of 11?",
+                    "options": [
+                        "110",
+                        "121",
+                        "132",
+                        "143"
+                    ],
+                    "answer_value": "121"
+                },
+                {
+                    "question_id": 102833003667,
+                    "question_value": "Evaluate \\( (2021)_3^2 \\)",
+                    "options": [
+                        "21010",
+                        "21101",
+                        "20021",
+                        "20100"
+                    ],
+                    "answer_value": "21101",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 102837324664,
+                    "question_value": "Calculate \\( \\frac{3412_9}{112_9} \\)",
+                    "options": [
+                        "\\(31_{9}\\)",
+                        "\\(33_{9}\\)",
+                        "\\(35_{9}\\)",
+                        "\\(37_{9}\\)"
+                    ],
+                    "answer_value": "\\(31_{9}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 10283654668,
+                    "question_value": "Calculate \\( \\frac{4343_5}{122_5} \\)",
+                    "options": [
+                        "\\(2_{5} \\)",
+                        "\\(4_{5} \\)",
+                        "\\(6_{5} \\)",
+                        "\\(8_{5} \\)"
+                    ],
+                    "answer_value": "\\(34_{5}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 10283733424659,
+                    "question_value": "Solve for \\( k \\) in the equation \\( \\left( \\frac{1}{8} \\right)^{k+2} = 1 \\).",
+                    "options": [
+                        "k = 2",
+                        "k = -2",
+                        "k = 0",
+                        "k = 1"
+                    ],
+                    "answer_value": "k = -2"
+                },
+                {
+                    "question_id": 912424347,
+                    "question_value": "If you buy 2 notebooks for $3 each and 2 pens for $1 each, how much do you spend in total?",
+                    "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+                    "answer_value": "8"
+                },
+                {
+                    "question_id": 481345239,
+                    "question_value": "If a train travels 50 km\/h and travels for 3 hours, how far does it go?",
+                    "options": [
+                        "100 km",
+                        "150 km",
+                        "200 km",
+                        "250 km"
+                    ],
+                    "answer_value": "150 km"
+                },
+                {
+                    "question_id": 438753421,
+                    "question_value": "If you divide 48 by 6, what do you get?",
+                    "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+                    "answer_value": "8"
+                },
+                {
+                    "question_id": 34787821,
+                    "question_value": "What is the square of 8?",
+                    "options": [
+                        "56",
+                        "60",
+                        "64",
+                        "68"
+                    ],
+                    "answer_value": "64"
+                },
+                {
+                    "question_id": 23845391,
+                    "question_value": "What is the square of 3?",
+                    "options": [
+                        "6",
+                        "9",
+                        "12",
+                        "15"
+                    ],
+                    "answer_value": "9"
+                },
+                {
+                    "question_id": 174963328,
+                    "question_value": "If you have 4 boxes with 6 apples each, how many apples do you have in total?",
+                    "options": [
+                        "20",
+                        "22",
+                        "24",
+                        "26"
+                    ],
+                    "answer_value": "24"
+                },
+                {
+                    "question_id": 10284234669,
+                    "question_value": "Evaluate \\( (323)_6^2 \\)",
+                    "options": [
+                        "1333",
+                        "1113",
+                        "1223",
+                        "1123"
+                    ],
+                    "answer_value": "1333",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 37813455324,
+                    "question_value": "What is the square of 17?",
+                    "options": [
+                        "287",
+                        "289",
+                        "291",
+                        "293"
+                    ],
+                    "answer_value": "289"
+                },
+                {
+                    "question_id": 2342932030307,
+                    "question_value": "The 10th term of an AP is 32. If the first term is 3\/2, what is the 4th term?",
+                    "options": [
+                        "\\(\\frac{11}{2}\\)",
+                        "\\(\\frac{16}{3}\\)",
+                        "\\(\\frac{20}{3}\\)",
+                        "\\(\\frac{35}{3}\\)"
+                    ],
+                    "answer_value": "\\(\\frac{35}{3}\\)",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 1028374670,
+                    "question_value": "Given that the mean of 2, 5, \\( (x+1) \\), \\( (x+2) \\), 7, and 9 is 6, find the median.",
+                    "options": [
+                        "5",
+                        "6",
+                        "6.5",
+                        "7"
+                    ],
+                    "answer_value": "6.5",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 12303930300392,
+                    "question_value": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gifts(g), savings(s) and some miscellaneous (m) as indicated in the table below:\n F-28% ,R-15% ,c-20% ,G-14% ,S-10% ,M-13% .\nIf the information on the table is represented on a pie chart, what angle represents his spending on food?",
+                    "options": [
+                        "28\u00b0",
+                        "72\u00b0",
+                        "100.8\u00b0",
+                        "126\u00b0"
+                    ],
+                    "answer_value": "100.8\u00b0",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 5918245334563,
+                    "question_value": "If you buy 3 pens for $2 each, how much do you spend?",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 38719642,
+                    "question_value": "If you have 10 apples and give 4 to a friend, how many apples do you have left?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 1028345445474659,
+                    "question_value": "Differentiate \\((\\cos \\theta + \\sin \\theta)^2\\) with respect to \\(\\theta\\).",
+                    "options": [
+                        "2cos2\u03b8",
+                        "2sin2\u03b8",
+                        "-2cos2\u03b8",
+                        "-2sin2\u03b8"
+                    ],
+                    "answer_value": "2cos2\u03b8"
+                },
+                {
+                    "question_id": 2389947,
+                    "question_value": "If a box contains 24 chocolates and you eat 7, how many chocolates are left?",
+                    "options": [
+                        "15",
+                        "16",
+                        "17",
+                        "18"
+                    ],
+                    "answer_value": "17"
+                },
+                {
+                    "question_id": 987345234,
+                    "question_value": "What is 13 squared?",
+                    "options": [
+                        "159",
+                        "169",
+                        "179",
+                        "189"
+                    ],
+                    "answer_value": "169"
+                },
+                {
+                    "question_id": 8731234524,
+                    "question_value": "What is the square of 14?",
+                    "options": [
+                        "184",
+                        "186",
+                        "194",
+                        "196"
+                    ],
+                    "answer_value": "196"
+                },
+                {
+                    "question_id": 384734519,
+                    "question_value": "If you have 18 candies and you give 5 to a friend, how many candies do you have left?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "answer_value": "13"
+                },
+                {
+                    "question_id": 1028374645559,
+                    "question_value": "Calculate \\( \\frac{2434_6}{426_6} \\)",
+                    "options": [
+                        "\\(20_{6}\\)",
+                        "\\(25_{6}\\)",
+                        "\\(30_{6}\\)",
+                        "\\(35_{6}\\)"
+                    ],
+                    "answer_value": "\\(30_{6}\\)"
+                },
+                {
+                    "question_id": 102837314661,
+                    "question_value": "Evaluate \\( (1101)_2^4 \\)",
+                    "options": [
+                        "11010",
+                        "10111",
+                        "10011",
+                        "11110"
+                    ],
+                    "answer_value": "11110",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 238743446,
+                    "question_value": "What is 7 squared?",
+                    "options": [
+                        "47",
+                        "49",
+                        "51",
+                        "53"
+                    ],
+                    "answer_value": "49"
+                },
+                {
+                    "question_id": 2342932030304,
+                    "question_value": "Find the length of a chord 3 cm from the center of a circle of radius 5 cm.",
+                    "options": [
+                        "4 cm",
+                        "6 cm",
+                        "8 cm",
+                        "10 cm"
+                    ],
+                    "answer_value": "8 cm",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 19276834,
+                    "question_value": "If a garden has 4 rows of flowers with 5 flowers in each row, how many flowers are there in total?",
+                    "options": [
+                        "18",
+                        "20",
+                        "22",
+                        "24"
+                    ],
+                    "answer_value": "20"
+                },
+                {
+                    "question_id": 78923409,
+                    "question_value": "What is 9 squared?",
+                    "options": [
+                        "72",
+                        "80",
+                        "81",
+                        "90"
+                    ],
+                    "answer_value": "81"
+                },
+                {
+                    "question_id": 2394456578,
+                    "question_value": "What is 15 squared?",
+                    "options": [
+                        "210",
+                        "215",
+                        "220",
+                        "225"
+                    ],
+                    "answer_value": "225"
+                },
+                {
+                    "question_id": 133028374665,
+                    "question_value": "Evaluate \\( (1220)_3^3 \\)",
+                    "options": [
+                        "12100",
+                        "11200",
+                        "10100",
+                        "11000"
+                    ],
+                    "answer_value": "10100",
+                    "image_url": ""
+                },
+                {
+                    "question_id": 2342932030306,
+                    "question_value": "A rectangular pyramid has an area of 24 cm\u00b2 and a height of 7.5 cm. Calculate the volume of the pyramid.",
+                    "options": [
+                        "45 cm\u00b3",
+                        "54 cm\u00b3",
+                        "60 cm\u00b3",
+                        "72 cm\u00b3"
+                    ],
+                    "answer_value": "60 cm\u00b3",
+                    "image_url": ""
+                }
+            ]
+        },
+        {
+            "subject": "BIOLOGY",
+            "questions": [
+                {
+                    "question_id": 56789530,
+                    "question_value": "What is the powerhouse of the plant cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Chloroplast"
+                    ],
+                    "answer_value": "Chloroplast"
+                },
+                {
+                    "question_id": 9023461234,
+                    "question_value": "What is the process of cell division in somatic cells called?",
+                    "options": [
+                        "Mitosis",
+                        "Meiosis",
+                        "Fertilization",
+                        "Apoptosis"
+                    ],
+                    "answer_value": "Mitosis"
+                },
+                {
+                    "question_id": 3453092678,
+                    "question_value": "What is the largest organ in the human body?",
+                    "options": [
+                        "Liver",
+                        "Skin",
+                        "Brain",
+                        "Heart"
+                    ],
+                    "answer_value": "Skin"
+                },
+                {
+                    "question_id": 9010830234,
+                    "question_value": "What is the chemical formula for glucose?",
+                    "options": [
+                        "C6H12O6",
+                        "CO2",
+                        "H2O",
+                        "NaCl"
+                    ],
+                    "answer_value": "C6H12O6"
+                },
+                {
+                    "question_id": 5453253635,
+                    "question_value": "Which organ system is responsible for protecting the body from pathogens?",
+                    "options": [
+                        "Immune system",
+                        "Digestive system",
+                        "Nervous system",
+                        "Endocrine system"
+                    ],
+                    "answer_value": "Immune system"
+                },
+                {
+                    "question_id": 12333456,
+                    "question_value": "What is the study of fossils called?",
+                    "options": [
+                        "Geology",
+                        "Anthropology",
+                        "Paleontology",
+                        "Archaeology"
+                    ],
+                    "answer_value": "Paleontology"
+                },
+                {
+                    "question_id": 8903232123,
+                    "question_value": "Which part of the eye is responsible for seeing color?",
+                    "options": [
+                        "Iris",
+                        "Cornea",
+                        "Lens",
+                        "Retina"
+                    ],
+                    "answer_value": "Retina"
+                },
+                {
+                    "question_id": 1233932456,
+                    "question_value": "Which organ is responsible for filtering blood in the human body?",
+                    "options": [
+                        "Kidneys",
+                        "Liver",
+                        "Heart",
+                        "Lungs"
+                    ],
+                    "answer_value": "Kidneys"
+                },
+                {
+                    "question_id": 34530920678,
+                    "question_value": "What is the process by which organisms produce offspring?",
+                    "options": [
+                        "Photosynthesis",
+                        "Respiration",
+                        "Reproduction",
+                        "Digestion"
+                    ],
+                    "answer_value": "Reproduction"
+                },
+                {
+                    "question_id": 8942450123,
+                    "question_value": "What is the basic unit of heredity?",
+                    "options": [
+                        "Gene",
+                        "Allele",
+                        "Chromosome",
+                        "DNA"
+                    ],
+                    "answer_value": "Gene"
+                },
+                {
+                    "question_id": 890653123,
+                    "question_value": "Which of the following is not a kingdom in the classification of living organisms?",
+                    "options": [
+                        "Animalia",
+                        "Plantae",
+                        "Protista",
+                        "Mycota"
+                    ],
+                    "answer_value": "Mycota"
+                },
+                {
+                    "question_id": 45618923,
+                    "question_value": "What is the powerhouse of the cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Endoplasmic Reticulum"
+                    ],
+                    "answer_value": "Mitochondria"
+                },
+                {
+                    "question_id": 4342145408346,
+                    "question_value": "What is the chemical substance that carries genetic information in cells?",
+                    "options": [
+                        "DNA",
+                        "RNA",
+                        "ATP",
+                        "Glucose"
+                    ],
+                    "answer_value": "DNA"
+                },
+                {
+                    "question_id": 987656734,
+                    "question_value": "What is the longest bone in the human body?",
+                    "options": [
+                        "Femur",
+                        "Humerus",
+                        "Radius",
+                        "Tibia"
+                    ],
+                    "answer_value": "Femur"
+                },
+                {
+                    "question_id": 323331535,
+                    "question_value": "What is the primary function of white blood cells?",
+                    "options": [
+                        "Transport oxygen",
+                        "Fight infection",
+                        "Produce antibodies",
+                        "Store energy"
+                    ],
+                    "answer_value": "Fight infection"
+                },
+                {
+                    "question_id": 5674092890,
+                    "question_value": "Which part of the plant conducts photosynthesis?",
+                    "options": [
+                        "Roots",
+                        "Stem",
+                        "Leaves",
+                        "Flowers"
+                    ],
+                    "answer_value": "Leaves"
+                },
+                {
+                    "question_id": 90123349472,
+                    "question_value": "What is the function of red blood cells?",
+                    "options": [
+                        "Transport oxygen",
+                        "Fight infection",
+                        "Produce antibodies",
+                        "Store energy"
+                    ],
+                    "answer_value": "Transport oxygen"
+                },
+                {
+                    "question_id": 789063412,
+                    "question_value": "Which of the following is not a type of blood vessel?",
+                    "options": [
+                        "Vein",
+                        "Artery",
+                        "Capillary",
+                        "Ligament"
+                    ],
+                    "answer_value": "Ligament"
+                },
+                {
+                    "question_id": 567393812890,
+                    "question_value": "Which of the following is not a type of muscle tissue?",
+                    "options": [
+                        "Skeletal",
+                        "Cardiac",
+                        "Smooth",
+                        "Fibrous"
+                    ],
+                    "answer_value": "Fibrous"
+                },
+                {
+                    "question_id": 346535678,
+                    "question_value": "Which of the following is not a function of the liver?",
+                    "options": [
+                        "Detoxification",
+                        "Blood clotting",
+                        "Digestion",
+                        "Metabolism"
+                    ],
+                    "answer_value": "Digestion"
+                },
+                {
+                    "question_id": 32213264,
+                    "question_value": "Which gas do plants absorb during photosynthesis?",
+                    "options": [
+                        "Oxygen",
+                        "Carbon Dioxide",
+                        "Nitrogen",
+                        "Hydrogen"
+                    ],
+                    "answer_value": "Carbon Dioxide"
+                },
+                {
+                    "question_id": 90123009324,
+                    "question_value": "Which of the following is not a function of the skeletal system?",
+                    "options": [
+                        "Support",
+                        "Protection",
+                        "Movement",
+                        "Digestion"
+                    ],
+                    "answer_value": "Digestion"
+                },
+                {
+                    "question_id": 123993456,
+                    "question_value": "What is the main function of the respiratory system?",
+                    "options": [
+                        "Transport nutrients",
+                        "Regulate body temperature",
+                        "Exchange gases",
+                        "Produce hormones"
+                    ],
+                    "answer_value": "Exchange gases"
+                },
+                {
+                    "question_id": 344345613,
+                    "question_value": "What is the process by which plants make their own food?",
+                    "options": [
+                        "Respiration",
+                        "Fermentation",
+                        "Photosynthesis",
+                        "Digestion"
+                    ],
+                    "answer_value": "Photosynthesis"
+                },
+                {
+                    "question_id": 234569839097,
+                    "question_value": "What is the smallest unit of life?",
+                    "options": [
+                        "Cell",
+                        "Tissue",
+                        "Organ",
+                        "Organism"
+                    ],
+                    "answer_value": "Cell"
+                }
+            ]
+        },
+        {
+            "subject": "CHEMISTRY",
+            "questions": [
+                {
+                    "question_id": 345435322,
+                    "question_value": "What is the chemical symbol for carbon dioxide?",
+                    "options": [
+                        "CO2",
+                        "CO",
+                        "CH4",
+                        "C"
+                    ],
+                    "answer_value": "CO2"
+                },
+                {
+                    "question_id": 56784290,
+                    "question_value": "What is the chemical formula for carbon monoxide?",
+                    "options": [
+                        "CO2",
+                        "CO",
+                        "CH4",
+                        "C"
+                    ],
+                    "answer_value": "CO"
+                },
+                {
+                    "question_id": 13567890,
+                    "question_value": "What is the chemical formula for ammonia?",
+                    "options": [
+                        "NH3",
+                        "N2O",
+                        "NO2",
+                        "NO3"
+                    ],
+                    "answer_value": "NH3"
+                },
+                {
+                    "question_id": 5901234,
+                    "question_value": "Which of the following is a halogen?",
+                    "options": [
+                        "Sodium",
+                        "Chlorine",
+                        "Calcium",
+                        "Magnesium"
+                    ],
+                    "answer_value": "Chlorine"
+                },
+                {
+                    "question_id": 89012233,
+                    "question_value": "What is the formula for methane?",
+                    "options": [
+                        "CH4",
+                        "CO2",
+                        "NH3",
+                        "H2O"
+                    ],
+                    "answer_value": "CH4"
+                },
+                {
+                    "question_id": 3456004278,
+                    "question_value": "What is the formula for water?",
+                    "options": [
+                        "H2O2",
+                        "CO2",
+                        "H2O",
+                        "CH4"
+                    ],
+                    "answer_value": "H2O"
+                },
+                {
+                    "question_id": 324924203,
+                    "question_value": "What is the process of solid changing directly into vapor called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Sublimation"
+                },
+                {
+                    "question_id": 78909831012,
+                    "question_value": "What is the process of solid changing into liquid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Melting",
+                        "Sublimation"
+                    ],
+                    "answer_value": "Melting"
+                },
+                {
+                    "question_id": 456123,
+                    "question_value": "What is the atomic number of carbon?",
+                    "options": [
+                        "5",
+                        "10",
+                        "15",
+                        "6"
+                    ],
+                    "answer_value": "6"
+                },
+                {
+                    "question_id": 12901234,
+                    "question_value": "Which of the following is a noble gas?",
+                    "options": [
+                        "Oxygen",
+                        "Neon",
+                        "Fluorine",
+                        "Chlorine"
+                    ],
+                    "answer_value": "Neon"
+                },
+                {
+                    "question_id": 11223456,
+                    "question_value": "What is the SI unit of pressure?",
+                    "options": [
+                        "Newton",
+                        "Pascal",
+                        "Joule",
+                        "Watt"
+                    ],
+                    "answer_value": "Pascal"
+                },
+                {
+                    "question_id": 90039283,
+                    "question_value": "What is the chemical symbol for potassium?",
+                    "options": [
+                        "Pt",
+                        "Po",
+                        "Pb",
+                        "K"
+                    ],
+                    "answer_value": "K"
+                },
+                {
+                    "question_id": 12567890,
+                    "question_value": "What is the chemical formula for hydrogen peroxide?",
+                    "options": [
+                        "H2O",
+                        "H2SO4",
+                        "H2O2",
+                        "HCl"
+                    ],
+                    "answer_value": "H2O2"
+                },
+                {
+                    "question_id": 322890123,
+                    "question_value": "What is the SI unit of temperature?",
+                    "options": [
+                        "Celsius",
+                        "Kelvin",
+                        "Fahrenheit",
+                        "Rankine"
+                    ],
+                    "answer_value": "Kelvin"
+                },
+                {
+                    "question_id": 2345637111,
+                    "question_value": "What is the formula for sulfuric acid?",
+                    "options": [
+                        "H2O",
+                        "H2SO4",
+                        "HCl",
+                        "NaOH"
+                    ],
+                    "answer_value": "H2SO4"
+                },
+                {
+                    "question_id": 67832901,
+                    "question_value": "What is the chemical symbol for sodium?",
+                    "options": [
+                        "So",
+                        "Na",
+                        "Sn",
+                        "Si"
+                    ],
+                    "answer_value": "Na"
+                },
+                {
+                    "question_id": 34544232,
+                    "question_value": "What is the chemical symbol for gold?",
+                    "options": [
+                        "Au",
+                        "Ag",
+                        "Fe",
+                        "Cu"
+                    ],
+                    "answer_value": "Au"
+                },
+                {
+                    "question_id": 4905567890,
+                    "question_value": "What is the lightest element?",
+                    "options": [
+                        "Oxygen",
+                        "Hydrogen",
+                        "Helium",
+                        "Carbon"
+                    ],
+                    "answer_value": "Hydrogen"
+                },
+                {
+                    "question_id": 890123,
+                    "question_value": "What is the chemical symbol for silver?",
+                    "options": [
+                        "Si",
+                        "Ag",
+                        "Au",
+                        "Al"
+                    ],
+                    "answer_value": "Ag"
+                },
+                {
+                    "question_id": 901032234,
+                    "question_value": "Which of the following is an alkali metal?",
+                    "options": [
+                        "Lithium",
+                        "Calcium",
+                        "Sulfur",
+                        "Nitrogen"
+                    ],
+                    "answer_value": "Lithium"
+                },
+                {
+                    "question_id": 9420429,
+                    "question_value": "What is the process of vapor changing into liquid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Condensation"
+                },
+                {
+                    "question_id": 2340909567,
+                    "question_value": "What is the chemical symbol for iron?",
+                    "options": [
+                        "Ir",
+                        "Fe",
+                        "Fr",
+                        "In"
+                    ],
+                    "answer_value": "Fe"
+                },
+                {
+                    "question_id": 94092839384,
+                    "question_value": "What is the process of converting a liquid into vapor called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Melting"
+                    ],
+                    "answer_value": "Evaporation"
+                },
+                {
+                    "question_id": 11234023456,
+                    "question_value": "What is the chemical formula for table salt?",
+                    "options": [
+                        "NaCl",
+                        "HCl",
+                        "KCl",
+                        "CaCl2"
+                    ],
+                    "answer_value": "NaCl"
+                },
+                {
+                    "question_id": 12123456,
+                    "question_value": "What is the process of liquid changing into solid called?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Sublimation",
+                        "Freezing"
+                    ],
+                    "answer_value": "Freezing"
+                },
+                {
+                    "question_id": 90123409,
+                    "question_value": "What is the pH value of a neutral solution?",
+                    "options": [
+                        "7",
+                        "0",
+                        "14",
+                        "1"
+                    ],
+                    "answer_value": "7"
+                }
+            ]
+        }
+    ]
+}

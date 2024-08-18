@@ -1,0 +1,125 @@
+{
+   "exam_id": 8921096655,
+   "questions": [
+       {
+           "subject": "ENGLISH LANGUAGE",
+           "questions": [
+               {
+                   "question_id": 192374,
+                   "question_value": "Which word is a preposition?",
+                   "options": [
+                       "Under",
+                       "Quick",
+                       "Cat",
+                       "Very"
+                   ],
+                   "answer_value": "Under"
+               },
+               {
+                   "question_id": 183749,
+                   "question_value": "What is the correct plural of 'child'?",
+                   "options": [
+                       "Childs",
+                       "Children",
+                       "Childes",
+                       "Childrens"
+                   ],
+                   "answer_value": "Children"
+               },
+               {
+                   "question_id": 987341,
+                   "question_value": "Which sentence uses the correct form of 'your\/you're'?",
+                   "options": [
+                       "You''r the best friend.",
+                       "You're the best friend.",
+                       "Your best friend.",
+                       "Youre the best friend."
+                   ],
+                   "answer_value": "You're the best friend."
+               },
+               {
+                   "question_id": 237849,
+                   "question_value": "Which sentence is in the past tense?",
+                   "options": [
+                       "She is eating.",
+                       "She eats.",
+                       "She will eat.",
+                       "She ate."
+                   ],
+                   "answer_value": "She ate."
+               },
+               {
+                   "question_id": 312789,
+                   "question_value": "What is the superlative form of 'good'?",
+                   "options": [
+                       "Gooder",
+                       "Better",
+                       "Best",
+                       "Most good"
+                   ],
+                   "answer_value": "Best"
+               }
+           ]
+       },
+       {
+           "subject": "MATHEMATICS",
+           "questions": [
+               {
+                   "question_id": 384719,
+                   "question_value": "If you have 18 candies and you give 5 to a friend, how many candies do you have left?",
+                   "options": [
+                       "10",
+                       "11",
+                       "12",
+                       "13"
+                   ],
+                   "answer_value": "13"
+               },
+               {
+                   "question_id": 591823,
+                   "question_value": "If you buy 3 pens for $2 each, how much do you spend?",
+                   "options": [
+                       "4",
+                       "5",
+                       "6",
+                       "7"
+                   ],
+                   "answer_value": "6"
+               },
+               {
+                   "question_id": 547812,
+                   "question_value": "If a rectangle has a length of 5 and a width of 3, what is its area?",
+                   "options": [
+                       "8",
+                       "15",
+                       "10",
+                       "18"
+                   ],
+                   "answer_value": "15"
+               },
+               {
+                   "question_id": 812347,
+                   "question_value": "What is the square of 11?",
+                   "options": [
+                       "110",
+                       "121",
+                       "132",
+                       "143"
+                   ],
+                   "answer_value": "121"
+               },
+               {
+                   "question_id": 349182,
+                   "question_value": "If you read 3 books a week, how many books will you read in 4 weeks?",
+                   "options": [
+                       "10",
+                       "11",
+                       "12",
+                       "13"
+                   ],
+                   "answer_value": "12"
+               }
+           ]
+       }
+   ]
+}
